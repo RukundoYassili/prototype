@@ -3,7 +3,6 @@ import { gbvCatalog } from "../learning/gbv/catalog";
 import { findBlogPost } from "../blog/posts";
 import { topics, type TopicId } from "../support/content";
 import { communityEntries, type CommunityEntry } from "../community/content";
-import { isPublishable } from "../community/repository";
 import { mentalHealthCovers } from "../learning/mental-health-covers";
 import { gbvCovers } from "../learning/gbv/GbvIllustration";
 import { awarenessScenes, awarenessImageBase } from "./illustrations";
@@ -350,8 +349,9 @@ export function loadAwarenessContent(
     resources: resourceReferences.map(resolveAwarenessResource),
     activities: entries.filter(
       (entry) =>
-        isPublishable(entry) &&
-        !entry.demo &&
+        entry.status === "published" &&
+        entry.mediaApproved &&
+        !entry.template &&
         !entry.illustrative &&
         Boolean(entry.publishedAt),
     ),
