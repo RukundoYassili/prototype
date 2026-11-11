@@ -1,0 +1,16 @@
+--- before/src/learning/mental-health.css
++++ src/learning/mental-health.css
+@@ -1196,7 +1196,12 @@
+ }
+ @media print {
+   .mh-reader[data-learning-subject="mental-health"][data-visual-lessons="false"]
+-    :is(.mh-source-activity, .mh-source-safety, .mh-reference-check, .mh-example) {
++    :is(
++      .mh-source-activity,
++      .mh-source-safety,
++      .mh-reference-check,
++      .mh-example
++    ) {
+     break-inside: avoid;
+   }
+   .mh-reader.mh-continuation .mh-answer:not(.mh-source-answers) {

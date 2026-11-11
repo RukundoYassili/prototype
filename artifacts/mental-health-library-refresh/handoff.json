@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-11",
+  "scope": "Why Mental Health library presentation and covers for Chapters 01–07",
+  "url": "http://localhost:5173/why-mental-health",
+  "changedFiles": [
+    { "path": "src/learning/MentalHealthPages.tsx", "change": "Illustrated hero, seven cover mappings, truthful fictional-image disclosure, search reset focus and scoped library class." },
+    { "path": "src/learning/LearningPages.tsx", "change": "Optional ReactNode cover prop on ChapterCard, retaining the default image for other chapters and libraries." },
+    { "path": "src/learning/mental-health-covers.tsx", "change": "Stable chapter-slug mappings, contextual alt text, reserved dimensions and responsive WebP sources." },
+    { "path": "src/learning/mental-health-library.css", "change": "Library-scoped palette, readable cards, contrast, spacing, focus styles and uncropped responsive images." },
+    { "path": "scripts/prepare-mental-health-covers.mjs", "change": "Reproducible optimization of the reviewed original images." },
+    { "path": "scripts/review-mental-health-covers.mjs", "change": "Browser review against the seven-chapter source snapshot, including screenshots and source-integrity comparisons." },
+    { "path": "public/images/learning/mental-health-covers/", "change": "21 raster WebP assets: seven scenes in 480, 960 and 1440 pixel widths." },
+    { "path": "artifacts/mental-health-library-refresh/", "change": "Prompts, reviewed PNG originals, source metadata, before/after screenshots, validation reports, integration check and handoff." }
+  ],
+  "completedMappings": [
+    { "chapter": 1, "slug": "understanding-mental-health-and-wellbeing", "sections": 15, "asset": "01-everyday-connections", "idea": "Everyday relationships, agency and practical contribution in a community courtyard." },
+    { "chapter": 2, "slug": "recognizing-emotions-and-responding-to-them", "sections": 18, "asset": "02-emotions-and-choice", "idea": "Different emotional experiences, respectful listening and room to choose a response." },
+    { "chapter": 3, "slug": "understanding-stress-and-healthy-coping-strategies", "sections": 19, "asset": "03-demands-and-practical-help", "idea": "Real household demands, manageable planning and practical assistance." },
+    { "chapter": 4, "slug": "understanding-anxiety-and-anxiety-disorders", "sections": 23, "asset": "04-worry-and-a-calm-companion", "idea": "Worry in an everyday setting with calm, unpressured company." },
+    { "chapter": 5, "slug": "understanding-depression-and-depressive-disorders", "sections": 22, "asset": "05-low-energy-and-quiet-company", "idea": "Low energy and quiet company without an expectation of immediate improvement." },
+    { "chapter": 6, "slug": "understanding-trauma-and-post-traumatic-stress", "sections": 31, "asset": "06-space-choice-and-support", "idea": "Choice of seating, personal space and a clear exit in a calm setting." },
+    { "chapter": 7, "slug": "understanding-grief-loss-and-emotional-adjustment", "sections": 20, "asset": "07-loss-and-gentle-company", "idea": "Reflection on leaving a familiar home with gentle practical support; no fixed grief sequence or assumption of bereavement." }
+  ],
+  "reusableDecisions": {
+    "style": "Mature flat editorial artwork; Black African adults and young adults; purple, lavender, teal, mint, soft blue and golden yellow.",
+    "composition": "3:2 chapter scenes use contain, retaining the complete scene on mobile. Chapter numbers and all labels remain editable HTML.",
+    "responsive": "One card per row below 651px, two above; long titles wrap naturally; images load lazily with explicit width and height.",
+    "hero": "Reuses the About page reading illustration with eager, high-priority loading.",
+    "assets": "public/images/learning/mental-health-covers/",
+    "originals": "artifacts/mental-health-library-refresh/originals/",
+    "promptsAndArtDirection": "artifacts/mental-health-library-refresh/illustration-manifest.json",
+    "rasterNotice": "PNG and WebP artwork is raster, not editable vector artwork.",
+    "dependencies": "No dependencies added."
+  },
+  "validation": {
+    "build": { "command": "npm.cmd run build -- --outDir artifacts/mental-health-library-refresh/production", "result": "Passed, exit 0. TypeScript and Vite production build completed. React Router use-client directives produced non-fatal bundler warnings." },
+    "typecheck": { "command": "npx.cmd tsc -b", "result": "Passed." },
+    "format": { "command": "npx.cmd prettier --check src/learning/LearningPages.tsx src/learning/MentalHealthPages.tsx src/learning/mental-health-covers.tsx src/learning/mental-health-library.css scripts/prepare-mental-health-covers.mjs scripts/review-mental-health-covers.mjs", "result": "Passed before concurrent chapter-extension edits to shared files." },
+    "regressions": { "command": "npm.cmd test -- tests/mental-health-learning.spec.ts tests/mental-health-continuation.spec.ts tests/gbv-learning.spec.ts --grep 'Why Mental Health opens|seven chapters remain ordered|learning pages fit|source PDF downloads|printing reveals|chapter pagination|expanded collection follows'", "result": "11 passed against the seven-chapter snapshot, including downloads, print, chapter navigation, responsive readers and GBV library." },
+    "visualAndInteractionReview": { "command": "node scripts/review-mental-health-covers.mjs", "result": "Passed at 320, 375, 768, 1024, 1440 and 1920 pixels: seven exact source records, full illustrations, no horizontal overflow, heading hierarchy, focus, search and all chapter links. 91 sampled text contrast checks passed. No browser errors or personal-response storage.", "report": "after/review.json" },
+    "scopeIntegrity": "At completion of the cover review, 11 protected source/style files were byte-identical. Reader, About and GBV screenshot comparisons passed. The shared reader implementation was unchanged except for the optional ChapterCard cover prop.",
+    "concurrentWorkspaceChanges": "After that review, independent workspace changes added Chapters 08–10 and reference-review support. These additions were preserved. Earlier seven-chapter screenshot and source comparisons describe the recorded snapshot, not later unrelated edits.",
+    "currentIntegrationReview": { "command": "node artifacts/mental-health-library-refresh/review-current-library.mjs", "result": "Passed, exit 0. The current ten-card library loads at 375 and 1440 pixels without overflow or image failures. All seven original metadata records and illustrated covers remain correct, title search works and all seven chapter links open by keyboard. No browser errors. Final library HTTP status: 200.", "report": "after/current-library-review.json" },
+    "notRun": "No lint script is configured. The entire project test suite was not run; targeted regressions and browser reviews were used. In-app browser access was unavailable, so screenshots and interactions used installed Microsoft Edge through Playwright."
+  },
+  "remainingGaps": {
+    "selectedSevenCovers": "None. All seven generated assets are reviewed, optimized and integrated.",
+    "editorial": "Educational-draft status is retained. This visual refresh does not constitute clinical or publication approval.",
+    "laterChapters": "Concurrent Chapters 08–10 retain their existing default images; new artwork for them is outside this selected scope.",
+    "internalIllustrations": "Internal chapter artwork is outside this task and was not refreshed."
+  },
+  "nextChapterHandoff": {
+    "target": "Chapter 01: Understanding Mental Health and Wellbeing, as a separate task.",
+    "beforeArtwork": "Read its full current source and confirm the 15 sections and stable section identifiers before implementation.",
+    "diagrams": "Retain or refine sections 1.4, 1.5 and 1.10 using accessible HTML or SVG with editable labels, including privacy and autonomy guidance.",
+    "pairedScenes": "Section 1.12 needs coordinated situation/support pairs for examination pressure, unemployment and family responsibilities. Keep each character, clothing and setting consistent within its pair.",
+    "copy": "Use The situation and A possible supportive step; preserve captions, optional reflections and fictional-example disclosures. Avoid guaranteed recovery or instant cures.",
+    "preserve": "Keep chapter navigation, citations, downloads, print behavior, private optional reflections and original draft notices. Reuse this palette and original artwork as style references."
+  }
+}

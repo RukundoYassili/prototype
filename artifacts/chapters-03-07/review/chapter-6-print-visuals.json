@@ -1,0 +1,65 @@
+[
+  {
+    "id": "trauma-reactions",
+    "title": "Reactions may involve more than feelings",
+    "explanation": "Changes can appear in different domains and at different times. Some people notice distress later; visible productivity or the absence of tears does not determine whether support is needed.",
+    "reflection": "Optional reflectionWhy can someone's outward productivity tell us little about their support needs?",
+    "scenes": 0
+  },
+  {
+    "id": "trauma-early-support",
+    "title": "Support begins with present needs",
+    "explanation": "Practical assistance and respectful choices can be offered without requesting a full account. A supporter should stay within their role and help connect with appropriate care when necessary.",
+    "reflection": "Optional reflectionHow can support be offered without asking someone to relive what happened?",
+    "scenes": 0
+  },
+  {
+    "id": "trauma-here-and-now",
+    "title": "Orient to the present if comfortable",
+    "explanation": "Present-focused attention offers a brief orientation to the current environment. It does not require describing an event, and stopping remains appropriate if discomfort or disconnection increases.",
+    "reflection": "Optional reflectionWhy is stopping an available choice throughout the exercise?",
+    "scenes": 0
+  },
+  {
+    "id": "trauma-daily-anchors",
+    "title": "Choose one accessible daily anchor",
+    "explanation": "An accessible anchor can make an ordinary day more predictable. Help with transport, care responsibilities or another task may be more useful than setting a larger personal goal.",
+    "reflection": "Optional reflectionWhich practical assistance could make a daily task easier?",
+    "scenes": 0
+  },
+  {
+    "id": "trauma-contact-plan",
+    "title": "Choose support that respects boundaries",
+    "explanation": "A contact can be chosen for a particular kind of help without receiving a trauma history. Privacy, trust and the person’s boundaries guide what is shared and with whom.",
+    "reflection": "Optional reflectionHow can a support plan respect the choice not to disclose?",
+    "scenes": 0
+  },
+  {
+    "id": "trauma-road",
+    "title": "Scenario A: Distress after a road accident",
+    "explanation": "These are later difficulties following an accident, not a reenactment. Assistance with transport and assessment respects choice without forcing exposure.",
+    "reflection": "Optional reflectionWhy would forcing the student to travel be an unsuitable test?",
+    "scenes": 2
+  },
+  {
+    "id": "trauma-health-worker",
+    "title": "Scenario B: A health worker after an emergency",
+    "explanation": "Continuing to work does not show that someone is unaffected. Support should be confidential and should not demand a detailed account of the emergency.",
+    "reflection": "Optional reflectionWhat protects choice and privacy in the supportive conversation?",
+    "scenes": 2
+  },
+  {
+    "id": "trauma-threats",
+    "title": "Scenario C: Persistent fear after repeated threats",
+    "explanation": "Current threats must be considered first. Staying away from someone unsafe can be protective, and any care needs to respect privacy and protection.",
+    "reflection": "Optional reflectionWhen might keeping distance be a safety measure rather than a problem to overcome?",
+    "scenes": 2
+  },
+  {
+    "id": "trauma-adolescent",
+    "title": "Scenario D: A young person’s changed behavior",
+    "explanation": "A calm private conversation can offer choice and age-appropriate support. The adult should not demand public disclosure or a complete account.",
+    "reflection": "Optional reflectionHow could an adult offer support without asking the young person to explain everything?",
+    "scenes": 2
+  }
+]

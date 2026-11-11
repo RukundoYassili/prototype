@@ -1,0 +1,184 @@
+[
+  {
+    "id": "01-everyday-connections",
+    "slug": "understanding-mental-health-and-wellbeing",
+    "originalWidth": 1536,
+    "originalHeight": 1024,
+    "variants": [
+      {
+        "path": "public/images/learning/mental-health-covers/01-everyday-connections-480.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 21828
+      },
+      {
+        "path": "public/images/learning/mental-health-covers/01-everyday-connections-960.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 50356
+      },
+      {
+        "path": "public/images/learning/mental-health-covers/01-everyday-connections-1440.webp",
+        "width": 1440,
+        "height": 960,
+        "bytes": 81374
+      }
+    ]
+  },
+  {
+    "id": "02-emotions-and-choice",
+    "slug": "recognizing-emotions-and-responding-to-them",
+    "originalWidth": 1536,
+    "originalHeight": 1024,
+    "variants": [
+      {
+        "path": "public/images/learning/mental-health-covers/02-emotions-and-choice-480.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 20580
+      },
+      {
+        "path": "public/images/learning/mental-health-covers/02-emotions-and-choice-960.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 45826
+      },
+      {
+        "path": "public/images/learning/mental-health-covers/02-emotions-and-choice-1440.webp",
+        "width": 1440,
+        "height": 960,
+        "bytes": 72870
+      }
+    ]
+  },
+  {
+    "id": "03-demands-and-practical-help",
+    "slug": "understanding-stress-and-healthy-coping-strategies",
+    "originalWidth": 1536,
+    "originalHeight": 1024,
+    "variants": [
+      {
+        "path": "public/images/learning/mental-health-covers/03-demands-and-practical-help-480.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 17774
+      },
+      {
+        "path": "public/images/learning/mental-health-covers/03-demands-and-practical-help-960.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 39202
+      },
+      {
+        "path": "public/images/learning/mental-health-covers/03-demands-and-practical-help-1440.webp",
+        "width": 1440,
+        "height": 960,
+        "bytes": 61382
+      }
+    ]
+  },
+  {
+    "id": "04-worry-and-a-calm-companion",
+    "slug": "understanding-anxiety-and-anxiety-disorders",
+    "originalWidth": 1536,
+    "originalHeight": 1024,
+    "variants": [
+      {
+        "path": "public/images/learning/mental-health-covers/04-worry-and-a-calm-companion-480.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 15084
+      },
+      {
+        "path": "public/images/learning/mental-health-covers/04-worry-and-a-calm-companion-960.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 33582
+      },
+      {
+        "path": "public/images/learning/mental-health-covers/04-worry-and-a-calm-companion-1440.webp",
+        "width": 1440,
+        "height": 960,
+        "bytes": 53138
+      }
+    ]
+  },
+  {
+    "id": "05-low-energy-and-quiet-company",
+    "slug": "understanding-depression-and-depressive-disorders",
+    "originalWidth": 1536,
+    "originalHeight": 1024,
+    "variants": [
+      {
+        "path": "public/images/learning/mental-health-covers/05-low-energy-and-quiet-company-480.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 15230
+      },
+      {
+        "path": "public/images/learning/mental-health-covers/05-low-energy-and-quiet-company-960.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 34100
+      },
+      {
+        "path": "public/images/learning/mental-health-covers/05-low-energy-and-quiet-company-1440.webp",
+        "width": 1440,
+        "height": 960,
+        "bytes": 53478
+      }
+    ]
+  },
+  {
+    "id": "06-space-choice-and-support",
+    "slug": "understanding-trauma-and-post-traumatic-stress",
+    "originalWidth": 1536,
+    "originalHeight": 1024,
+    "variants": [
+      {
+        "path": "public/images/learning/mental-health-covers/06-space-choice-and-support-480.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 14802
+      },
+      {
+        "path": "public/images/learning/mental-health-covers/06-space-choice-and-support-960.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 33118
+      },
+      {
+        "path": "public/images/learning/mental-health-covers/06-space-choice-and-support-1440.webp",
+        "width": 1440,
+        "height": 960,
+        "bytes": 52348
+      }
+    ]
+  },
+  {
+    "id": "07-loss-and-gentle-company",
+    "slug": "understanding-grief-loss-and-emotional-adjustment",
+    "originalWidth": 1536,
+    "originalHeight": 1024,
+    "variants": [
+      {
+        "path": "public/images/learning/mental-health-covers/07-loss-and-gentle-company-480.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 19590
+      },
+      {
+        "path": "public/images/learning/mental-health-covers/07-loss-and-gentle-company-960.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 43294
+      },
+      {
+        "path": "public/images/learning/mental-health-covers/07-loss-and-gentle-company-1440.webp",
+        "width": 1440,
+        "height": 960,
+        "bytes": 68862
+      }
+    ]
+  }
+]

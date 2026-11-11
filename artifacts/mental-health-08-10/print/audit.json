@@ -1,0 +1,32 @@
+[
+  {
+    "chapter": 8,
+    "pages": 14,
+    "checkedTextUnits": 217,
+    "checkedGroups": 4,
+    "splitGroups": [],
+    "missing": [],
+    "blankPages": [],
+    "outsidePage": []
+  },
+  {
+    "chapter": 9,
+    "pages": 14,
+    "checkedTextUnits": 169,
+    "checkedGroups": 10,
+    "splitGroups": [],
+    "missing": [],
+    "blankPages": [],
+    "outsidePage": []
+  },
+  {
+    "chapter": 10,
+    "pages": 13,
+    "checkedTextUnits": 153,
+    "checkedGroups": 10,
+    "splitGroups": [],
+    "missing": [],
+    "blankPages": [],
+    "outsidePage": []
+  }
+]

@@ -1,0 +1,64 @@
+.gbv-library {
+  margin-block: 24px 48px;
+  padding-block: 20px 36px;
+  scroll-margin-top: calc(var(--site-header-height, 140px) + 24px);
+}
+.mh-source-cover > div {
+  padding: 0 20px 20px;
+}
+.mh-source-cover > div > h3 {
+  font-size: 18px;
+  line-height: 1.4;
+}
+.gbv-library .support-section-heading {
+  max-width: 780px;
+}
+.gbv-library-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px 28px;
+  color: #286340;
+  font-size: 14px;
+  margin: 24px 0;
+}
+.gbv-library-meta span {
+  display: inline-flex;
+  align-items: center;
+  gap: 9px;
+}
+.gbv-library .mh-draft-note {
+  margin-block: 24px 30px;
+}
+.gbv-library .support-photo-note {
+  max-width: 1000px;
+  margin-top: 22px;
+}
+.gbv-reference-review {
+  padding: 20px;
+  border: 1px solid #d4dfce;
+  border-radius: 16px;
+  background: #f4f7ee;
+  margin-block: 30px;
+}
+.gbv-reference-review a {
+  color: #286340;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+[data-learning-subject="gbv"] .mh-chapter-introduction > h3 {
+  font-size: 20px;
+  line-height: 1.4;
+}
+@media (max-width: 680px) {
+  .gbv-library {
+    margin-block: 32px 48px;
+  }
+  .gbv-library-meta {
+    gap: 12px;
+  }
+}
+@media print {
+  .gbv-reference-review {
+    break-inside: avoid;
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "scope": "Source URL retrieval only; not clinical review or approval. Source wording and publication dates were not silently changed.",
+  "references": [
+    {
+      "chapter": 3,
+      "reference": 1,
+      "url": "https://www.who.int/news-room/questions-and-answers/item/stress",
+      "attemptedAt": "2026-11-09",
+      "status": "retrieved",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "chapter": 3,
+      "reference": 2,
+      "url": "https://www.who.int/publications/i/item/9789240003927",
+      "attemptedAt": "2026-11-09",
+      "status": "retrieved",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "chapter": 3,
+      "reference": 3,
+      "url": "https://www.who.int/publications/i/item/9789240120785",
+      "attemptedAt": "2026-11-09",
+      "status": "retrieved",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "chapter": 4,
+      "reference": 1,
+      "url": "https://www.who.int/en/news-room/fact-sheets/detail/anxiety-disorders",
+      "attemptedAt": "2026-11-09",
+      "status": "retrieved",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "chapter": 4,
+      "reference": 2,
+      "url": "https://www.nice.org.uk/guidance/cg113/chapter/Recommendations",
+      "attemptedAt": "2026-11-09",
+      "status": "automated-fetch-blocked",
+      "note": "The official site returned HTTP 403 to automated retrieval. Original citation retained; not marked as a successful link check."
+    },
+    {
+      "chapter": 4,
+      "reference": 3,
+      "url": "https://tdr.who.int/home/our-work/global-engagement/9789240003927",
+      "attemptedAt": "2026-11-09",
+      "status": "retrieved",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "chapter": 4,
+      "reference": 4,
+      "url": "https://www.nimh.nih.gov/health/topics/anxiety-disorders",
+      "attemptedAt": "2026-11-09",
+      "status": "retrieved",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "chapter": 4,
+      "reference": 5,
+      "url": "https://www.who.int/news-room/fact-sheets/detail/mental-disorders",
+      "attemptedAt": "2026-11-09",
+      "status": "retrieved",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "chapter": 5,
+      "reference": 1,
+      "url": "https://www.who.int/news-room/fact-sheets/detail/depression",
+      "attemptedAt": "2026-11-09",
+      "status": "retrieved",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "chapter": 5,
+      "reference": 2,
+      "url": "https://www.nimh.nih.gov/health/publications/depression",
+      "attemptedAt": "2026-11-09",
+      "status": "retrieved",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "chapter": 5,
+      "reference": 3,
+      "url": "https://www.nice.org.uk/guidance/ng222/chapter/Recommendations",
+      "attemptedAt": "2026-11-09",
+      "status": "automated-fetch-blocked",
+      "note": "The official site returned HTTP 403 to automated retrieval. Original citation retained; not marked as a successful link check."
+    },
+    {
+      "chapter": 6,
+      "reference": 1,
+      "url": "https://www.who.int/news-room/fact-sheets/detail/post-traumatic-stress-disorder",
+      "attemptedAt": "2026-11-09",
+      "status": "retrieved",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "chapter": 6,
+      "reference": 2,
+      "url": "https://www.nice.org.uk/guidance/ng116/chapter/recommendations",
+      "attemptedAt": "2026-11-09",
+      "status": "automated-fetch-blocked",
+      "note": "The official site returned HTTP 403 to automated retrieval. Original citation retained; not marked as a successful link check."
+    },
+    {
+      "chapter": 6,
+      "reference": 3,
+      "status": "bibliography-only",
+      "note": "The supplied DSM reference has no URL; none was invented."
+    },
+    {
+      "chapter": 6,
+      "reference": 4,
+      "url": "https://www.who.int/publications/i/item/9789241548205",
+      "attemptedAt": "2026-11-09",
+      "status": "retrieved",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "chapter": 7,
+      "reference": 1,
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/",
+      "attemptedAt": "2026-11-09",
+      "status": "retrieved",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "chapter": 7,
+      "reference": 2,
+      "url": "https://www.cancer.gov/about-cancer/advanced-cancer/caregivers/planning/bereavement-hp-pdq",
+      "attemptedAt": "2026-11-09",
+      "status": "retrieved",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "chapter": 7,
+      "reference": 3,
+      "url": "https://icd.who.int/dev11/l-m/en/GetConcept?ConceptId=http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1183832314",
+      "attemptedAt": "2026-11-09",
+      "status": "retrieved",
+      "checkedAt": "2026-11-09",
+      "note": "The supplied WHO ICD development URL returned the cited concept. A publication-version review is still an editorial task."
+    },
+    {
+      "chapter": 7,
+      "reference": 4,
+      "url": "https://www.psychiatry.org/patients-families/prolonged-grief-disorder",
+      "attemptedAt": "2026-11-09",
+      "status": "retrieved",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "chapter": 7,
+      "reference": 5,
+      "url": "https://www.samhsa.gov/communities/coping-bereavement-grief",
+      "attemptedAt": "2026-11-09",
+      "status": "automated-fetch-blocked",
+      "note": "The official site returned HTTP 403 to automated retrieval. Original citation retained; not marked as a successful link check."
+    },
+    {
+      "chapter": 7,
+      "reference": 6,
+      "url": "https://cpa.ca/psychology-works-fact-sheet-grief-in-adults/",
+      "attemptedAt": "2026-11-09",
+      "status": "retrieved",
+      "checkedAt": "2026-11-09"
+    }
+  ]
+}

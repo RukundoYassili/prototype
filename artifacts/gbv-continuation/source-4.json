@@ -1,0 +1,2774 @@
+[
+  {
+    "page": 1,
+    "width": 595.2756,
+    "height": 841.8898,
+    "lines": [
+      {
+        "text": "VUGA NDAKUMVA INITIATIVE",
+        "x0": 65.52756,
+        "top": 71.24501280000004,
+        "x1": 239.29904160000004,
+        "bottom": 83.24501280000004,
+        "size": 12.0,
+        "bold": 0.0
+      },
+      {
+        "text": "Chapter 04",
+        "x0": 65.52756,
+        "top": 107.88759119999997,
+        "x1": 208.71603799999997,
+        "bottom": 130.88759119999997,
+        "size": 23.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Understanding Consent,",
+        "x0": 65.52756,
+        "top": 137.88759119999997,
+        "x1": 380.20529379999994,
+        "bottom": 160.88759119999997,
+        "size": 23.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Boundaries, and Bodily Autonomy",
+        "x0": 65.52756,
+        "top": 167.88759119999997,
+        "x1": 505.8854634000001,
+        "bottom": 190.88759119999997,
+        "size": 23.0,
+        "bold": 1.0
+      },
+      {
+        "text": "GBV Educational Content Library • Expanded Chapter 04 • Version 1.1 •",
+        "x0": 65.52756,
+        "top": 210.24501280000004,
+        "x1": 501.8400636000001,
+        "bottom": 222.24501280000004,
+        "size": 12.0,
+        "bold": 0.0
+      },
+      {
+        "text": "November 2026",
+        "x0": 65.52756,
+        "top": 229.24501280000004,
+        "x1": 162.30685920000002,
+        "bottom": 241.24501280000004,
+        "size": 12.0,
+        "bold": 0.0
+      },
+      {
+        "text": "PUBLICATION STATUS: Evidence-informed educational draft. Requires GBV/safeguarding, legal, clinical and",
+        "x0": 65.52756,
+        "top": 262.2840752000001,
+        "x1": 494.7267791999999,
+        "bottom": 270.2840752000001,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "language review before public distribution.",
+        "x0": 65.52756,
+        "top": 274.2840752000001,
+        "x1": 237.70334080000006,
+        "bottom": 282.2840752000001,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "Purpose and learning outcomes",
+        "x0": 65.52756,
+        "top": 304.4852472,
+        "x1": 298.289765,
+        "bottom": 317.4852472,
+        "size": 13.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Consent and bodily autonomy are essential to healthy relationships and freedom from coercion.",
+        "x0": 65.52756,
+        "top": 330.62040336,
+        "x1": 518.6507078800001,
+        "bottom": 340.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "This chapter explains how people can recognize meaningful agreement, communicate limits,",
+        "x0": 65.52756,
+        "top": 346.62040336,
+        "x1": 504.44055116000027,
+        "bottom": 356.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "respect others’ choices, and respond safely when power or fear makes agreement difficult. The",
+        "x0": 65.52756,
+        "top": 362.62040336,
+        "x1": 515.8279555600004,
+        "bottom": 372.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "goal is education, not investigation, diagnosis or legal adjudication.",
+        "x0": 65.52756,
+        "top": 378.62040336,
+        "x1": 383.45226568000004,
+        "bottom": 388.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "After studying this chapter, a reader should be able to explain informed and voluntary consent;",
+        "x0": 65.52756,
+        "top": 403.62040336,
+        "x1": 516.0207270000002,
+        "bottom": 413.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "identify boundaries across physical, emotional, sexual and digital situations; recognize coercion",
+        "x0": 65.52756,
+        "top": 419.62040336,
+        "x1": 517.6638893000003,
+        "bottom": 429.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "and power imbalances; discuss why silence or past agreement cannot replace present consent;",
+        "x0": 65.52756,
+        "top": 435.62040336,
+        "x1": 516.5715106000004,
+        "bottom": 445.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "and identify safe options for seeking help.",
+        "x0": 65.52756,
+        "top": 451.62040336,
+        "x1": 263.675706,
+        "bottom": 461.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "01 | What consent means",
+        "x0": 65.52756,
+        "top": 485.4852472,
+        "x1": 251.0949355,
+        "bottom": 498.4852472,
+        "size": 13.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Consent is a person’s voluntary, informed agreement to a specific action or interaction. The",
+        "x0": 65.52756,
+        "top": 511.62040336,
+        "x1": 498.7583244800003,
+        "bottom": 521.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "person must be able to understand the choice and make it without threats, manipulation or other",
+        "x0": 65.52756,
+        "top": 527.62040336,
+        "x1": 525.7695544200003,
+        "bottom": 537.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "coercion. Agreement should be communicated clearly, checked when uncertain, and revisited",
+        "x0": 65.52756,
+        "top": 543.62040336,
+        "x1": 509.0717055600003,
+        "bottom": 553.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "when circumstances change. Consent is a process of respectful communication, not a signature,",
+        "x0": 65.52756,
+        "top": 559.62040336,
+        "x1": 521.0190698400003,
+        "bottom": 569.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "ownership right, or permanent permission. [1, 2]",
+        "x0": 65.52756,
+        "top": 575.62040336,
+        "x1": 295.30890841999985,
+        "bottom": 585.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Consent matters in everyday life—touch, photographs, sharing personal information, medical",
+        "x0": 65.52756,
+        "top": 600.6204033600001,
+        "x1": 506.0745353000003,
+        "bottom": 610.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "decisions and financial interactions. Sexual consent has special ethical and legal importance. The",
+        "x0": 65.52756,
+        "top": 616.6204033600001,
+        "x1": 525.6135012600005,
+        "bottom": 626.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "fact that someone accepts one activity does not give permission for another.",
+        "x0": 65.52756,
+        "top": 632.6204033600001,
+        "x1": 428.94680022000017,
+        "bottom": 642.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Five practical characteristics of meaningful consent",
+        "x0": 65.52756,
+        "top": 659.8846612,
+        "x1": 373.0216948500001,
+        "bottom": 670.3846612,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "• Freely given. A person can choose without fear, pressure, threats, punishment or exploitation.",
+        "x0": 69.52756,
+        "top": 680.57235648,
+        "x1": 512.9468995599996,
+        "bottom": 689.77235648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Informed. A person understands what is proposed and relevant conditions; deception about",
+        "x0": 69.52756,
+        "top": 700.57235648,
+        "x1": 501.00666391999965,
+        "bottom": 709.77235648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "material facts can undermine meaningful agreement.",
+        "x0": 78.52756,
+        "top": 715.57235648,
+        "x1": 325.87189956000003,
+        "bottom": 724.77235648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Specific. Permission applies to the particular action, not to every related action.",
+        "x0": 69.52756,
+        "top": 735.5723964800001,
+        "x1": 445.91896555999983,
+        "bottom": 744.77239648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA | GBV EDUCATION | DRAFT — SPECIALIST REVIEW REQUIRED 1",
+        "x0": 59.52756,
+        "top": 806.427778,
+        "x1": 535.74802875,
+        "bottom": 813.927778,
+        "size": 7.5,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 2,
+    "width": 595.2756,
+    "height": 841.8898,
+    "lines": [
+      {
+        "text": "• Reversible. A person may stop or withdraw agreement at any time; previously agreed activity",
+        "x0": 69.52756,
+        "top": 70.57235648000005,
+        "x1": 511.1724835999998,
+        "bottom": 79.7723564800001,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "must stop when consent ends.",
+        "x0": 78.52756,
+        "top": 85.57235648000005,
+        "x1": 219.59123359999995,
+        "bottom": 94.7723564800001,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Clearly communicated. Seek an affirmative, understandable expression of willingness; do not",
+        "x0": 69.52756,
+        "top": 105.57235648000005,
+        "x1": 509.27678311999955,
+        "bottom": 114.7723564800001,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "treat silence, freezing or non-resistance as permission.",
+        "x0": 78.52756,
+        "top": 120.57235648000005,
+        "x1": 331.96330328,
+        "bottom": 129.7723564800001,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "These principles are useful educational guidelines; legal tests and definitions depend on the",
+        "x0": 65.52756,
+        "top": 140.62040335999995,
+        "x1": 500.3096910800002,
+        "bottom": 150.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "applicable law and the circumstances. [1, 2, 3]",
+        "x0": 65.52756,
+        "top": 156.62040335999995,
+        "x1": 286.13840189999985,
+        "bottom": 166.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "02 | Consent, choice and capacity",
+        "x0": 65.52756,
+        "top": 190.4852472,
+        "x1": 311.2961116000001,
+        "bottom": 203.4852472,
+        "size": 13.0,
+        "bold": 1.0
+      },
+      {
+        "text": "A meaningful choice requires more than a spoken “yes.” The setting must permit a real refusal. A",
+        "x0": 65.52756,
+        "top": 216.62040335999995,
+        "x1": 526.6737554600004,
+        "bottom": 226.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "person who is asleep, unconscious or otherwise unable to understand or decide cannot provide",
+        "x0": 65.52756,
+        "top": 232.62040335999995,
+        "x1": 514.9558837200001,
+        "bottom": 242.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "consent. Severe intoxication or incapacity can undermine the ability to consent; the precise legal",
+        "x0": 65.52756,
+        "top": 248.62040335999995,
+        "x1": 524.4889886600002,
+        "bottom": 258.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "threshold requires case-specific assessment under applicable law. [1, 2]",
+        "x0": 65.52756,
+        "top": 264.62040335999995,
+        "x1": 405.9379135600001,
+        "bottom": 274.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Children have additional legal and safeguarding protections. Adult concepts of sexual agreement",
+        "x0": 65.52756,
+        "top": 289.62040335999995,
+        "x1": 524.1952377200003,
+        "bottom": 299.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "must never be used to imply that a child can legally consent to sexual activity with an adult.",
+        "x0": 65.52756,
+        "top": 305.62040335999995,
+        "x1": 502.1226794200003,
+        "bottom": 315.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Age-of-consent and reporting obligations must be checked against current Rwanda law by a",
+        "x0": 65.52756,
+        "top": 321.62040335999995,
+        "x1": 499.9700418200003,
+        "bottom": 331.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "qualified local reviewer before publication.",
+        "x0": 65.52756,
+        "top": 337.62040336,
+        "x1": 266.39748163999997,
+        "bottom": 347.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Silence, hesitation and survival reactions",
+        "x0": 65.52756,
+        "top": 364.88466120000004,
+        "x1": 310.8163758,
+        "bottom": 375.38466120000004,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Someone may become quiet, freeze, comply out of fear, or appear calm while feeling unsafe.",
+        "x0": 65.52756,
+        "top": 385.62040336,
+        "x1": 506.15715472000034,
+        "bottom": 395.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "None of these responses proves agreement. A supportive person must not infer consent from a",
+        "x0": 65.52756,
+        "top": 401.62040336,
+        "x1": 515.7636971600002,
+        "bottom": 411.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "lack of resistance; when uncertainty exists, pause and check, and stop if there is no clear freely",
+        "x0": 65.52756,
+        "top": 417.62040336,
+        "x1": 517.6225866400005,
+        "bottom": 427.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "given agreement. A survivor should never be blamed for freezing or not physically resisting.",
+        "x0": 65.52756,
+        "top": 433.62040336,
+        "x1": 500.69523772000025,
+        "bottom": 443.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "03 | Personal boundaries: understanding and expressing limits",
+        "x0": 65.52756,
+        "top": 467.4852472,
+        "x1": 527.1735512999999,
+        "bottom": 480.4852472,
+        "size": 13.0,
+        "bold": 1.0
+      },
+      {
+        "text": "A boundary is a limit that helps a person decide what they are comfortable sharing, doing, giving",
+        "x0": 65.52756,
+        "top": 493.62040336,
+        "x1": 524.2870334200002,
+        "bottom": 503.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "or receiving. Boundaries may differ across people and situations; they can change over time. A",
+        "x0": 65.52756,
+        "top": 509.62040336,
+        "x1": 514.5519788800003,
+        "bottom": 519.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "respectful boundary names what is acceptable and, when useful, what action the person will take",
+        "x0": 65.52756,
+        "top": 525.62040336,
+        "x1": 526.4167256200003,
+        "bottom": 535.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "to protect their wellbeing. Respect for others is equally important.",
+        "x0": 65.52756,
+        "top": 541.62040336,
+        "x1": 377.5038272399999,
+        "bottom": 551.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "• Physical: comfort with hugs, touching, personal space and privacy.",
+        "x0": 69.52756,
+        "top": 566.57235648,
+        "x1": 386.2627192399999,
+        "bottom": 575.7723564800001,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Emotional: deciding whether to discuss a difficult experience or how much support to give.",
+        "x0": 69.52756,
+        "top": 586.57235648,
+        "x1": 497.52521739999975,
+        "bottom": 595.77235648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Sexual: deciding whether any sexual contact is wanted, and what kinds are not wanted.",
+        "x0": 69.52756,
+        "top": 606.57235648,
+        "x1": 484.1070578799997,
+        "bottom": 615.77235648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Digital: control over passwords, location sharing, photographs, messages and social media.",
+        "x0": 69.52756,
+        "top": 626.57235648,
+        "x1": 500.3642794399995,
+        "bottom": 635.77235648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Time and social: choosing when to rest, study, work or meet others, without unreasonable",
+        "x0": 69.52756,
+        "top": 646.57235648,
+        "x1": 494.85236807999956,
+        "bottom": 655.77235648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "control.",
+        "x0": 78.52756,
+        "top": 661.57235648,
+        "x1": 113.54416115999999,
+        "bottom": 670.77235648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Financial: deciding what money or possessions to share without threats or pressure.",
+        "x0": 69.52756,
+        "top": 681.57235648,
+        "x1": 466.85256275999956,
+        "bottom": 690.77235648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "Examples of respectful boundary statements",
+        "x0": 65.52756,
+        "top": 707.8846612,
+        "x1": 332.06759355,
+        "bottom": 718.3846612,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "“I do not want to be hugged today.” “Please ask before posting my photo.” “I am not comfortable",
+        "x0": 65.52756,
+        "top": 728.6204433600001,
+        "x1": 526.76095926,
+        "bottom": 738.0204433600001,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "sharing my password.” “I need to end this conversation for now.” “I can help tomorrow, but I",
+        "x0": 65.52756,
+        "top": 744.6204433600001,
+        "x1": 503.8117428600001,
+        "bottom": 754.0204433600001,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "cannot do it tonight.”",
+        "x0": 65.52756,
+        "top": 760.6204433600001,
+        "x1": 166.2608599,
+        "bottom": 770.0204433600001,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA | GBV EDUCATION | DRAFT — SPECIALIST REVIEW REQUIRED 2",
+        "x0": 59.52756,
+        "top": 806.427778,
+        "x1": 535.74802875,
+        "bottom": 813.927778,
+        "size": 7.5,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 3,
+    "width": 595.2756,
+    "height": 841.8898,
+    "lines": [
+      {
+        "text": "People experiencing violence may be unable to express boundaries safely. It is not their",
+        "x0": 65.52756,
+        "top": 70.62040335999995,
+        "x1": 481.3352778400003,
+        "bottom": 80.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "responsibility to confront someone who may retaliate. Safety takes priority over boundary-setting",
+        "x0": 65.52756,
+        "top": 86.62040335999995,
+        "x1": 526.83439582,
+        "bottom": 96.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "exercises.",
+        "x0": 65.52756,
+        "top": 102.62040335999995,
+        "x1": 112.86720926,
+        "bottom": 112.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "04 | Bodily autonomy and dignity",
+        "x0": 65.52756,
+        "top": 136.4852472,
+        "x1": 308.7062659,
+        "bottom": 149.4852472,
+        "size": 13.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Bodily autonomy is the principle that people should be able to make decisions about their own",
+        "x0": 65.52756,
+        "top": 162.62040335999995,
+        "x1": 511.97248258000025,
+        "bottom": 172.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "bodies free from violence and coercion, within applicable laws and protections. It includes the",
+        "x0": 65.52756,
+        "top": 178.62040335999995,
+        "x1": 508.43830348000034,
+        "bottom": 188.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "right to personal safety, respect during healthcare, and freedom from unwanted contact. For",
+        "x0": 65.52756,
+        "top": 194.62040335999995,
+        "x1": 503.6051994800001,
+        "bottom": 204.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "children and people needing decision-making support, autonomy must be understood alongside",
+        "x0": 65.52756,
+        "top": 210.62040335999995,
+        "x1": 518.9352759600001,
+        "bottom": 220.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "safeguarding, accessible communication, and relevant legal requirements.",
+        "x0": 65.52756,
+        "top": 226.62040335999995,
+        "x1": 418.30295368000014,
+        "bottom": 236.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Respecting bodily autonomy means asking before touching where appropriate, explaining",
+        "x0": 65.52756,
+        "top": 251.62040335999995,
+        "x1": 490.36808940000014,
+        "bottom": 261.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "proposed medical or intimate actions, and responding when a person expresses discomfort. A",
+        "x0": 65.52756,
+        "top": 267.62040335999995,
+        "x1": 508.86974844000025,
+        "bottom": 277.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "person’s clothing, relationship status, disability, prior sexual experience, or dependence on others",
+        "x0": 65.52756,
+        "top": 283.62040335999995,
+        "x1": 529.0696509600001,
+        "bottom": 293.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "does not cancel the need for consent.",
+        "x0": 65.52756,
+        "top": 299.62040335999995,
+        "x1": 243.72824611999994,
+        "bottom": 309.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "05 | Coercion, manipulation and power imbalances",
+        "x0": 65.52756,
+        "top": 333.4852472,
+        "x1": 436.8146619,
+        "bottom": 346.4852472,
+        "size": 13.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Coercion occurs when a person uses force, threats, intimidation, persistent pressure or",
+        "x0": 65.52756,
+        "top": 359.62040336,
+        "x1": 476.1625236400002,
+        "bottom": 369.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "exploitation of vulnerability to influence another person’s choice. It may be physical, emotional,",
+        "x0": 65.52756,
+        "top": 375.62040336,
+        "x1": 517.8704336200002,
+        "bottom": 385.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "economic, social or digital. A statement that sounds like agreement may not represent voluntary",
+        "x0": 65.52756,
+        "top": 391.62040336,
+        "x1": 523.0340068400002,
+        "bottom": 401.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "consent if the alternative involves harm, punishment, lost housing or other serious consequences.",
+        "x0": 65.52756,
+        "top": 407.62040336,
+        "x1": 528.9090106000002,
+        "bottom": 417.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Recognizing tactics",
+        "x0": 65.52756,
+        "top": 434.88466120000004,
+        "x1": 180.54049545,
+        "bottom": 445.38466120000004,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "• Threats: “If you refuse, I will hurt you or someone you care about.”",
+        "x0": 69.52756,
+        "top": 455.57235648,
+        "x1": 387.2285416799999,
+        "bottom": 464.77235648000004,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Retaliation: threatening to withdraw income, accommodation or school support unless someone",
+        "x0": 69.52756,
+        "top": 475.57235648,
+        "x1": 521.7875227199994,
+        "bottom": 484.77235648000004,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "complies.",
+        "x0": 78.52756,
+        "top": 490.57235648,
+        "x1": 122.50607527999999,
+        "bottom": 499.77235648000004,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Guilt and persistence: repeated demands after a refusal or implying that love requires sexual",
+        "x0": 69.52756,
+        "top": 510.57235648,
+        "x1": 509.3351801199997,
+        "bottom": 519.7723564800001,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "access.",
+        "x0": 78.52756,
+        "top": 525.57235648,
+        "x1": 112.45256092,
+        "bottom": 534.7723564800001,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Misuse of authority: a teacher, employer, supervisor, religious leader or service provider linking",
+        "x0": 69.52756,
+        "top": 545.57235648,
+        "x1": 519.4650627599998,
+        "bottom": 554.7723564800001,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "benefits to personal or sexual compliance.",
+        "x0": 78.52756,
+        "top": 560.57235648,
+        "x1": 274.34650652,
+        "bottom": 569.7723564800001,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Isolation and monitoring: controlling friendships, travel, devices or communications to restrict",
+        "x0": 69.52756,
+        "top": 580.57235648,
+        "x1": 511.2847861599998,
+        "bottom": 589.77235648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "independent choices.",
+        "x0": 78.52756,
+        "top": 595.57235648,
+        "x1": 177.11760003999999,
+        "bottom": 604.77235648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "Power differences do not automatically make every relationship abusive, but they can make it",
+        "x0": 65.52756,
+        "top": 615.6204033600001,
+        "x1": 510.37063046000026,
+        "bottom": 625.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "harder to refuse or raise concerns. Institutions should provide reporting channels that do not",
+        "x0": 65.52756,
+        "top": 631.6204033600001,
+        "x1": 503.53635106000013,
+        "bottom": 641.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "require confronting the person with authority.",
+        "x0": 65.52756,
+        "top": 647.6204033600001,
+        "x1": 281.69543174,
+        "bottom": 657.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "06 | Consent in dating, marriage and long-term relationships",
+        "x0": 65.52756,
+        "top": 681.4852472,
+        "x1": 512.2438612000002,
+        "bottom": 694.4852472,
+        "size": 13.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Marriage, engagement, dating, cohabitation or previous sexual contact never creates permanent",
+        "x0": 65.52756,
+        "top": 707.6204433600001,
+        "x1": 524.0804938000003,
+        "bottom": 717.0204433600001,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "consent. Each person retains the right to refuse sexual activity. A respectful partner asks rather",
+        "x0": 65.52756,
+        "top": 723.6204433600001,
+        "x1": 518.1641845600004,
+        "bottom": 733.0204433600001,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "than assumes, accepts “no,” and does not punish refusal through anger, humiliation or financial",
+        "x0": 65.52756,
+        "top": 739.6204433600001,
+        "x1": 519.4447531400003,
+        "bottom": 749.0204433600001,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "threats. [3, 4]",
+        "x0": 65.52756,
+        "top": 755.6204433600001,
+        "x1": 130.40959171999998,
+        "bottom": 765.0204433600001,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA | GBV EDUCATION | DRAFT — SPECIALIST REVIEW REQUIRED 3",
+        "x0": 59.52756,
+        "top": 806.427778,
+        "x1": 535.74802875,
+        "bottom": 813.927778,
+        "size": 7.5,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 4,
+    "width": 595.2756,
+    "height": 841.8898,
+    "lines": [
+      {
+        "text": "A relationship disagreement is not automatically GBV. However, repeated threats, forced sexual",
+        "x0": 65.52756,
+        "top": 70.62040335999995,
+        "x1": 519.7614476000002,
+        "bottom": 80.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "contact, intimidation and control are significant warning signs. Supporters should examine safety",
+        "x0": 65.52756,
+        "top": 86.62040335999995,
+        "x1": 524.9342018000002,
+        "bottom": 96.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "and patterns of control rather than telling a survivor to “communicate better” with an abusive",
+        "x0": 65.52756,
+        "top": 102.62040335999995,
+        "x1": 510.13654602000025,
+        "bottom": 112.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "partner.",
+        "x0": 65.52756,
+        "top": 118.62040335999995,
+        "x1": 103.39836084,
+        "bottom": 128.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Checking in respectfully",
+        "x0": 65.52756,
+        "top": 145.88466119999998,
+        "x1": 208.52853630000004,
+        "bottom": 156.38466119999998,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Questions such as “Are you comfortable with this?”, “Do you want to continue?”, and “Would you",
+        "x0": 65.52756,
+        "top": 166.62040335999995,
+        "x1": 525.6823478,
+        "bottom": 176.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "prefer to stop?” create space for choice. If a person hesitates or appears afraid, stop and avoid",
+        "x0": 65.52756,
+        "top": 182.62040335999995,
+        "x1": 514.1159410800002,
+        "bottom": 192.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "pressure. Agreement to intimacy is not consent to contraception interference, recordings, or",
+        "x0": 65.52756,
+        "top": 198.62040335999995,
+        "x1": 502.3888893000003,
+        "bottom": 208.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "dissemination of private material.",
+        "x0": 65.52756,
+        "top": 214.62040335999995,
+        "x1": 224.65744245999994,
+        "bottom": 224.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "07 | Digital consent, privacy and technology",
+        "x0": 65.52756,
+        "top": 248.4852472,
+        "x1": 389.1056811000001,
+        "bottom": 261.4852472,
+        "size": 13.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Digital consent applies when sharing photographs, recordings, messages, account access, contact",
+        "x0": 65.52756,
+        "top": 274.62040335999995,
+        "x1": 529.7480361400005,
+        "bottom": 284.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "information, and location data. Permission to create a photo is not permission to publish or",
+        "x0": 65.52756,
+        "top": 290.62040335999995,
+        "x1": 494.88449236,
+        "bottom": 300.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "forward it. Permission to use a shared device is not permission to read private messages or track",
+        "x0": 65.52756,
+        "top": 306.62040335999995,
+        "x1": 524.0942601000003,
+        "bottom": 316.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "movements. Technology-facilitated GBV may include harassment, stalking, impersonation,",
+        "x0": 65.52756,
+        "top": 322.62040335999995,
+        "x1": 493.83801104000025,
+        "bottom": 332.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "threats, and non-consensual sharing of intimate images. [5]",
+        "x0": 65.52756,
+        "top": 338.62040336,
+        "x1": 348.35832447999996,
+        "bottom": 348.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Practical safety options depend on context. For someone whose devices may be monitored,",
+        "x0": 65.52756,
+        "top": 363.62040336,
+        "x1": 498.71701524000014,
+        "bottom": 373.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "changing a password, deleting messages or confronting a suspected abuser could increase",
+        "x0": 65.52756,
+        "top": 379.62040336,
+        "x1": 495.76574706000025,
+        "bottom": 389.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "danger. Consider using a trusted device and obtaining confidential support. Do not assume a",
+        "x0": 65.52756,
+        "top": 395.62040336,
+        "x1": 504.72512018000026,
+        "bottom": 405.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "“quick exit” button erases browsing history or makes a device safe.",
+        "x0": 65.52756,
+        "top": 411.62040336,
+        "x1": 384.99445694000013,
+        "bottom": 421.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Everyday examples",
+        "x0": 65.52756,
+        "top": 438.88466120000004,
+        "x1": 180.19699319999998,
+        "bottom": 449.38466120000004,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "• A student agrees to join a class group; this does not permit classmates to publish personal",
+        "x0": 69.52756,
+        "top": 459.57235648,
+        "x1": 496.7795132399996,
+        "bottom": 468.77235648000004,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "photographs without permission.",
+        "x0": 78.52756,
+        "top": 474.57235648,
+        "x1": 230.54767643999998,
+        "bottom": 483.77235648000004,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• A partner asks for continuous location access as “proof of loyalty.” A refusal should not trigger",
+        "x0": 69.52756,
+        "top": 494.57235648,
+        "x1": 514.6359606799996,
+        "bottom": 503.77235648000004,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "threats or punishment.",
+        "x0": 78.52756,
+        "top": 509.57235648,
+        "x1": 184.37248267999996,
+        "bottom": 518.7723564800001,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Someone forwards an intimate image originally shared in confidence. The original sharing does",
+        "x0": 69.52756,
+        "top": 529.57235648,
+        "x1": 518.2476801199996,
+        "bottom": 538.7723564800001,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "not authorize further distribution.",
+        "x0": 78.52756,
+        "top": 544.57235648,
+        "x1": 232.81623083999997,
+        "bottom": 553.7723564800001,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "08 | Culture, social expectations and unequal power",
+        "x0": 65.52756,
+        "top": 577.4852472,
+        "x1": 447.5295102000001,
+        "bottom": 590.4852472,
+        "size": 13.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Families and communities differ in how they discuss personal space, sexuality and authority.",
+        "x0": 65.52756,
+        "top": 603.6204033600001,
+        "x1": 503.94025872000026,
+        "bottom": 613.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Cultural values such as mutual care and respect can strengthen prevention, while expectations",
+        "x0": 65.52756,
+        "top": 619.6204033600001,
+        "x1": 515.74992898,
+        "bottom": 629.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "demanding unquestioning obedience or tolerating abuse can undermine choice. Education should",
+        "x0": 65.52756,
+        "top": 635.6204033600001,
+        "x1": 527.3209229000003,
+        "bottom": 645.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "avoid stereotyping any community and should encourage discussion without forcing personal",
+        "x0": 65.52756,
+        "top": 651.6204033600001,
+        "x1": 506.96037532000025,
+        "bottom": 661.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "disclosures.",
+        "x0": 65.52756,
+        "top": 667.6204033600001,
+        "x1": 120.92238416,
+        "bottom": 677.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "In Rwanda, examples may involve university accommodation, workplace apprenticeships,",
+        "x0": 65.52756,
+        "top": 692.6204033600001,
+        "x1": 489.6887946400002,
+        "bottom": 702.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "household decision-making, transportation, or online relationships. The examples below are",
+        "x0": 65.52756,
+        "top": 708.6204033600001,
+        "x1": 499.1117409800002,
+        "bottom": 718.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "fictional and do not represent prevalence claims about any specific group.",
+        "x0": 65.52756,
+        "top": 724.6204033600001,
+        "x1": 416.11818688000005,
+        "bottom": 734.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA | GBV EDUCATION | DRAFT — SPECIALIST REVIEW REQUIRED 4",
+        "x0": 59.52756,
+        "top": 806.427778,
+        "x1": 535.74802875,
+        "bottom": 813.927778,
+        "size": 7.5,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 5,
+    "width": 595.2756,
+    "height": 841.8898,
+    "lines": [
+      {
+        "text": "09 | Scenario learning: four Rwanda-relevant cases",
+        "x0": 65.52756,
+        "top": 71.4852472,
+        "x1": 440.92160369999993,
+        "bottom": 84.4852472,
+        "size": 13.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Scenario A — University study group",
+        "x0": 65.52756,
+        "top": 100.88466119999998,
+        "x1": 282.3515331,
+        "bottom": 111.38466119999998,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "A student in Kigali is repeatedly pressured by a classmate to share private photos. The classmate",
+        "x0": 65.52756,
+        "top": 121.62040335999995,
+        "x1": 526.4121309000003,
+        "bottom": 131.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "says they will spread rumors if the student refuses. This is not a freely chosen agreement; threats",
+        "x0": 65.52756,
+        "top": 137.62040335999995,
+        "x1": 528.3031505200003,
+        "bottom": 147.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "and pressure are concerning. Safe options may include speaking to a trusted safeguarding officer",
+        "x0": 65.52756,
+        "top": 153.62040335999995,
+        "x1": 526.6553963200004,
+        "bottom": 163.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "through a confidential channel and using a safe device for advice.",
+        "x0": 65.52756,
+        "top": 169.62040335999995,
+        "x1": 376.90715472,
+        "bottom": 179.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Scenario B — Supervisor and internship",
+        "x0": 65.52756,
+        "top": 196.88466119999998,
+        "x1": 300.4906936500001,
+        "bottom": 207.38466119999998,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "An intern in Musanze is told that favorable evaluations depend on accepting unwanted personal",
+        "x0": 65.52756,
+        "top": 217.62040335999995,
+        "x1": 518.4625245800001,
+        "bottom": 227.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "visits. The supervisor controls the evaluation, creating a serious power imbalance. The intern",
+        "x0": 65.52756,
+        "top": 233.62040335999995,
+        "x1": 505.30344108000025,
+        "bottom": 243.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "should not be expected to confront the supervisor alone; an independent workplace reporting or",
+        "x0": 65.52756,
+        "top": 249.62040335999995,
+        "x1": 521.0970936000001,
+        "bottom": 259.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "support route may be safer.",
+        "x0": 65.52756,
+        "top": 265.62040335999995,
+        "x1": 197.44426009999998,
+        "bottom": 275.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Scenario C — Marriage and financial control",
+        "x0": 65.52756,
+        "top": 292.8846612,
+        "x1": 325.0487982,
+        "bottom": 303.3846612,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "One spouse threatens to withhold household necessities when the other refuses unwanted",
+        "x0": 65.52756,
+        "top": 313.62040335999995,
+        "x1": 493.6452414800003,
+        "bottom": 323.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "intimacy. Relationship status does not remove the need for consent. Economic threats can",
+        "x0": 65.52756,
+        "top": 329.62040335999995,
+        "x1": 493.64523866000025,
+        "bottom": 339.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "undermine free choice. Supporting the affected person means discussing safety and available",
+        "x0": 65.52756,
+        "top": 345.62040336,
+        "x1": 509.3103772000004,
+        "bottom": 355.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "options without pressuring an immediate separation.",
+        "x0": 65.52756,
+        "top": 361.62040336,
+        "x1": 315.45373163999994,
+        "bottom": 371.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Scenario D — Shared smartphone",
+        "x0": 65.52756,
+        "top": 388.88466120000004,
+        "x1": 264.03805575,
+        "bottom": 399.38466120000004,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "A young adult notices a partner may be monitoring a phone and demanding location sharing. A",
+        "x0": 65.52756,
+        "top": 409.62040336,
+        "x1": 515.7177969600002,
+        "bottom": 419.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "friend suggests immediately changing all passwords on that phone. That action might be useful in",
+        "x0": 65.52756,
+        "top": 425.62040336,
+        "x1": 529.1109602000004,
+        "bottom": 435.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "some settings, but it could trigger retaliation if the device is monitored. A safer first step may be",
+        "x0": 65.52756,
+        "top": 441.62040336,
+        "x1": 521.7993347000004,
+        "bottom": 451.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "private advice from a trusted service using a device outside the partner’s control.",
+        "x0": 65.52756,
+        "top": 457.62040336,
+        "x1": 451.4783426600001,
+        "bottom": 467.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "10 | How to respond when someone describes coercion",
+        "x0": 65.52756,
+        "top": 491.4852472,
+        "x1": 469.18136379999993,
+        "bottom": 504.4852472,
+        "size": 13.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Listen with care and without interrogation. Ask what the person needs right now. Affirm that they",
+        "x0": 65.52756,
+        "top": 517.62040336,
+        "x1": 525.4299051600003,
+        "bottom": 527.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "deserve safety and respect without making promises about outcomes. Explain confidentiality",
+        "x0": 65.52756,
+        "top": 533.62040336,
+        "x1": 505.7486551600002,
+        "bottom": 543.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "limits, ask permission before making referrals wherever possible, and consider whether the",
+        "x0": 65.52756,
+        "top": 549.62040336,
+        "x1": 497.2436761600002,
+        "bottom": 559.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "person can safely receive calls or messages. WHO’s LIVES approach offers a clinical first-line",
+        "x0": 65.52756,
+        "top": 565.62040336,
+        "x1": 502.84328530000045,
+        "bottom": 575.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "support structure: Listen, Inquire about needs and concerns, Validate, Enhance safety, and",
+        "x0": 65.52756,
+        "top": 581.62040336,
+        "x1": 495.1139905400003,
+        "bottom": 591.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Support. [4, 6]",
+        "x0": 65.52756,
+        "top": 597.6204033600001,
+        "x1": 133.93459077999998,
+        "bottom": 607.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "• Helpful: “Thank you for telling me. What would feel most helpful and safe right now?”",
+        "x0": 69.52756,
+        "top": 622.57235648,
+        "x1": 473.2988518799996,
+        "bottom": 631.77235648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Helpful: “You can choose what you share. I can explain support options.”",
+        "x0": 69.52756,
+        "top": 642.57235648,
+        "x1": 414.5140875199998,
+        "bottom": 651.77235648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Avoid: “Why didn’t you say no?”, “Why didn’t you leave?”, or “You must report immediately.”",
+        "x0": 69.52756,
+        "top": 662.57235648,
+        "x1": 510.28752179999975,
+        "bottom": 671.77235648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Avoid: pressuring someone into mediation or direct confrontation where violence or retaliation is",
+        "x0": 69.52756,
+        "top": 682.57235648,
+        "x1": 525.0623261999996,
+        "bottom": 691.77235648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "possible.",
+        "x0": 78.52756,
+        "top": 697.57235648,
+        "x1": 119.11896555999999,
+        "bottom": 706.77235648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA | GBV EDUCATION | DRAFT — SPECIALIST REVIEW REQUIRED 5",
+        "x0": 59.52756,
+        "top": 806.427778,
+        "x1": 535.74802875,
+        "bottom": 813.927778,
+        "size": 7.5,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 6,
+    "width": 595.2756,
+    "height": 841.8898,
+    "lines": [
+      {
+        "text": "11 | Safety considerations and seeking support",
+        "x0": 65.52756,
+        "top": 71.4852472,
+        "x1": 412.3317567,
+        "bottom": 84.4852472,
+        "size": 13.0,
+        "bold": 1.0
+      },
+      {
+        "text": "If someone is in immediate danger or has a serious injury, urgent local emergency or medical",
+        "x0": 65.52756,
+        "top": 97.62040335999995,
+        "x1": 507.52951712000015,
+        "bottom": 107.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "assistance is appropriate. After sexual assault, prompt medical attention can address injury and",
+        "x0": 65.52756,
+        "top": 113.62040335999995,
+        "x1": 519.0867409800003,
+        "bottom": 123.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "time-sensitive preventive care; survivors can request information about medical options even",
+        "x0": 65.52756,
+        "top": 129.62040335999995,
+        "x1": 508.23176198000004,
+        "bottom": 139.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "when unsure about reporting. Do not delay urgent care to complete exercises, preserve evidence",
+        "x0": 65.52756,
+        "top": 145.62040335999995,
+        "x1": 526.4029546200003,
+        "bottom": 155.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "or finish reading this chapter.",
+        "x0": 65.52756,
+        "top": 161.62040335999995,
+        "x1": 204.67785338,
+        "bottom": 171.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "In Rwanda, Isange One Stop Centres are an important integrated service model for survivors of",
+        "x0": 65.52756,
+        "top": 186.62040335999995,
+        "x1": 515.4515870800002,
+        "bottom": 196.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "GBV. Local organizations should verify current access details, telephone numbers, hours, referral",
+        "x0": 65.52756,
+        "top": 202.62040335999995,
+        "x1": 523.7913328800004,
+        "bottom": 212.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "criteria, and statutory reporting duties before publishing public instructions. This chapter",
+        "x0": 65.52756,
+        "top": 218.62040335999995,
+        "x1": 485.3100772400003,
+        "bottom": 228.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "deliberately avoids unverified hotlines and jurisdiction-specific reporting promises.",
+        "x0": 65.52756,
+        "top": 234.62040335999995,
+        "x1": 455.3062689400002,
+        "bottom": 244.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "For children, suspected abuse, or a person unable to make certain decisions, safeguarding duties",
+        "x0": 65.52756,
+        "top": 259.62040335999995,
+        "x1": 525.1453370800003,
+        "bottom": 269.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "may differ from those for adults. Do not promise absolute secrecy. Explain relevant protections",
+        "x0": 65.52756,
+        "top": 275.62040335999995,
+        "x1": 515.2312717600004,
+        "bottom": 285.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "and reporting requirements in age-appropriate language, and involve qualified safeguarding",
+        "x0": 65.52756,
+        "top": 291.62040335999995,
+        "x1": 501.9803935000002,
+        "bottom": 301.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "professionals.",
+        "x0": 65.52756,
+        "top": 307.62040335999995,
+        "x1": 130.57482585999998,
+        "bottom": 317.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "12 | Guided learning activities (optional and non-disclosing)",
+        "x0": 65.52756,
+        "top": 341.4852472,
+        "x1": 505.61056049999996,
+        "bottom": 354.4852472,
+        "size": 13.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Activity 1 — Consent or pressure? (10 minutes)",
+        "x0": 65.52756,
+        "top": 370.88466120000004,
+        "x1": 345.1208166,
+        "bottom": 381.38466120000004,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Read each fictional sentence and decide whether it shows freely given agreement: (a) “Yes, I want",
+        "x0": 65.52756,
+        "top": 391.62040336,
+        "x1": 529.7480323000001,
+        "bottom": 401.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "to participate,” after an open, pressure-free choice; (b) “Fine, I agree,” after threats to remove",
+        "x0": 65.52756,
+        "top": 407.62040336,
+        "x1": 512.9225819400002,
+        "bottom": 417.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "financial support; (c) no reply while someone moves closer; (d) permission to share one",
+        "x0": 65.52756,
+        "top": 423.62040336,
+        "x1": 479.49475032000015,
+        "bottom": 433.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "photograph privately. Suggested answers: (a) may indicate consent if informed, specific and the",
+        "x0": 65.52756,
+        "top": 439.62040336,
+        "x1": 520.6564686000004,
+        "bottom": 449.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "person has capacity; (b) coercion undermines voluntary choice; (c) silence is not consent; (d)",
+        "x0": 65.52756,
+        "top": 455.62040336,
+        "x1": 505.56047468000025,
+        "bottom": 465.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "permission does not extend to public posting.",
+        "x0": 65.52756,
+        "top": 471.62040336,
+        "x1": 281.02990234000004,
+        "bottom": 481.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Activity 2 — Everyday boundaries (10 minutes)",
+        "x0": 65.52756,
+        "top": 498.88466120000004,
+        "x1": 343.6698909,
+        "bottom": 509.38466120000004,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Write three harmless fictional situations involving shared space, photographs, and time. For each,",
+        "x0": 65.52756,
+        "top": 519.62040336,
+        "x1": 528.3995343600003,
+        "bottom": 529.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "draft one respectful request and one respectful refusal. Example: “May I upload this photo?” / “No,",
+        "x0": 65.52756,
+        "top": 535.62040336,
+        "x1": 529.7480429399999,
+        "bottom": 545.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "please keep it private.” No personal history is required.",
+        "x0": 65.52756,
+        "top": 551.62040336,
+        "x1": 326.6024625199999,
+        "bottom": 561.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Activity 3 — Power mapping (15 minutes)",
+        "x0": 65.52756,
+        "top": 578.8846612,
+        "x1": 311.1906388499999,
+        "bottom": 589.3846612,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Choose a fictional school or workplace situation. Identify who controls grades, pay, references,",
+        "x0": 65.52756,
+        "top": 599.6204033600001,
+        "x1": 512.4314695400003,
+        "bottom": 609.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "accommodation, or reputation. Discuss what an independent reporting channel would look like",
+        "x0": 65.52756,
+        "top": 615.6204033600001,
+        "x1": 513.18420274,
+        "bottom": 625.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "and how anonymity or confidentiality limits should be explained.",
+        "x0": 65.52756,
+        "top": 631.6204033600001,
+        "x1": 370.6282442400001,
+        "bottom": 641.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Activity 4 — Digital consent decision tree (10 minutes)",
+        "x0": 65.52756,
+        "top": 658.8846612,
+        "x1": 389.29464105000005,
+        "bottom": 669.3846612,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Imagine being asked to forward a friend’s personal message. Ask: Was permission given? For this",
+        "x0": 65.52756,
+        "top": 679.6204033600001,
+        "x1": 526.5452386600002,
+        "bottom": 689.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "audience and purpose? Could sharing create harm? If permission is absent, do not share. If safety",
+        "x0": 65.52756,
+        "top": 695.6204033600001,
+        "x1": 527.4081314000003,
+        "bottom": 705.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "is already threatened, seek appropriate support rather than negotiating with a threatening",
+        "x0": 65.52756,
+        "top": 711.6204033600001,
+        "x1": 494.1409401400003,
+        "bottom": 721.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "person.",
+        "x0": 65.52756,
+        "top": 727.6204033600001,
+        "x1": 100.7362517,
+        "bottom": 737.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA | GBV EDUCATION | DRAFT — SPECIALIST REVIEW REQUIRED 6",
+        "x0": 59.52756,
+        "top": 806.427778,
+        "x1": 535.74802875,
+        "bottom": 813.927778,
+        "size": 7.5,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 7,
+    "width": 595.2756,
+    "height": 841.8898,
+    "lines": [
+      {
+        "text": "Activity 5 — Supportive response practice (15 minutes)",
+        "x0": 65.52756,
+        "top": 70.88466119999998,
+        "x1": 393.42696750000005,
+        "bottom": 81.38466119999998,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Using a purely fictional disclosure, practice a brief response that listens, validates, checks",
+        "x0": 65.52756,
+        "top": 91.62040335999995,
+        "x1": 489.94123352000025,
+        "bottom": 101.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "immediate safety, and asks what assistance is wanted. Do not role-play graphic violence or",
+        "x0": 65.52756,
+        "top": 107.62040335999995,
+        "x1": 497.23449612000013,
+        "bottom": 117.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "require participants to disclose personal experiences. Anyone may opt out.",
+        "x0": 65.52756,
+        "top": 123.62040335999995,
+        "x1": 419.76252175999986,
+        "bottom": 133.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "13 | Knowledge assessment with explained answers",
+        "x0": 65.52756,
+        "top": 157.4852472,
+        "x1": 447.11056179999997,
+        "bottom": 170.4852472,
+        "size": 13.0,
+        "bold": 1.0
+      },
+      {
+        "text": "1. Does agreeing once mean consenting to every later activity?",
+        "x0": 65.52756,
+        "top": 186.88466119999998,
+        "x1": 441.33322064999993,
+        "bottom": 197.38466119999998,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Suggested answer: No. Consent is specific and can be withdrawn.",
+        "x0": 65.52756,
+        "top": 207.62040335999995,
+        "x1": 375.39250451999993,
+        "bottom": 217.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "2. Is silence reliable evidence of consent?",
+        "x0": 65.52756,
+        "top": 234.88466119999998,
+        "x1": 312.79538010000005,
+        "bottom": 245.38466119999998,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Suggested answer: No. Silence or freezing may occur for many reasons; pause and seek clear",
+        "x0": 65.52756,
+        "top": 255.62040335999995,
+        "x1": 508.9064733000002,
+        "bottom": 265.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "agreement.",
+        "x0": 65.52756,
+        "top": 271.62040335999995,
+        "x1": 120.25685758,
+        "bottom": 281.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "3. Can a person refuse intimacy within marriage?",
+        "x0": 65.52756,
+        "top": 298.8846612,
+        "x1": 357.68185215,
+        "bottom": 309.3846612,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Suggested answer: Yes. Marriage is not permanent sexual consent.",
+        "x0": 65.52756,
+        "top": 319.62040335999995,
+        "x1": 383.2365479,
+        "bottom": 329.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "4. What can make an apparent agreement coercive?",
+        "x0": 65.52756,
+        "top": 346.88466120000004,
+        "x1": 375.2416657499999,
+        "bottom": 357.38466120000004,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Suggested answer: Threats, retaliation, intimidation, exploitation of dependency, or pressure that",
+        "x0": 65.52756,
+        "top": 367.62040336,
+        "x1": 527.0088100000002,
+        "bottom": 377.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "removes free choice.",
+        "x0": 65.52756,
+        "top": 383.62040336,
+        "x1": 164.47082354,
+        "bottom": 393.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "5. Is consent to take a photo the same as consent to share it?",
+        "x0": 65.52756,
+        "top": 410.88466120000004,
+        "x1": 432.42257099999995,
+        "bottom": 421.38466120000004,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Suggested answer: No. Creation, storage and distribution are different acts requiring appropriate",
+        "x0": 65.52756,
+        "top": 431.62040336,
+        "x1": 523.9427941400004,
+        "bottom": 441.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "permission.",
+        "x0": 65.52756,
+        "top": 447.62040336,
+        "x1": 120.01359498,
+        "bottom": 457.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "6. Must a survivor confront a person who may retaliate?",
+        "x0": 65.52756,
+        "top": 474.88466120000004,
+        "x1": 398.96920664999993,
+        "bottom": 485.38466120000004,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Suggested answer: No. Safety and choice come first; independent support may be safer.",
+        "x0": 65.52756,
+        "top": 495.62040336,
+        "x1": 484.17639212000006,
+        "bottom": 505.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "7. Why do authority relationships deserve extra care?",
+        "x0": 65.52756,
+        "top": 522.8846612,
+        "x1": 385.36227239999994,
+        "bottom": 533.3846612,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Suggested answer: Control over grades, work, money or services can make refusal difficult.",
+        "x0": 65.52756,
+        "top": 543.62040336,
+        "x1": 498.41408802000046,
+        "bottom": 553.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "8. What should a supporter avoid after disclosure?",
+        "x0": 65.52756,
+        "top": 570.8846612,
+        "x1": 366.40279725,
+        "bottom": 581.3846612,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Suggested answer: Blame, interrogation, forced reporting, unsafe mediation and false",
+        "x0": 65.52756,
+        "top": 591.6204033600001,
+        "x1": 471.77922280000024,
+        "bottom": 601.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "confidentiality promises.",
+        "x0": 65.52756,
+        "top": 607.6204033600001,
+        "x1": 181.46701241999997,
+        "bottom": 617.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "9. What is a helpful first question?",
+        "x0": 65.52756,
+        "top": 634.8846612,
+        "x1": 270.58004295,
+        "bottom": 645.3846612,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Suggested answer: “What do you need right now, and is it safe for us to communicate?”",
+        "x0": 65.52756,
+        "top": 655.6204033600001,
+        "x1": 482.4322503200003,
+        "bottom": 665.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "10. Is this handbook a legal or clinical diagnosis tool?",
+        "x0": 65.52756,
+        "top": 682.8846612,
+        "x1": 383.44991475000006,
+        "bottom": 693.3846612,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Suggested answer: No. It is educational and requires local specialist review before public use.",
+        "x0": 65.52756,
+        "top": 703.6204033600001,
+        "x1": 508.1858627200004,
+        "bottom": 713.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA | GBV EDUCATION | DRAFT — SPECIALIST REVIEW REQUIRED 7",
+        "x0": 59.52756,
+        "top": 806.427778,
+        "x1": 535.74802875,
+        "bottom": 813.927778,
+        "size": 7.5,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 8,
+    "width": 595.2756,
+    "height": 841.8898,
+    "lines": [
+      {
+        "text": "14 | Facilitator notes and accessibility",
+        "x0": 65.52756,
+        "top": 71.4852472,
+        "x1": 344.84981880000004,
+        "bottom": 84.4852472,
+        "size": 13.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Use plain language, short sessions, and inclusive examples. Allow written, spoken or private",
+        "x0": 65.52756,
+        "top": 97.62040335999995,
+        "x1": 500.80539444000016,
+        "bottom": 107.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "participation. Provide alternatives to pair work, and do not ask anyone to demonstrate consent",
+        "x0": 65.52756,
+        "top": 113.62040335999995,
+        "x1": 513.90939676,
+        "bottom": 123.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "through physical touch. An educator should never invite public disclosures of abuse. Establish a",
+        "x0": 65.52756,
+        "top": 129.62040335999995,
+        "x1": 517.3793202800005,
+        "bottom": 139.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "quiet opt-out option and identify an appropriate safeguarding contact before group sessions.",
+        "x0": 65.52756,
+        "top": 145.62040335999995,
+        "x1": 503.8117391000002,
+        "bottom": 155.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Translate carefully into Kinyarwanda and French. Concepts such as coercion, autonomy, consent",
+        "x0": 65.52756,
+        "top": 170.62040335999995,
+        "x1": 522.1848907400001,
+        "bottom": 180.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "and abuse may not map perfectly word-for-word. Have a qualified local language reviewer and",
+        "x0": 65.52756,
+        "top": 186.62040335999995,
+        "x1": 512.9593011600003,
+        "bottom": 196.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "GBV professional review both terminology and examples. For screen readers, keep headings",
+        "x0": 65.52756,
+        "top": 202.62040335999995,
+        "x1": 502.5357661800004,
+        "bottom": 212.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "logical and avoid image-only explanations.",
+        "x0": 65.52756,
+        "top": 218.62040335999995,
+        "x1": 267.1456267,
+        "bottom": 228.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "15 | Key terms",
+        "x0": 65.52756,
+        "top": 252.4852472,
+        "x1": 172.03488169999997,
+        "bottom": 265.4852472,
+        "size": 13.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Consent: Voluntary, informed agreement to a specific act, communicated by someone able to",
+        "x0": 65.52756,
+        "top": 278.62040335999995,
+        "x1": 508.4658445400001,
+        "bottom": 288.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "decide.",
+        "x0": 65.52756,
+        "top": 294.62040335999995,
+        "x1": 99.79533332,
+        "bottom": 304.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Bodily autonomy: The principle that a person should have agency over decisions involving their",
+        "x0": 65.52756,
+        "top": 319.62040335999995,
+        "x1": 516.6770754200002,
+        "bottom": 329.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "body, subject to appropriate legal protections.",
+        "x0": 65.52756,
+        "top": 335.62040336,
+        "x1": 284.03624887999996,
+        "bottom": 345.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Boundary: A limit describing what a person is comfortable with or willing to do.",
+        "x0": 65.52756,
+        "top": 360.62040336,
+        "x1": 437.86027314000006,
+        "bottom": 370.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Coercion: Force, threats, pressure or exploitation that undermines meaningful free choice.",
+        "x0": 65.52756,
+        "top": 385.62040336,
+        "x1": 492.24533708000035,
+        "bottom": 395.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Power imbalance: A relationship where one person has substantially greater control over",
+        "x0": 65.52756,
+        "top": 410.62040336,
+        "x1": 484.8143785800002,
+        "bottom": 420.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "resources, status or decisions.",
+        "x0": 65.52756,
+        "top": 426.62040336,
+        "x1": 208.57922091999998,
+        "bottom": 436.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Digital consent: Agreement about access, use or sharing of digital information, images and",
+        "x0": 65.52756,
+        "top": 451.62040336,
+        "x1": 495.2425026400001,
+        "bottom": 461.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "communications.",
+        "x0": 65.52756,
+        "top": 467.62040336,
+        "x1": 146.10685757999997,
+        "bottom": 477.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Survivor-centred care: An approach prioritizing dignity, safety, confidentiality within its limits,",
+        "x0": 65.52756,
+        "top": 492.62040336,
+        "x1": 507.55704878000057,
+        "bottom": 502.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "respect and informed choice.",
+        "x0": 65.52756,
+        "top": 508.62040336,
+        "x1": 203.15402595999998,
+        "bottom": 518.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "16 | References and source notes",
+        "x0": 65.52756,
+        "top": 542.4852472,
+        "x1": 310.18527589999997,
+        "bottom": 555.4852472,
+        "size": 13.0,
+        "bold": 1.0
+      },
+      {
+        "text": "[1] Women and Gender Equality Canada (2026). Understanding consent and challenging",
+        "x0": 65.52756,
+        "top": 568.62040336,
+        "x1": 483.59348214000016,
+        "bottom": 578.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "victim-blaming.",
+        "x0": 65.52756,
+        "top": 584.62040336,
+        "x1": 138.73556652,
+        "bottom": 594.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "https://www.canada.ca/en/women-gender-equality/campaigns/gender-based-violence-its-not-just/gender-based-vio",
+        "x0": 65.52756,
+        "top": 609.2840752,
+        "x1": 527.8869368,
+        "bottom": 617.2840752,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "lence-resources/learning-modules-youth/module5.html",
+        "x0": 65.52756,
+        "top": 621.2840752,
+        "x1": 285.90256160000007,
+        "bottom": 629.2840752,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "[2] Simon Fraser University. What is consent? Sexual Violence Support & Prevention Office.",
+        "x0": 65.52756,
+        "top": 640.6204033600001,
+        "x1": 495.94474938000013,
+        "bottom": 650.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "https://www.sfu.ca/sexual-violence/get-help/what-is-consent/",
+        "x0": 65.52756,
+        "top": 665.2840752,
+        "x1": 310.1408440000001,
+        "bottom": 673.2840752,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "[3] Republic of Rwanda. Law No. 59/2008 of 10/09/2008 on Prevention and Punishment of",
+        "x0": 65.52756,
+        "top": 684.6204033600001,
+        "x1": 489.45471678,
+        "bottom": 694.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Gender-Based Violence (historical text; check current amendments and other applicable",
+        "x0": 65.52756,
+        "top": 700.6204033600001,
+        "x1": 482.7168202800001,
+        "bottom": 710.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "legislation).",
+        "x0": 65.52756,
+        "top": 716.6204033600001,
+        "x1": 120.43126987999999,
+        "bottom": 726.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "https://www.amategeko.gov.rw/view/toc/doc/3879/4053",
+        "x0": 65.52756,
+        "top": 741.2841152000001,
+        "x1": 290.60178320000006,
+        "bottom": 749.2841152000001,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA | GBV EDUCATION | DRAFT — SPECIALIST REVIEW REQUIRED 8",
+        "x0": 59.52756,
+        "top": 806.427778,
+        "x1": 535.74802875,
+        "bottom": 813.927778,
+        "size": 7.5,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 9,
+    "width": 595.2756,
+    "height": 841.8898,
+    "lines": [
+      {
+        "text": "[4] World Health Organization (2014). Health care for women subjected to intimate partner",
+        "x0": 65.52756,
+        "top": 70.62040335999995,
+        "x1": 495.65558752000015,
+        "bottom": 80.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "violence or sexual violence: a clinical handbook.",
+        "x0": 65.52756,
+        "top": 86.62040335999995,
+        "x1": 293.07365703999994,
+        "bottom": 96.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "https://www.who.int/publications/i/item/WHO-RHR-14.26/",
+        "x0": 65.52756,
+        "top": 111.28407520000007,
+        "x1": 294.1252168000001,
+        "bottom": 119.28407520000007,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "[5] UNICEF, UNFPA & Save the Children (2025). Technology Facilitated Gender Based Violence:",
+        "x0": 65.52756,
+        "top": 130.62040335999995,
+        "x1": 513.1520744800002,
+        "bottom": 140.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Considerations across the life course.",
+        "x0": 65.52756,
+        "top": 146.62040335999995,
+        "x1": 242.03000263999994,
+        "bottom": 156.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "https://www.unicef.org/documents/technology-facilitated-gender-based-violence",
+        "x0": 65.52756,
+        "top": 171.28407520000007,
+        "x1": 388.4259984,
+        "bottom": 179.28407520000007,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "[6] World Health Organization (2019). Caring for women subjected to violence: a WHO curriculum",
+        "x0": 65.52756,
+        "top": 190.62040335999995,
+        "x1": 526.0265852000002,
+        "bottom": 200.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "for training health-care providers.",
+        "x0": 65.52756,
+        "top": 206.62040335999995,
+        "x1": 224.81349749999998,
+        "bottom": 216.02040336000005,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "https://www.who.int/publications/i/item/9789241517102",
+        "x0": 65.52756,
+        "top": 231.28407520000007,
+        "x1": 291.5666264000001,
+        "bottom": 239.28407520000007,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "17 | Publication approval checklist",
+        "x0": 65.52756,
+        "top": 261.4852472,
+        "x1": 318.22775190000004,
+        "bottom": 274.4852472,
+        "size": 13.0,
+        "bold": 1.0
+      },
+      {
+        "text": "• □ GBV specialist validates terminology, coercion examples and support principles.",
+        "x0": 69.52756,
+        "top": 287.57235648000005,
+        "x1": 459.6201373199996,
+        "bottom": 296.7723564800001,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• □ Rwanda-qualified legal reviewer checks current laws on consent, ages, confidentiality and",
+        "x0": 69.52756,
+        "top": 307.57235648000005,
+        "x1": 505.31467339999955,
+        "bottom": 316.7723564800001,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "reporting.",
+        "x0": 78.52756,
+        "top": 322.57235648000005,
+        "x1": 123.97951231999998,
+        "bottom": 331.7723564800001,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• □ Clinical/safeguarding reviewer validates urgent care and referral language.",
+        "x0": 69.52756,
+        "top": 342.57235648,
+        "x1": 436.3865483999997,
+        "bottom": 351.77235648000004,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• □ Referral coordinator verifies actual local services and current contact details.",
+        "x0": 69.52756,
+        "top": 362.57235648,
+        "x1": 445.57306947999973,
+        "bottom": 371.77235648000004,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• □ Kinyarwanda and French versions are reviewed by qualified humans, not machine translation",
+        "x0": 69.52756,
+        "top": 382.57235648,
+        "x1": 520.7588164399995,
+        "bottom": 391.77235648000004,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "alone.",
+        "x0": 78.52756,
+        "top": 397.57235648,
+        "x1": 106.76545119999999,
+        "bottom": 406.77235648000004,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• □ Accessibility and community user testing are completed without requiring survivors to disclose",
+        "x0": 69.52756,
+        "top": 417.57235648,
+        "x1": 527.9193558399996,
+        "bottom": 426.77235648000004,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "experiences.",
+        "x0": 78.52756,
+        "top": 432.57235648,
+        "x1": 137.39767827999998,
+        "bottom": 441.77235648000004,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• □ Version number, approval owner and next review date are recorded.",
+        "x0": 69.52756,
+        "top": 452.57235648,
+        "x1": 406.4640865999999,
+        "bottom": 461.77235648000004,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "Editorial caution: This document teaches principles and examples. It does not determine whether",
+        "x0": 65.52756,
+        "top": 472.62040336,
+        "x1": 525.1132060000002,
+        "bottom": 482.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "a particular incident constitutes an offence, and it is not a substitute for emergency support,",
+        "x0": 65.52756,
+        "top": 488.62040336,
+        "x1": 502.7652568400001,
+        "bottom": 498.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "clinical care or qualified legal advice.",
+        "x0": 65.52756,
+        "top": 504.62040336,
+        "x1": 240.31340001999993,
+        "bottom": 514.02040336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA | GBV EDUCATION | DRAFT — SPECIALIST REVIEW REQUIRED 9",
+        "x0": 59.52756,
+        "top": 806.427778,
+        "x1": 535.74802875,
+        "bottom": 813.927778,
+        "size": 7.5,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  }
+]

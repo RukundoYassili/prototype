@@ -1,0 +1,33 @@
+{
+  "metrics": [
+    {
+      "chapter": 4,
+      "restoredDisclosures": true
+    },
+    {
+      "chapter": 5,
+      "restoredDisclosures": true
+    },
+    {
+      "chapter": 6,
+      "restoredDisclosures": true
+    },
+    {
+      "chapter": 7,
+      "restoredDisclosures": true
+    },
+    {
+      "chapter": 8,
+      "restoredDisclosures": true
+    },
+    {
+      "chapter": 9,
+      "restoredDisclosures": true
+    },
+    {
+      "chapter": 10,
+      "restoredDisclosures": true
+    }
+  ],
+  "errors": []
+}

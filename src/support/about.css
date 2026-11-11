@@ -1,0 +1,412 @@
+/* About-only additions to the shared green/cream system. No global overrides. */
+.about-page {
+  --about-purple: #392653;
+  --about-lavender: #f1edf7;
+  --about-mint: #edf5ec;
+  --about-copy: #526152;
+  padding-top: 32px;
+}
+.about-page .about-hero {
+  display: grid;
+  grid-template-columns: 1fr 1.04fr;
+  align-items: center;
+  gap: 28px;
+  padding: 64px 48px;
+  border-radius: 32px;
+  background: var(--about-lavender);
+}
+.about-page .about-hero h1 {
+  font-size: clamp(42px, 4.55vw, 66px);
+  font-weight: 500;
+  line-height: 1.06;
+  letter-spacing: -0.055em;
+  color: var(--about-purple);
+  margin: 22px 0 24px;
+  max-width: 570px;
+}
+.about-page .about-hero h1 span {
+  color: #655080;
+}
+.about-page .support-eyebrow {
+  font-size: 11px;
+}
+.about-page .about-hero-copy > p {
+  max-width: 470px;
+  font-size: 17px;
+  line-height: 1.85;
+  color: #5b5466;
+  margin: 0 0 26px;
+}
+.about-page .about-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 12px 24px;
+}
+.about-page .about-hero-art,
+.about-page .about-choices-art {
+  min-width: 0;
+}
+.about-page .about-illustration {
+  display: block;
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  border-radius: 20px;
+}
+.about-page .about-art-caption {
+  text-align: center;
+  font-size: 13px;
+  letter-spacing: 0.01em;
+  color: #655080;
+  margin: 20px 0 0;
+}
+.about-page .about-section {
+  padding: 72px 16px;
+}
+.about-page .about-section-intro {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 64px;
+  align-items: center;
+  margin-bottom: 36px;
+}
+.about-page h2 {
+  font-size: clamp(32px, 3.4vw, 46px);
+  font-weight: 500;
+  line-height: 1.12;
+  letter-spacing: -0.045em;
+  margin: 14px 0 0;
+  text-wrap: balance;
+}
+.about-page .about-section-intro > p,
+.about-page .about-choices-copy > p {
+  font-size: 16px;
+  line-height: 1.85;
+  color: var(--about-copy);
+  margin: 0;
+  max-width: 530px;
+}
+.about-page .about-focus-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 20px;
+}
+.about-page .about-focus-card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  color: var(--support-ink);
+  background: #f5f7f1;
+  border: 1px solid #dfe8db;
+  border-radius: var(--radius-lg);
+  padding: 30px;
+  transition:
+    background var(--duration-normal) var(--ease),
+    border-color var(--duration-normal) var(--ease);
+}
+.about-page .about-focus-card:nth-child(2) {
+  background: #f6f3fa;
+  border-color: #e6dfed;
+}
+.about-page .about-focus-card:nth-child(3) {
+  background: #f4f7fa;
+  border-color: #dfe6ee;
+}
+.about-page .about-focus-card:hover {
+  background: #eaf2e5;
+  border-color: #6e8865;
+  color: var(--support-ink);
+}
+.about-page .about-focus-icon {
+  margin-bottom: 24px;
+}
+.about-page .about-focus-card h3 {
+  font-size: 23px;
+  font-weight: 500;
+  letter-spacing: -0.035em;
+  line-height: 1.25;
+  margin: 0 0 14px;
+}
+.about-page .about-focus-card p {
+  font-size: 15px;
+  line-height: 1.8;
+  color: var(--about-copy);
+  margin: 0 0 28px;
+}
+.about-page .about-card-action {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  gap: 12px;
+  align-items: center;
+  font-size: 13px;
+  font-weight: 600;
+  margin-top: auto;
+}
+.about-page .about-work-link {
+  margin-top: 18px;
+}
+.about-page .about-values {
+  padding-top: 56px;
+  border-top: 1px solid var(--support-line);
+}
+.about-page .support-values {
+  gap: 32px;
+}
+.about-page .support-values h3 {
+  font-size: 19px;
+  line-height: 1.4;
+}
+.about-page .support-values p {
+  font-size: 15px;
+  line-height: 1.8;
+  color: var(--about-copy);
+}
+.about-page .support-value-icon {
+  margin-bottom: 22px;
+  background: var(--about-lavender);
+  color: var(--about-purple);
+}
+.about-page .about-choices {
+  background: var(--about-mint);
+  display: grid;
+  grid-template-columns: 0.95fr 1fr;
+  gap: 60px;
+  align-items: center;
+  border-radius: 32px;
+  padding: 52px 48px;
+}
+.about-page .about-choices h2 {
+  margin-bottom: 20px;
+}
+.about-page .about-choice-list {
+  list-style: none;
+  padding: 0;
+  margin: 26px 0 12px;
+}
+.about-page .about-choice-list li {
+  padding: 16px 0;
+  border-top: 1px solid #cfddcc;
+}
+.about-page .about-choice-list strong {
+  display: block;
+  font-size: 15px;
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+.about-page .about-choice-list span {
+  display: block;
+  font-size: 14px;
+  line-height: 1.75;
+  color: var(--about-copy);
+}
+.about-page .about-next {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  padding: 48px 16px;
+}
+.about-page .about-next > svg {
+  flex-shrink: 0;
+  color: #655080;
+}
+.about-page .about-next > div {
+  flex: 1;
+}
+.about-page .about-next h2 {
+  font-size: 28px;
+  margin: 0 0 8px;
+  text-wrap: initial;
+}
+.about-page .about-next p {
+  font-size: 15px;
+  line-height: 1.75;
+  color: var(--about-copy);
+  margin: 0;
+}
+.about-page .about-next .support-button {
+  flex-shrink: 0;
+}
+.about-page .about-site-note {
+  border-top: 1px solid var(--support-line);
+  padding: 24px 16px 0;
+  color: var(--about-copy);
+}
+.about-page .about-site-note > strong {
+  font-size: 13px;
+  font-weight: 600;
+}
+.about-page .about-site-note p {
+  font-size: 13px;
+  line-height: 1.8;
+  max-width: 1120px;
+  margin: 8px 0 0;
+}
+.about-page a:focus-visible {
+  outline: 3px solid var(--color-focus);
+  outline-offset: 5px;
+}
+@media (max-width: 1100px) {
+  .about-page .about-hero {
+    padding: 48px 32px;
+  }
+  .about-page .about-focus-card {
+    padding: 26px;
+  }
+  .about-page .about-choices {
+    gap: 32px;
+    padding: 40px 32px;
+  }
+  .about-page .about-section-intro {
+    gap: 40px;
+  }
+  .about-page .about-next {
+    flex-wrap: wrap;
+  }
+}
+@media (max-width: 900px) {
+  .about-page .about-hero {
+    grid-template-columns: 1fr;
+    gap: 36px;
+    padding: 44px 40px 32px;
+  }
+  .about-page .about-hero h1 {
+    font-size: clamp(42px, 7.4vw, 60px);
+    max-width: 640px;
+  }
+  .about-page .about-hero-copy > p {
+    max-width: 620px;
+  }
+  .about-page .about-hero-art {
+    width: 100%;
+    max-width: 620px;
+    margin-inline: auto;
+  }
+  .about-page .about-section {
+    padding: 56px 6px;
+  }
+  .about-page .about-focus-grid {
+    gap: 14px;
+  }
+  .about-page .about-focus-card {
+    padding: 24px 20px;
+  }
+  .about-page .about-focus-card h3 {
+    font-size: 21px;
+  }
+  .about-page .about-section-intro {
+    gap: 28px;
+  }
+  .about-page .about-choices {
+    grid-template-columns: 1fr;
+    gap: 28px;
+    padding: 40px;
+  }
+  .about-page .about-choices-art {
+    grid-row: 2;
+    max-width: 520px;
+    width: 100%;
+    margin-inline: auto;
+  }
+  .about-page .about-next {
+    padding: 40px 6px;
+  }
+}
+@media (max-width: 650px) {
+  .about-page {
+    padding-top: 20px;
+  }
+  .about-page .about-hero {
+    padding: 32px 20px 24px;
+    border-radius: 24px;
+    gap: 30px;
+  }
+  .about-page .about-hero h1 {
+    font-size: clamp(37px, 10vw, 54px);
+    margin: 18px 0 20px;
+  }
+  .about-page .about-hero-copy > p {
+    font-size: 16px;
+    line-height: 1.8;
+  }
+  .about-page .about-actions {
+    gap: 12px;
+  }
+  .about-page .about-actions .support-button {
+    padding-inline: 18px;
+    gap: 12px;
+  }
+  .about-page .about-actions .support-text-link {
+    gap: 8px;
+  }
+  .about-page .about-art-caption {
+    font-size: 12px;
+    margin-top: 12px;
+  }
+  .about-page .about-section {
+    padding: 44px 0;
+  }
+  .about-page .about-section-intro {
+    grid-template-columns: 1fr;
+    gap: 22px;
+    margin-bottom: 26px;
+  }
+  .about-page .about-focus-grid {
+    grid-template-columns: 1fr;
+  }
+  .about-page .about-focus-card {
+    padding: 26px;
+  }
+  .about-page .about-focus-icon {
+    margin-bottom: 18px;
+  }
+  .about-page .about-focus-card h3 {
+    font-size: 24px;
+  }
+  .about-page .about-focus-card p {
+    margin-bottom: 20px;
+  }
+  .about-page .support-values {
+    grid-template-columns: 1fr;
+    gap: 28px;
+  }
+  .about-page .support-values > article {
+    display: grid;
+    grid-template-columns: 44px 1fr;
+    column-gap: 16px;
+    align-items: start;
+  }
+  .about-page .support-value-icon {
+    grid-row: 1 / 3;
+    margin: 0;
+  }
+  .about-page .support-values h3 {
+    margin: 0 0 8px;
+  }
+  .about-page .support-values p {
+    grid-column: 2;
+  }
+  .about-page .about-choices {
+    padding: 32px 20px 20px;
+    border-radius: 24px;
+    gap: 20px;
+  }
+  .about-page .about-next {
+    padding: 36px 0;
+    gap: 18px;
+  }
+  .about-page .about-next > svg {
+    display: none;
+  }
+  .about-page .about-next > div {
+    flex-basis: 100%;
+  }
+  .about-page .about-next h2 {
+    font-size: 28px;
+    line-height: 1.25;
+  }
+  .about-page .about-site-note {
+    padding-inline: 0;
+  }
+}

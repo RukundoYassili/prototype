@@ -1,0 +1,86 @@
+[
+  {
+    "id": "grief-types-of-loss",
+    "title": "Different losses deserve acknowledgment",
+    "explanation": "Naming the kind of loss helps keep the discussion accurate. Acknowledging grief-like feelings after employment or relationship loss does not mean applying a bereavement-specific diagnosis.",
+    "reflection": "Optional reflectionWhy does understanding the kind of loss matter?",
+    "scenes": 0
+  },
+  {
+    "id": "grief-changing-experiences",
+    "title": "Grief does not follow a required sequence",
+    "explanation": "A person may miss someone while also studying, resting or enjoying company. Those experiences can coexist, and reminders may bring feelings back without meaning that someone has failed to adjust.",
+    "reflection": "Optional reflectionWhy would a fixed deadline for moving on miss the person's circumstances?",
+    "scenes": 0
+  },
+  {
+    "id": "grief-daily-check",
+    "title": "One small support check",
+    "explanation": "The check focuses on what might support the current day. It allows a small action, no action, or asking for help, without measuring how well someone is grieving.",
+    "reflection": "Optional reflectionWhy does this activity ask for at most one small action?",
+    "scenes": 0
+  },
+  {
+    "id": "grief-grounding",
+    "title": "A choice during an intense wave",
+    "explanation": "The activity responds to an intense moment by noticing the current setting. It avoids deliberately evoking memories, and the person can choose another response or stop.",
+    "reflection": "Optional reflectionWhat makes this different from deliberately revisiting painful memories?",
+    "scenes": 0
+  },
+  {
+    "id": "grief-support-map",
+    "title": "Different people may offer different help",
+    "explanation": "Listening, practical assistance and clinical care may come from different sources. An incomplete map is acceptable and does not imply that someone has failed to build enough support.",
+    "reflection": "Optional reflectionWhy is it acceptable to leave a support-map category blank?",
+    "scenes": 0
+  },
+  {
+    "id": "grief-remembering",
+    "title": "Meaning without pressure",
+    "explanation": "Meaningful connection may take a gentle form that the person chooses. Skipping remembrance and focusing on present-day care is also included in the source activity.",
+    "reflection": "Optional reflectionHow could someone take part by choosing present-day care instead?",
+    "scenes": 0
+  },
+  {
+    "id": "grief-difficult-date",
+    "title": "A flexible plan for a difficult date",
+    "explanation": "Decisions about company, essential tasks and breaks can reduce unnecessary demands. A flexible plan leaves room for feelings or practical needs to change during the day.",
+    "reflection": "Optional reflectionWhich parts of a plan could change if the day feels harder than expected?",
+    "scenes": 0
+  },
+  {
+    "id": "grief-student",
+    "title": "Scenario A — A student after a parent’s death",
+    "explanation": "The student's loss and practical obligations are both acknowledged. Academic flexibility and trusted support can help without turning understandable grief into a diagnosis.",
+    "reflection": "Optional reflectionWhat academic or practical pressures accompany the grief in this example?",
+    "scenes": 2
+  },
+  {
+    "id": "grief-anniversary",
+    "title": "Scenario B — A parent facing anniversary grief",
+    "explanation": "An anniversary can be painful even when a person participates in daily life. Chosen company is one option, not a requirement to grieve in a particular way.",
+    "reflection": "Optional reflectionWhy does ongoing sadness on an anniversary not establish a disorder?",
+    "scenes": 2
+  },
+  {
+    "id": "grief-employment",
+    "title": "Scenario C — Loss of employment and identity",
+    "explanation": "Employment loss can affect identity and security. The source distinguishes this experience from prolonged grief disorder, which concerns bereavement following death.",
+    "reflection": "Optional reflectionWhy does the kind of loss matter when discussing prolonged grief disorder?",
+    "scenes": 2
+  },
+  {
+    "id": "grief-assessment",
+    "title": "Scenario D — Severe grief that is not improving",
+    "explanation": "The concern is substantial, persistent impairment in context. A clinician may consider several explanations; the timing or photograph alone does not establish a disorder.",
+    "reflection": "Optional reflectionWhat information would a qualified assessment need beyond this short example?",
+    "scenes": 2
+  },
+  {
+    "id": "grief-child",
+    "title": "Scenario E — A child and confusing explanations",
+    "explanation": "An honest, developmentally appropriate explanation can address confusion while allowing questions. A child should not be forced into public discussion or distressing remembrance.",
+    "reflection": "Optional reflectionHow can an adult answer questions without forcing a particular emotional response?",
+    "scenes": 2
+  }
+]

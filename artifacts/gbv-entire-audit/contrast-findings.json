@@ -1,0 +1,2991 @@
+[
+  {
+    "chapter": 1,
+    "contrastRisks": []
+  },
+  {
+    "chapter": 2,
+    "contrastRisks": [
+      {
+        "text": "CHAPTER 02",
+        "ratio": 4.45,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(98, 128, 80)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reader-chapter-number"
+      },
+      {
+        "text": "(10 pages)",
+        "ratio": 4.31,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 123, 93)",
+        "background": "246,249,240",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "1",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "2",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "3",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "4",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "5",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "6",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "7",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "8",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "9",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "10",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "11",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "12",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "13",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "14",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "15",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "16",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "17",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "18",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "19",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "[1]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "[2]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "[3]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "[4]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "[5]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "[6]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "[7]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "[8]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "[9]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "[10]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "[11]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "[12]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "Original document: VUGA_NDAKUMVA_GBV_Expanded_Chapter_02_Types_and_Forms.pdf",
+        "ratio": 4.48,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(107, 124, 98)",
+        "background": "255,255,255",
+        "tag": "P",
+        "cls": "mh-original-file"
+      },
+      {
+        "text": "PREVIOUS CHAPTER",
+        "ratio": 3.9,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 131, 94)",
+        "background": "246,249,240",
+        "tag": "SMALL",
+        "cls": ""
+      },
+      {
+        "text": "NEXT CHAPTER · 03",
+        "ratio": 3.65,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 131, 94)",
+        "background": "234,244,220",
+        "tag": "SMALL",
+        "cls": ""
+      }
+    ]
+  },
+  {
+    "chapter": 3,
+    "contrastRisks": [
+      {
+        "text": "CHAPTER 03",
+        "ratio": 4.45,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(98, 128, 80)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reader-chapter-number"
+      },
+      {
+        "text": "(11 pages)",
+        "ratio": 4.31,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 123, 93)",
+        "background": "246,249,240",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "1",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "2",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "3",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "4",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "5",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "6",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "7",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "8",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "9",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "10",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "11",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "12",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "13",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "14",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "15",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "16",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "17",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "18",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "19",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "20",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "[1]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "[2]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "[3]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "[4]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "[5]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "[6]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "Original document: VUGA_NDAKUMVA_GBV_Expanded_Chapter_03_Root_Causes_Risk_Factor",
+        "ratio": 4.48,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(107, 124, 98)",
+        "background": "255,255,255",
+        "tag": "P",
+        "cls": "mh-original-file"
+      },
+      {
+        "text": "PREVIOUS CHAPTER",
+        "ratio": 3.9,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 131, 94)",
+        "background": "246,249,240",
+        "tag": "SMALL",
+        "cls": ""
+      },
+      {
+        "text": "NEXT CHAPTER · 04",
+        "ratio": 3.65,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 131, 94)",
+        "background": "234,244,220",
+        "tag": "SMALL",
+        "cls": ""
+      }
+    ]
+  },
+  {
+    "chapter": 4,
+    "contrastRisks": [
+      {
+        "text": "CHAPTER 04",
+        "ratio": 4.45,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(98, 128, 80)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reader-chapter-number"
+      },
+      {
+        "text": "(9 pages)",
+        "ratio": 4.31,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 123, 93)",
+        "background": "246,249,240",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "01",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "02",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "03",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "04",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "05",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "06",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "07",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "08",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "09",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "10",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "11",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "12",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "13",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "14",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "15",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "16",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "17",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "12",
+        "ratio": 4.18,
+        "required": 4.5,
+        "font": "14px",
+        "color": "rgb(94, 126, 77)",
+        "background": "241,246,232",
+        "tag": "SPAN",
+        "cls": "mh-section-number"
+      },
+      {
+        "text": "TXT",
+        "ratio": 4.3,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(107, 128, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "[1]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "[2]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "[3]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "[4]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "[5]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "[6]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "Original document: VUGA_NDAKUMVA_GBV_Expanded_Chapter_04_Consent_Boundaries_Bodi",
+        "ratio": 4.48,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(107, 124, 98)",
+        "background": "255,255,255",
+        "tag": "P",
+        "cls": "mh-original-file"
+      },
+      {
+        "text": "PREVIOUS CHAPTER",
+        "ratio": 3.9,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 131, 94)",
+        "background": "246,249,240",
+        "tag": "SMALL",
+        "cls": ""
+      },
+      {
+        "text": "NEXT CHAPTER · 05",
+        "ratio": 3.65,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 131, 94)",
+        "background": "234,244,220",
+        "tag": "SMALL",
+        "cls": ""
+      }
+    ]
+  },
+  {
+    "chapter": 5,
+    "contrastRisks": [
+      {
+        "text": "CHAPTER 05",
+        "ratio": 4.45,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(98, 128, 80)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reader-chapter-number"
+      },
+      {
+        "text": "(9 pages)",
+        "ratio": 4.31,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 123, 93)",
+        "background": "246,249,240",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "01",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "02",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "03",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "04",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "05",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "06",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "07",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "08",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "09",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "10",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "11",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "12",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "13",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "14",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "15",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "16",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "17",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "12",
+        "ratio": 4.18,
+        "required": 4.5,
+        "font": "14px",
+        "color": "rgb(94, 126, 77)",
+        "background": "241,246,232",
+        "tag": "SPAN",
+        "cls": "mh-section-number"
+      },
+      {
+        "text": "TXT",
+        "ratio": 4.3,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(107, 128, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "[1]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "[2]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "[3]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "[4]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "[5]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "[6]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "[7]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "Original document: chapter 5 updated.pdf",
+        "ratio": 4.48,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(107, 124, 98)",
+        "background": "255,255,255",
+        "tag": "P",
+        "cls": "mh-original-file"
+      },
+      {
+        "text": "PREVIOUS CHAPTER",
+        "ratio": 3.9,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 131, 94)",
+        "background": "246,249,240",
+        "tag": "SMALL",
+        "cls": ""
+      },
+      {
+        "text": "NEXT CHAPTER · 06",
+        "ratio": 3.65,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 131, 94)",
+        "background": "234,244,220",
+        "tag": "SMALL",
+        "cls": ""
+      }
+    ]
+  },
+  {
+    "chapter": 6,
+    "contrastRisks": [
+      {
+        "text": "CHAPTER 06",
+        "ratio": 4.45,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(98, 128, 80)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reader-chapter-number"
+      },
+      {
+        "text": "(9 pages)",
+        "ratio": 4.31,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 123, 93)",
+        "background": "246,249,240",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "1",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "2",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "3",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "4",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "5",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "6",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "7",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "8",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "9",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "10",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "11",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "12",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "13",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "14",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "15",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "16",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "17",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "18",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "14",
+        "ratio": 4.18,
+        "required": 4.5,
+        "font": "14px",
+        "color": "rgb(94, 126, 77)",
+        "background": "241,246,232",
+        "tag": "SPAN",
+        "cls": "mh-section-number"
+      },
+      {
+        "text": "TXT",
+        "ratio": 4.3,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(107, 128, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "[1]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "[2]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "[3]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "[4]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "[5]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "[6]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "[7]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "[8]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "[9]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "Original document: GBV_Chapter_06_Sexual_Violence_Harassment_Exploitation.pdf",
+        "ratio": 4.48,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(107, 124, 98)",
+        "background": "255,255,255",
+        "tag": "P",
+        "cls": "mh-original-file"
+      },
+      {
+        "text": "PREVIOUS CHAPTER",
+        "ratio": 3.9,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 131, 94)",
+        "background": "246,249,240",
+        "tag": "SMALL",
+        "cls": ""
+      },
+      {
+        "text": "NEXT CHAPTER · 07",
+        "ratio": 3.65,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 131, 94)",
+        "background": "234,244,220",
+        "tag": "SMALL",
+        "cls": ""
+      }
+    ]
+  },
+  {
+    "chapter": 7,
+    "contrastRisks": [
+      {
+        "text": "CHAPTER 07",
+        "ratio": 4.45,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(98, 128, 80)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reader-chapter-number"
+      },
+      {
+        "text": "(14 pages)",
+        "ratio": 4.31,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 123, 93)",
+        "background": "246,249,240",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "01",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "02",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "03",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "04",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "05",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "06",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "07",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "08",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "09",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "10",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "11",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "12",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "13",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "14",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "15",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "16",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "17",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "18",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "19",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "20",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "21",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "22",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "23",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "18",
+        "ratio": 4.18,
+        "required": 4.5,
+        "font": "14px",
+        "color": "rgb(94, 126, 77)",
+        "background": "241,246,232",
+        "tag": "SPAN",
+        "cls": "mh-section-number"
+      },
+      {
+        "text": "TXT",
+        "ratio": 4.3,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(107, 128, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "[1]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "[2]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "[3]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "[4]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "[5]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "[6]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "[7]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "Original document: VUGA_NDAKUMVA_GBV_Chapter_07_Emotional_Psychological_Verbal_A",
+        "ratio": 4.48,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(107, 124, 98)",
+        "background": "255,255,255",
+        "tag": "P",
+        "cls": "mh-original-file"
+      },
+      {
+        "text": "PREVIOUS CHAPTER",
+        "ratio": 3.9,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 131, 94)",
+        "background": "246,249,240",
+        "tag": "SMALL",
+        "cls": ""
+      },
+      {
+        "text": "NEXT CHAPTER · 08",
+        "ratio": 3.65,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 131, 94)",
+        "background": "234,244,220",
+        "tag": "SMALL",
+        "cls": ""
+      }
+    ]
+  },
+  {
+    "chapter": 8,
+    "contrastRisks": [
+      {
+        "text": "CHAPTER 08",
+        "ratio": 4.45,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(98, 128, 80)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reader-chapter-number"
+      },
+      {
+        "text": "(12 pages)",
+        "ratio": 4.31,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 123, 93)",
+        "background": "246,249,240",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "1",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "2",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "3",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "4",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "5",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "6",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "7",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "8",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "9",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "10",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "11",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "12",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "13",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "14",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "15",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "16",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "17",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "18",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "11",
+        "ratio": 4.18,
+        "required": 4.5,
+        "font": "14px",
+        "color": "rgb(94, 126, 77)",
+        "background": "241,246,232",
+        "tag": "SPAN",
+        "cls": "mh-section-number"
+      },
+      {
+        "text": "TXT",
+        "ratio": 4.3,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(107, 128, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "[1]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "[2]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "[3]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "[4]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "[5]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "[6]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "[7]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "[8]",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "Original document: GBV Chapter 8 Modern.pdf",
+        "ratio": 4.48,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(107, 124, 98)",
+        "background": "255,255,255",
+        "tag": "P",
+        "cls": "mh-original-file"
+      },
+      {
+        "text": "PREVIOUS CHAPTER",
+        "ratio": 3.9,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 131, 94)",
+        "background": "246,249,240",
+        "tag": "SMALL",
+        "cls": ""
+      },
+      {
+        "text": "NEXT CHAPTER · 09",
+        "ratio": 3.65,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 131, 94)",
+        "background": "234,244,220",
+        "tag": "SMALL",
+        "cls": ""
+      }
+    ]
+  },
+  {
+    "chapter": 9,
+    "contrastRisks": [
+      {
+        "text": "CHAPTER 09",
+        "ratio": 4.45,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(98, 128, 80)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reader-chapter-number"
+      },
+      {
+        "text": "(10 pages)",
+        "ratio": 4.31,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 123, 93)",
+        "background": "246,249,240",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "01",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "02",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "03",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "04",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "05",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "06",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "07",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "08",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "09",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "10",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "11",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "12",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "13",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "14",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "15",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "16",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "17",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "18",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "19",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "20",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "17",
+        "ratio": 4.18,
+        "required": 4.5,
+        "font": "14px",
+        "color": "rgb(94, 126, 77)",
+        "background": "241,246,232",
+        "tag": "SPAN",
+        "cls": "mh-section-number"
+      },
+      {
+        "text": "TXT",
+        "ratio": 4.3,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(107, 128, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "1.",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "2.",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "3.",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "4.",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "5.",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "6.",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "7.",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "8.",
+        "ratio": 4.15,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 133, 82)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reference-number"
+      },
+      {
+        "text": "Original document: GBV_Chapter_09_Technology_Facilitated_Online_GBV.pdf",
+        "ratio": 4.48,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(107, 124, 98)",
+        "background": "255,255,255",
+        "tag": "P",
+        "cls": "mh-original-file"
+      },
+      {
+        "text": "PREVIOUS CHAPTER",
+        "ratio": 3.9,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 131, 94)",
+        "background": "246,249,240",
+        "tag": "SMALL",
+        "cls": ""
+      },
+      {
+        "text": "NEXT CHAPTER · 10",
+        "ratio": 3.65,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 131, 94)",
+        "background": "234,244,220",
+        "tag": "SMALL",
+        "cls": ""
+      }
+    ]
+  },
+  {
+    "chapter": 10,
+    "contrastRisks": [
+      {
+        "text": "CHAPTER 10",
+        "ratio": 4.45,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(98, 128, 80)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": "mh-reader-chapter-number"
+      },
+      {
+        "text": "(10 pages)",
+        "ratio": 4.31,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(104, 123, 93)",
+        "background": "246,249,240",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "01",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "02",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "03",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "04",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "05",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "06",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "07",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "08",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "09",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "10",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "11",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "12",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "13",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "14",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "15",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "16",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "17",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "18",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "19",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "20",
+        "ratio": 4.02,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 134, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "17",
+        "ratio": 4.18,
+        "required": 4.5,
+        "font": "14px",
+        "color": "rgb(94, 126, 77)",
+        "background": "241,246,232",
+        "tag": "SPAN",
+        "cls": "mh-section-number"
+      },
+      {
+        "text": "TXT",
+        "ratio": 4.3,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(107, 128, 95)",
+        "background": "255,255,255",
+        "tag": "SPAN",
+        "cls": ""
+      },
+      {
+        "text": "Original document: GBV_Chapter_10_Children_and_Adolescents.pdf",
+        "ratio": 4.48,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(107, 124, 98)",
+        "background": "255,255,255",
+        "tag": "P",
+        "cls": "mh-original-file"
+      },
+      {
+        "text": "PREVIOUS CHAPTER",
+        "ratio": 3.9,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 131, 94)",
+        "background": "246,249,240",
+        "tag": "SMALL",
+        "cls": ""
+      },
+      {
+        "text": "THE SERIES CONTINUES",
+        "ratio": 3.65,
+        "required": 4.5,
+        "font": "12px",
+        "color": "rgb(109, 131, 94)",
+        "background": "234,244,220",
+        "tag": "SMALL",
+        "cls": ""
+      }
+    ]
+  }
+]

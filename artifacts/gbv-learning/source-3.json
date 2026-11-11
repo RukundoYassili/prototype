@@ -1,0 +1,3293 @@
+[
+  {
+    "page": 1,
+    "height": 841.8898,
+    "lines": [
+      {
+        "text": "VUGA NDAKUMVA INITIATIVE",
+        "x0": 61.0,
+        "top": 66.88281280000001,
+        "x1": 234.77148160000004,
+        "bottom": 78.88281280000001,
+        "size": 12.0,
+        "bold": 0.0
+      },
+      {
+        "text": "CHAPTER 03",
+        "x0": 61.0,
+        "top": 101.52539119999994,
+        "x1": 220.91064640000002,
+        "bottom": 124.52539119999994,
+        "size": 23.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Root Causes, Risk Factors, and",
+        "x0": 61.0,
+        "top": 132.52539119999994,
+        "x1": 462.1972569999999,
+        "bottom": 155.52539119999994,
+        "size": 23.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Gender Inequality",
+        "x0": 61.0,
+        "top": 163.52539119999994,
+        "x1": 293.9086950000001,
+        "bottom": 186.52539119999994,
+        "size": 23.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Gender-Based Violence Educational Content Library | Expanded Chapter 03 |",
+        "x0": 61.0,
+        "top": 204.8828128,
+        "x1": 523.2285184000001,
+        "bottom": 216.8828128,
+        "size": 12.0,
+        "bold": 0.0
+      },
+      {
+        "text": "Version 1.1 | November 2026",
+        "x0": 61.0,
+        "top": 223.8828128,
+        "x1": 237.40820680000007,
+        "bottom": 235.8828128,
+        "size": 12.0,
+        "bold": 0.0
+      },
+      {
+        "text": "Educational status: Evidence-informed draft for learning and community awareness. It is not a",
+        "x0": 70.6378,
+        "top": 265.2341799200001,
+        "x1": 510.76666026999993,
+        "bottom": 274.53417992000004,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "substitute for individualized legal, medical, psychological, or protection advice. Requires",
+        "x0": 70.6378,
+        "top": 280.43417992,
+        "x1": 483.67495581999975,
+        "bottom": 289.73417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "specialist safeguarding, legal and Rwanda localization review before public release.",
+        "x0": 70.6378,
+        "top": 295.63417992000007,
+        "x1": 460.91992971999986,
+        "bottom": 304.93417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Chapter purpose and learning outcomes",
+        "x0": 61.0,
+        "top": 346.9632816,
+        "x1": 379.10351299999996,
+        "bottom": 360.9632816,
+        "size": 14.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Gender-based violence (GBV) does not emerge from one simple cause. This chapter helps readers",
+        "x0": 61.0,
+        "top": 373.83417992000005,
+        "x1": 519.8605492,
+        "bottom": 383.13417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "understand how unequal power relations and harmful gender norms create conditions that permit",
+        "x0": 61.0,
+        "top": 389.03417992000004,
+        "x1": 518.91147769,
+        "bottom": 398.33417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "violence, how risk factors operate at different levels, and how families, schools, communities,",
+        "x0": 61.0,
+        "top": 404.23417992000003,
+        "x1": 498.13179018999983,
+        "bottom": 413.53417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "services, and institutions can reduce harm. It also explains why identifying a risk factor never",
+        "x0": 61.0,
+        "top": 419.43417992,
+        "x1": 497.7548872299998,
+        "bottom": 428.73417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "justifies blaming a survivor.",
+        "x0": 61.0,
+        "top": 434.63417992000007,
+        "x1": 189.79682623,
+        "bottom": 443.93417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "• Explain gender inequality, power and coercive control in plain language.",
+        "x0": 66.0,
+        "top": 457.78613304000004,
+        "x1": 404.9305683400001,
+        "bottom": 466.88613304000006,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "• Distinguish root causes from risk factors, triggers, protective factors, and individual accountability.",
+        "x0": 66.0,
+        "top": 477.38613304,
+        "x1": 525.9365716400001,
+        "bottom": 486.48613304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "• Apply the ecological model to illustrative Rwandan settings without stereotyping communities.",
+        "x0": 66.0,
+        "top": 496.98613304,
+        "x1": 507.0567361200004,
+        "bottom": 506.08613304000005,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "• Recognize prevention strategies with stronger evidence and avoid unsafe interventions.",
+        "x0": 66.0,
+        "top": 516.58613304,
+        "x1": 476.6641630000001,
+        "bottom": 525.6861330400001,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "• Practice respectful, survivor-centred responses and identify when specialist help is needed.",
+        "x0": 66.0,
+        "top": 536.18613304,
+        "x1": 492.17148665000013,
+        "bottom": 545.2861330400001,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "1. Understanding what drives GBV",
+        "x0": 61.0,
+        "top": 569.9632816000001,
+        "x1": 333.2753894,
+        "bottom": 583.9632816000001,
+        "size": 14.0,
+        "bold": 1.0
+      },
+      {
+        "text": "GBV refers to harmful acts linked to gender-based expectations, discrimination, or unequal power",
+        "x0": 61.0,
+        "top": 596.83417992,
+        "x1": 517.9396983699999,
+        "bottom": 606.1341799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "relations. Research on violence against women and girls consistently identifies gender inequality as a",
+        "x0": 61.0,
+        "top": 612.03417992,
+        "x1": 534.2755942499999,
+        "bottom": 621.33417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "structural driver, especially when beliefs about entitlement, control, and obedience make abuse",
+        "x0": 61.0,
+        "top": 627.23417992,
+        "x1": 509.79765903999987,
+        "bottom": 636.53417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "seem acceptable or inevitable [1,2]. Other people, including men and boys, may experience",
+        "x0": 61.0,
+        "top": 642.43417992,
+        "x1": 491.5654824099999,
+        "bottom": 651.7341799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "gender-related abuse and deserve equally respectful support.",
+        "x0": 61.0,
+        "top": 657.63417992,
+        "x1": 350.0401870000001,
+        "bottom": 666.93417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "It is useful to separate the conditions that allow violence from the decision to commit violence. A",
+        "x0": 61.0,
+        "top": 680.83417992,
+        "x1": 513.7574223399997,
+        "bottom": 690.1341799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "setting may tolerate intimidation or unequal authority; nevertheless, an individual who uses violence",
+        "x0": 61.0,
+        "top": 696.03417992,
+        "x1": 532.8115264599996,
+        "bottom": 705.33417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "is responsible for that conduct. Poverty, alcohol use, jealousy, disagreement, or cultural tradition are",
+        "x0": 61.0,
+        "top": 711.2341799200001,
+        "x1": 531.80795974,
+        "bottom": 720.53417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "never excuses.",
+        "x0": 61.0,
+        "top": 726.43417992,
+        "x1": 131.22226795000003,
+        "bottom": 735.7341799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA | GBV EDUCATIONAL CONTENT | DRAFT Page 1",
+        "x0": 48.0,
+        "top": 801.191558,
+        "x1": 547.27561425,
+        "bottom": 808.691558,
+        "size": 7.5,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 2,
+    "height": 841.8898,
+    "lines": [
+      {
+        "text": "Three concepts that should not be confused",
+        "x0": 61.0,
+        "top": 66.52246119999995,
+        "x1": 322.3515604000001,
+        "bottom": 77.02246119999995,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Concept Meaning and example",
+        "x0": 70.0,
+        "top": 94.92187520000016,
+        "x1": 308.87890799999997,
+        "bottom": 102.92187520000016,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "Root or structural driver A broad, persistent condition that supports GBV, such as norms accepting",
+        "x0": 70.0,
+        "top": 123.2218752,
+        "x1": 516.8203120000002,
+        "bottom": 131.2218752000001,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "control of women or unequal access to decision-making.",
+        "x0": 220.0,
+        "top": 135.52187520000007,
+        "x1": 446.2539080000001,
+        "bottom": 143.52187520000007,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "Risk factor A circumstance statistically associated with greater likelihood of violence,",
+        "x0": 70.0,
+        "top": 163.82187520000002,
+        "x1": 516.4882808000001,
+        "bottom": 171.82187520000014,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "such as prior exposure to family violence; not a prediction about one person.",
+        "x0": 220.0,
+        "top": 176.1218752000001,
+        "x1": 529.1992208,
+        "bottom": 184.1218752000001,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "Protective factor A condition that may reduce risk, such as equitable relationships, accessible",
+        "x0": 70.0,
+        "top": 204.42187520000004,
+        "x1": 526.7460952000001,
+        "bottom": 212.42187520000016,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "survivor services, or effective institutional accountability.",
+        "x0": 220.0,
+        "top": 216.7218752000001,
+        "x1": 449.9687504000001,
+        "bottom": 224.7218752000001,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "2. Gender inequality and unequal power",
+        "x0": 61.0,
+        "top": 266.4632816000001,
+        "x1": 378.9873074,
+        "bottom": 280.4632816000001,
+        "size": 14.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Gender inequality describes unequal rights, opportunities, resources, expectations or influence",
+        "x0": 61.0,
+        "top": 293.33417992,
+        "x1": 504.9750993999997,
+        "bottom": 302.63417991999995,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "associated with gender. It can operate through everyday decisions about who may study, work, own",
+        "x0": 61.0,
+        "top": 308.53417992000004,
+        "x1": 530.0823772899998,
+        "bottom": 317.83417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "property, travel, speak in public, control money, or refuse sexual activity. The relationship to GBV",
+        "x0": 61.0,
+        "top": 323.73417992,
+        "x1": 517.2585459099997,
+        "bottom": 333.03417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "becomes especially concerning when someone treats these inequalities as a right to dominate",
+        "x0": 61.0,
+        "top": 338.93417992,
+        "x1": 502.6591827099998,
+        "bottom": 348.23417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "another person [1,3].",
+        "x0": 61.0,
+        "top": 354.13417992000007,
+        "x1": 160.16215954000003,
+        "bottom": 363.43417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Power itself is not violence. Parents, teachers, managers and public officials may hold legitimate",
+        "x0": 61.0,
+        "top": 377.33417992000005,
+        "x1": 511.83203217999977,
+        "bottom": 386.63417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "responsibilities. Abuse occurs when a person misuses authority to threaten, exploit, isolate,",
+        "x0": 61.0,
+        "top": 392.53417992000004,
+        "x1": 488.9634772599998,
+        "bottom": 401.83417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "humiliate, coerce, or harm someone. A manager who links a job opportunity to unwanted sexual",
+        "x0": 61.0,
+        "top": 407.73417992000003,
+        "x1": 511.2598673499999,
+        "bottom": 417.03417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "conduct is misusing professional power. A partner who blocks access to shared finances to force",
+        "x0": 61.0,
+        "top": 422.93417992,
+        "x1": 511.0646026899998,
+        "bottom": 432.23417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "obedience is using economic control.",
+        "x0": 61.0,
+        "top": 438.13417992000007,
+        "x1": 233.89008852999999,
+        "bottom": 447.43417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Formal equality matters, but written rights do not by themselves eliminate harmful practices.",
+        "x0": 61.0,
+        "top": 461.33417992000005,
+        "x1": 497.57778267999976,
+        "bottom": 470.63417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Effective prevention also changes behavior, accountability, access to resources, and what people",
+        "x0": 61.0,
+        "top": 476.53417992000004,
+        "x1": 515.7645548499997,
+        "bottom": 485.83417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "consider acceptable in everyday relationships.",
+        "x0": 61.0,
+        "top": 491.7341799200001,
+        "x1": 278.03330206,
+        "bottom": 501.03417992000004,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "3. Harmful norms and learned beliefs",
+        "x0": 61.0,
+        "top": 526.0632816,
+        "x1": 355.9501911999999,
+        "bottom": 540.0632816,
+        "size": 14.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Social norms are shared expectations about what people in a group typically do or approve of. Some",
+        "x0": 61.0,
+        "top": 552.93417992,
+        "x1": 531.6444834099998,
+        "bottom": 562.23417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "norms protect dignity and collective care. Others create risk when they say that a partner must",
+        "x0": 61.0,
+        "top": 568.1341799200001,
+        "x1": 507.37729776999987,
+        "bottom": 577.43417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "always obey, that jealousy proves love, that boys must be aggressive to be respected, or that",
+        "x0": 61.0,
+        "top": 583.33417992,
+        "x1": 499.57129068999984,
+        "bottom": 592.6341799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "reporting violence dishonors a family.",
+        "x0": 61.0,
+        "top": 598.53417992,
+        "x1": 237.15507859000007,
+        "bottom": 607.83417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Children can learn these expectations through observation, jokes, peer pressure, media messages,",
+        "x0": 61.0,
+        "top": 621.7341799200001,
+        "x1": 523.7976121299998,
+        "bottom": 631.03417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "social institutions, and how adults respond to conflict. However, seeing violence in childhood does",
+        "x0": 61.0,
+        "top": 636.93417992,
+        "x1": 519.2792973399997,
+        "bottom": 646.2341799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "not mean a person will inevitably become violent. It indicates a possible risk that supportive",
+        "x0": 61.0,
+        "top": 652.1341799200001,
+        "x1": 491.5336912899998,
+        "bottom": 661.43417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "relationships, education and intervention can help address [2,4].",
+        "x0": 61.0,
+        "top": 667.33417992,
+        "x1": 363.1637229699999,
+        "bottom": 676.6341799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA | GBV EDUCATIONAL CONTENT | DRAFT Page 2",
+        "x0": 48.0,
+        "top": 801.191558,
+        "x1": 547.27561425,
+        "bottom": 808.691558,
+        "size": 7.5,
+        "bold": 0.0
+      }
+    ],
+    "tables": [
+      {
+        "bbox": [
+          61.0,
+          85.0,
+          541.0,
+          235.10000000000002
+        ],
+        "rows": [
+          [
+            "Concept Meaning and example"
+          ],
+          [
+            "Root or structural driver A broad, persistent condition that supports GBV, such as norms accepting\ncontrol of women or unequal access to decision-making."
+          ],
+          [
+            "Risk factor A circumstance statistically associated with greater likelihood of violence,\nsuch as prior exposure to family violence; not a prediction about one person."
+          ],
+          [
+            "Protective factor A condition that may reduce risk, such as equitable relationships, accessible\nsurvivor services, or effective institutional accountability."
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "height": 841.8898,
+    "lines": [
+      {
+        "text": "Common harmful messages and healthier alternatives",
+        "x0": 61.0,
+        "top": 66.52246119999995,
+        "x1": 382.7726974000001,
+        "bottom": 77.02246119999995,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Harmful message Healthier principle",
+        "x0": 70.0,
+        "top": 94.92187520000016,
+        "x1": 373.7499992,
+        "bottom": 102.92187520000016,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "\"A partner must obey without question.\" Adults have equal dignity and may express disagreement",
+        "x0": 70.0,
+        "top": 123.2218752,
+        "x1": 531.5820328,
+        "bottom": 131.2218752000001,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "without fear.",
+        "x0": 300.0,
+        "top": 135.52187520000007,
+        "x1": 351.08984399999997,
+        "bottom": 143.52187520000007,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "\"Real men must control the household.\" Responsibility and care do not require coercion or",
+        "x0": 70.0,
+        "top": 163.82187520000002,
+        "x1": 500.20312479999996,
+        "bottom": 171.82187520000014,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "domination.",
+        "x0": 300.0,
+        "top": 176.1218752000001,
+        "x1": 347.8281248,
+        "bottom": 184.1218752000001,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "\"Family matters should never be discussed outside.\" Privacy matters, but seeking safe support for violence is",
+        "x0": 70.0,
+        "top": 204.42187520000004,
+        "x1": 525.9414072000001,
+        "bottom": 212.42187520000016,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "legitimate.",
+        "x0": 300.0,
+        "top": 216.7218752000001,
+        "x1": 343.10156159999997,
+        "bottom": 224.7218752000001,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "\"If someone stays, the abuse cannot be serious.\" Leaving may create danger or involve housing, childcare,",
+        "x0": 70.0,
+        "top": 245.02187520000007,
+        "x1": 530.6757840000001,
+        "bottom": 253.02187520000018,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "and financial barriers.",
+        "x0": 300.0,
+        "top": 257.32187520000014,
+        "x1": 387.6679696,
+        "bottom": 265.32187520000014,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "4. The ecological model: four connected levels",
+        "x0": 61.0,
+        "top": 307.0632816000001,
+        "x1": 428.11034499999994,
+        "bottom": 321.0632816000001,
+        "size": 14.0,
+        "bold": 1.0
+      },
+      {
+        "text": "The social-ecological model used in public health examines how influences interact at the individual,",
+        "x0": 61.0,
+        "top": 333.93417992,
+        "x1": 531.0723167199998,
+        "bottom": 343.23417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "relationship, community, and societal levels [2,4]. No single level explains every incident. Prevention",
+        "x0": 61.0,
+        "top": 349.13417992,
+        "x1": 532.7297878299996,
+        "bottom": 358.43417991999996,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "becomes stronger when actions address several levels at once.",
+        "x0": 61.0,
+        "top": 364.33417992000005,
+        "x1": 356.96069644,
+        "bottom": 373.63417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Level Examples of concerns Possible protective response",
+        "x0": 70.0,
+        "top": 395.2218752,
+        "x1": 468.8320304,
+        "bottom": 403.2218752,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "Individual Attitudes condoning abuse; prior exposure Nonviolent conflict skills, respectful gender",
+        "x0": 70.0,
+        "top": 423.5218752,
+        "x1": 527.0468752,
+        "bottom": 431.5218752,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "to violence; harmful alcohol use in some education, accessible support.",
+        "x0": 162.0,
+        "top": 435.82187519999997,
+        "x1": 475.9843752,
+        "bottom": 443.8218752,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "contexts.",
+        "x0": 162.0,
+        "top": 448.1218752,
+        "x1": 199.0039064,
+        "bottom": 456.1218752,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "Relationship Controlling behavior, extreme power Equitable decision-making and intervention",
+        "x0": 70.0,
+        "top": 476.4218752,
+        "x1": 528.6210936,
+        "bottom": 484.42187520000004,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "imbalance, threats, isolation. addressing perpetration.",
+        "x0": 162.0,
+        "top": 488.7218752,
+        "x1": 453.0039056,
+        "bottom": 496.7218752,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "Community Harassment tolerated at school or work; Safe complaint channels, bystander",
+        "x0": 70.0,
+        "top": 517.0218752000001,
+        "x1": 497.81250159999996,
+        "bottom": 525.0218752000001,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "barriers to reporting; unsafe public spaces. responsibility, trained staff.",
+        "x0": 162.0,
+        "top": 529.3218752,
+        "x1": 464.0624992,
+        "bottom": 537.3218752,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "Societal Discriminatory practices, weak Equality policies, accountable institutions,",
+        "x0": 70.0,
+        "top": 557.6218752,
+        "x1": 522.7812488000001,
+        "bottom": 565.6218752,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "enforcement, norms accepting GBV. long-term norm change.",
+        "x0": 162.0,
+        "top": 569.9218752,
+        "x1": 451.4101568,
+        "bottom": 577.9218752,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "Risk factors in a table are not labels to attach to individuals. A person experiencing unemployment or",
+        "x0": 61.0,
+        "top": 600.53417992,
+        "x1": 534.2755968499998,
+        "bottom": 609.83417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "a mental health difficulty should never be assumed to be violent or likely to experience abuse.",
+        "x0": 61.0,
+        "top": 615.7341799200001,
+        "x1": 503.04062871999963,
+        "bottom": 625.03417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Assessment must be grounded in actual behavior and context.",
+        "x0": 61.0,
+        "top": 630.93417992,
+        "x1": 353.8410179499999,
+        "bottom": 640.2341799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA | GBV EDUCATIONAL CONTENT | DRAFT Page 3",
+        "x0": 48.0,
+        "top": 801.191558,
+        "x1": 547.27561425,
+        "bottom": 808.691558,
+        "size": 7.5,
+        "bold": 0.0
+      }
+    ],
+    "tables": [
+      {
+        "bbox": [
+          61.0,
+          85.00000000000011,
+          541.0,
+          275.70000000000005
+        ],
+        "rows": [
+          [
+            "Harmful message Healthier principle"
+          ],
+          [
+            "\"A partner must obey without question.\" Adults have equal dignity and may express disagreement\nwithout fear."
+          ],
+          [
+            "\"Real men must control the household.\" Responsibility and care do not require coercion or\ndomination."
+          ],
+          [
+            "\"Family matters should never be discussed outside.\" Privacy matters, but seeking safe support for violence is\nlegitimate."
+          ],
+          [
+            "\"If someone stays, the abuse cannot be serious.\" Leaving may create danger or involve housing, childcare,\nand financial barriers."
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          61.0,
+          385.30000000000007,
+          541.0,
+          588.3000000000001
+        ],
+        "rows": [
+          [
+            "Level Examples of concerns Possible protective response"
+          ],
+          [
+            "Individual Attitudes condoning abuse; prior exposure Nonviolent conflict skills, respectful gender\nto violence; harmful alcohol use in some education, accessible support.\ncontexts."
+          ],
+          [
+            "Relationship Controlling behavior, extreme power Equitable decision-making and intervention\nimbalance, threats, isolation. addressing perpetration."
+          ],
+          [
+            "Community Harassment tolerated at school or work; Safe complaint channels, bystander\nbarriers to reporting; unsafe public spaces. responsibility, trained staff."
+          ],
+          [
+            "Societal Discriminatory practices, weak Equality policies, accountable institutions,\nenforcement, norms accepting GBV. long-term norm change."
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "height": 841.8898,
+    "lines": [
+      {
+        "text": "5. Social and institutional influences",
+        "x0": 61.0,
+        "top": 67.36328160000005,
+        "x1": 349.81835359999997,
+        "bottom": 81.36328160000005,
+        "size": 14.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Families and intimate relationships",
+        "x0": 61.0,
+        "top": 97.52246119999995,
+        "x1": 270.65136010000015,
+        "bottom": 108.02246119999995,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Where household roles give one person exclusive control over money, mobility, decisions, or",
+        "x0": 61.0,
+        "top": 118.23417992000009,
+        "x1": 494.1447778899997,
+        "bottom": 127.53417992000004,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "communication, others may have fewer safe options. Unequal expectations about unpaid caregiving",
+        "x0": 61.0,
+        "top": 133.43417992000013,
+        "x1": 529.90527832,
+        "bottom": 142.7341799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "and earning income can reinforce dependency. Equal decision-making and accessible independent",
+        "x0": 61.0,
+        "top": 148.63417992000007,
+        "x1": 522.8167532199998,
+        "bottom": 157.93417992000002,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "resources can reduce vulnerability without implying that every unequal household has violence.",
+        "x0": 61.0,
+        "top": 163.8341799200001,
+        "x1": 509.85669450999984,
+        "bottom": 173.13417992000007,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Schools and universities",
+        "x0": 61.0,
+        "top": 190.32246120000002,
+        "x1": 205.45702914999998,
+        "bottom": 200.82246120000002,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Rigid expectations about girls and boys, harassment dismissed as normal, and unequal power",
+        "x0": 61.0,
+        "top": 211.03417992000004,
+        "x1": 500.34780441999993,
+        "bottom": 220.33417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "between learners and staff can contribute to risk. Prevention includes clear safeguarding codes,",
+        "x0": 61.0,
+        "top": 226.2341799200001,
+        "x1": 509.5342811799999,
+        "bottom": 235.53417992000004,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "accessible confidential reporting, staff training, age-appropriate consent education, and protection",
+        "x0": 61.0,
+        "top": 241.43417992000013,
+        "x1": 522.1855464099999,
+        "bottom": 250.7341799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "against retaliation. Schools must not force survivors into public disclosures or face-to-face mediation",
+        "x0": 61.0,
+        "top": 256.63417992000007,
+        "x1": 531.4083489699999,
+        "bottom": 265.93417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "with alleged perpetrators.",
+        "x0": 61.0,
+        "top": 271.8341799200001,
+        "x1": 181.96357293999998,
+        "bottom": 281.13417992000007,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Workplaces and economic settings",
+        "x0": 61.0,
+        "top": 298.3224612,
+        "x1": 267.05736445,
+        "bottom": 308.8224612,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Risks can emerge where supervisors can demand personal favors, threaten job loss, or manipulate",
+        "x0": 61.0,
+        "top": 319.03417992000004,
+        "x1": 522.6396533199999,
+        "bottom": 328.33417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "pay and promotion. Effective measures include clear harassment policies, independent reporting",
+        "x0": 61.0,
+        "top": 334.23417992000003,
+        "x1": 513.94814674,
+        "bottom": 343.53417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "channels, protection against retaliation, impartial investigation, and access to support. General",
+        "x0": 61.0,
+        "top": 349.43417992,
+        "x1": 505.8923825799999,
+        "bottom": 358.73417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "awareness training without accountable procedures is insufficient.",
+        "x0": 61.0,
+        "top": 364.63417992000007,
+        "x1": 370.67456292999987,
+        "bottom": 373.93417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Community and service institutions",
+        "x0": 61.0,
+        "top": 391.12246120000003,
+        "x1": 271.58959285000003,
+        "bottom": 401.62246120000003,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Community leaders, health workers, police, justice actors and faith leaders can support prevention",
+        "x0": 61.0,
+        "top": 411.83417992000005,
+        "x1": 522.28999285,
+        "bottom": 421.13417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "when they refuse victim-blaming, protect confidentiality within its legal limits, and refer people",
+        "x0": 61.0,
+        "top": 427.03417992000004,
+        "x1": 505.3520004999997,
+        "bottom": 436.33417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "appropriately. They can also cause harm if they pressure a survivor to reconcile, insist on a",
+        "x0": 61.0,
+        "top": 442.23417992000003,
+        "x1": 487.6465860999998,
+        "bottom": 451.53417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "disclosure, or expose private information.",
+        "x0": 61.0,
+        "top": 457.4341799200001,
+        "x1": 255.36000994000003,
+        "bottom": 466.73417992000003,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "6. Economic pressures: association is not justification",
+        "x0": 61.0,
+        "top": 491.7632816,
+        "x1": 486.50291559999994,
+        "bottom": 505.7632816,
+        "size": 14.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Poverty, job insecurity, unequal control of assets, and inadequate access to housing or transport may",
+        "x0": 61.0,
+        "top": 518.6341799200001,
+        "x1": 534.2755954600001,
+        "bottom": 527.93417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "intensify vulnerability or make it harder to leave an unsafe relationship. The evidence associates",
+        "x0": 61.0,
+        "top": 533.83417992,
+        "x1": 513.2397508599997,
+        "bottom": 543.13417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "economic stress with some violence risks, but poverty does not automatically produce violence, nor",
+        "x0": 61.0,
+        "top": 549.03417992,
+        "x1": 527.5757343399998,
+        "bottom": 558.33417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "are people experiencing economic hardship inherently abusive [1,5].",
+        "x0": 61.0,
+        "top": 564.2341799200001,
+        "x1": 382.66284510999986,
+        "bottom": 573.53417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Financial empowerment can increase choice, but an intervention that changes household power",
+        "x0": 61.0,
+        "top": 587.43417992,
+        "x1": 510.40615804,
+        "bottom": 596.7341799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "dynamics may sometimes produce backlash. Programs should combine economic opportunities with",
+        "x0": 61.0,
+        "top": 602.6341799200001,
+        "x1": 530.3775406899999,
+        "bottom": 611.93417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "gender-transformative approaches, consent, safety assessment, and routes to specialized support",
+        "x0": 61.0,
+        "top": 617.83417992,
+        "x1": 520.3191917199999,
+        "bottom": 627.1341799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "rather than assume that giving someone money alone guarantees safety.",
+        "x0": 61.0,
+        "top": 633.03417992,
+        "x1": 405.24531807999995,
+        "bottom": 642.33417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "7. Alcohol, substances, and violence",
+        "x0": 61.0,
+        "top": 667.3632816,
+        "x1": 348.0478478,
+        "bottom": 681.3632816,
+        "size": 14.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Harmful alcohol use is associated with some forms of violence and may intensify risk in particular",
+        "x0": 61.0,
+        "top": 694.23421992,
+        "x1": 516.6682163199998,
+        "bottom": 703.53421992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "circumstances [1,5]. However, many people who drink do not become violent, and many",
+        "x0": 61.0,
+        "top": 709.43421992,
+        "x1": 475.57202595999985,
+        "bottom": 718.73421992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "perpetrators use violence without consuming alcohol. The decision to threaten or assault someone",
+        "x0": 61.0,
+        "top": 724.6342199200001,
+        "x1": 522.4080591399999,
+        "bottom": 733.93421992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "remains the perpetrator’s responsibility.",
+        "x0": 61.0,
+        "top": 739.83421992,
+        "x1": 249.02983288,
+        "bottom": 749.1342199200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA | GBV EDUCATIONAL CONTENT | DRAFT Page 4",
+        "x0": 48.0,
+        "top": 801.191558,
+        "x1": 547.27561425,
+        "bottom": 808.691558,
+        "size": 7.5,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 5,
+    "height": 841.8898,
+    "lines": [
+      {
+        "text": "Prevention may include access to treatment for harmful substance use and measures that reduce",
+        "x0": 61.0,
+        "top": 66.23417992000009,
+        "x1": 518.21670538,
+        "bottom": 75.53417992000004,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "hazardous drinking, but substance treatment should not replace accountability or protection for a",
+        "x0": 61.0,
+        "top": 81.43417992000002,
+        "x1": 517.4719734699999,
+        "bottom": 90.73417991999997,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "person experiencing abuse.",
+        "x0": 61.0,
+        "top": 96.63417992000007,
+        "x1": 190.17827317,
+        "bottom": 105.93417992000002,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "8. Risk factors versus warning signs",
+        "x0": 61.0,
+        "top": 130.96328160000007,
+        "x1": 346.6874957999999,
+        "bottom": 144.96328160000007,
+        "size": 14.0,
+        "bold": 1.0
+      },
+      {
+        "text": "A risk factor is a population-level association. A warning sign is a specific behavior or circumstance",
+        "x0": 61.0,
+        "top": 157.8341799200001,
+        "x1": 523.0210946799998,
+        "bottom": 167.13417992000007,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "that may indicate abuse in a particular setting. Confusing the two can lead to discrimination or false",
+        "x0": 61.0,
+        "top": 173.03417992000004,
+        "x1": 528.9698257299998,
+        "bottom": 182.33417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "reassurance.",
+        "x0": 61.0,
+        "top": 188.2341799200001,
+        "x1": 121.03676938000001,
+        "bottom": 197.53417992000004,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Risk factor (association) Warning sign (behavior to take seriously)",
+        "x0": 70.0,
+        "top": 219.1218752000001,
+        "x1": 470.4687504,
+        "bottom": 227.1218752000001,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "Prior exposure to violence in childhood. A partner repeatedly threatens harm if someone talks to",
+        "x0": 70.0,
+        "top": 247.42187520000004,
+        "x1": 532.0000008000001,
+        "bottom": 255.42187520000016,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "friends.",
+        "x0": 305.0,
+        "top": 259.7218752000001,
+        "x1": 335.1093752,
+        "bottom": 267.7218752000001,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "Economic insecurity. A partner confiscates wages or blocks access to",
+        "x0": 70.0,
+        "top": 288.02187520000007,
+        "x1": 497.23828240000006,
+        "bottom": 296.02187520000007,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "essential money.",
+        "x0": 305.0,
+        "top": 300.32187520000014,
+        "x1": 373.234376,
+        "bottom": 308.32187520000014,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "Harmful norms supporting dominance. A supervisor demands sexual favors in exchange for a",
+        "x0": 70.0,
+        "top": 328.6218752,
+        "x1": 522.7812536,
+        "bottom": 336.62187520000003,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "grade or job.",
+        "x0": 305.0,
+        "top": 340.9218752,
+        "x1": 356.27734319999996,
+        "bottom": 348.9218752,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "Weak reporting systems. Staff dismiss a disclosure or warn the survivor not to",
+        "x0": 70.0,
+        "top": 369.2218752,
+        "x1": 516.4453128,
+        "bottom": 377.2218752,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "complain.",
+        "x0": 305.0,
+        "top": 381.5218752,
+        "x1": 344.125,
+        "bottom": 389.5218752,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "Warning signs should lead to safe options and appropriate support, not public accusations or",
+        "x0": 61.0,
+        "top": 412.13417992000007,
+        "x1": 494.6488276599998,
+        "bottom": 421.43417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "confrontations organized by untrained people. If someone is in immediate danger, urgent local",
+        "x0": 61.0,
+        "top": 427.33417992000005,
+        "x1": 503.88525564999986,
+        "bottom": 436.63417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "assistance takes priority over educational discussion.",
+        "x0": 61.0,
+        "top": 442.5341799200001,
+        "x1": 309.85219836999994,
+        "bottom": 451.83417992000005,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "9. Protective factors and resilience",
+        "x0": 61.0,
+        "top": 476.86328160000005,
+        "x1": 338.14257619999995,
+        "bottom": 490.86328160000005,
+        "size": 14.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Protective conditions include relationships based on mutual respect; norms that reject violence;",
+        "x0": 61.0,
+        "top": 503.73417992000003,
+        "x1": 508.9257821799998,
+        "bottom": 513.03417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "access to education and economic opportunities; trustworthy health, legal and psychosocial support;",
+        "x0": 61.0,
+        "top": 518.93417992,
+        "x1": 532.3665056499998,
+        "bottom": 528.23417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "and rules that are fairly enforced [2,5]. No protective factor can guarantee that violence will never",
+        "x0": 61.0,
+        "top": 534.13417992,
+        "x1": 521.1274947099998,
+        "bottom": 543.4341799199999,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "occur.",
+        "x0": 61.0,
+        "top": 549.33417992,
+        "x1": 89.59023484000001,
+        "bottom": 558.63417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Supportive families and communities can reduce isolation, but survivors should retain control over",
+        "x0": 61.0,
+        "top": 572.53417992,
+        "x1": 521.35908331,
+        "bottom": 581.83417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "whom they involve whenever possible. A person should not be required to disclose to a relative,",
+        "x0": 61.0,
+        "top": 587.7341799200001,
+        "x1": 509.93842941999975,
+        "bottom": 597.03417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "partner, religious leader or community meeting before seeking specialist help.",
+        "x0": 61.0,
+        "top": 602.93417992,
+        "x1": 427.41909231999983,
+        "bottom": 612.2341799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "10. Prevention based on evidence: the RESPECT framework",
+        "x0": 61.0,
+        "top": 637.2632816,
+        "x1": 530.9638678000002,
+        "bottom": 651.2632816,
+        "size": 14.0,
+        "bold": 1.0
+      },
+      {
+        "text": "WHO and partners’ updated 2025 RESPECT framework identifies seven complementary approaches",
+        "x0": 61.0,
+        "top": 664.1341799200001,
+        "x1": 526.35874285,
+        "bottom": 673.43417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "to preventing violence against women [2]. It is a population-level prevention framework, not a",
+        "x0": 61.0,
+        "top": 679.33417992,
+        "x1": 501.37407429999985,
+        "bottom": 688.6341799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "checklist for making an unsafe relationship safe.",
+        "x0": 61.0,
+        "top": 694.53417992,
+        "x1": 287.22432001,
+        "bottom": 703.83417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "• R - Relationship skills strengthened: Teach respectful communication, nonviolent problem-solving",
+        "x0": 66.0,
+        "top": 717.6861730400001,
+        "x1": 520.6178718900002,
+        "bottom": 726.78617304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "and equitable decision-making.",
+        "x0": 76.0,
+        "top": 732.28617304,
+        "x1": 219.09394554,
+        "bottom": 741.38617304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA | GBV EDUCATIONAL CONTENT | DRAFT Page 5",
+        "x0": 48.0,
+        "top": 801.191558,
+        "x1": 547.27561425,
+        "bottom": 808.691558,
+        "size": 7.5,
+        "bold": 0.0
+      }
+    ],
+    "tables": [
+      {
+        "bbox": [
+          61.0,
+          209.20000000000005,
+          541.0,
+          399.90000000000003
+        ],
+        "rows": [
+          [
+            "Risk factor (association) Warning sign (behavior to take seriously)"
+          ],
+          [
+            "Prior exposure to violence in childhood. A partner repeatedly threatens harm if someone talks to\nfriends."
+          ],
+          [
+            "Economic insecurity. A partner confiscates wages or blocks access to\nessential money."
+          ],
+          [
+            "Harmful norms supporting dominance. A supervisor demands sexual favors in exchange for a\ngrade or job."
+          ],
+          [
+            "Weak reporting systems. Staff dismiss a disclosure or warn the survivor not to\ncomplain."
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "page": 6,
+    "height": 841.8898,
+    "lines": [
+      {
+        "text": "• E - Empowerment of women: Improve meaningful access to education, resources, choices and",
+        "x0": 66.0,
+        "top": 66.18613304000007,
+        "x1": 505.18608916,
+        "bottom": 75.28613303999998,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "leadership.",
+        "x0": 76.0,
+        "top": 80.7861330400001,
+        "x1": 126.52543951,
+        "bottom": 89.88613304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "• S - Services ensured: Provide safe, quality survivor-centred health, psychosocial, protection and",
+        "x0": 66.0,
+        "top": 100.38613304000012,
+        "x1": 512.5753929000001,
+        "bottom": 109.48613304000003,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "legal services.",
+        "x0": 76.0,
+        "top": 114.98613304000014,
+        "x1": 141.13076206000002,
+        "bottom": 124.08613304000005,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "• P - Poverty reduced: Address economic insecurity with attention to safety and gender dynamics.",
+        "x0": 66.0,
+        "top": 134.58613304000005,
+        "x1": 514.7659685600003,
+        "bottom": 143.68613303999996,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "• E - Environments made safe: Reduce harassment and threats in public, school, work and digital",
+        "x0": 66.0,
+        "top": 154.18613304000007,
+        "x1": 510.5892123400003,
+        "bottom": 163.28613303999998,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "spaces.",
+        "x0": 76.0,
+        "top": 168.7861330400001,
+        "x1": 110.32939509999999,
+        "bottom": 177.88613304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "• C - Child and adolescent abuse prevented: Strengthen child protection and nonviolent caregiving.",
+        "x0": 66.0,
+        "top": 188.38613304000012,
+        "x1": 520.70674067,
+        "bottom": 197.48613304000003,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "• T - Transformed attitudes, beliefs and norms: Challenge beliefs excusing violence and promote",
+        "x0": 66.0,
+        "top": 207.98613304000003,
+        "x1": 508.1986842000001,
+        "bottom": 217.08613303999994,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "equal dignity.",
+        "x0": 76.0,
+        "top": 222.58613304000005,
+        "x1": 138.36254843,
+        "bottom": 231.68613303999996,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "Programs should evaluate outcomes, not just count training sessions. Useful measures may include",
+        "x0": 61.0,
+        "top": 242.2341799200001,
+        "x1": 526.2088910199998,
+        "bottom": 251.53417992000004,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "changes in acceptance of violence, safety of reporting, quality of referrals, implementation of",
+        "x0": 61.0,
+        "top": 257.43417992000013,
+        "x1": 497.6822300499998,
+        "bottom": 266.7341799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "protections, and carefully collected reports of harm. Collecting survivor disclosures for monitoring",
+        "x0": 61.0,
+        "top": 272.63417992000007,
+        "x1": 517.9396965099999,
+        "bottom": 281.93417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "must never compromise confidentiality.",
+        "x0": 61.0,
+        "top": 287.8341799200001,
+        "x1": 246.74570359,
+        "bottom": 297.13417992000007,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "11. Rwanda relevance: local systems and approaches",
+        "x0": 61.0,
+        "top": 322.1632816,
+        "x1": 483.11913520000013,
+        "bottom": 336.1632816,
+        "size": 14.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Rwanda’s National Policy against Gender-Based Violence identifies prevention, survivor response,",
+        "x0": 61.0,
+        "top": 349.03417992000004,
+        "x1": 517.7898456099998,
+        "bottom": 358.33417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "coordination and accountability as core areas [6]. A newer national strategy engaging men and boys",
+        "x0": 61.0,
+        "top": 364.23417992000003,
+        "x1": 531.6853550500001,
+        "bottom": 373.53417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "emphasizes transforming harmful gender norms and promoting equitable responsibilities [3]. These",
+        "x0": 61.0,
+        "top": 379.43417992,
+        "x1": 527.4622073799999,
+        "bottom": 388.73417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "documents provide useful local grounding, but a program must confirm current legal duties,",
+        "x0": 61.0,
+        "top": 394.63417992,
+        "x1": 491.5881846399998,
+        "bottom": 403.93417991999996,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "operational procedures and official referral contacts with responsible national institutions.",
+        "x0": 61.0,
+        "top": 409.83417992000005,
+        "x1": 481.0439450799999,
+        "bottom": 419.13417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "For VUGA NDAKUMVA, examples should reflect the diversity of Rwandan settings: urban and rural",
+        "x0": 61.0,
+        "top": 433.03417992000004,
+        "x1": 518.1077158900001,
+        "bottom": 442.33417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "households, schools, informal work, agriculture, workplaces, and digital communication. Avoid",
+        "x0": 61.0,
+        "top": 448.23417992000003,
+        "x1": 501.5012220399998,
+        "bottom": 457.53417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "presenting any district, cultural practice, occupation, age group, or income bracket as inherently",
+        "x0": 61.0,
+        "top": 463.43417992,
+        "x1": 512.7674819799998,
+        "bottom": 472.73417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "violent.",
+        "x0": 61.0,
+        "top": 478.63417992000007,
+        "x1": 95.57983381000001,
+        "bottom": 487.93417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "When someone asks for GBV help, direct them to verified local specialist support, including Isange",
+        "x0": 61.0,
+        "top": 501.83417992000005,
+        "x1": 520.86865339,
+        "bottom": 511.13417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "One Stop Centres where available, while taking their immediate safety and privacy into account. Do",
+        "x0": 61.0,
+        "top": 517.03417992,
+        "x1": 528.4521514599999,
+        "bottom": 526.33417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "not publish unverified hotlines or promise that all providers offer identical services at all hours.",
+        "x0": 61.0,
+        "top": 532.2341799200001,
+        "x1": 504.6663087099997,
+        "bottom": 541.53417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "12. Realistic learning scenarios",
+        "x0": 61.0,
+        "top": 566.5632816,
+        "x1": 308.46093399999995,
+        "bottom": 580.5632816,
+        "size": 14.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Scenario A - Household decisions and financial control",
+        "x0": 61.0,
+        "top": 596.7224612,
+        "x1": 383.1418417,
+        "bottom": 607.2224612,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "A woman begins a paid job. Her partner insists that all her earnings be handed over, refuses to let",
+        "x0": 61.0,
+        "top": 617.43417992,
+        "x1": 519.8968768599998,
+        "bottom": 626.7341799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "her buy transport to work, and threatens to take her phone if she disagrees. Discussion: Distinguish",
+        "x0": 61.0,
+        "top": 632.6341799200001,
+        "x1": 527.3214388599998,
+        "bottom": 641.93417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "an ordinary budget disagreement from coercive control. The threats and enforced restrictions, rather",
+        "x0": 61.0,
+        "top": 647.83417992,
+        "x1": 533.9921893599999,
+        "bottom": 657.1341799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "than the existence of different financial opinions, are the concern. A safe response would explore",
+        "x0": 61.0,
+        "top": 663.03417992,
+        "x1": 515.3921930799999,
+        "bottom": 672.33417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "options privately and avoid confronting the partner without a safety plan.",
+        "x0": 61.0,
+        "top": 678.2341799200001,
+        "x1": 404.2281259299998,
+        "bottom": 687.53417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA | GBV EDUCATIONAL CONTENT | DRAFT Page 6",
+        "x0": 48.0,
+        "top": 801.191558,
+        "x1": 547.27561425,
+        "bottom": 808.691558,
+        "size": 7.5,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 7,
+    "height": 841.8898,
+    "lines": [
+      {
+        "text": "Scenario B - School authority and retaliation",
+        "x0": 61.0,
+        "top": 66.52246119999995,
+        "x1": 325.02270160000006,
+        "bottom": 77.02246119999995,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "A student reports that a staff member repeatedly requests private meetings and implies that marks",
+        "x0": 61.0,
+        "top": 87.23417991999997,
+        "x1": 527.7301273599999,
+        "bottom": 96.53417991999993,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "may depend on compliance. Classmates tell the student not to speak because the staff member is",
+        "x0": 61.0,
+        "top": 102.43417992000002,
+        "x1": 521.0820837399998,
+        "bottom": 111.73417991999997,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "influential. Discussion: Identify abuse of authority, protective reporting arrangements, and why",
+        "x0": 61.0,
+        "top": 117.63417992000007,
+        "x1": 505.63354776999995,
+        "bottom": 126.93417992000002,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "consent may be undermined by coercion. Safeguarding procedures must be appropriate to the",
+        "x0": 61.0,
+        "top": 132.83417992,
+        "x1": 504.2667016599999,
+        "bottom": 142.13417991999995,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "learner’s age and local law.",
+        "x0": 61.0,
+        "top": 148.03417992000004,
+        "x1": 189.22920073,
+        "bottom": 157.33417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Scenario C - Men and boys challenging norms",
+        "x0": 61.0,
+        "top": 174.52246119999995,
+        "x1": 330.80077810000006,
+        "bottom": 185.02246119999995,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "A youth club hears the claim that jealousy is proof of love and that controlling a partner’s friends is",
+        "x0": 61.0,
+        "top": 195.2341799200001,
+        "x1": 523.9383806499999,
+        "bottom": 204.53417992000004,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "normal. Members discuss how fear, monitoring, and isolation differ from care. Discussion: How might",
+        "x0": 61.0,
+        "top": 210.43417992000013,
+        "x1": 533.0749043199999,
+        "bottom": 219.7341799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "peers challenge harmful beliefs without shaming individuals or asking survivors to share personal",
+        "x0": 61.0,
+        "top": 225.63417992000007,
+        "x1": 517.10415382,
+        "bottom": 234.93417992000002,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "experiences?",
+        "x0": 61.0,
+        "top": 240.8341799200001,
+        "x1": 122.48989345,
+        "bottom": 250.13417992000007,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Scenario D - Community mediation pressure",
+        "x0": 61.0,
+        "top": 267.3224612,
+        "x1": 322.6848073000001,
+        "bottom": 277.8224612,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "A person discloses threats from a partner to a community volunteer. The volunteer wants both",
+        "x0": 61.0,
+        "top": 288.03417992000004,
+        "x1": 503.6082542199998,
+        "bottom": 297.33417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "partners to attend a meeting immediately. Discussion: Why could joint mediation expose the survivor",
+        "x0": 61.0,
+        "top": 303.2341799200001,
+        "x1": 534.2755950699998,
+        "bottom": 312.53417992000004,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "to retaliation? What would confidential listening, choice-based referrals, and careful safety",
+        "x0": 61.0,
+        "top": 318.43417992,
+        "x1": 483.8321297199999,
+        "bottom": 327.73417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "assessment look like instead?",
+        "x0": 61.0,
+        "top": 333.63417992000007,
+        "x1": 199.84609468,
+        "bottom": 342.93417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Scenario E - Work and economic vulnerability",
+        "x0": 61.0,
+        "top": 360.12246120000003,
+        "x1": 329.92406590000013,
+        "bottom": 370.62246120000003,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "A temporary worker is told by a supervisor that a contract renewal depends on agreeing to unwanted",
+        "x0": 61.0,
+        "top": 380.83417992000005,
+        "x1": 534.2755985499998,
+        "bottom": 390.13417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "personal contact. The worker fears losing income. Discussion: Identify institutional power and",
+        "x0": 61.0,
+        "top": 396.03417992000004,
+        "x1": 497.95923055,
+        "bottom": 405.33417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "possible retaliation; consider how independent workplace procedures and external support improve",
+        "x0": 61.0,
+        "top": 411.23417992000003,
+        "x1": 526.94453218,
+        "bottom": 420.53417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "options.",
+        "x0": 61.0,
+        "top": 426.4341799200001,
+        "x1": 98.20908145000001,
+        "bottom": 435.73417992000003,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "13. Practical learning activities",
+        "x0": 61.0,
+        "top": 460.7632816,
+        "x1": 307.2509728,
+        "bottom": 474.7632816,
+        "size": 14.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Activity 1 - Map influences without blaming",
+        "x0": 61.0,
+        "top": 490.92246120000004,
+        "x1": 319.0651801000001,
+        "bottom": 501.42246120000004,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Choose a fictional scenario and write four headings: individual, relationship, community and societal.",
+        "x0": 61.0,
+        "top": 511.63417992000007,
+        "x1": 532.7797390599998,
+        "bottom": 520.93417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Under each, identify one condition that may increase risk and one possible protective response.",
+        "x0": 61.0,
+        "top": 526.83417992,
+        "x1": 509.2027863999998,
+        "bottom": 536.13417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Avoid writing anyone’s name or inviting participants to describe their own abuse experiences.",
+        "x0": 61.0,
+        "top": 542.03417992,
+        "x1": 499.9708995999998,
+        "bottom": 551.33417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Reflection: Which changes require institutional action rather than asking one person to cope alone?",
+        "x0": 61.0,
+        "top": 557.2341799200001,
+        "x1": 525.8229038199999,
+        "bottom": 566.53417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Activity 2 - Challenge a harmful statement",
+        "x0": 61.0,
+        "top": 583.7224612,
+        "x1": 313.0307566000001,
+        "bottom": 594.2224612,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Select a statement such as “A person who pays the bills should control every decision.” Write a",
+        "x0": 61.0,
+        "top": 604.43417992,
+        "x1": 507.1275406899998,
+        "bottom": 613.7341799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "respectful response that distinguishes shared financial planning from domination. Practice",
+        "x0": 61.0,
+        "top": 619.6341799200001,
+        "x1": 482.93300943999986,
+        "bottom": 628.93417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "responding without insulting or embarrassing anyone. Sample: “Contributing money does not give",
+        "x0": 61.0,
+        "top": 634.83417992,
+        "x1": 520.8958995999999,
+        "bottom": 644.1341799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "someone the right to threaten or control another adult.”",
+        "x0": 61.0,
+        "top": 650.03417992,
+        "x1": 323.59331106999997,
+        "bottom": 659.33417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Activity 3 - Design a safer institution",
+        "x0": 61.0,
+        "top": 676.5224612000001,
+        "x1": 279.58251520000005,
+        "bottom": 687.0224612000001,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Imagine a school or workplace. Identify three safety features: a trustworthy reporting route,",
+        "x0": 61.0,
+        "top": 697.23421992,
+        "x1": 490.5573763600001,
+        "bottom": 706.53421992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "protection against retaliation, and confidential referral to trained services. Then identify one risk if",
+        "x0": 61.0,
+        "top": 712.43421992,
+        "x1": 520.3237310499997,
+        "bottom": 721.73421992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "these features exist only on paper. Safety note: Do not conduct role-play requiring a participant to",
+        "x0": 61.0,
+        "top": 727.6342199200001,
+        "x1": 521.05937593,
+        "bottom": 736.93421992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "impersonate a survivor or perpetrator.",
+        "x0": 61.0,
+        "top": 742.83421992,
+        "x1": 240.65166004,
+        "bottom": 752.1342199200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA | GBV EDUCATIONAL CONTENT | DRAFT Page 7",
+        "x0": 48.0,
+        "top": 801.191558,
+        "x1": 547.27561425,
+        "bottom": 808.691558,
+        "size": 7.5,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 8,
+    "height": 841.8898,
+    "lines": [
+      {
+        "text": "Activity 4 - Personal values reflection",
+        "x0": 61.0,
+        "top": 66.52246119999995,
+        "x1": 283.33032115,
+        "bottom": 77.02246119999995,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Privately reflect on how disagreements were handled in the environments where you grew up. Which",
+        "x0": 61.0,
+        "top": 87.23417992000009,
+        "x1": 533.92407709,
+        "bottom": 96.53417992000004,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "messages encouraged respect? Which normalized domination? There is no need to share answers. If",
+        "x0": 61.0,
+        "top": 102.43417992000002,
+        "x1": 531.07231858,
+        "bottom": 111.73417991999997,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "the exercise causes distress, pause and choose another activity.",
+        "x0": 61.0,
+        "top": 117.63417992000007,
+        "x1": 362.3554236999998,
+        "bottom": 126.93417992000002,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Activity 5 - Community prevention planning",
+        "x0": 61.0,
+        "top": 144.12246119999998,
+        "x1": 319.7368115500001,
+        "bottom": 154.62246119999998,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "In a small group, design an awareness activity using fictional examples. Include an evidence-based",
+        "x0": 61.0,
+        "top": 164.8341799200001,
+        "x1": 524.5105519899998,
+        "bottom": 174.13417992000007,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "message, accessible language, an opt-out option, and an independently verified referral pathway.",
+        "x0": 61.0,
+        "top": 180.03417992000004,
+        "x1": 518.8978550499999,
+        "bottom": 189.33417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Decide how you will measure understanding without collecting sensitive personal disclosures.",
+        "x0": 61.0,
+        "top": 195.2341799200001,
+        "x1": 498.88105584999965,
+        "bottom": 204.53417992000004,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "14. Supporting a person safely",
+        "x0": 61.0,
+        "top": 229.5632816000001,
+        "x1": 304.46874859999997,
+        "bottom": 243.5632816000001,
+        "size": 14.0,
+        "bold": 1.0
+      },
+      {
+        "text": "A person asking about GBV may be seeking general knowledge or may be living with current danger.",
+        "x0": 61.0,
+        "top": 256.43417992,
+        "x1": 533.33374378,
+        "bottom": 265.73417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "An educator should avoid guessing. Offer a choice to continue learning or discuss safe help-seeking,",
+        "x0": 61.0,
+        "top": 271.63417992000007,
+        "x1": 529.5329146899999,
+        "bottom": 280.93417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "do not ask for unnecessary details, and explain confidentiality and its limits. A survivor should never",
+        "x0": 61.0,
+        "top": 286.83417992,
+        "x1": 529.8235378299997,
+        "bottom": 296.13417991999995,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "be blamed for a decision to stay, leave, report, or delay action.",
+        "x0": 61.0,
+        "top": 302.03417992000004,
+        "x1": 355.08071352999997,
+        "bottom": 311.33417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "• Listen and acknowledge: “Thank you for telling me. You deserve to be treated safely and",
+        "x0": 66.0,
+        "top": 325.1861330400001,
+        "x1": 481.08530700000017,
+        "bottom": 334.28613304000004,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "respectfully.”",
+        "x0": 76.0,
+        "top": 339.78613304000004,
+        "x1": 137.04731450999998,
+        "bottom": 348.88613304000006,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "• Ask about immediate needs without demanding a detailed account.",
+        "x0": 66.0,
+        "top": 359.38613304,
+        "x1": 383.59355628,
+        "bottom": 368.48613304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "• Offer options and verified contacts, rather than issuing commands.",
+        "x0": 66.0,
+        "top": 378.98613304,
+        "x1": 380.5720732700001,
+        "bottom": 388.08613304000005,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "• Avoid confronting an alleged perpetrator, pressuring reconciliation, or arranging unsupervised",
+        "x0": 66.0,
+        "top": 398.58613304,
+        "x1": 505.00390716,
+        "bottom": 407.68613304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "mediation.",
+        "x0": 76.0,
+        "top": 413.18613304,
+        "x1": 124.66811495,
+        "bottom": 422.28613304000004,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "• If danger is immediate, help connect to appropriate emergency or specialist services, taking care",
+        "x0": 66.0,
+        "top": 432.78613304,
+        "x1": 519.23154513,
+        "bottom": 441.88613304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "not to increase risk.",
+        "x0": 76.0,
+        "top": 447.38613304,
+        "x1": 166.44458059000004,
+        "bottom": 456.48613304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "15. Safe communication and sensitive data",
+        "x0": 61.0,
+        "top": 481.1632816,
+        "x1": 402.01756919999997,
+        "bottom": 495.1632816,
+        "size": 14.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Education and outreach must consider that a controlling person may access another person’s phone",
+        "x0": 61.0,
+        "top": 508.03417992000004,
+        "x1": 530.35029727,
+        "bottom": 517.33417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "or browsing history. Public materials should not assume that a user can safely keep an app open,",
+        "x0": 61.0,
+        "top": 523.2341799200001,
+        "x1": 515.6601111999998,
+        "bottom": 532.53417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "receive notifications, or save phone numbers. Digital safety measures may help, but no quick-exit",
+        "x0": 61.0,
+        "top": 538.43417992,
+        "x1": 518.7071325099998,
+        "bottom": 547.73417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "feature can guarantee that browsing history or monitoring has been erased.",
+        "x0": 61.0,
+        "top": 553.6341799200001,
+        "x1": 416.8067414199999,
+        "bottom": 562.93417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "For workshops and surveys, do not collect real-life disclosures as a learning requirement. If someone",
+        "x0": 61.0,
+        "top": 576.83417992,
+        "x1": 531.73076509,
+        "bottom": 586.1341799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "voluntarily discloses violence, follow an approved safeguarding protocol. For minors, follow locally",
+        "x0": 61.0,
+        "top": 592.03417992,
+        "x1": 519.1339839099999,
+        "bottom": 601.33417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "applicable child-protection and reporting obligations, explained in an age-appropriate way.",
+        "x0": 61.0,
+        "top": 607.2341799200001,
+        "x1": 485.3397434199999,
+        "bottom": 616.53417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "16. Knowledge assessment",
+        "x0": 61.0,
+        "top": 641.5632816,
+        "x1": 275.7646438,
+        "bottom": 655.5632816,
+        "size": 14.0,
+        "bold": 1.0
+      },
+      {
+        "text": "1. Is poverty a sufficient explanation or excuse for GBV?",
+        "x0": 61.0,
+        "top": 668.43417992,
+        "x1": 323.19370402000004,
+        "bottom": 677.7341799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Suggested answer: No. Economic insecurity may affect risk or options, but does not justify abuse.",
+        "x0": 61.0,
+        "top": 683.63417992,
+        "x1": 517.3221216399999,
+        "bottom": 692.93417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "2. What is a structural driver?",
+        "x0": 61.0,
+        "top": 706.83421992,
+        "x1": 199.4828125,
+        "bottom": 716.1342199200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Suggested answer: A broad condition, such as gender inequality or norms tolerating domination, that",
+        "x0": 61.0,
+        "top": 722.03421992,
+        "x1": 534.27558555,
+        "bottom": 731.33421992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "supports violence risk.",
+        "x0": 61.0,
+        "top": 737.23421992,
+        "x1": 165.87021496000003,
+        "bottom": 746.53421992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA | GBV EDUCATIONAL CONTENT | DRAFT Page 8",
+        "x0": 48.0,
+        "top": 801.191558,
+        "x1": 547.27561425,
+        "bottom": 808.691558,
+        "size": 7.5,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 9,
+    "height": 841.8898,
+    "lines": [
+      {
+        "text": "3. What four levels appear in the ecological model?",
+        "x0": 61.0,
+        "top": 66.23417992000009,
+        "x1": 300.66572347000005,
+        "bottom": 75.53417992000004,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Suggested answer: Individual, relationship, community, and societal.",
+        "x0": 61.0,
+        "top": 81.43417992000013,
+        "x1": 382.71279447999984,
+        "bottom": 90.73417992000009,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "4. Does witnessing violence as a child determine adult behavior?",
+        "x0": 61.0,
+        "top": 104.63417992000007,
+        "x1": 364.11279448,
+        "bottom": 113.93417992000002,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Suggested answer: No. It can be a risk factor, not an inevitable outcome.",
+        "x0": 61.0,
+        "top": 119.83417992000011,
+        "x1": 401.93945637999985,
+        "bottom": 129.13417992000007,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "5. Give one example of coercive control.",
+        "x0": 61.0,
+        "top": 143.03417992000016,
+        "x1": 249.75639816999998,
+        "bottom": 152.3341799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Suggested answer: Repeated threats, forced isolation, surveillance, or deprivation of necessary",
+        "x0": 61.0,
+        "top": 158.2341799200001,
+        "x1": 506.9595240999998,
+        "bottom": 167.53417992000004,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "resources to control another person.",
+        "x0": 61.0,
+        "top": 173.43417992000013,
+        "x1": 231.28354591,
+        "bottom": 182.7341799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "6. What makes a reporting system safer?",
+        "x0": 61.0,
+        "top": 196.63417992000007,
+        "x1": 253.36650565000005,
+        "bottom": 205.93417992000002,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Suggested answer: Confidentiality within legal limits, staff training, protection against retaliation,",
+        "x0": 61.0,
+        "top": 211.83417992,
+        "x1": 515.6237770299999,
+        "bottom": 221.13417991999995,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "and credible follow-through.",
+        "x0": 61.0,
+        "top": 227.03417992000004,
+        "x1": 192.24897397,
+        "bottom": 236.33417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "7. Name two RESPECT prevention strategies.",
+        "x0": 61.0,
+        "top": 250.2341799200001,
+        "x1": 270.70864159,
+        "bottom": 259.53417992000004,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Suggested answer: Any two: relationship skills, empowerment, services, poverty reduction, safe",
+        "x0": 61.0,
+        "top": 265.43417992,
+        "x1": 509.6932153899998,
+        "bottom": 274.73417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "environments, child abuse prevention, transformed norms.",
+        "x0": 61.0,
+        "top": 280.63417992000007,
+        "x1": 336.14468035,
+        "bottom": 289.93417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "8. Why can forced couple mediation be unsafe in abusive situations?",
+        "x0": 61.0,
+        "top": 303.8341799200001,
+        "x1": 381.79551129999993,
+        "bottom": 313.13417992000007,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Suggested answer: It may expose a survivor to coercion, retaliation, and further harm.",
+        "x0": 61.0,
+        "top": 319.03417992000004,
+        "x1": 465.50005249,
+        "bottom": 328.33417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "9. Does having a mental health condition mean someone will commit GBV?",
+        "x0": 61.0,
+        "top": 342.23417992000003,
+        "x1": 412.42011928,
+        "bottom": 351.53417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Suggested answer: No. Population-level associations must never be used to stereotype individuals.",
+        "x0": 61.0,
+        "top": 357.4341799200001,
+        "x1": 523.6795421199998,
+        "bottom": 366.73417992000003,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "10. What is the first principle when receiving a disclosure?",
+        "x0": 61.0,
+        "top": 380.63417992000007,
+        "x1": 333.4109872000001,
+        "bottom": 389.93417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Suggested answer: Respect the person’s safety, dignity, privacy and choices; listen without",
+        "x0": 61.0,
+        "top": 395.83417992000005,
+        "x1": 488.61836169999975,
+        "bottom": 405.13417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "judgment.",
+        "x0": 61.0,
+        "top": 411.0341799200001,
+        "x1": 108.56259754000001,
+        "bottom": 420.33417992000005,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "17. Key messages to remember",
+        "x0": 61.0,
+        "top": 445.36328160000005,
+        "x1": 310.6142502,
+        "bottom": 459.36328160000005,
+        "size": 14.0,
+        "bold": 1.0
+      },
+      {
+        "text": "• Gender inequality and harmful norms are central structural drivers of violence against women and",
+        "x0": 66.0,
+        "top": 472.18613304,
+        "x1": 524.5324753100002,
+        "bottom": 481.28613304000004,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "girls.",
+        "x0": 76.0,
+        "top": 486.78613304000004,
+        "x1": 98.20790935999999,
+        "bottom": 495.88613304000006,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "• Risk factors describe associations, not destiny or moral blame.",
+        "x0": 66.0,
+        "top": 506.38613304,
+        "x1": 360.3192388500001,
+        "bottom": 515.48613304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "• Abusive conduct remains the responsibility of the person committing it.",
+        "x0": 66.0,
+        "top": 525.98613304,
+        "x1": 401.2203609300002,
+        "bottom": 535.08613304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "• Multiple levels of prevention are stronger than awareness messages alone.",
+        "x0": 66.0,
+        "top": 545.58613304,
+        "x1": 417.34087352000006,
+        "bottom": 554.6861330400001,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "• Survivor safety, consent, dignity and privacy should guide every response.",
+        "x0": 66.0,
+        "top": 565.18613304,
+        "x1": 415.63462260999995,
+        "bottom": 574.2861330400001,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "• Rwandan programs should combine verified national guidance with local specialist review.",
+        "x0": 66.0,
+        "top": 584.7861330400001,
+        "x1": 487.7770038300002,
+        "bottom": 593.88613304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "18. Short glossary",
+        "x0": 61.0,
+        "top": 618.5632816,
+        "x1": 205.3955058,
+        "bottom": 632.5632816,
+        "size": 14.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Gender inequality: Unequal access to opportunities, resources, rights or influence on the basis of",
+        "x0": 61.0,
+        "top": 645.43417992,
+        "x1": 513.8209989999999,
+        "bottom": 654.7341799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "gender.",
+        "x0": 61.0,
+        "top": 660.63417992,
+        "x1": 96.92397490000002,
+        "bottom": 669.93417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Gender norm: A socially shared expectation about how people of different genders should behave.",
+        "x0": 61.0,
+        "top": 683.83417992,
+        "x1": 521.6542513599999,
+        "bottom": 693.1341799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Coercive control: A pattern of threatening, isolating or restricting behavior aimed at dominating",
+        "x0": 61.0,
+        "top": 707.03417992,
+        "x1": 508.26279168999986,
+        "bottom": 716.33417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "someone.",
+        "x0": 61.0,
+        "top": 722.2341799200001,
+        "x1": 106.5781747,
+        "bottom": 731.53417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Risk factor: A condition associated with increased likelihood of an outcome in research.",
+        "x0": 61.0,
+        "top": 745.43421992,
+        "x1": 468.34272675999995,
+        "bottom": 754.73421992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA | GBV EDUCATIONAL CONTENT | DRAFT Page 9",
+        "x0": 48.0,
+        "top": 801.191558,
+        "x1": 547.27561425,
+        "bottom": 808.691558,
+        "size": 7.5,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 10,
+    "height": 841.8898,
+    "lines": [
+      {
+        "text": "Protective factor: A condition associated with reduced risk or increased safety.",
+        "x0": 61.0,
+        "top": 66.23417992000009,
+        "x1": 428.02304733999983,
+        "bottom": 75.53417992000004,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Ecological model: A framework that considers individual, relationship, community and societal",
+        "x0": 61.0,
+        "top": 89.43417992000002,
+        "x1": 500.97900378999975,
+        "bottom": 98.73417991999997,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "influences.",
+        "x0": 61.0,
+        "top": 104.63417992000007,
+        "x1": 111.48247204,
+        "bottom": 113.93417992000002,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Survivor-centred: An approach prioritizing the person’s dignity, safety, rights, privacy and informed",
+        "x0": 61.0,
+        "top": 127.83417992,
+        "x1": 525.2325677199997,
+        "bottom": 137.13417991999995,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "choices.",
+        "x0": 61.0,
+        "top": 143.03417992000004,
+        "x1": 98.91748105,
+        "bottom": 152.33417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Prevention: Actions designed to reduce the occurrence of violence and the conditions that enable it.",
+        "x0": 61.0,
+        "top": 166.2341799200001,
+        "x1": 528.8790065799997,
+        "bottom": 175.53417992000004,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "19. Evidence and references",
+        "x0": 61.0,
+        "top": 200.5632816000001,
+        "x1": 285.10254299999997,
+        "bottom": 214.5632816000001,
+        "size": 14.0,
+        "bold": 1.0
+      },
+      {
+        "text": "[1] World Health Organization. Violence against women. Fact sheet, updated 2026.",
+        "x0": 61.0,
+        "top": 227.14589863999993,
+        "x1": 398.76367309,
+        "bottom": 235.24589863999995,
+        "size": 8.1,
+        "bold": 0.0
+      },
+      {
+        "text": "https://www.who.int/news-room/fact-sheets/detail/violence-against-women",
+        "x0": 61.0,
+        "top": 245.94589864,
+        "x1": 365.2008808299999,
+        "bottom": 254.04589864000002,
+        "size": 8.1,
+        "bold": 0.0
+      },
+      {
+        "text": "[2] WHO and partners. RESPECT women: Preventing violence against women. 2nd ed. 2025.",
+        "x0": 61.0,
+        "top": 264.74589863999995,
+        "x1": 435.69223890999996,
+        "bottom": 272.84589864,
+        "size": 8.1,
+        "bold": 0.0
+      },
+      {
+        "text": "https://www.who.int/publications/i/item/9789240117020",
+        "x0": 61.0,
+        "top": 283.54589864,
+        "x1": 289.86455472999984,
+        "bottom": 291.64589864000004,
+        "size": 8.1,
+        "bold": 0.0
+      },
+      {
+        "text": "[3] Ministry of Gender and Family Promotion (Rwanda). National Transformative Strategy: Engaging Men and Boys",
+        "x0": 61.0,
+        "top": 302.34589864,
+        "x1": 526.1211443499998,
+        "bottom": 310.44589864,
+        "size": 8.1,
+        "bold": 0.0
+      },
+      {
+        "text": "for Gender Equality Promotion.",
+        "x0": 61.0,
+        "top": 315.1458986399999,
+        "x1": 186.64492066,
+        "bottom": 323.24589863999995,
+        "size": 8.1,
+        "bold": 0.0
+      },
+      {
+        "text": "https://www.migeprof.gov.rw/fileadmin/user_upload/Migeprof/Publications/Guidelines/01_National_Transformative_S",
+        "x0": 61.0,
+        "top": 333.94589864,
+        "x1": 532.6391131000001,
+        "bottom": 342.04589864,
+        "size": 8.1,
+        "bold": 0.0
+      },
+      {
+        "text": "trategy_Engaging_Men_and_Boys_for_Gender_Equality_Promotion_.pdf",
+        "x0": 61.0,
+        "top": 346.74589864,
+        "x1": 347.9646478299999,
+        "bottom": 354.84589864000003,
+        "size": 8.1,
+        "bold": 0.0
+      },
+      {
+        "text": "[4] World Health Organization. Violence Prevention Unit strategy 2022-2026: Social ecological model.",
+        "x0": 61.0,
+        "top": 365.54589864,
+        "x1": 473.38017568,
+        "bottom": 373.64589864000004,
+        "size": 8.1,
+        "bold": 0.0
+      },
+      {
+        "text": "https://cdn.who.int/media/docs/default-source/documents/social-determinants-of-health/who_2022_plv_strategy_20",
+        "x0": 61.0,
+        "top": 384.34589864000003,
+        "x1": 530.6457557500003,
+        "bottom": 392.44589864000005,
+        "size": 8.1,
+        "bold": 0.0
+      },
+      {
+        "text": "22-2026_finalfile.pdf",
+        "x0": 61.0,
+        "top": 397.14589864000004,
+        "x1": 144.38886820000002,
+        "bottom": 405.24589864000006,
+        "size": 8.1,
+        "bold": 0.0
+      },
+      {
+        "text": "[5] UN Women. Handbook on Multisectoral National Action Plans to Prevent Violence Against Women and Girls.",
+        "x0": 61.0,
+        "top": 415.94589864,
+        "x1": 512.14785136,
+        "bottom": 424.04589864,
+        "size": 8.1,
+        "bold": 0.0
+      },
+      {
+        "text": "2023.",
+        "x0": 61.0,
+        "top": 428.74589864,
+        "x1": 84.18862410999999,
+        "bottom": 436.84589864000003,
+        "size": 8.1,
+        "bold": 0.0
+      },
+      {
+        "text": "https://www.unwomen.org/sites/default/files/2023-10/handbook-on-multisectoral-national-action-plans-to-prevent-vi",
+        "x0": 61.0,
+        "top": 447.54589864,
+        "x1": 532.54419082,
+        "bottom": 455.64589864000004,
+        "size": 8.1,
+        "bold": 0.0
+      },
+      {
+        "text": "olence-against-women-and-girls-en.pdf",
+        "x0": 61.0,
+        "top": 460.34589864000003,
+        "x1": 220.06928635,
+        "bottom": 468.44589864000005,
+        "size": 8.1,
+        "bold": 0.0
+      },
+      {
+        "text": "[6] MIGEPROF Rwanda. National Policy Against Gender-Based Violence. 2011 (historical policy reference; verify",
+        "x0": 61.0,
+        "top": 479.14589864,
+        "x1": 512.6185075300004,
+        "bottom": 487.24589864,
+        "size": 8.1,
+        "bold": 0.0
+      },
+      {
+        "text": "current operational requirements).",
+        "x0": 61.0,
+        "top": 491.94589864,
+        "x1": 202.08554728,
+        "bottom": 500.04589864,
+        "size": 8.1,
+        "bold": 0.0
+      },
+      {
+        "text": "https://www.migeprof.gov.rw/fileadmin/user_upload/Migeprof/Publications/Guidelines/National_Policy_against_Gend",
+        "x0": 61.0,
+        "top": 510.74589864,
+        "x1": 530.3728521700001,
+        "bottom": 518.8458986400001,
+        "size": 8.1,
+        "bold": 0.0
+      },
+      {
+        "text": "er-Based_Violence-2011.pdf",
+        "x0": 61.0,
+        "top": 523.54589864,
+        "x1": 174.94975672,
+        "bottom": 531.64589864,
+        "size": 8.1,
+        "bold": 0.0
+      },
+      {
+        "text": "20. Publication readiness checklist",
+        "x0": 61.0,
+        "top": 555.7632816,
+        "x1": 335.8798794,
+        "bottom": 569.7632816,
+        "size": 14.0,
+        "bold": 1.0
+      },
+      {
+        "text": "• [ ] GBV prevention specialist has reviewed conceptual and educational accuracy.",
+        "x0": 66.0,
+        "top": 582.58613304,
+        "x1": 443.93437864000003,
+        "bottom": 591.68613304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "• [ ] Rwanda-qualified legal/safeguarding reviewer has verified reporting duties and terminology.",
+        "x0": 66.0,
+        "top": 602.18613304,
+        "x1": 509.25175895000024,
+        "bottom": 611.28613304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "• [ ] All actual referral contacts and service hours are checked at publication time.",
+        "x0": 66.0,
+        "top": 621.7861330400001,
+        "x1": 442.0104029500002,
+        "bottom": 630.88613304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "• [ ] Clinical reviewer has checked mental-health-related safety language.",
+        "x0": 66.0,
+        "top": 641.38613304,
+        "x1": 404.0507848900001,
+        "bottom": 650.48613304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "• [ ] English, Kinyarwanda and French versions receive independent human review.",
+        "x0": 66.0,
+        "top": 660.98613304,
+        "x1": 447.35576752000014,
+        "bottom": 670.08613304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "• [ ] Accessibility, privacy and safe-device-use checks are completed.",
+        "x0": 66.0,
+        "top": 680.58613304,
+        "x1": 383.2247578500001,
+        "bottom": 689.68613304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "• [ ] Content owner, revision date and next review date are recorded.",
+        "x0": 66.0,
+        "top": 700.18613304,
+        "x1": 383.62466099,
+        "bottom": 709.28613304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA | GBV EDUCATIONAL CONTENT | DRAFT Page 10",
+        "x0": 48.0,
+        "top": 801.191558,
+        "x1": 547.275543,
+        "bottom": 808.691558,
+        "size": 7.5,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 11,
+    "height": 841.8898,
+    "lines": [
+      {
+        "text": "Next chapter: Chapter 04 - Understanding Consent, Boundaries, and Bodily Autonomy. This",
+        "x0": 70.6378,
+        "top": 76.23417992000009,
+        "x1": 497.1844836399999,
+        "bottom": 85.53417992000004,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "chapter should be expanded only as a separate GBV educational publication; Chapter 03 remains",
+        "x0": 70.6378,
+        "top": 91.43417992000002,
+        "x1": 524.6378095800002,
+        "bottom": 100.73417991999997,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "in draft until approved.",
+        "x0": 70.6378,
+        "top": 106.63417992000007,
+        "x1": 178.03736014,
+        "bottom": 115.93417992000002,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA | GBV EDUCATIONAL CONTENT | DRAFT Page 11",
+        "x0": 48.0,
+        "top": 801.191558,
+        "x1": 547.275543,
+        "bottom": 808.691558,
+        "size": 7.5,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  }
+]

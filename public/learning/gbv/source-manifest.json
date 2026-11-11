@@ -1,0 +1,42 @@
+{
+  "collection": "gbv",
+  "sourceStatus": "Original educational drafts; no publication approval claimed.",
+  "sources": [
+    {
+      "chapter": 1,
+      "slug": "understanding-gender-based-violence",
+      "title": "Understanding Gender-Based Violence",
+      "filename": "GBV_Chapter_01.pdf",
+      "pdfUrl": "/learning/gbv/GBV_Chapter_01.pdf",
+      "sha256": "36f58ee4d921fbec3d2652a37a63d2cc0ea8ec03081485dea237211e79b5e513",
+      "pages": 12,
+      "author": "VUGA NDAKUMVA Initiative - educational draft",
+      "editionText": "Expanded educational handbook | English | Version 1.1 | 9 November 2026",
+      "publicationStatus": "Editorial status: Evidence-informed educational draft. Not yet approved for publication. Requires GBV-specialist, safeguarding, legal, accessibility and Rwanda-localization review."
+    },
+    {
+      "chapter": 2,
+      "slug": "types-and-forms-of-gender-based-violence",
+      "title": "Types and Forms of Gender-Based Violence",
+      "filename": "VUGA_NDAKUMVA_GBV_Expanded_Chapter_02_Types_and_Forms.pdf",
+      "pdfUrl": "/learning/gbv/VUGA_NDAKUMVA_GBV_Expanded_Chapter_02_Types_and_Forms.pdf",
+      "sha256": "844dd90aff57a6372982bddaa40954f2b605469a2cb04f3a4d6c35498f9f8e6f",
+      "pages": 10,
+      "author": "VUGA NDAKUMVA - Educational draft",
+      "editionText": "Version: 1.1 | Prepared: 9 November 2026 | Language: English | Series: GBV Chapters 01-18",
+      "publicationStatus": "EDUCATIONAL DRAFT - NOT YET APPROVED FOR PUBLICATION. Specialist safeguarding, legal, clinical, translation and Rwanda referral verification are required. This chapter is not a diagnostic tool, legal opinion, emergency service, or substitute for professional assistance."
+    },
+    {
+      "chapter": 3,
+      "slug": "root-causes-risk-factors-and-gender-inequality",
+      "title": "Root Causes, Risk Factors, and Gender Inequality",
+      "filename": "VUGA_NDAKUMVA_GBV_Expanded_Chapter_03_Root_Causes_Risk_Factors_Gender_Inequality.pdf",
+      "pdfUrl": "/learning/gbv/VUGA_NDAKUMVA_GBV_Expanded_Chapter_03_Root_Causes_Risk_Factors_Gender_Inequality.pdf",
+      "sha256": "360a79a3892f052cd4d3e7349d120eb6b830f7e100d3eb814991ce9f7a0d7615",
+      "pages": 11,
+      "author": "VUGA NDAKUMVA Initiative - educational draft",
+      "editionText": "Gender-Based Violence Educational Content Library | Expanded Chapter 03 | Version 1.1 | November 2026",
+      "publicationStatus": "Educational status: Evidence-informed draft for learning and community awareness. It is not a substitute for individualized legal, medical, psychological, or protection advice. Requires specialist safeguarding, legal and Rwanda localization review before public release."
+    }
+  ]
+}

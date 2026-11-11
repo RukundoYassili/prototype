@@ -1,0 +1,1105 @@
+{
+  "layouts": [
+    {
+      "width": 320,
+      "overflow": false,
+      "headings": [
+        1,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        2,
+        2
+      ],
+      "images": [
+        {
+          "src": "http://localhost:5173/images/about/reading-at-your-own-pace-480.webp",
+          "width": 240,
+          "height": 180,
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0
+        },
+        {
+          "src": "http://localhost:5173/images/learning/mental-health-covers/01-everyday-connections-480.webp",
+          "width": 250,
+          "height": 167,
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.009018108361590116
+        },
+        {
+          "src": "http://localhost:5173/images/learning/mental-health-covers/02-emotions-and-choice-480.webp",
+          "width": 250,
+          "height": 167,
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.009018108361590116
+        },
+        {
+          "src": "http://localhost:5173/images/learning/mental-health-covers/03-demands-and-practical-help-480.webp",
+          "width": 250,
+          "height": 167,
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.009018108361590116
+        },
+        {
+          "src": "http://localhost:5173/images/learning/mental-health-covers/04-worry-and-a-calm-companion-480.webp",
+          "width": 250,
+          "height": 167,
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.009018108361590116
+        },
+        {
+          "src": "http://localhost:5173/images/learning/mental-health-covers/05-low-energy-and-quiet-company-480.webp",
+          "width": 250,
+          "height": 167,
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.009018108361590116
+        },
+        {
+          "src": "http://localhost:5173/images/learning/mental-health-covers/06-space-choice-and-support-480.webp",
+          "width": 250,
+          "height": 167,
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.009018108361590116
+        },
+        {
+          "src": "http://localhost:5173/images/learning/mental-health-covers/07-loss-and-gentle-company-480.webp",
+          "width": 250,
+          "height": 167,
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.009018108361590116
+        }
+      ]
+    },
+    {
+      "width": 375,
+      "overflow": false,
+      "headings": [
+        1,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        2,
+        2
+      ],
+      "images": [
+        {
+          "src": "http://localhost:5173/images/about/reading-at-your-own-pace-480.webp",
+          "width": 295,
+          "height": 221,
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0
+        },
+        {
+          "src": "http://localhost:5173/images/learning/mental-health-covers/01-everyday-connections-480.webp",
+          "width": 305,
+          "height": 203,
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.0049261083743843415
+        },
+        {
+          "src": "http://localhost:5173/images/learning/mental-health-covers/02-emotions-and-choice-480.webp",
+          "width": 305,
+          "height": 203,
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.0049261083743843415
+        },
+        {
+          "src": "http://localhost:5173/images/learning/mental-health-covers/03-demands-and-practical-help-480.webp",
+          "width": 305,
+          "height": 203,
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.0049261083743843415
+        },
+        {
+          "src": "http://localhost:5173/images/learning/mental-health-covers/04-worry-and-a-calm-companion-480.webp",
+          "width": 305,
+          "height": 203,
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.0049261083743843415
+        },
+        {
+          "src": "http://localhost:5173/images/learning/mental-health-covers/05-low-energy-and-quiet-company-480.webp",
+          "width": 305,
+          "height": 203,
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.0049261083743843415
+        },
+        {
+          "src": "http://localhost:5173/images/learning/mental-health-covers/06-space-choice-and-support-480.webp",
+          "width": 305,
+          "height": 203,
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.0049261083743843415
+        },
+        {
+          "src": "http://localhost:5173/images/learning/mental-health-covers/07-loss-and-gentle-company-480.webp",
+          "width": 305,
+          "height": 203,
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.0049261083743843415
+        }
+      ]
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "headings": [
+        1,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        2,
+        2
+      ],
+      "images": [
+        {
+          "src": "http://localhost:5173/images/about/reading-at-your-own-pace-960.webp",
+          "width": 490,
+          "height": 368,
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.002511874314943263
+        },
+        {
+          "src": "http://localhost:5173/images/learning/mental-health-covers/01-everyday-connections-480.webp",
+          "width": 318,
+          "height": 212,
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.0023696682464455776
+        },
+        {
+          "src": "http://localhost:5173/images/learning/mental-health-covers/02-emotions-and-choice-480.webp",
+          "width": 318,
+          "height": 212,
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.0023696682464455776
+        },
+        {
+          "src": "http://localhost:5173/images/learning/mental-health-covers/03-demands-and-practical-help-480.webp",
+          "width": 318,
+          "height": 212,
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.0023696682464455776
+        },
+        {
+          "src": "http://localhost:5173/images/learning/mental-health-covers/04-worry-and-a-calm-companion-480.webp",
+          "width": 318,
+          "height": 212,
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.0023696682464455776
+        },
+        {
+          "src": "http://localhost:5173/images/learning/mental-health-covers/05-low-energy-and-quiet-company-480.webp",
+          "width": 318,
+          "height": 212,
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.0023696682464455776
+        },
+        {
+          "src": "http://localhost:5173/images/learning/mental-health-covers/06-space-choice-and-support-480.webp",
+          "width": 318,
+          "height": 212,
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.0023696682464455776
+        },
+        {
+          "src": "http://localhost:5173/images/learning/mental-health-covers/07-loss-and-gentle-company-480.webp",
+          "width": 318,
+          "height": 212,
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.0023696682464455776
+        }
+      ]
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "headings": [
+        1,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        2,
+        2
+      ],
+      "images": [
+        {
+          "src": "http://localhost:5173/images/about/reading-at-your-own-pace-960.webp",
+          "width": 394,
+          "height": 295,
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.00225988700564983
+        },
+        {
+          "src": "http://localhost:5173/images/learning/mental-health-covers/01-everyday-connections-480.webp",
+          "width": 434,
+          "height": 289,
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.00004660212272655784
+        },
+        {
+          "src": "http://localhost:5173/images/learning/mental-health-covers/02-emotions-and-choice-480.webp",
+          "width": 434,
+          "height": 289,
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.00004660212272655784
+        },
+        {
+          "src": "http://localhost:5173/images/learning/mental-health-covers/03-demands-and-practical-help-480.webp",
+          "width": 434,
+          "height": 289,
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.00004660212272655784
+        },
+        {
+          "src": "http://localhost:5173/images/learning/mental-health-covers/04-worry-and-a-calm-companion-480.webp",
+          "width": 434,
+          "height": 289,
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.00004660212272655784
+        },
+        {
+          "src": "http://localhost:5173/images/learning/mental-health-covers/05-low-energy-and-quiet-company-480.webp",
+          "width": 434,
+          "height": 289,
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.00004660212272655784
+        },
+        {
+          "src": "http://localhost:5173/images/learning/mental-health-covers/06-space-choice-and-support-480.webp",
+          "width": 434,
+          "height": 289,
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.00004660212272655784
+        },
+        {
+          "src": "http://localhost:5173/images/learning/mental-health-covers/07-loss-and-gentle-company-480.webp",
+          "width": 434,
+          "height": 289,
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.00004660212272655784
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "headings": [
+        1,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        2,
+        2
+      ],
+      "images": [
+        {
+          "src": "http://localhost:5173/images/about/reading-at-your-own-pace-960.webp",
+          "width": 524,
+          "height": 393,
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.0015612802498048417
+        },
+        {
+          "src": "http://localhost:5173/images/learning/mental-health-covers/01-everyday-connections-960.webp",
+          "width": 608,
+          "height": 405,
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.0012345679012346622
+        },
+        {
+          "src": "http://localhost:5173/images/learning/mental-health-covers/02-emotions-and-choice-960.webp",
+          "width": 608,
+          "height": 405,
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.0012345679012346622
+        },
+        {
+          "src": "http://localhost:5173/images/learning/mental-health-covers/03-demands-and-practical-help-960.webp",
+          "width": 608,
+          "height": 405,
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.0012345679012346622
+        },
+        {
+          "src": "http://localhost:5173/images/learning/mental-health-covers/04-worry-and-a-calm-companion-960.webp",
+          "width": 608,
+          "height": 405,
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.0012345679012346622
+        },
+        {
+          "src": "http://localhost:5173/images/learning/mental-health-covers/05-low-energy-and-quiet-company-960.webp",
+          "width": 608,
+          "height": 405,
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.0012345679012346622
+        },
+        {
+          "src": "http://localhost:5173/images/learning/mental-health-covers/06-space-choice-and-support-960.webp",
+          "width": 608,
+          "height": 405,
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.0012345679012346622
+        },
+        {
+          "src": "http://localhost:5173/images/learning/mental-health-covers/07-loss-and-gentle-company-960.webp",
+          "width": 608,
+          "height": 405,
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.0012345679012346622
+        }
+      ]
+    },
+    {
+      "width": 1920,
+      "overflow": false,
+      "headings": [
+        1,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        2,
+        2
+      ],
+      "images": [
+        {
+          "src": "http://localhost:5173/images/about/reading-at-your-own-pace-960.webp",
+          "width": 524,
+          "height": 393,
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.0015612802498048417
+        },
+        {
+          "src": "http://localhost:5173/images/learning/mental-health-covers/01-everyday-connections-960.webp",
+          "width": 383,
+          "height": 256,
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.00390625
+        },
+        {
+          "src": "http://localhost:5173/images/learning/mental-health-covers/02-emotions-and-choice-960.webp",
+          "width": 383,
+          "height": 256,
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.00390625
+        },
+        {
+          "src": "http://localhost:5173/images/learning/mental-health-covers/03-demands-and-practical-help-960.webp",
+          "width": 383,
+          "height": 256,
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.00390625
+        },
+        {
+          "src": "http://localhost:5173/images/learning/mental-health-covers/04-worry-and-a-calm-companion-960.webp",
+          "width": 383,
+          "height": 256,
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.00390625
+        },
+        {
+          "src": "http://localhost:5173/images/learning/mental-health-covers/05-low-energy-and-quiet-company-960.webp",
+          "width": 383,
+          "height": 256,
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.00390625
+        },
+        {
+          "src": "http://localhost:5173/images/learning/mental-health-covers/06-space-choice-and-support-960.webp",
+          "width": 383,
+          "height": 256,
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.00390625
+        },
+        {
+          "src": "http://localhost:5173/images/learning/mental-health-covers/07-loss-and-gentle-company-960.webp",
+          "width": 383,
+          "height": 256,
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.00390625
+        }
+      ]
+    }
+  ],
+  "interactions": [
+    "375px: chapter jump preserves focus and header offset",
+    "375px: trimmed case-insensitive search, live count, empty state, keyboard reset and focus",
+    "375px: section-title search still works",
+    "375px: Chapter 1 opens by keyboard",
+    "375px: Chapter 2 opens by keyboard",
+    "375px: Chapter 3 opens by keyboard",
+    "375px: Chapter 4 opens by keyboard",
+    "375px: Chapter 5 opens by keyboard",
+    "375px: Chapter 6 opens by keyboard",
+    "375px: Chapter 7 opens by keyboard",
+    "375px: Start learning opens Chapter 01",
+    "1440px: chapter jump preserves focus and header offset",
+    "1440px: trimmed case-insensitive search, live count, empty state, keyboard reset and focus",
+    "1440px: section-title search still works",
+    "1440px: Chapter 1 opens by keyboard",
+    "1440px: Chapter 2 opens by keyboard",
+    "1440px: Chapter 3 opens by keyboard",
+    "1440px: Chapter 4 opens by keyboard",
+    "1440px: Chapter 5 opens by keyboard",
+    "1440px: Chapter 6 opens by keyboard",
+    "1440px: Chapter 7 opens by keyboard",
+    "1440px: Start learning opens Chapter 01"
+  ],
+  "comparisons": [
+    {
+      "name": "chapter-01",
+      "sameDimensions": true,
+      "significantChannels": 0,
+      "meanChannelDelta": 0
+    },
+    {
+      "name": "gbv",
+      "sameDimensions": true,
+      "significantChannels": 3,
+      "meanChannelDelta": 0.013758113958034902
+    },
+    {
+      "name": "about",
+      "sameDimensions": true,
+      "significantChannels": 0,
+      "meanChannelDelta": 0.004127421414210712
+    }
+  ],
+  "errors": [],
+  "contrast": [
+    {
+      "text": "VUGA NDAKUMVA · LEARNING CENTER",
+      "ratio": 5.28,
+      "required": 4.5
+    },
+    {
+      "text": "A little understanding.A meaningful step forward.",
+      "ratio": 11.97,
+      "required": 3
+    },
+    {
+      "text": "A meaningful step forward.",
+      "ratio": 5.19,
+      "required": 3
+    },
+    {
+      "text": "Explore mental health through detailed lessons, visual examples, ",
+      "ratio": 5.92,
+      "required": 4.5
+    },
+    {
+      "text": "Explore the chapters",
+      "ratio": 8.88,
+      "required": 4.5
+    },
+    {
+      "text": "7 chapters available",
+      "ratio": 6.52,
+      "required": 4.5
+    },
+    {
+      "text": "English learning series",
+      "ratio": 6.52,
+      "required": 4.5
+    },
+    {
+      "text": "Make room to learn, at your own pace.",
+      "ratio": 5.92,
+      "required": 4.5
+    },
+    {
+      "text": "7 chaptersOne connected learning series",
+      "ratio": 6.58,
+      "required": 4.5
+    },
+    {
+      "text": "7 chapters",
+      "ratio": 9.81,
+      "required": 4.5
+    },
+    {
+      "text": "148 sectionsExplore one idea at a time",
+      "ratio": 6.58,
+      "required": 4.5
+    },
+    {
+      "text": "148 sections",
+      "ratio": 9.81,
+      "required": 4.5
+    },
+    {
+      "text": "Learn in different waysStories, diagrams & reflection",
+      "ratio": 6.58,
+      "required": 4.5
+    },
+    {
+      "text": "Learn in different ways",
+      "ratio": 9.81,
+      "required": 4.5
+    },
+    {
+      "text": "YOUR STARTING POINT",
+      "ratio": 5.09,
+      "required": 4.5
+    },
+    {
+      "text": "New to mental health? Begin here.",
+      "ratio": 10.18,
+      "required": 3
+    },
+    {
+      "text": "Build a foundation with Chapter 01, or choose any topic below. Th",
+      "ratio": 5.7,
+      "required": 4.5
+    },
+    {
+      "text": "Start learning",
+      "ratio": 8.88,
+      "required": 4.5
+    },
+    {
+      "text": "Educational drafts · Version 1.1 · 9 November 2026",
+      "ratio": 11.42,
+      "required": 4.5
+    },
+    {
+      "text": "The supplied chapters have not been clinically reviewed or approv",
+      "ratio": 6.4,
+      "required": 4.5
+    },
+    {
+      "text": "THE MENTAL HEALTH LEARNING SERIES",
+      "ratio": 5.87,
+      "required": 4.5
+    },
+    {
+      "text": "Take your next stepin understanding.",
+      "ratio": 11.74,
+      "required": 3
+    },
+    {
+      "text": "Read each chapter in full, explore its examples, and return to th",
+      "ratio": 6.58,
+      "required": 4.5
+    },
+    {
+      "text": "Explore the library",
+      "ratio": 10.91,
+      "required": 4.5
+    },
+    {
+      "text": "7 of 7 chapters",
+      "ratio": 6.11,
+      "required": 4.5
+    },
+    {
+      "text": "Search chapters",
+      "ratio": 4.97,
+      "required": 4.5
+    },
+    {
+      "text": "Cover illustrations show fictional people in everyday situations.",
+      "ratio": 6.58,
+      "required": 4.5
+    },
+    {
+      "text": "CHAPTER 01",
+      "ratio": 11.55,
+      "required": 4.5
+    },
+    {
+      "text": "15 sections",
+      "ratio": 6.33,
+      "required": 4.5
+    },
+    {
+      "text": "English · Educational draft",
+      "ratio": 6.33,
+      "required": 4.5
+    },
+    {
+      "text": "Understanding Mental Health and Wellbeing",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "Explore what mental health means, what shapes wellbeing, and the ",
+      "ratio": 6.58,
+      "required": 4.5
+    },
+    {
+      "text": "25-35 minutes, with optional reflection",
+      "ratio": 6.58,
+      "required": 4.5
+    },
+    {
+      "text": "Visual examples · Optional reflection",
+      "ratio": 6.91,
+      "required": 4.5
+    },
+    {
+      "text": "Read the full chapter",
+      "ratio": 7.79,
+      "required": 4.5
+    },
+    {
+      "text": "CHAPTER 02",
+      "ratio": 11.55,
+      "required": 4.5
+    },
+    {
+      "text": "18 sections",
+      "ratio": 6.33,
+      "required": 4.5
+    },
+    {
+      "text": "English · Educational draft",
+      "ratio": 6.33,
+      "required": 4.5
+    },
+    {
+      "text": "Recognizing Emotions and Responding to Them",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "Learn about emotional experiences, practical responses, safe comm",
+      "ratio": 6.58,
+      "required": 4.5
+    },
+    {
+      "text": "35-50 minutes plus optional exercises",
+      "ratio": 6.58,
+      "required": 4.5
+    },
+    {
+      "text": "Visual examples · Optional reflection",
+      "ratio": 6.91,
+      "required": 4.5
+    },
+    {
+      "text": "Read the full chapter",
+      "ratio": 7.79,
+      "required": 4.5
+    },
+    {
+      "text": "CHAPTER 03",
+      "ratio": 11.55,
+      "required": 4.5
+    },
+    {
+      "text": "19 sections",
+      "ratio": 6.33,
+      "required": 4.5
+    },
+    {
+      "text": "English · Educational draft",
+      "ratio": 6.33,
+      "required": 4.5
+    },
+    {
+      "text": "Understanding Stress and Healthy Coping Strategies",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "Explore stress, practical pressures, flexible coping, and when ad",
+      "ratio": 6.58,
+      "required": 4.5
+    },
+    {
+      "text": "18 minutes, plus optional reflection",
+      "ratio": 6.58,
+      "required": 4.5
+    },
+    {
+      "text": "Visual examples · Optional reflection",
+      "ratio": 6.91,
+      "required": 4.5
+    },
+    {
+      "text": "Read the full chapter",
+      "ratio": 7.79,
+      "required": 4.5
+    },
+    {
+      "text": "CHAPTER 04",
+      "ratio": 11.55,
+      "required": 4.5
+    },
+    {
+      "text": "23 sections",
+      "ratio": 6.33,
+      "required": 4.5
+    },
+    {
+      "text": "English · Educational draft",
+      "ratio": 6.33,
+      "required": 4.5
+    },
+    {
+      "text": "Understanding Anxiety and Anxiety Disorders",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "Understand everyday anxiety, anxiety disorders, supportive respon",
+      "ratio": 6.58,
+      "required": 4.5
+    },
+    {
+      "text": "20 minutes, plus optional reflection",
+      "ratio": 6.58,
+      "required": 4.5
+    },
+    {
+      "text": "Visual examples · Optional reflection",
+      "ratio": 6.91,
+      "required": 4.5
+    },
+    {
+      "text": "Read the full chapter",
+      "ratio": 7.79,
+      "required": 4.5
+    },
+    {
+      "text": "CHAPTER 05",
+      "ratio": 11.55,
+      "required": 4.5
+    },
+    {
+      "text": "22 sections",
+      "ratio": 6.33,
+      "required": 4.5
+    },
+    {
+      "text": "English · Educational draft",
+      "ratio": 6.33,
+      "required": 4.5
+    },
+    {
+      "text": "Understanding Depression and Depressive Disorders",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "Learn about depression, compassionate support, treatment, and sma",
+      "ratio": 6.58,
+      "required": 4.5
+    },
+    {
+      "text": "20 minutes, plus optional reflection",
+      "ratio": 6.58,
+      "required": 4.5
+    },
+    {
+      "text": "Visual examples · Optional reflection",
+      "ratio": 6.91,
+      "required": 4.5
+    },
+    {
+      "text": "Read the full chapter",
+      "ratio": 7.79,
+      "required": 4.5
+    },
+    {
+      "text": "CHAPTER 06",
+      "ratio": 11.55,
+      "required": 4.5
+    },
+    {
+      "text": "31 sections",
+      "ratio": 6.33,
+      "required": 4.5
+    },
+    {
+      "text": "English · Educational draft",
+      "ratio": 6.33,
+      "required": 4.5
+    },
+    {
+      "text": "Understanding Trauma and Post-Traumatic Stress",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "Explore trauma responses, safety, voluntary coping, and pathways ",
+      "ratio": 6.58,
+      "required": 4.5
+    },
+    {
+      "text": "20 minutes, plus optional reflection",
+      "ratio": 6.58,
+      "required": 4.5
+    },
+    {
+      "text": "Visual examples · Optional reflection",
+      "ratio": 6.91,
+      "required": 4.5
+    },
+    {
+      "text": "Read the full chapter",
+      "ratio": 7.79,
+      "required": 4.5
+    },
+    {
+      "text": "CHAPTER 07",
+      "ratio": 11.55,
+      "required": 4.5
+    },
+    {
+      "text": "20 sections",
+      "ratio": 6.33,
+      "required": 4.5
+    },
+    {
+      "text": "English · Educational draft",
+      "ratio": 6.33,
+      "required": 4.5
+    },
+    {
+      "text": "Understanding Grief, Loss, and Emotional Adjustment",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "Understand different losses, changing grief experiences, practica",
+      "ratio": 6.58,
+      "required": 4.5
+    },
+    {
+      "text": "20 minutes, plus optional reflection",
+      "ratio": 6.58,
+      "required": 4.5
+    },
+    {
+      "text": "Visual examples · Optional reflection",
+      "ratio": 6.91,
+      "required": 4.5
+    },
+    {
+      "text": "Read the full chapter",
+      "ratio": 7.79,
+      "required": 4.5
+    },
+    {
+      "text": "THE SERIES CONTINUES",
+      "ratio": 6.7,
+      "required": 4.5
+    },
+    {
+      "text": "Keep learning, at your own pace.",
+      "ratio": 9.81,
+      "required": 3
+    },
+    {
+      "text": "More Mental Health chapters are on the way. Return to a useful id",
+      "ratio": 7.14,
+      "required": 4.5
+    },
+    {
+      "text": "The chapters include their original references and source notes. ",
+      "ratio": 4.93,
+      "required": 4.5
+    },
+    {
+      "text": "World Health Organization’s mental health overview",
+      "ratio": 4.93,
+      "required": 4.5
+    },
+    {
+      "text": "Information is one place to begin.",
+      "ratio": 10.61,
+      "required": 3
+    },
+    {
+      "text": "When you want to explore support, find a pathway that makes sense",
+      "ratio": 4.78,
+      "required": 4.5
+    },
+    {
+      "text": "Find support",
+      "ratio": 8.88,
+      "required": 4.5
+    }
+  ],
+  "sourceChecks": [
+    {
+      "file": "src/learning/chapters.generated.ts",
+      "unchanged": true
+    },
+    {
+      "file": "src/learning/chapters-03-07.generated.ts",
+      "unchanged": true
+    },
+    {
+      "file": "src/learning/chapter-catalog.generated.ts",
+      "unchanged": true
+    },
+    {
+      "file": "src/learning/chapter-catalog-03-07.generated.ts",
+      "unchanged": true
+    },
+    {
+      "file": "src/learning/visuals.ts",
+      "unchanged": true
+    },
+    {
+      "file": "src/learning/visuals-03-07.ts",
+      "unchanged": true
+    },
+    {
+      "file": "src/learning/LearningVisuals.tsx",
+      "unchanged": true
+    },
+    {
+      "file": "src/learning/mental-health.css",
+      "unchanged": true
+    },
+    {
+      "file": "src/learning/learning-visuals.css",
+      "unchanged": true
+    },
+    {
+      "file": "src/learning/gbv/GbvPages.tsx",
+      "unchanged": true
+    },
+    {
+      "file": "src/learning/gbv/gbv.css",
+      "unchanged": true
+    }
+  ],
+  "status": "passed"
+}

@@ -1,0 +1,26 @@
+import { chromium } from '@playwright/test';
+import { mkdir, writeFile } from 'node:fs/promises';
+import assert from 'node:assert/strict';
+const directory = 'artifacts/gbv-chapter-01-refresh/print';
+await mkdir(directory, { recursive: true });
+const browser = await chromium.launch({ channel: 'msedge' });
+const page = await browser.newPage({ viewport: { width: 1440, height: 960 }, reducedMotion: 'reduce' });
+await page.goto('http://localhost:5173/understand-gbv/understanding-gender-based-violence');
+await page.locator('.gbv-foundations').waitFor();
+await page.evaluate(async () => {
+  await document.fonts.ready;
+  await Promise.all([...document.images].map(image => { image.loading = 'eager'; return image.decode(); }));
+});
+const details = page.locator('.mh-article details');
+await details.first().evaluate(element => { element.open = true; });
+const before = await details.evaluateAll(elements => elements.map(element => element.open));
+await page.evaluate(() => dispatchEvent(new Event('beforeprint')));
+await page.emulateMedia({ media: 'print' });
+const expected = await page.locator('.mh-article').evaluate(article => [...article.querySelectorAll('h2,h3,p,li,th,td,dt,dd,summary,figcaption')].filter(element => !element.querySelector('p,li,th,td,dt,dd')).map(element => element.textContent.trim()).filter(Boolean));
+await page.pdf({ path: `${directory}/chapter-01.pdf`, format: 'A4', printBackground: true, displayHeaderFooter: false, margin: { top: '15mm', right: '14mm', bottom: '15mm', left: '14mm' }, preferCSSPageSize: false });
+await page.evaluate(() => dispatchEvent(new Event('afterprint')));
+await page.emulateMedia({ media: 'screen' });
+assert.deepEqual(await details.evaluateAll(elements => elements.map(element => element.open)), before);
+await writeFile(`${directory}/expected.json`, JSON.stringify({ expected, restoredDisclosures: true }, null, 2));
+await browser.close();
+console.log('Print capture saved; all original disclosure states restored.');

@@ -1,0 +1,14 @@
+{
+  "reason": "First support variant changed the volunteer. Regenerated to preserve both characters.",
+  "unselected": {
+    "id": "gbv-volunteer-disclosure-support",
+    "prompt": "Use case: identity-preserve\nAsset type: GBV educational fictional photograph gbv-volunteer-disclosure-support. Reference image is fictional character identity reference.\nCreate ONE new landscape 4:3 photograph of the SAME principal person/people from the reference. Keep their exact face, hairstyle, skin tone and clothing: adult man around 32, close cropped hair, beige short sleeve shirt. New scene: Same adult male volunteer listens attentively in a quieter private office, maintaining respectful distance, no notes or recording device.\nRespectful non-graphic contemporary Rwanda setting, candid editorial photography, realistic natural daylight and textures, thoughtful tone. Maintain personal choice, no guaranteed safety, recovery or outcome. Central crop-safe faces and hands. No confrontation, violence, threats, injury, sexual content, dramatic tears, forced affection, readable text, logos, graphics, collage, watermark, real survivor likeness or documentary claim.",
+    "source": "C:\\Users\\VUGANDAKUMVA\\.codex\\generated_images\\01a1bb11-1484-7d62-aaa1-08852146c61a\\exec-3123aedd-00e7-4ff4-9c4f-10aed3c71661.png",
+    "mode": "built-in image_gen",
+    "reference": "gbv-volunteer-disclosure-situation"
+  },
+  "moderationRetry": {
+    "id": "gbv-child-safeguarding-situation",
+    "reason": "An ordinary school scene was rejected at output moderation. Retried with a neutral school wellbeing description; no harmful scene requested."
+  }
+}

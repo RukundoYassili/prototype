@@ -1,0 +1,213 @@
+[
+  {
+    "route": "/about",
+    "width": 1440,
+    "images": [
+      {
+        "src": "/images/mental-health-listening.webp",
+        "alt": "Illustrative photograph of a supportive conversation",
+        "width": 609,
+        "height": 430
+      }
+    ],
+    "backgrounds": [],
+    "overflow": false,
+    "headings": [
+      "Making supporteasier to understand.",
+      "Clear information.Compassionate connection.",
+      "Dignity & respect",
+      "Choice & participation",
+      "Inclusion & accessibility",
+      "Privacy & transparency",
+      "Your choices come first.",
+      "Need urgent assistance?",
+      "A little calm.In your inbox.",
+      "Your next quiet moment.",
+      "A little more roomfor well-being.",
+      "Explore",
+      "Good to know",
+      "The details"
+    ]
+  },
+  {
+    "route": "/about",
+    "width": 375,
+    "images": [
+      {
+        "src": "/images/mental-health-listening.webp",
+        "alt": "Illustrative photograph of a supportive conversation",
+        "width": 335,
+        "height": 260
+      }
+    ],
+    "backgrounds": [],
+    "overflow": false,
+    "headings": [
+      "Making supporteasier to understand.",
+      "Clear information.Compassionate connection.",
+      "Dignity & respect",
+      "Choice & participation",
+      "Inclusion & accessibility",
+      "Privacy & transparency",
+      "Your choices come first.",
+      "Need urgent assistance?",
+      "A little calm.In your inbox.",
+      "Your next quiet moment.",
+      "A little more roomfor well-being.",
+      "Explore",
+      "Good to know",
+      "The details"
+    ]
+  },
+  {
+    "route": "/",
+    "width": 1440,
+    "images": [
+      {
+        "src": "/images/mental-health-counseling.webp",
+        "alt": "",
+        "width": 1440,
+        "height": 790
+      },
+      {
+        "src": "/images/mental-health-listening.webp",
+        "alt": "",
+        "width": 1440,
+        "height": 790
+      },
+      {
+        "src": "/images/mental-health-group.webp",
+        "alt": "",
+        "width": 1440,
+        "height": 790
+      },
+      {
+        "src": "/images/mental-health-connection.webp",
+        "alt": "",
+        "width": 1440,
+        "height": 790
+      },
+      {
+        "src": "/images/mental-health-learning.webp",
+        "alt": "",
+        "width": 1440,
+        "height": 790
+      },
+      {
+        "src": "/images/mental-health-counseling.webp",
+        "alt": "",
+        "width": 1440,
+        "height": 790
+      },
+      {
+        "src": "/images/mental-health-counseling.webp",
+        "alt": "",
+        "width": 403,
+        "height": 273
+      },
+      {
+        "src": "/images/mental-health-group.webp",
+        "alt": "",
+        "width": 403,
+        "height": 273
+      },
+      {
+        "src": "/images/mental-health-connection.webp",
+        "alt": "",
+        "width": 403,
+        "height": 273
+      },
+      {
+        "src": "/images/mental-health-listening.webp",
+        "alt": "",
+        "width": 91,
+        "height": 178
+      },
+      {
+        "src": "/images/mental-health-counseling.webp",
+        "alt": "",
+        "width": 91,
+        "height": 178
+      },
+      {
+        "src": "/images/mental-health-group.webp",
+        "alt": "",
+        "width": 91,
+        "height": 178
+      },
+      {
+        "src": "/images/mental-health-group.webp",
+        "alt": "A small group sitting together and listening during a conversation",
+        "width": 782,
+        "height": 464
+      },
+      {
+        "src": "/images/mental-health-connection.webp",
+        "alt": "A group joining hands in a shared gesture of connection",
+        "width": 522,
+        "height": 224
+      },
+      {
+        "src": "/images/mental-health-listening.webp",
+        "alt": "Two people having an attentive conversation in a calm, welcoming room",
+        "width": 522,
+        "height": 224
+      },
+      {
+        "src": "/images/mental-health-group.webp",
+        "alt": "A small group sitting together and listening during a conversation",
+        "width": 2400,
+        "height": 1600
+      }
+    ],
+    "backgrounds": [],
+    "overflow": false,
+    "headings": [
+      "We care about yoursmile.",
+      "Support starts withunderstanding.",
+      "Mental Health",
+      "Alcohol & Drugs",
+      "GBV",
+      "How can we helpyou today?",
+      "I need emotional support",
+      "I am concerned about violence or abuse",
+      "I need help with alcohol or drug use",
+      "I want to help someone",
+      "I want information and practical resources",
+      "The right information.A clearer way forward.",
+      "Mental health & emotional well-being",
+      "Gender-based violence support",
+      "Alcohol, drugs & harm reduction",
+      "Health services & referrals",
+      "Legal & practical assistance",
+      "A little clarity.Something to come back to.",
+      "Mental health",
+      "Gender-based violence",
+      "Alcohol & drugs",
+      "Supporting someone",
+      "Thoughtful reads.A little more clarity.",
+      "You don’t need the perfect words to ask for support.",
+      "Being there starts with listening, not having every answer.",
+      "Talking about alcohol, without labels or blame.",
+      "Care begins withhow we treat each other.",
+      "Dignity & respect",
+      "Choice & participation",
+      "Inclusion & accessibility",
+      "Privacy & transparency",
+      "Understanding growswhen we share it.",
+      "Awareness campaigns",
+      "Prevention education",
+      "Workplace & partner learning",
+      "Need urgent assistance?",
+      "A community thatcares, together.",
+      "Community gallery",
+      "Making room for conversation",
+      "A little calm.In your inbox.",
+      "Your next quiet moment.",
+      "A little more roomfor well-being.",
+      "Explore",
+      "Good to know",
+      "The details"
+    ]
+  }
+]

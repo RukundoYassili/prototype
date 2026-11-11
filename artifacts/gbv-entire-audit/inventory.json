@@ -1,0 +1,2054 @@
+[
+  {
+    "number": 1,
+    "title": "Understanding Gender-Based Violence",
+    "slug": "understanding-gender-based-violence",
+    "sections": [
+      {
+        "id": "gbv-section-1-1",
+        "title": "What gender-based violence means",
+        "blockTypes": [
+          "paragraph",
+          "paragraph",
+          "heading",
+          "list"
+        ]
+      },
+      {
+        "id": "gbv-section-1-2",
+        "title": "Why GBV is a public health and human rights concern",
+        "blockTypes": [
+          "paragraph",
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-1-3",
+        "title": "What forms can GBV take?",
+        "blockTypes": [
+          "heading",
+          "paragraph",
+          "heading",
+          "paragraph",
+          "heading",
+          "paragraph",
+          "heading",
+          "paragraph",
+          "heading",
+          "paragraph",
+          "heading",
+          "paragraph",
+          "table"
+        ]
+      },
+      {
+        "id": "gbv-section-1-4",
+        "title": "Gender norms, inequality and unequal power",
+        "blockTypes": [
+          "paragraph",
+          "paragraph",
+          "paragraph",
+          "example"
+        ]
+      },
+      {
+        "id": "gbv-section-1-5",
+        "title": "Recognizing coercive control",
+        "blockTypes": [
+          "paragraph",
+          "heading",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-1-6",
+        "title": "Effects on health, relationships and opportunity",
+        "blockTypes": [
+          "paragraph",
+          "heading",
+          "paragraph",
+          "heading",
+          "paragraph",
+          "heading",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-1-7",
+        "title": "Why seeking help can be difficult",
+        "blockTypes": [
+          "paragraph",
+          "paragraph",
+          "heading",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-1-8",
+        "title": "Consent, choice and boundaries",
+        "blockTypes": [
+          "paragraph",
+          "paragraph",
+          "heading",
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-1-9",
+        "title": "Survivor-centred first-line support",
+        "blockTypes": [
+          "paragraph",
+          "heading",
+          "list",
+          "paragraph",
+          "heading",
+          "table"
+        ]
+      },
+      {
+        "id": "gbv-section-1-10",
+        "title": "Safety planning without increasing danger",
+        "blockTypes": [
+          "paragraph",
+          "list",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-1-11",
+        "title": "Accessing support in Rwanda",
+        "blockTypes": [
+          "paragraph",
+          "table",
+          "paragraph",
+          "paragraph",
+          "heading",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-1-12",
+        "title": "Learning scenarios and guided analysis",
+        "blockTypes": [
+          "example",
+          "example",
+          "example",
+          "example",
+          "example"
+        ]
+      },
+      {
+        "id": "gbv-section-1-13",
+        "title": "Activities for individuals and facilitators",
+        "blockTypes": [
+          "subsection",
+          "subsection",
+          "subsection",
+          "subsection",
+          "subsection"
+        ]
+      },
+      {
+        "id": "gbv-section-1-14",
+        "title": "Knowledge assessment",
+        "blockTypes": [
+          "questions"
+        ]
+      },
+      {
+        "id": "gbv-section-1-15",
+        "title": "Key messages for the reader",
+        "blockTypes": [
+          "list"
+        ]
+      },
+      {
+        "id": "gbv-section-1-16",
+        "title": "Glossary",
+        "blockTypes": [
+          "table"
+        ]
+      },
+      {
+        "id": "gbv-section-1-17",
+        "title": "Scientific and institutional references",
+        "blockTypes": [
+          "references",
+          "references",
+          "references",
+          "references",
+          "references",
+          "references",
+          "references"
+        ]
+      },
+      {
+        "id": "gbv-section-1-18",
+        "title": "Editorial and publication review record",
+        "blockTypes": [
+          "paragraph",
+          "paragraph",
+          "paragraph"
+        ]
+      }
+    ],
+    "stories": [
+      {
+        "id": "gbv-training-opportunity",
+        "title": "A training opportunity",
+        "sectionId": "gbv-section-1-4"
+      },
+      {
+        "id": "gbv-household-earnings",
+        "title": "Financial control in a household",
+        "sectionId": "gbv-section-1-12"
+      },
+      {
+        "id": "gbv-student-monitoring",
+        "title": "A student and digital monitoring",
+        "sectionId": "gbv-section-1-12"
+      },
+      {
+        "id": "gbv-volunteer-disclosure",
+        "title": "Disclosure to a community volunteer",
+        "sectionId": "gbv-section-1-12"
+      },
+      {
+        "id": "gbv-child-safeguarding",
+        "title": "A child appears unsafe",
+        "sectionId": "gbv-section-1-12"
+      },
+      {
+        "id": "gbv-friend-listening",
+        "title": "A friend minimizes abuse",
+        "sectionId": "gbv-section-1-12"
+      }
+    ],
+    "diagrams": [
+      {
+        "id": "gbv-consent",
+        "title": "Consent includes freedom to choose",
+        "sectionId": "gbv-section-1-8"
+      },
+      {
+        "id": "gbv-lives",
+        "title": "LIVES: a respectful first response",
+        "sectionId": "gbv-section-1-9"
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "title": "Types and Forms of Gender-Based Violence",
+    "slug": "types-and-forms-of-gender-based-violence",
+    "sections": [
+      {
+        "id": "gbv-section-2-1",
+        "title": "Understanding what counts as GBV",
+        "blockTypes": [
+          "paragraph",
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-2-2",
+        "title": "Physical violence",
+        "blockTypes": [
+          "paragraph",
+          "heading",
+          "list",
+          "paragraph",
+          "example"
+        ]
+      },
+      {
+        "id": "gbv-section-2-3",
+        "title": "Sexual violence and sexual coercion",
+        "blockTypes": [
+          "paragraph",
+          "paragraph",
+          "heading",
+          "paragraph",
+          "example"
+        ]
+      },
+      {
+        "id": "gbv-section-2-4",
+        "title": "Psychological and emotional violence",
+        "blockTypes": [
+          "paragraph",
+          "paragraph",
+          "example"
+        ]
+      },
+      {
+        "id": "gbv-section-2-5",
+        "title": "Economic and financial abuse",
+        "blockTypes": [
+          "paragraph",
+          "paragraph",
+          "example"
+        ]
+      },
+      {
+        "id": "gbv-section-2-6",
+        "title": "Technology-facilitated GBV",
+        "blockTypes": [
+          "paragraph",
+          "paragraph",
+          "example"
+        ]
+      },
+      {
+        "id": "gbv-section-2-7",
+        "title": "Social, reproductive and identity-related coercion",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-2-8",
+        "title": "GBV in different settings",
+        "blockTypes": [
+          "table"
+        ]
+      },
+      {
+        "id": "gbv-section-2-9",
+        "title": "How forms of GBV overlap",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-2-10",
+        "title": "Recognizing risk without creating a checklist diagnosis",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-2-11",
+        "title": "Effects on survivors and why reactions differ",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-2-12",
+        "title": "Survivor-centred first-line support",
+        "blockTypes": [
+          "paragraph",
+          "table",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-2-13",
+        "title": "Helping children and adolescents safely",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-2-14",
+        "title": "Safe information seeking in Rwanda",
+        "blockTypes": [
+          "paragraph",
+          "table",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-2-15",
+        "title": "Practical learning activities",
+        "blockTypes": [
+          "subsection",
+          "subsection",
+          "subsection",
+          "subsection",
+          "subsection"
+        ]
+      },
+      {
+        "id": "gbv-section-2-16",
+        "title": "Knowledge assessment",
+        "blockTypes": [
+          "questions"
+        ]
+      },
+      {
+        "id": "gbv-section-2-17",
+        "title": "Facilitator guidance and safeguarding",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-2-18",
+        "title": "Key messages and glossary",
+        "blockTypes": [
+          "paragraph",
+          "table"
+        ]
+      },
+      {
+        "id": "gbv-section-2-19",
+        "title": "References and source notes",
+        "blockTypes": [
+          "references",
+          "references",
+          "references",
+          "references",
+          "references",
+          "references",
+          "references",
+          "references",
+          "references",
+          "references",
+          "references",
+          "references",
+          "paragraph"
+        ]
+      }
+    ],
+    "stories": [
+      {
+        "id": "gbv-home-argument",
+        "title": "An argument at home",
+        "sectionId": "gbv-section-2-2"
+      },
+      {
+        "id": "gbv-trainee-support",
+        "title": "A job opportunity",
+        "sectionId": "gbv-section-2-3"
+      },
+      {
+        "id": "gbv-messages-isolation",
+        "title": "Messages and isolation",
+        "sectionId": "gbv-section-2-4"
+      },
+      {
+        "id": "gbv-family-shop",
+        "title": "A family business",
+        "sectionId": "gbv-section-2-5"
+      },
+      {
+        "id": "gbv-online-threats",
+        "title": "Online threats",
+        "sectionId": "gbv-section-2-6"
+      }
+    ],
+    "diagrams": [
+      {
+        "id": "gbv-forms-settings",
+        "title": "Forms and settings answer different questions",
+        "sectionId": "gbv-section-2-8"
+      },
+      {
+        "id": "gbv-overlapping-forms",
+        "title": "Several forms can overlap",
+        "sectionId": "gbv-section-2-9"
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "title": "Root Causes, Risk Factors, and Gender Inequality",
+    "slug": "root-causes-risk-factors-and-gender-inequality",
+    "sections": [
+      {
+        "id": "gbv-section-3-1",
+        "title": "Understanding what drives GBV",
+        "blockTypes": [
+          "paragraph",
+          "paragraph",
+          "heading",
+          "table"
+        ]
+      },
+      {
+        "id": "gbv-section-3-2",
+        "title": "Gender inequality and unequal power",
+        "blockTypes": [
+          "paragraph",
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-3-3",
+        "title": "Harmful norms and learned beliefs",
+        "blockTypes": [
+          "paragraph",
+          "paragraph",
+          "heading",
+          "table"
+        ]
+      },
+      {
+        "id": "gbv-section-3-4",
+        "title": "The ecological model: four connected levels",
+        "blockTypes": [
+          "paragraph",
+          "table",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-3-5",
+        "title": "Social and institutional influences",
+        "blockTypes": [
+          "heading",
+          "paragraph",
+          "heading",
+          "paragraph",
+          "heading",
+          "paragraph",
+          "heading",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-3-6",
+        "title": "Economic pressures: association is not justification",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-3-7",
+        "title": "Alcohol, substances, and violence",
+        "blockTypes": [
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-3-8",
+        "title": "Risk factors versus warning signs",
+        "blockTypes": [
+          "paragraph",
+          "table",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-3-9",
+        "title": "Protective factors and resilience",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-3-10",
+        "title": "Prevention based on evidence: the RESPECT framework",
+        "blockTypes": [
+          "paragraph",
+          "list",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-3-11",
+        "title": "Rwanda relevance: local systems and approaches",
+        "blockTypes": [
+          "paragraph",
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-3-12",
+        "title": "Realistic learning scenarios",
+        "blockTypes": [
+          "example",
+          "example",
+          "example",
+          "example",
+          "example"
+        ]
+      },
+      {
+        "id": "gbv-section-3-13",
+        "title": "Practical learning activities",
+        "blockTypes": [
+          "subsection",
+          "subsection",
+          "subsection",
+          "subsection",
+          "subsection"
+        ]
+      },
+      {
+        "id": "gbv-section-3-14",
+        "title": "Supporting a person safely",
+        "blockTypes": [
+          "paragraph",
+          "list"
+        ]
+      },
+      {
+        "id": "gbv-section-3-15",
+        "title": "Safe communication and sensitive data",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-3-16",
+        "title": "Knowledge assessment",
+        "blockTypes": [
+          "questions"
+        ]
+      },
+      {
+        "id": "gbv-section-3-17",
+        "title": "Key messages to remember",
+        "blockTypes": [
+          "list"
+        ]
+      },
+      {
+        "id": "gbv-section-3-18",
+        "title": "Short glossary",
+        "blockTypes": [
+          "paragraph",
+          "paragraph",
+          "paragraph",
+          "paragraph",
+          "paragraph",
+          "paragraph",
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-3-19",
+        "title": "Evidence and references",
+        "blockTypes": [
+          "references",
+          "references",
+          "references",
+          "references",
+          "references",
+          "references"
+        ]
+      },
+      {
+        "id": "gbv-section-3-20",
+        "title": "Publication readiness checklist",
+        "blockTypes": [
+          "list"
+        ]
+      }
+    ],
+    "stories": [
+      {
+        "id": "gbv-work-transport",
+        "title": "Household decisions and financial control",
+        "sectionId": "gbv-section-3-12"
+      },
+      {
+        "id": "gbv-school-authority",
+        "title": "School authority and retaliation",
+        "sectionId": "gbv-section-3-12"
+      },
+      {
+        "id": "gbv-challenging-norms",
+        "title": "Men and boys challenging norms",
+        "sectionId": "gbv-section-3-12"
+      },
+      {
+        "id": "gbv-mediation-pressure",
+        "title": "Community mediation pressure",
+        "sectionId": "gbv-section-3-12"
+      },
+      {
+        "id": "gbv-temporary-worker",
+        "title": "Work and economic vulnerability",
+        "sectionId": "gbv-section-3-12"
+      }
+    ],
+    "diagrams": [
+      {
+        "id": "gbv-structural-drivers",
+        "title": "Different influences, shared accountability",
+        "sectionId": "gbv-section-3-1"
+      },
+      {
+        "id": "gbv-ecological-levels",
+        "title": "Four connected levels of prevention",
+        "sectionId": "gbv-section-3-4"
+      },
+      {
+        "id": "gbv-risk-warning",
+        "title": "Risk factors and warning signs are different",
+        "sectionId": "gbv-section-3-8"
+      },
+      {
+        "id": "gbv-respect",
+        "title": "RESPECT: seven complementary strategies",
+        "sectionId": "gbv-section-3-10"
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "title": "Understanding Consent, Boundaries, and Bodily Autonomy",
+    "slug": "understanding-consent-boundaries-and-bodily-autonomy",
+    "sections": [
+      {
+        "id": "gbv-section-4-1",
+        "title": "What consent means",
+        "blockTypes": [
+          "paragraph",
+          "paragraph",
+          "heading",
+          "list",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-4-2",
+        "title": "Consent, choice and capacity",
+        "blockTypes": [
+          "paragraph",
+          "paragraph",
+          "heading",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-4-3",
+        "title": "Personal boundaries: understanding and expressing limits",
+        "blockTypes": [
+          "paragraph",
+          "list",
+          "heading",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-4-4",
+        "title": "Bodily autonomy and dignity",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-4-5",
+        "title": "Coercion, manipulation and power imbalances",
+        "blockTypes": [
+          "paragraph",
+          "heading",
+          "list",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-4-6",
+        "title": "Consent in dating, marriage and long-term relationships",
+        "blockTypes": [
+          "paragraph",
+          "heading",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-4-7",
+        "title": "Digital consent, privacy and technology",
+        "blockTypes": [
+          "paragraph",
+          "paragraph",
+          "heading",
+          "list"
+        ]
+      },
+      {
+        "id": "gbv-section-4-8",
+        "title": "Culture, social expectations and unequal power",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-4-9",
+        "title": "Scenario learning: four Rwanda-relevant cases",
+        "blockTypes": [
+          "example",
+          "example",
+          "example",
+          "example"
+        ]
+      },
+      {
+        "id": "gbv-section-4-10",
+        "title": "How to respond when someone describes coercion",
+        "blockTypes": [
+          "paragraph",
+          "list"
+        ]
+      },
+      {
+        "id": "gbv-section-4-11",
+        "title": "Safety considerations and seeking support",
+        "blockTypes": [
+          "paragraph",
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-4-12",
+        "title": "Guided learning activities (optional and non-disclosing)",
+        "blockTypes": [
+          "subsection",
+          "subsection",
+          "subsection",
+          "subsection",
+          "subsection"
+        ]
+      },
+      {
+        "id": "gbv-section-4-13",
+        "title": "Knowledge assessment with explained answers",
+        "blockTypes": [
+          "questions"
+        ]
+      },
+      {
+        "id": "gbv-section-4-14",
+        "title": "Facilitator notes and accessibility",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-4-15",
+        "title": "Key terms",
+        "blockTypes": [
+          "paragraph",
+          "paragraph",
+          "paragraph",
+          "paragraph",
+          "paragraph",
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-4-16",
+        "title": "References and source notes",
+        "blockTypes": [
+          "references",
+          "references",
+          "references",
+          "references",
+          "references",
+          "references"
+        ]
+      },
+      {
+        "id": "gbv-section-4-17",
+        "title": "Publication approval checklist",
+        "blockTypes": [
+          "list",
+          "paragraph"
+        ]
+      }
+    ],
+    "stories": [],
+    "diagrams": []
+  },
+  {
+    "number": 5,
+    "title": "Domestic Violence and Intimate Partner Violence",
+    "slug": "domestic-violence-and-intimate-partner-violence",
+    "sections": [
+      {
+        "id": "gbv-section-5-1",
+        "title": "Understanding domestic violence",
+        "blockTypes": [
+          "paragraph",
+          "paragraph",
+          "paragraph",
+          "heading",
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-5-2",
+        "title": "Forms of violence within relationships",
+        "blockTypes": [
+          "heading",
+          "paragraph",
+          "heading",
+          "paragraph",
+          "heading",
+          "paragraph",
+          "heading",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-5-3",
+        "title": "What is coercive control?",
+        "blockTypes": [
+          "paragraph",
+          "table",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-5-4",
+        "title": "Recognizing warning signs and escalation",
+        "blockTypes": [
+          "paragraph",
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-5-5",
+        "title": "Effects on health, dignity, and daily life",
+        "blockTypes": [
+          "paragraph",
+          "paragraph",
+          "heading",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-5-6",
+        "title": "Risk factors are not excuses",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-5-7",
+        "title": "Safe, survivor-centred first-line support",
+        "blockTypes": [
+          "paragraph",
+          "table",
+          "heading",
+          "table",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-5-8",
+        "title": "Safety planning: principles, not a fixed script",
+        "blockTypes": [
+          "paragraph",
+          "paragraph",
+          "heading",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-5-9",
+        "title": "Health care and urgent situations",
+        "blockTypes": [
+          "paragraph",
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-5-10",
+        "title": "Accessing help in Rwanda",
+        "blockTypes": [
+          "paragraph",
+          "table",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-5-11",
+        "title": "Practical scenarios: recognizing what matters",
+        "blockTypes": [
+          "example",
+          "example",
+          "example",
+          "example",
+          "example"
+        ]
+      },
+      {
+        "id": "gbv-section-5-12",
+        "title": "Guided learning activities",
+        "blockTypes": [
+          "subsection",
+          "subsection",
+          "subsection",
+          "subsection",
+          "subsection"
+        ]
+      },
+      {
+        "id": "gbv-section-5-13",
+        "title": "Knowledge assessment with explained answers",
+        "blockTypes": [
+          "questions"
+        ]
+      },
+      {
+        "id": "gbv-section-5-14",
+        "title": "Key terms",
+        "blockTypes": [
+          "table"
+        ]
+      },
+      {
+        "id": "gbv-section-5-15",
+        "title": "Key messages to remember",
+        "blockTypes": [
+          "list"
+        ]
+      },
+      {
+        "id": "gbv-section-5-16",
+        "title": "References and source notes",
+        "blockTypes": [
+          "references",
+          "references",
+          "references",
+          "references",
+          "references",
+          "references",
+          "references"
+        ]
+      },
+      {
+        "id": "gbv-section-5-17",
+        "title": "Editorial and professional review before publication",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      }
+    ],
+    "stories": [],
+    "diagrams": []
+  },
+  {
+    "number": 6,
+    "title": "Sexual Violence, Harassment, and Exploitation",
+    "slug": "sexual-violence-harassment-and-exploitation",
+    "sections": [
+      {
+        "id": "gbv-section-6-1",
+        "title": "Understanding sexual violence",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-6-2",
+        "title": "Consent: what makes agreement meaningful?",
+        "blockTypes": [
+          "paragraph",
+          "heading",
+          "list",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-6-3",
+        "title": "Sexual harassment",
+        "blockTypes": [
+          "paragraph",
+          "heading",
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-6-4",
+        "title": "Sexual exploitation and abuse of authority",
+        "blockTypes": [
+          "paragraph",
+          "heading",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-6-5",
+        "title": "Sexual coercion and intimidation",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-6-6",
+        "title": "Technology-facilitated sexual harm",
+        "blockTypes": [
+          "paragraph",
+          "paragraph",
+          "heading",
+          "list"
+        ]
+      },
+      {
+        "id": "gbv-section-6-7",
+        "title": "Effects on wellbeing and daily life",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-6-8",
+        "title": "Responding to a disclosure: first-line support",
+        "blockTypes": [
+          "paragraph",
+          "heading",
+          "list",
+          "heading",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-6-9",
+        "title": "Urgent healthcare after sexual assault",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-6-10",
+        "title": "Safeguarding children and other vulnerable people",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-6-11",
+        "title": "Rwanda: care and referral pathways",
+        "blockTypes": [
+          "paragraph",
+          "heading",
+          "list",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-6-12",
+        "title": "Prevention in schools, workplaces, and institutions",
+        "blockTypes": [
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-6-13",
+        "title": "Fictional learning scenarios",
+        "blockTypes": [
+          "example",
+          "example",
+          "example",
+          "example",
+          "example"
+        ]
+      },
+      {
+        "id": "gbv-section-6-14",
+        "title": "Guided educational activities",
+        "blockTypes": [
+          "subsection",
+          "subsection",
+          "subsection",
+          "subsection",
+          "subsection"
+        ]
+      },
+      {
+        "id": "gbv-section-6-15",
+        "title": "Knowledge assessment with answer explanations",
+        "blockTypes": [
+          "questions"
+        ]
+      },
+      {
+        "id": "gbv-section-6-16",
+        "title": "Key terms",
+        "blockTypes": [
+          "paragraph",
+          "paragraph",
+          "paragraph",
+          "paragraph",
+          "paragraph",
+          "paragraph",
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-6-17",
+        "title": "References and further reading",
+        "blockTypes": [
+          "references",
+          "references",
+          "references",
+          "references",
+          "references",
+          "references",
+          "references",
+          "references",
+          "references"
+        ]
+      },
+      {
+        "id": "gbv-section-6-18",
+        "title": "Publication and specialist review checklist",
+        "blockTypes": [
+          "list",
+          "paragraph"
+        ]
+      }
+    ],
+    "stories": [],
+    "diagrams": []
+  },
+  {
+    "number": 7,
+    "title": "Emotional, Psychological and Verbal Abuse",
+    "slug": "emotional-psychological-and-verbal-abuse",
+    "sections": [
+      {
+        "id": "gbv-section-7-1",
+        "title": "Understanding non-physical abuse",
+        "blockTypes": [
+          "paragraph",
+          "paragraph",
+          "heading",
+          "list",
+          "heading",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-7-2",
+        "title": "Verbal abuse versus respectful conflict",
+        "blockTypes": [
+          "paragraph",
+          "heading",
+          "list",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-7-3",
+        "title": "Coercive control: understanding the pattern",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-7-4",
+        "title": "Manipulation and reality-distorting behavior",
+        "blockTypes": [
+          "paragraph",
+          "heading",
+          "list",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-7-5",
+        "title": "Threats, humiliation and intimidation",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-7-6",
+        "title": "Emotional abuse in different settings",
+        "blockTypes": [
+          "heading",
+          "paragraph",
+          "heading",
+          "paragraph",
+          "heading",
+          "paragraph",
+          "heading",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-7-7",
+        "title": "Possible effects on survivors",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-7-8",
+        "title": "Why leaving or reporting may be difficult",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-7-9",
+        "title": "Supporting someone who discloses abuse",
+        "blockTypes": [
+          "paragraph",
+          "list",
+          "heading",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-7-10",
+        "title": "Confidentiality, privacy and safeguarding",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-7-11",
+        "title": "Safety-aware help-seeking",
+        "blockTypes": [
+          "list"
+        ]
+      },
+      {
+        "id": "gbv-section-7-12",
+        "title": "Rwanda-specific support and referral",
+        "blockTypes": [
+          "paragraph",
+          "heading",
+          "list",
+          "paragraph",
+          "heading",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-7-13",
+        "title": "Scenario 1 — A university student and constant monitoring",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-7-14",
+        "title": "Scenario 2 — Humiliation at work",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-7-15",
+        "title": "Scenario 3 — Family pressure and isolation",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-7-16",
+        "title": "Scenario 4 — Digital humiliation",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-7-17",
+        "title": "Scenario 5 — A child who hears repeated threats",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-7-18",
+        "title": "Five guided learning activities",
+        "blockTypes": [
+          "subsection",
+          "subsection",
+          "subsection",
+          "subsection",
+          "subsection"
+        ]
+      },
+      {
+        "id": "gbv-section-7-19",
+        "title": "Reflection without disclosure",
+        "blockTypes": [
+          "list",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-7-20",
+        "title": "Knowledge assessment — ten questions",
+        "blockTypes": [
+          "questions"
+        ]
+      },
+      {
+        "id": "gbv-section-7-21",
+        "title": "Glossary",
+        "blockTypes": [
+          "paragraph",
+          "paragraph",
+          "paragraph",
+          "paragraph",
+          "paragraph",
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-7-22",
+        "title": "References and further reading",
+        "blockTypes": [
+          "references",
+          "references",
+          "references",
+          "references",
+          "references",
+          "references",
+          "references"
+        ]
+      },
+      {
+        "id": "gbv-section-7-23",
+        "title": "Publication and review checklist",
+        "blockTypes": [
+          "list",
+          "heading",
+          "paragraph",
+          "paragraph"
+        ]
+      }
+    ],
+    "stories": [],
+    "diagrams": []
+  },
+  {
+    "number": 8,
+    "title": "Economic Violence and Financial Control",
+    "slug": "economic-violence-and-financial-control",
+    "sections": [
+      {
+        "id": "gbv-section-8-1",
+        "title": "Understanding economic violence",
+        "blockTypes": [
+          "paragraph",
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-8-2",
+        "title": "Why economic abuse matters",
+        "blockTypes": [
+          "paragraph",
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-8-3",
+        "title": "Forms of economic violence",
+        "blockTypes": [
+          "heading",
+          "paragraph",
+          "heading",
+          "paragraph",
+          "heading",
+          "paragraph",
+          "heading",
+          "paragraph",
+          "heading",
+          "paragraph",
+          "heading",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-8-4",
+        "title": "Financial partnership versus financial control",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-8-5",
+        "title": "Warning signs and patterns",
+        "blockTypes": [
+          "list",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-8-6",
+        "title": "Causes, power dynamics, and misconceptions",
+        "blockTypes": [
+          "paragraph",
+          "paragraph",
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-8-7",
+        "title": "Effects on wellbeing and opportunities",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-8-8",
+        "title": "Survivor-centred first response",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-8-9",
+        "title": "Financial safety: choice-based considerations",
+        "blockTypes": [
+          "paragraph",
+          "list",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-8-10",
+        "title": "Rwanda-relevant fictional scenarios",
+        "blockTypes": [
+          "example",
+          "example",
+          "example",
+          "example",
+          "example"
+        ]
+      },
+      {
+        "id": "gbv-section-8-11",
+        "title": "Five guided learning activities",
+        "blockTypes": [
+          "subsection",
+          "subsection",
+          "subsection",
+          "subsection",
+          "subsection"
+        ]
+      },
+      {
+        "id": "gbv-section-8-12",
+        "title": "Knowledge assessment - questions and explained answers",
+        "blockTypes": [
+          "questions"
+        ]
+      },
+      {
+        "id": "gbv-section-8-13",
+        "title": "Facilitator notes and safeguarding",
+        "blockTypes": [
+          "paragraph",
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-8-14",
+        "title": "Accessing support in Rwanda",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-8-15",
+        "title": "Key takeaways",
+        "blockTypes": [
+          "list"
+        ]
+      },
+      {
+        "id": "gbv-section-8-16",
+        "title": "Glossary",
+        "blockTypes": [
+          "paragraph",
+          "paragraph",
+          "paragraph",
+          "paragraph",
+          "paragraph",
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-8-17",
+        "title": "Scientific and institutional references",
+        "blockTypes": [
+          "references",
+          "references",
+          "references",
+          "references",
+          "references",
+          "references",
+          "references",
+          "references"
+        ]
+      },
+      {
+        "id": "gbv-section-8-18",
+        "title": "Editorial and professional review checklist",
+        "blockTypes": [
+          "list",
+          "paragraph"
+        ]
+      }
+    ],
+    "stories": [],
+    "diagrams": []
+  },
+  {
+    "number": 9,
+    "title": "Technology-Facilitated and Online Gender-Based Violence",
+    "slug": "technology-facilitated-and-online-gender-based-violence",
+    "sections": [
+      {
+        "id": "gbv-section-9-1",
+        "title": "What is technology-facilitated GBV?",
+        "blockTypes": [
+          "paragraph",
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-9-2",
+        "title": "How digital abuse differs from ordinary disagreement",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-9-3",
+        "title": "Major forms of technology-facilitated abuse",
+        "blockTypes": [
+          "heading",
+          "paragraph",
+          "heading",
+          "paragraph",
+          "heading",
+          "paragraph",
+          "heading",
+          "paragraph",
+          "heading",
+          "paragraph",
+          "heading",
+          "paragraph",
+          "heading",
+          "paragraph",
+          "heading",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-9-4",
+        "title": "Why forms of abuse overlap",
+        "blockTypes": [
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-9-5",
+        "title": "The role of artificial intelligence",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-9-6",
+        "title": "Risk factors and unequal exposure",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-9-7",
+        "title": "Signs that digital behavior is becoming unsafe",
+        "blockTypes": [
+          "list",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-9-8",
+        "title": "Impact on wellbeing, rights and participation",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-9-9",
+        "title": "First response: safety before technology",
+        "blockTypes": [
+          "paragraph",
+          "heading",
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-9-10",
+        "title": "Privacy and account-security options",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-9-11",
+        "title": "Evidence and incident documentation",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-9-12",
+        "title": "Blocking, reporting and removing content",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-9-13",
+        "title": "Responding to children and adolescents",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-9-14",
+        "title": "What families, schools and workplaces can do",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-9-15",
+        "title": "Rwanda: where to seek support",
+        "blockTypes": [
+          "paragraph",
+          "paragraph",
+          "heading",
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-9-16",
+        "title": "Five fictional Rwanda-relevant learning scenarios",
+        "blockTypes": [
+          "example",
+          "example",
+          "example",
+          "example",
+          "example"
+        ]
+      },
+      {
+        "id": "gbv-section-9-17",
+        "title": "Five guided learning activities",
+        "blockTypes": [
+          "subsection",
+          "subsection",
+          "subsection",
+          "subsection",
+          "subsection"
+        ]
+      },
+      {
+        "id": "gbv-section-9-18",
+        "title": "Knowledge assessment - 10 questions",
+        "blockTypes": [
+          "questions"
+        ]
+      },
+      {
+        "id": "gbv-section-9-19",
+        "title": "Glossary",
+        "blockTypes": [
+          "paragraph",
+          "paragraph",
+          "paragraph",
+          "paragraph",
+          "paragraph",
+          "paragraph",
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-9-20",
+        "title": "Key lessons and further support",
+        "blockTypes": [
+          "list"
+        ]
+      },
+      {
+        "id": "gbv-section-9-references",
+        "title": "References and evidence notes",
+        "blockTypes": [
+          "references",
+          "references",
+          "references",
+          "references",
+          "references",
+          "references",
+          "references",
+          "references",
+          "heading",
+          "list"
+        ]
+      }
+    ],
+    "stories": [],
+    "diagrams": []
+  },
+  {
+    "number": 10,
+    "title": "Gender-Based Violence Against Children and Adolescents",
+    "slug": "gender-based-violence-against-children-and-adolescents",
+    "sections": [
+      {
+        "id": "gbv-section-10-1",
+        "title": "Understanding violence against children and adolescents",
+        "blockTypes": [
+          "paragraph",
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-10-2",
+        "title": "What forms of GBV can affect children?",
+        "blockTypes": [
+          "table",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-10-3",
+        "title": "Where abuse may occur",
+        "blockTypes": [
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-10-4",
+        "title": "Power, dependence and age-appropriate consent",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-10-5",
+        "title": "Grooming and manipulation",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-10-6",
+        "title": "Early warning signs: notice, do not diagnose",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-10-7",
+        "title": "Effects on health, learning and development",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-10-8",
+        "title": "Safe first response when a child tells you about abuse",
+        "blockTypes": [
+          "paragraph",
+          "heading",
+          "list",
+          "heading",
+          "list",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-10-9",
+        "title": "Confidentiality and safeguarding responsibilities",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-10-10",
+        "title": "Urgent health needs after sexual assault",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-10-11",
+        "title": "Safer school and youth-program responses",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-10-12",
+        "title": "Online grooming, harassment and image-based abuse",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-10-13",
+        "title": "Prevention: family, community and institutions",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-10-14",
+        "title": "Access to support in Rwanda",
+        "blockTypes": [
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-10-15",
+        "title": "Supporting different needs",
+        "blockTypes": [
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-10-16",
+        "title": "Fictional, Rwanda-relevant learning scenarios",
+        "blockTypes": [
+          "example",
+          "example",
+          "example",
+          "example",
+          "example"
+        ]
+      },
+      {
+        "id": "gbv-section-10-17",
+        "title": "Guided educational activities",
+        "blockTypes": [
+          "subsection",
+          "subsection",
+          "subsection",
+          "subsection",
+          "subsection"
+        ]
+      },
+      {
+        "id": "gbv-section-10-18",
+        "title": "Knowledge assessment",
+        "blockTypes": [
+          "questions"
+        ]
+      },
+      {
+        "id": "gbv-section-10-19",
+        "title": "Key terms",
+        "blockTypes": [
+          "paragraph",
+          "paragraph",
+          "paragraph",
+          "paragraph",
+          "paragraph",
+          "paragraph",
+          "paragraph",
+          "paragraph"
+        ]
+      },
+      {
+        "id": "gbv-section-10-20",
+        "title": "Source notes and references",
+        "blockTypes": [
+          "references",
+          "references",
+          "references",
+          "references",
+          "references",
+          "references",
+          "references"
+        ]
+      },
+      {
+        "id": "gbv-section-10-publication",
+        "title": "Publication and safeguarding review",
+        "blockTypes": [
+          "list",
+          "paragraph"
+        ]
+      }
+    ],
+    "stories": [],
+    "diagrams": []
+  }
+]

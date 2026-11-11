@@ -1,0 +1,72 @@
+[
+  {
+    "name": "mental-health-counseling",
+    "id": 9064381,
+    "photographer": "RDNE Stock project",
+    "page": "https://www.pexels.com/photo/a-woman-in-a-therapy-session-9064381/",
+    "theme": "One-to-one counseling",
+    "file": "public/images/mental-health-counseling.webp",
+    "download": "https://images.pexels.com/photos/9064381/pexels-photo-9064381.jpeg?auto=compress&cs=tinysrgb&w=3000",
+    "license": "https://www.pexels.com/license/",
+    "checked": "2026-11-08",
+    "width": 2400,
+    "height": 1600,
+    "usage": "Illustrative stock photography. People shown are not identified as this website’s professionals, clients, or endorsers."
+  },
+  {
+    "name": "mental-health-listening",
+    "id": 5699424,
+    "photographer": "Alex Green",
+    "page": "https://www.pexels.com/photo/black-psychologist-with-african-american-client-5699424/",
+    "theme": "Attentive listening",
+    "file": "public/images/mental-health-listening.webp",
+    "download": "https://images.pexels.com/photos/5699424/pexels-photo-5699424.jpeg?auto=compress&cs=tinysrgb&w=3000",
+    "license": "https://www.pexels.com/license/",
+    "checked": "2026-11-08",
+    "width": 2400,
+    "height": 1600,
+    "usage": "Illustrative stock photography. People shown are not identified as this website’s professionals, clients, or endorsers."
+  },
+  {
+    "name": "mental-health-group",
+    "id": 7176302,
+    "photographer": "SHVETS production",
+    "page": "https://www.pexels.com/photo/mental-female-specialist-speaking-to-group-of-clients-7176302/",
+    "theme": "Group support",
+    "file": "public/images/mental-health-group.webp",
+    "download": "https://images.pexels.com/photos/7176302/pexels-photo-7176302.jpeg?auto=compress&cs=tinysrgb&w=3000",
+    "license": "https://www.pexels.com/license/",
+    "checked": "2026-11-08",
+    "width": 2400,
+    "height": 1600,
+    "usage": "Illustrative stock photography. People shown are not identified as this website’s professionals, clients, or endorsers."
+  },
+  {
+    "name": "mental-health-connection",
+    "id": 9775861,
+    "photographer": "SHVETS production",
+    "page": "https://www.pexels.com/photo/group-of-men-with-their-hands-together-9775861/",
+    "theme": "Connection and mutual support",
+    "file": "public/images/mental-health-connection.webp",
+    "download": "https://images.pexels.com/photos/9775861/pexels-photo-9775861.jpeg?auto=compress&cs=tinysrgb&w=3000",
+    "license": "https://www.pexels.com/license/",
+    "checked": "2026-11-08",
+    "width": 2400,
+    "height": 1600,
+    "usage": "Illustrative stock photography. People shown are not identified as this website’s professionals, clients, or endorsers."
+  },
+  {
+    "name": "mental-health-learning",
+    "id": 3958396,
+    "photographer": "Polina Zimmerman",
+    "page": "https://www.pexels.com/photo/therapist-taking-notes-3958396/",
+    "theme": "Mental health learning and reflection",
+    "file": "public/images/mental-health-learning.webp",
+    "download": "https://images.pexels.com/photos/3958396/pexels-photo-3958396.jpeg?auto=compress&cs=tinysrgb&w=3000",
+    "license": "https://www.pexels.com/license/",
+    "checked": "2026-11-08",
+    "width": 2400,
+    "height": 1600,
+    "usage": "Illustrative stock photography. People shown are not identified as this website’s professionals, clients, or endorsers."
+  }
+]

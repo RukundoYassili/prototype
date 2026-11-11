@@ -1,0 +1,63 @@
+{
+  "date": "2026-11-11",
+  "chapter": "Understanding Gender-Based Violence",
+  "route": "/understand-gbv/understanding-gender-based-violence",
+  "preview": "http://localhost:5173/understand-gbv/understanding-gender-based-violence",
+  "verifiedSectionCount": 18,
+  "scope": "Chapter 01 presentation and directly required optional shared-component support. No original lesson, reference, safety or publication-review wording was edited.",
+  "changedFiles": [
+    { "path": "src/learning/gbv/chapter-01-presentation.tsx", "change": "New chapter-scoped presentation, header, six illustration-pair mappings, contextual alt text, consent center label and care-versus-control comparison. Original captions, explanations and optional reflections are retained." },
+    { "path": "src/learning/gbv/chapter-01.css", "change": "New opt-in purple, lavender and mint presentation; reading width and typography, responsive illustrations, focus, contrast and print rules." },
+    { "path": "src/learning/gbv/GbvPages.tsx", "change": "Connect the supplemental presentation to Chapter 01 and use the augmented visual registry. Concurrent library-layout edits by other work are preserved." },
+    { "path": "src/learning/LearningPages.tsx", "change": "Optional ChapterPresentation prop; header art, class and disclosure apply only when the current chapter slug matches." },
+    { "path": "src/learning/LearningVisuals.tsx", "change": "Optional per-story illustration source and response label; optional editable diagram center and inline comparison labels. Existing defaults remain available." },
+    { "path": "src/learning/visual-types.ts", "change": "TypeScript definitions for these optional presentation properties." },
+    { "path": "tests/gbv-learning.spec.ts", "change": "Update the Chapter 01 missing-image description and uncropped mobile aspect-ratio expectations; retain existing regression coverage." },
+    { "path": "scripts/prepare-gbv-chapter-01.mjs", "change": "Reproducible optimization of 13 reviewed originals into 26 responsive WebP assets." },
+    { "path": "scripts/review-gbv-chapter-01.mjs", "change": "Source preservation, six-width layout capture, image loading and geometry, 522 text contrast checks, keyboard navigation, privacy, quick exit and default-reader checks." },
+    { "path": "public/images/learning/gbv/chapter-01/", "change": "13 distinct raster illustrations at 640px and 1280px widths." },
+    { "path": "artifacts/gbv-chapter-01-refresh/", "change": "Source snapshots, prompts, original PNGs, visual review, browser evidence, print QA and handoff." }
+  ],
+  "completedVisuals": [
+    { "location": "Chapter header", "asset": "gbv-foundations-header", "message": "Dignity, choice and voluntary learning", "count": 1 },
+    { "sectionId": "gbv-section-1-4", "sourceExampleId": "example-gbv-training-opportunity", "assets": "gbv-training-opportunity-{situation,support}", "message": "Threats and surveillance restrict freedom to choose; explore options if safe", "count": 2 },
+    { "sectionId": "gbv-section-1-5", "diagramId": "gbv-control-versus-care", "message": "Care respects decisions; coercive control overrides choices", "format": "Editable semantic HTML comparison" },
+    { "sectionId": "gbv-section-1-8", "diagramId": "gbv-consent", "message": "Free, informed, specific and changeable consent, with the original qualifications", "format": "Refined editable HTML diagram" },
+    { "sectionId": "gbv-section-1-9", "diagramId": "gbv-lives", "message": "Listen, inquire, validate, enhance safety and support; retain training and privacy limits", "format": "Restyled existing editable HTML diagram" },
+    { "sectionId": "gbv-section-1-12", "sourceExampleId": "example-gbv-household-earnings", "assets": "gbv-household-earnings-{situation,support}", "message": "Recognize economic control and offer options without directing confrontation", "count": 2 },
+    { "sectionId": "gbv-section-1-12", "sourceExampleId": "example-gbv-student-monitoring", "assets": "gbv-student-monitoring-{situation,support}", "message": "Discuss safe communication and preferred support without assuming password changes are safe", "count": 2 },
+    { "sectionId": "gbv-section-1-12", "sourceExampleId": "example-gbv-volunteer-disclosure", "assets": "gbv-volunteer-disclosure-{situation,support}", "message": "Listen without demanding details and explain confidentiality limits", "count": 2 },
+    { "sectionId": "gbv-section-1-12", "sourceExampleId": "example-gbv-child-safeguarding", "assets": "gbv-child-safeguarding-{situation,support}", "message": "Calm school support and involvement of qualified safeguarding services through an approved process", "count": 2 },
+    { "sectionId": "gbv-section-1-12", "sourceExampleId": "example-gbv-friend-listening", "assets": "gbv-friend-listening-{situation,support}", "message": "Acknowledge threats and listen without imposing labels or decisions", "count": 2 }
+  ],
+  "reusableDecisions": {
+    "style": "Mature flat editorial artwork featuring Black African people in distinct everyday settings, with deep purple, lavender, golden yellow, teal, mint and soft blue.",
+    "pairedContinuity": "Each supportive frame was edited from its situation image with the built-in image_gen tool, retaining character identities, clothing, setting, furniture and relevant props.",
+    "ratios": "4:3 teaching scenes, 3:2 header, object-fit contain throughout. Pairs stack below 681px without cropping.",
+    "loading": "Header loads eagerly with high priority. Teaching scenes load lazily; every image reserves its dimensions and has contextual alternative text.",
+    "text": "Chapter numbers, labels, headings, captions and diagrams remain editable website text. PNG and WebP artwork is raster, not vector.",
+    "assets": "public/images/learning/gbv/chapter-01/",
+    "originals": "artifacts/gbv-chapter-01-refresh/originals/",
+    "exactPromptsAndProvenance": "artifacts/gbv-chapter-01-refresh/illustration-manifest.json",
+    "imageVariants": "artifacts/gbv-chapter-01-refresh/image-sizes.json",
+    "optimizedTotalBytes": 1737152,
+    "largest1280PixelAssetBytes": 120680,
+    "dependenciesAdded": 0
+  },
+  "verification": {
+    "build": "npm.cmd run build -- --outDir artifacts/gbv-chapter-01-refresh/production: passed, exit 0, including TypeScript. Vite emitted non-fatal React Router use-client directive warnings.",
+    "regressions": "npm.cmd test -- tests/gbv-learning.spec.ts: all 15 passed. Includes original content in Chapters 1–3, unchanged PDF downloads, navigation, five responsive widths, image-error fallback, privacy, contents tracking and print disclosure restoration.",
+    "formatting": "Prettier check passed for the changed source files, scripts and existing test file.",
+    "browserReview": "Passed at 320, 375, 768, 1024, 1440 and 1920 pixels: all 18 sections and 13 illustrations, 522 text contrast checks, reserved image dimensions, uncropped scenes, no horizontal overflow, keyboard navigation and visible focus, optional disclosures, quick exit with its original history limitation, unchanged source hashes and no reflection storage or submissions. Quick-exit destination was mocked. Final report: after/review.json. Preview route returned HTTP 200.",
+    "print": "22 pages, all 12 teaching scenes, no missing extracted text units, blank pages or text outside page boundaries. All pages rendered with bundled Poppler and visually reviewed. Original disclosure states were restored. Evidence: print/audit.json, print/overview-1.png and print/overview-2.png.",
+    "baselineLimitation": "Original comparison screenshots for other readers captured React's loading screen, so they are not valid pixel baselines. An attempted isolated source-snapshot server could not prebundle dependencies because Windows sandbox access to a parent directory was denied. Default-reader behavior, original photo scenes and current screenshots were checked instead, alongside the passing regression tests.",
+    "concurrentEdits": "Independent GBV library layout changes in gbv.css and whitespace-only formatting in mental-health.css were reviewed and preserved. Differences are recorded in the corresponding concurrent.patch artifacts; they were not authored by this chapter task.",
+    "notRun": "The complete project-wide test suite was not run. No lint script is configured. No new clinical, legal, safeguarding, localization or service-availability review is claimed."
+  },
+  "remainingGaps": {
+    "chapterArtwork": "None: the header and all six pairs are generated, reviewed, optimized and integrated.",
+    "sourceEditorialRequirements": "Existing educational-draft and specialist-review requirements remain unchanged. The current source is English; the original request for Kinyarwanda and French review remains pending source editorial work.",
+    "sourceDownloads": "The original 12-page source PDF remains unchanged. Chapter 01 has no separate worksheet download in the supplied source; optional activities remain available in the reader and original PDF."
+  },
+  "nextChapter": "Continue only in a separate task. Read all current source sections and existing visual records for Types and Forms of Gender-Based Violence before designing its illustrations. Reuse optional presentation data and scoped styles; keep source transcription separate and establish character continuity from each first scene."
+}

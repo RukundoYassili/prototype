@@ -1,0 +1,3354 @@
+[
+  {
+    "page": 1,
+    "width": 595.28,
+    "height": 841.89,
+    "lines": [
+      {
+        "text": "VUGA NDAKUMVA / GBV EDUCATIONAL CONTENT LIBRARY",
+        "x0": 57.0,
+        "top": 28.529687680000052,
+        "x1": 297.18398352,
+        "bottom": 35.729687679999984,
+        "size": 7.2,
+        "bold": 1.0
+      },
+      {
+        "text": "GBV EDUCATIONAL CONTENT LIBRARY / CHAPTER 07",
+        "x0": 63.0,
+        "top": 69.40234399999997,
+        "x1": 358.15625,
+        "bottom": 79.40234399999997,
+        "size": 10.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Emotional, Psychological",
+        "x0": 63.0,
+        "top": 101.48632880000002,
+        "x1": 442.29197970000007,
+        "bottom": 128.48632880000002,
+        "size": 27.0,
+        "bold": 1.0
+      },
+      {
+        "text": "and Verbal Abuse",
+        "x0": 63.0,
+        "top": 138.48632880000002,
+        "x1": 331.7211936,
+        "bottom": 165.48632880000002,
+        "size": 27.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Recognizing harmful patterns, responding safely, and supporting people",
+        "x0": 63.0,
+        "top": 187.8828128,
+        "x1": 498.53906279999995,
+        "bottom": 199.8828128,
+        "size": 12.0,
+        "bold": 0.0
+      },
+      {
+        "text": "experiencing non-physical abuse",
+        "x0": 63.0,
+        "top": 206.8828128,
+        "x1": 260.8125024,
+        "bottom": 218.8828128,
+        "size": 12.0,
+        "bold": 0.0
+      },
+      {
+        "text": "Version: 1.1 | Language: English | Prepared: 11 November 2026 | Audience: Adults, community educators, and",
+        "x0": 63.0,
+        "top": 248.66992208,
+        "x1": 518.1160219799998,
+        "bottom": 256.8699220799999,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "general readers",
+        "x0": 63.0,
+        "top": 261.66992208,
+        "x1": 128.1075203,
+        "bottom": 269.8699220799999,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "Educational and safety notice",
+        "x0": 77.14,
+        "top": 291.3425784,
+        "x1": 261.5726154,
+        "bottom": 302.3425784,
+        "size": 11.0,
+        "bold": 1.0
+      },
+      {
+        "text": "This chapter is for education, not diagnosis, investigation, legal advice, or a substitute for",
+        "x0": 77.14,
+        "top": 313.93417992,
+        "x1": 495.5809663899998,
+        "bottom": 323.23417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "professional GBV response. A person may recognize patterns of abuse without using a",
+        "x0": 77.14,
+        "top": 329.53417991999993,
+        "x1": 480.34132050999995,
+        "bottom": 338.83417991999994,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "particular label. Do not use the exercises to pressure anyone to disclose experiences. If there",
+        "x0": 77.14,
+        "top": 345.13417992,
+        "x1": 513.7041637599999,
+        "bottom": 354.43417991999996,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "is immediate danger, seek a safer location if possible and contact appropriate emergency or",
+        "x0": 77.14,
+        "top": 360.73417992000003,
+        "x1": 509.12227696,
+        "bottom": 370.03417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "protection services. Referral numbers should be rechecked at the time of use.",
+        "x0": 77.14,
+        "top": 376.33417992,
+        "x1": 441.5701301499998,
+        "bottom": 385.63417991999995,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Learning objectives",
+        "x0": 63.0,
+        "top": 428.54375039999996,
+        "x1": 240.22656160000003,
+        "bottom": 444.54375039999996,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "• Explain emotional, psychological and verbal abuse, including how they overlap with coercive",
+        "x0": 68.0,
+        "top": 458.91015647999996,
+        "x1": 504.87422127999974,
+        "bottom": 468.11015648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "control.",
+        "x0": 78.0,
+        "top": 474.41015647999996,
+        "x1": 113.01660116,
+        "bottom": 483.61015648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Identify warning patterns while distinguishing abuse from ordinary disagreements.",
+        "x0": 68.0,
+        "top": 494.91015647999996,
+        "x1": 458.20937683999966,
+        "bottom": 504.11015648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Understand possible effects on wellbeing, choices, relationships and everyday functioning.",
+        "x0": 68.0,
+        "top": 515.41015648,
+        "x1": 495.09472983999956,
+        "bottom": 524.61015648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Practice nonjudgmental, survivor-centred listening and safety-aware help-seeking.",
+        "x0": 68.0,
+        "top": 535.91015648,
+        "x1": 457.64336155999985,
+        "bottom": 545.11015648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Apply concepts to fictional Rwanda-relevant situations without requiring personal disclosure.",
+        "x0": 68.0,
+        "top": 556.41015648,
+        "x1": 504.6451164399995,
+        "bottom": 565.61015648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "How to use this chapter",
+        "x0": 63.0,
+        "top": 591.5437504,
+        "x1": 278.41405920000005,
+        "bottom": 607.5437504,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Read sections in order or select those most relevant to a learning session. The scenarios are",
+        "x0": 63.0,
+        "top": 621.93417992,
+        "x1": 494.96411405999993,
+        "bottom": 631.23417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "fictional, and no person should be asked to identify a real survivor in group discussion. Trainers",
+        "x0": 63.0,
+        "top": 637.53417992,
+        "x1": 508.87778546999994,
+        "bottom": 646.83417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "should explain confidentiality and safeguarding boundaries before discussion and offer the option to",
+        "x0": 63.0,
+        "top": 653.13417992,
+        "x1": 531.7145529899999,
+        "bottom": 662.43417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "pass on any activity. References marked [1]–[7] are listed at the end.",
+        "x0": 63.0,
+        "top": 668.73417992,
+        "x1": 387.22851888,
+        "bottom": 678.03417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Chapter 07 | Evidence-informed draft - professional review pending 1",
+        "x0": 57.0,
+        "top": 806.5716408,
+        "x1": 538.2800135,
+        "bottom": 813.5716408,
+        "size": 7.0,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 2,
+    "width": 595.28,
+    "height": 841.89,
+    "lines": [
+      {
+        "text": "VUGA NDAKUMVA / GBV EDUCATIONAL CONTENT LIBRARY",
+        "x0": 57.0,
+        "top": 28.529687680000052,
+        "x1": 297.18398352,
+        "bottom": 35.729687679999984,
+        "size": 7.2,
+        "bold": 1.0
+      },
+      {
+        "text": "01 Understanding non-physical abuse",
+        "x0": 63.0,
+        "top": 70.84375039999998,
+        "x1": 404.1718752,
+        "bottom": 86.84375039999998,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Emotional and psychological abuse refers to behavior intended to frighten, degrade, manipulate,",
+        "x0": 63.0,
+        "top": 101.23417991999997,
+        "x1": 515.8482433500001,
+        "bottom": 110.53417991999993,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "isolate, or control someone, or behavior that has these effects within a pattern of coercion. Verbal",
+        "x0": 63.0,
+        "top": 116.83417992,
+        "x1": 521.5699241999998,
+        "bottom": 126.13417991999995,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "abuse can include repeated insults, threats, humiliation, or degrading language. The terms overlap:",
+        "x0": 63.0,
+        "top": 132.43417992000002,
+        "x1": 529.18520781,
+        "bottom": 141.73417991999997,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "verbal abuse describes one way harm may be expressed, while psychological abuse can also involve",
+        "x0": 63.0,
+        "top": 148.03417992000004,
+        "x1": 532.2800019799997,
+        "bottom": 157.33417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "nonverbal threats, isolation, surveillance, and restrictions on freedom. [1, 2, 3]",
+        "x0": 63.0,
+        "top": 163.63417992000007,
+        "x1": 430.9721216399999,
+        "bottom": 172.93417992000002,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Abuse is not defined solely by whether a person shouts. A calm threat, deliberate humiliation in",
+        "x0": 63.0,
+        "top": 187.23417991999997,
+        "x1": 509.8268569799997,
+        "bottom": 196.53417991999993,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "public, or repeated manipulation can be frightening and controlling. Conversely, a single argument,",
+        "x0": 63.0,
+        "top": 202.83417992,
+        "x1": 528.0771992999998,
+        "bottom": 212.13417991999995,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "disappointment or respectfully expressed criticism does not automatically establish an abusive",
+        "x0": 63.0,
+        "top": 218.43417992000002,
+        "x1": 507.2657225399998,
+        "bottom": 227.73417991999997,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "pattern. Context, impact, power, intent, repetition, fear and control all matter. One serious threat",
+        "x0": 63.0,
+        "top": 234.03417992000004,
+        "x1": 518.0960449799999,
+        "bottom": 243.33417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "can also be dangerous even without a long history.",
+        "x0": 63.0,
+        "top": 249.63417992000007,
+        "x1": 301.68940668,
+        "bottom": 258.93417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Common patterns",
+        "x0": 63.0,
+        "top": 277.64257840000005,
+        "x1": 173.848628,
+        "bottom": 288.64257840000005,
+        "size": 11.0,
+        "bold": 1.0
+      },
+      {
+        "text": "• Humiliation and belittling: mocking abilities, appearance, identity or worth; insulting someone in",
+        "x0": 68.0,
+        "top": 300.21015648,
+        "x1": 521.5132805599997,
+        "bottom": 309.41015648000007,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "front of others.",
+        "x0": 78.0,
+        "top": 315.71015648,
+        "x1": 147.03144559999998,
+        "bottom": 324.91015648000007,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Threats and intimidation: threatening harm, expulsion, abandonment, reputational damage, or",
+        "x0": 68.0,
+        "top": 336.21015647999997,
+        "x1": 514.5414092399997,
+        "bottom": 345.41015648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "taking children away to force compliance.",
+        "x0": 78.0,
+        "top": 351.71015647999997,
+        "x1": 271.09668124,
+        "bottom": 360.91015648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Isolation: discouraging or forbidding contact with friends, family, healthcare workers or trusted",
+        "x0": 68.0,
+        "top": 372.21015647999997,
+        "x1": 514.3123053199996,
+        "bottom": 381.41015648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "supporters.",
+        "x0": 78.0,
+        "top": 387.71015647999997,
+        "x1": 130.48222615999998,
+        "bottom": 396.91015648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Monitoring and control: demanding explanations for everyday movements, controlling messages,",
+        "x0": 68.0,
+        "top": 408.21015647999997,
+        "x1": 526.3648471999999,
+        "bottom": 417.41015648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "or insisting on constant access to a device.",
+        "x0": 78.0,
+        "top": 423.71015647999997,
+        "x1": 276.7164073999999,
+        "bottom": 432.91015648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Manipulation: repeatedly distorting events, denying agreed facts, blaming the harmed person for",
+        "x0": 68.0,
+        "top": 444.21015647999997,
+        "x1": 525.6191430399996,
+        "bottom": 453.41015648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "the abuse, or using affection and withdrawal to secure obedience.",
+        "x0": 78.0,
+        "top": 459.71015647999997,
+        "x1": 383.30703423999995,
+        "bottom": 468.91015648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Undermining independence: blocking access to learning, employment, money, care or basic",
+        "x0": 68.0,
+        "top": 480.21015647999997,
+        "x1": 501.8375045999998,
+        "bottom": 489.41015648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "decisions.",
+        "x0": 78.0,
+        "top": 495.71015647999997,
+        "x1": 123.640625,
+        "bottom": 504.91015648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "When is it gender-based?",
+        "x0": 63.0,
+        "top": 523.6425784,
+        "x1": 221.14110950000003,
+        "bottom": 534.6425784,
+        "size": 11.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Abuse can be gender-based when it is linked to gender, gender expectations, discrimination or",
+        "x0": 63.0,
+        "top": 546.23417992,
+        "x1": 506.3030283899999,
+        "bottom": 555.5341799199999,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "unequal gender-related power. People of any gender can be harmed. The fact that someone",
+        "x0": 63.0,
+        "top": 561.83417992,
+        "x1": 494.32837349999994,
+        "bottom": 571.13417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "experiences harsh words does not on its own establish GBV; the surrounding context is essential. [1]",
+        "x0": 63.0,
+        "top": 577.43417992,
+        "x1": 532.2799964999999,
+        "bottom": 586.73417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "02 Verbal abuse versus respectful conflict",
+        "x0": 63.0,
+        "top": 612.6437504,
+        "x1": 444.0703103999999,
+        "bottom": 628.6437504,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Conflict happens in many relationships. People can disagree, express anger and set firm boundaries",
+        "x0": 63.0,
+        "top": 643.03417992,
+        "x1": 530.78364624,
+        "bottom": 652.33417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "without using abuse. Healthy disagreements leave room for each person to speak, say no, seek",
+        "x0": 63.0,
+        "top": 658.63417992,
+        "x1": 509.59526930999976,
+        "bottom": 667.93417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "support and make independent choices. Abuse may involve fear, repeated degradation, punishment",
+        "x0": 63.0,
+        "top": 674.23417992,
+        "x1": 532.1368697099999,
+        "bottom": 683.53417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "for disagreement or behavior designed to control another person.",
+        "x0": 63.0,
+        "top": 689.83417992,
+        "x1": 369.75014724,
+        "bottom": 699.13417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Compare the examples",
+        "x0": 63.0,
+        "top": 717.8425784,
+        "x1": 205.57567939999998,
+        "bottom": 728.8425784,
+        "size": 11.0,
+        "bold": 1.0
+      },
+      {
+        "text": "• Respectful: “I feel worried when plans change without notice. Can we discuss a better way to",
+        "x0": 68.0,
+        "top": 740.41015648,
+        "x1": 506.9136763599996,
+        "bottom": 749.61015648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "communicate?”",
+        "x0": 78.0,
+        "top": 755.91015648,
+        "x1": 150.44101619999998,
+        "bottom": 765.11015648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "Chapter 07 | Evidence-informed draft - professional review pending 2",
+        "x0": 57.0,
+        "top": 806.5716408,
+        "x1": 538.2800135,
+        "bottom": 813.5716408,
+        "size": 7.0,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 3,
+    "width": 595.28,
+    "height": 841.89,
+    "lines": [
+      {
+        "text": "VUGA NDAKUMVA / GBV EDUCATIONAL CONTENT LIBRARY",
+        "x0": 57.0,
+        "top": 28.529687680000052,
+        "x1": 297.18398352,
+        "bottom": 35.729687679999984,
+        "size": 7.2,
+        "bold": 1.0
+      },
+      {
+        "text": "• Concerning: “You are useless. Nobody else would put up with you, and you will regret talking to",
+        "x0": 68.0,
+        "top": 69.21015648000002,
+        "x1": 518.5574245199996,
+        "bottom": 78.41015648000007,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "your friends.”",
+        "x0": 78.0,
+        "top": 84.71015648000002,
+        "x1": 141.00293032,
+        "bottom": 93.91015648000007,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Respectful: A supervisor explains performance standards privately and invites questions.",
+        "x0": 68.0,
+        "top": 105.21015648000002,
+        "x1": 487.7230495199996,
+        "bottom": 114.41015648000007,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Abusive: A supervisor repeatedly mocks an employee, threatens their job unless they accept",
+        "x0": 68.0,
+        "top": 125.71015648000002,
+        "x1": 505.36836339999957,
+        "bottom": 134.91015648000007,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "inappropriate demands and blocks complaints.",
+        "x0": 78.0,
+        "top": 141.21015648000002,
+        "x1": 294.36621088,
+        "bottom": 150.41015648000007,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "The goal is not to label every difficult interaction. It is to notice patterns of fear, coercion and",
+        "x0": 63.0,
+        "top": 161.73417991999997,
+        "x1": 497.84765624999983,
+        "bottom": 171.03417991999993,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "reduced freedom, and to seek appropriate assessment or support when needed.",
+        "x0": 63.0,
+        "top": 177.33417992,
+        "x1": 438.97793271000006,
+        "bottom": 186.63417991999995,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "03 Coercive control: understanding the pattern",
+        "x0": 63.0,
+        "top": 212.5437503999999,
+        "x1": 490.8124992000001,
+        "bottom": 228.5437503999999,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Coercive control is a pattern of behavior that restricts another person’s autonomy through fear,",
+        "x0": 63.0,
+        "top": 242.93417992000002,
+        "x1": 510.04936785,
+        "bottom": 252.23417991999997,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "threats, monitoring, isolation or dependency. Several seemingly small acts may accumulate into a",
+        "x0": 63.0,
+        "top": 258.53417992000004,
+        "x1": 522.4463403899998,
+        "bottom": 267.83417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "serious loss of freedom. A person may begin avoiding ordinary activities simply to prevent",
+        "x0": 63.0,
+        "top": 274.13417992000007,
+        "x1": 485.06015624999975,
+        "bottom": 283.43417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "retaliation. [2, 3]",
+        "x0": 63.0,
+        "top": 289.7341799200001,
+        "x1": 141.48691383000002,
+        "bottom": 299.03417992000004,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "For example, a partner may gradually demand passwords, decide who may visit, discourage",
+        "x0": 63.0,
+        "top": 313.33417992,
+        "x1": 494.5463403899997,
+        "bottom": 322.63417991999995,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "employment and threaten humiliation if challenged. None of these acts needs to involve a physical",
+        "x0": 63.0,
+        "top": 328.93417992,
+        "x1": 525.7476608999997,
+        "bottom": 338.23417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "injury to create risk. Coercive control can occur alongside physical or sexual violence, and escalation",
+        "x0": 63.0,
+        "top": 344.53417992000004,
+        "x1": 532.2800015599994,
+        "bottom": 353.83417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "may be unpredictable.",
+        "x0": 63.0,
+        "top": 360.13417992,
+        "x1": 168.14721732,
+        "bottom": 369.43417991999996,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Chapter 07 | Evidence-informed draft - professional review pending 3",
+        "x0": 57.0,
+        "top": 806.5716408,
+        "x1": 538.2800135,
+        "bottom": 813.5716408,
+        "size": 7.0,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 4,
+    "width": 595.28,
+    "height": 841.89,
+    "lines": [
+      {
+        "text": "VUGA NDAKUMVA / GBV EDUCATIONAL CONTENT LIBRARY",
+        "x0": 57.0,
+        "top": 28.529687680000052,
+        "x1": 297.18398352,
+        "bottom": 35.729687679999984,
+        "size": 7.2,
+        "bold": 1.0
+      },
+      {
+        "text": "04 Manipulation and reality-distorting behavior",
+        "x0": 63.0,
+        "top": 70.84375039999998,
+        "x1": 492.90624800000006,
+        "bottom": 86.84375039999998,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Manipulation uses pressure, guilt, fear, misleading information or emotional leverage to influence",
+        "x0": 63.0,
+        "top": 101.23417991999997,
+        "x1": 518.8907253299999,
+        "bottom": 110.53417991999993,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "decisions. Some abusive behavior involves consistently denying events, changing explanations, or",
+        "x0": 63.0,
+        "top": 116.83417992,
+        "x1": 523.0502972699999,
+        "bottom": 126.13417991999995,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "making someone question their memory and judgment. The popular term “gaslighting” is",
+        "x0": 63.0,
+        "top": 132.43417992000002,
+        "x1": 481.98134847,
+        "bottom": 141.73417991999997,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "sometimes used for such patterns, but it should not replace a careful description of actual actions.",
+        "x0": 63.0,
+        "top": 148.03417992000004,
+        "x1": 523.3772480699997,
+        "bottom": 157.33417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "What this may look like",
+        "x0": 63.0,
+        "top": 176.04257840000002,
+        "x1": 208.9433514,
+        "bottom": 187.04257840000002,
+        "size": 11.0,
+        "bold": 1.0
+      },
+      {
+        "text": "• A person denies having sent threatening messages even when they were received, then accuses",
+        "x0": 68.0,
+        "top": 198.61015648,
+        "x1": 524.5095788799999,
+        "bottom": 207.81015648000005,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "the recipient of being irrational.",
+        "x0": 78.0,
+        "top": 214.11015648,
+        "x1": 224.44081967999998,
+        "bottom": 223.31015648000005,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• A partner demands secrecy about mistreatment and says the survivor is responsible for",
+        "x0": 68.0,
+        "top": 234.61015648,
+        "x1": 482.38633099999964,
+        "bottom": 243.81015648000005,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "“destroying the family” if they seek help.",
+        "x0": 78.0,
+        "top": 250.11015648,
+        "x1": 268.14531387999995,
+        "bottom": 259.31015648000005,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• A manager alternates threats with praise to pressure someone into accepting inappropriate",
+        "x0": 68.0,
+        "top": 270.61015648,
+        "x1": 500.0945323999996,
+        "bottom": 279.81015648000005,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "demands.",
+        "x0": 78.0,
+        "top": 286.11015648,
+        "x1": 123.48789119999999,
+        "bottom": 295.31015648000005,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "A safe response focuses on observable behavior and its effects. Do not insist that someone confront",
+        "x0": 63.0,
+        "top": 306.63417991999995,
+        "x1": 531.0106973699998,
+        "bottom": 315.9341799199999,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "an abusive person, gather evidence on a monitored device, or win an argument about what “really",
+        "x0": 63.0,
+        "top": 322.23417992,
+        "x1": 524.8167532199999,
+        "bottom": 331.53417991999993,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "happened”.",
+        "x0": 63.0,
+        "top": 337.83417992,
+        "x1": 117.41499099,
+        "bottom": 347.13417991999995,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "05 Threats, humiliation and intimidation",
+        "x0": 63.0,
+        "top": 373.04375039999996,
+        "x1": 428.4296768,
+        "bottom": 389.04375039999996,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Threats may be direct (“I will hurt you”) or indirect (“You will see what happens if you tell anyone”).",
+        "x0": 63.0,
+        "top": 403.43417992,
+        "x1": 529.6756358699998,
+        "bottom": 412.73417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "A threat to remove children, end access to money, disclose private information or damage",
+        "x0": 63.0,
+        "top": 419.03417992,
+        "x1": 486.07734560999995,
+        "bottom": 428.33417991999994,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "someone’s reputation can be used to exert control. Humiliation and name-calling may erode",
+        "x0": 63.0,
+        "top": 434.63417992,
+        "x1": 495.16845923999983,
+        "bottom": 443.93417991999996,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "confidence and lead to withdrawal, while intimidation may make a person feel unsafe even without",
+        "x0": 63.0,
+        "top": 450.23417992000003,
+        "x1": 526.3334520899998,
+        "bottom": 459.53417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "physical contact. [2]",
+        "x0": 63.0,
+        "top": 465.83417992,
+        "x1": 157.97080113,
+        "bottom": 475.13417991999995,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Threats involving weapons, serious violence, stalking, confinement, or harm to children require",
+        "x0": 63.0,
+        "top": 489.43417992,
+        "x1": 507.71982759,
+        "bottom": 498.73417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "urgent attention. A survivor’s own assessment of danger deserves serious consideration. No public",
+        "x0": 63.0,
+        "top": 505.03417992000004,
+        "x1": 524.95298148,
+        "bottom": 514.33417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "handbook can accurately predict an individual’s risk.",
+        "x0": 63.0,
+        "top": 520.63417992,
+        "x1": 309.11850800999997,
+        "bottom": 529.9341799199999,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "06 Emotional abuse in different settings",
+        "x0": 63.0,
+        "top": 555.8437504,
+        "x1": 427.41405600000013,
+        "bottom": 571.8437504,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Intimate partnerships and families",
+        "x0": 63.0,
+        "top": 589.6425784,
+        "x1": 278.4291931,
+        "bottom": 600.6425784,
+        "size": 11.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Repeated insults, isolation, monitoring, threats, blaming and restrictions on freedom can occur in",
+        "x0": 63.0,
+        "top": 612.23417992,
+        "x1": 517.5692873999999,
+        "bottom": 621.53417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "marriages, dating relationships and other family contexts. Family reputation, financial",
+        "x0": 63.0,
+        "top": 627.83417992,
+        "x1": 464.62104590999974,
+        "bottom": 637.13417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "interdependence or child-care responsibilities may complicate choices. The person harmed should",
+        "x0": 63.0,
+        "top": 643.4341799199999,
+        "x1": 522.17387829,
+        "bottom": 652.73417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "not be blamed for staying, leaving, returning, or delaying disclosure.",
+        "x0": 63.0,
+        "top": 659.0341799199999,
+        "x1": 383.40498105,
+        "bottom": 668.33417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Schools and universities",
+        "x0": 63.0,
+        "top": 687.0425783999999,
+        "x1": 214.33593530000005,
+        "bottom": 698.0425783999999,
+        "size": 11.0,
+        "bold": 1.0
+      },
+      {
+        "text": "An adult or peer may use humiliation, threats, rumor-spreading or promises of academic advantage",
+        "x0": 63.0,
+        "top": 709.63417992,
+        "x1": 529.55757051,
+        "bottom": 718.93417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "to control a learner. An unequal position of authority can make refusal difficult. Education providers",
+        "x0": 63.0,
+        "top": 725.23417992,
+        "x1": 528.44048055,
+        "bottom": 734.53417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "need safe reporting channels that protect learners from retaliation, particularly where minors are",
+        "x0": 63.0,
+        "top": 740.83417992,
+        "x1": 517.5738304499998,
+        "bottom": 750.13417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "involved.",
+        "x0": 63.0,
+        "top": 756.43417992,
+        "x1": 105.34042992,
+        "bottom": 765.73417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Chapter 07 | Evidence-informed draft - professional review pending 4",
+        "x0": 57.0,
+        "top": 806.5716408,
+        "x1": 538.2800135,
+        "bottom": 813.5716408,
+        "size": 7.0,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 5,
+    "width": 595.28,
+    "height": 841.89,
+    "lines": [
+      {
+        "text": "VUGA NDAKUMVA / GBV EDUCATIONAL CONTENT LIBRARY",
+        "x0": 57.0,
+        "top": 28.529687680000052,
+        "x1": 297.18398352,
+        "bottom": 35.729687679999984,
+        "size": 7.2,
+        "bold": 1.0
+      },
+      {
+        "text": "Workplaces",
+        "x0": 63.0,
+        "top": 69.64257840000005,
+        "x1": 135.02636320000002,
+        "bottom": 80.64257840000005,
+        "size": 11.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Abusive behavior may include repeated public degradation, threats to employment, discriminatory",
+        "x0": 63.0,
+        "top": 92.23417991999997,
+        "x1": 524.8031249999998,
+        "bottom": 101.53417991999993,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "insults, isolation from colleagues or retaliation for raising concerns. Not every unfair workplace",
+        "x0": 63.0,
+        "top": 107.83417992,
+        "x1": 506.06235554999984,
+        "bottom": 117.13417991999995,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "decision is necessarily GBV; assess the behavior and gender-related context. Workers may need",
+        "x0": 63.0,
+        "top": 123.43417992000002,
+        "x1": 513.6186074099998,
+        "bottom": 132.73417991999997,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "independent reporting and support options.",
+        "x0": 63.0,
+        "top": 139.03417992000004,
+        "x1": 267.0142078799999,
+        "bottom": 148.33417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Digital environments",
+        "x0": 63.0,
+        "top": 167.04257840000002,
+        "x1": 193.43163760000002,
+        "bottom": 178.04257840000002,
+        "size": 11.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Emotional abuse can continue through excessive messaging, threats, impersonation, public",
+        "x0": 63.0,
+        "top": 189.63417991999995,
+        "x1": 491.45845023,
+        "bottom": 198.9341799199999,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "humiliation, monitoring or coercive access to accounts. Digital risks may increase if a person tries to",
+        "x0": 63.0,
+        "top": 205.23417991999997,
+        "x1": 532.1913584099996,
+        "bottom": 214.53417991999993,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "change settings on a device the other person controls.",
+        "x0": 63.0,
+        "top": 220.83417992,
+        "x1": 317.95078311,
+        "bottom": 230.13417991999995,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "07 Possible effects on survivors",
+        "x0": 63.0,
+        "top": 256.0437503999999,
+        "x1": 350.8046848,
+        "bottom": 272.0437503999999,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Non-physical abuse can be associated with fear, anxiety, low confidence, sleep disruption, social",
+        "x0": 63.0,
+        "top": 286.43417992,
+        "x1": 514.1135775899997,
+        "bottom": 295.73417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "isolation, difficulties concentrating and reduced participation at school or work. Some people",
+        "x0": 63.0,
+        "top": 302.03417992000004,
+        "x1": 496.70331914999974,
+        "bottom": 311.33417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "experience depression or trauma-related symptoms, but no specific reaction proves that abuse",
+        "x0": 63.0,
+        "top": 317.63417991999995,
+        "x1": 508.2329606699998,
+        "bottom": 326.9341799199999,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "occurred. Responses differ, and a person may function outwardly while experiencing serious harm.",
+        "x0": 63.0,
+        "top": 333.23417992000003,
+        "x1": 525.2481495299999,
+        "bottom": 342.53417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "[1, 2]",
+        "x0": 63.0,
+        "top": 348.83417992,
+        "x1": 88.00283238,
+        "bottom": 358.13417991999995,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Psychological symptoms are not a diagnosis. A qualified clinician should evaluate persistent or",
+        "x0": 63.0,
+        "top": 372.43417992,
+        "x1": 504.8998536899998,
+        "bottom": 381.73417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "serious mental health symptoms, and medical or psychosocial assistance should be offered",
+        "x0": 63.0,
+        "top": 388.03417992000004,
+        "x1": 490.3504426499998,
+        "bottom": 397.33417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "according to the person’s needs and wishes.",
+        "x0": 63.0,
+        "top": 403.63417992,
+        "x1": 270.77417184,
+        "bottom": 412.93417991999996,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Chapter 07 | Evidence-informed draft - professional review pending 5",
+        "x0": 57.0,
+        "top": 806.5716408,
+        "x1": 538.2800135,
+        "bottom": 813.5716408,
+        "size": 7.0,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 6,
+    "width": 595.28,
+    "height": 841.89,
+    "lines": [
+      {
+        "text": "VUGA NDAKUMVA / GBV EDUCATIONAL CONTENT LIBRARY",
+        "x0": 57.0,
+        "top": 28.529687680000052,
+        "x1": 297.18398352,
+        "bottom": 35.729687679999984,
+        "size": 7.2,
+        "bold": 1.0
+      },
+      {
+        "text": "08 Why leaving or reporting may be difficult",
+        "x0": 63.0,
+        "top": 70.84375039999998,
+        "x1": 464.1093648,
+        "bottom": 86.84375039999998,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "People experiencing abuse may face threats, economic dependence, concerns for children, social",
+        "x0": 63.0,
+        "top": 101.23417991999997,
+        "x1": 518.6727593699999,
+        "bottom": 110.53417991999993,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "stigma, disability-related barriers, insecure housing, immigration concerns, emotional attachment or",
+        "x0": 63.0,
+        "top": 116.83417992,
+        "x1": 532.2800026799999,
+        "bottom": 126.13417991999995,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "fear that no one will believe them. Leaving or reporting may temporarily increase risk in some",
+        "x0": 63.0,
+        "top": 132.43417992000002,
+        "x1": 503.1379417199998,
+        "bottom": 141.73417991999997,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "situations. The safest next action is individual and should not be prescribed by an untrained person.",
+        "x0": 63.0,
+        "top": 148.03417992000004,
+        "x1": 530.3113792199999,
+        "bottom": 157.33417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "[2, 4]",
+        "x0": 63.0,
+        "top": 163.63417992000007,
+        "x1": 88.00283238,
+        "bottom": 172.93417992000002,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Avoid asking “Why didn’t you leave?” A better question is: “What would feel most helpful and safe",
+        "x0": 63.0,
+        "top": 187.23417991999997,
+        "x1": 522.95493321,
+        "bottom": 196.53417991999993,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "for you right now?”",
+        "x0": 63.0,
+        "top": 202.83417992,
+        "x1": 152.53974621000003,
+        "bottom": 212.13417991999995,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "09 Supporting someone who discloses abuse",
+        "x0": 63.0,
+        "top": 238.0437503999999,
+        "x1": 468.57030399999996,
+        "bottom": 254.0437503999999,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "WHO describes the LIVES approach for first-line support: Listen, Inquire about needs, Validate,",
+        "x0": 63.0,
+        "top": 268.43417992,
+        "x1": 503.85996023999985,
+        "bottom": 277.73417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Enhance safety and Support. In non-clinical settings, this is best used as an orientation to",
+        "x0": 63.0,
+        "top": 284.03417992000004,
+        "x1": 481.28203310999976,
+        "bottom": 293.33417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "compassionate responses, not as permission to perform clinical risk assessments or investigations.",
+        "x0": 63.0,
+        "top": 299.63417992000007,
+        "x1": 525.7839857699998,
+        "bottom": 308.93417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "[4, 5]",
+        "x0": 63.0,
+        "top": 315.2341799200001,
+        "x1": 88.00283238,
+        "bottom": 324.53417992000004,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "• Listen: give time, avoid interruptions and do not demand a complete account.",
+        "x0": 68.0,
+        "top": 338.81015647999993,
+        "x1": 436.61543123999974,
+        "bottom": 348.01015648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Inquire: ask what the person needs now rather than collecting unnecessary details.",
+        "x0": 68.0,
+        "top": 359.31015647999993,
+        "x1": 461.0484434799998,
+        "bottom": 368.51015648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Validate: acknowledge the person’s experience; avoid blame or disbelief.",
+        "x0": 68.0,
+        "top": 379.81015647999993,
+        "x1": 414.59922127999994,
+        "bottom": 389.01015648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Enhance safety: ask whether it is safe to continue talking and help identify qualified support; do",
+        "x0": 68.0,
+        "top": 400.31015647999993,
+        "x1": 519.9859416399995,
+        "bottom": 409.51015648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "not impose a safety plan.",
+        "x0": 78.0,
+        "top": 415.81015647999993,
+        "x1": 195.01250091999998,
+        "bottom": 425.01015648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Support: offer verified referral options and help with access only with appropriate consent, subject",
+        "x0": 68.0,
+        "top": 436.31015647999993,
+        "x1": 531.2927747599996,
+        "bottom": 445.51015648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "to safeguarding obligations.",
+        "x0": 78.0,
+        "top": 451.81015647999993,
+        "x1": 206.97070231999996,
+        "bottom": 461.01015648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "Words that may help",
+        "x0": 77.14,
+        "top": 481.74257839999996,
+        "x1": 206.9271025,
+        "bottom": 492.74257839999996,
+        "size": 11.0,
+        "bold": 1.0
+      },
+      {
+        "text": "“Thank you for telling me.” “You deserve to be treated with respect.” “You do not have to tell",
+        "x0": 77.14,
+        "top": 504.33417992,
+        "x1": 514.4398049199998,
+        "bottom": 513.63417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "me more than you want to.” “Would you like information about confidential support options",
+        "x0": 77.14,
+        "top": 519.93417992,
+        "x1": 505.48946353,
+        "bottom": 529.23417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "and any limits to confidentiality?”",
+        "x0": 77.14,
+        "top": 535.53417992,
+        "x1": 234.27276280000007,
+        "bottom": 544.83417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "10 Confidentiality, privacy and safeguarding",
+        "x0": 63.0,
+        "top": 587.7437504,
+        "x1": 465.9218736000001,
+        "bottom": 603.7437504,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Ask whether it is safe to call, text or leave messages. Do not assume that a phone or internet",
+        "x0": 63.0,
+        "top": 618.13417992,
+        "x1": 499.7230989,
+        "bottom": 627.43417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "account is private. Avoid storing names, details or screenshots without a legitimate reason, a secure",
+        "x0": 63.0,
+        "top": 633.73417992,
+        "x1": 532.2800071899997,
+        "bottom": 643.03417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "process and informed consent. Do not share a survivor’s story with family, community leaders or",
+        "x0": 63.0,
+        "top": 649.33417992,
+        "x1": 515.9254426499997,
+        "bottom": 658.63417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "social media contacts. Explain any relevant mandatory reporting, child-protection or",
+        "x0": 63.0,
+        "top": 664.9341799199999,
+        "x1": 456.95126895,
+        "bottom": 674.23417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "imminent-danger exceptions before inviting sensitive disclosure.",
+        "x0": 63.0,
+        "top": 680.5341799199999,
+        "x1": 365.18188494000003,
+        "bottom": 689.83417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "For children, involve trained safeguarding personnel using age-appropriate procedures and",
+        "x0": 63.0,
+        "top": 704.13417992,
+        "x1": 489.05171067000003,
+        "bottom": 713.43417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "applicable local rules. Do not promise absolute secrecy. Where there is a clear immediate threat,",
+        "x0": 63.0,
+        "top": 719.73417992,
+        "x1": 516.6656259299998,
+        "bottom": 729.03417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "prioritise urgent protection and professional assistance.",
+        "x0": 63.0,
+        "top": 735.33417992,
+        "x1": 323.48173769999994,
+        "bottom": 744.63417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Chapter 07 | Evidence-informed draft - professional review pending 6",
+        "x0": 57.0,
+        "top": 806.5716408,
+        "x1": 538.2800135,
+        "bottom": 813.5716408,
+        "size": 7.0,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 7,
+    "width": 595.28,
+    "height": 841.89,
+    "lines": [
+      {
+        "text": "VUGA NDAKUMVA / GBV EDUCATIONAL CONTENT LIBRARY",
+        "x0": 57.0,
+        "top": 28.529687680000052,
+        "x1": 297.18398352,
+        "bottom": 35.729687679999984,
+        "size": 7.2,
+        "bold": 1.0
+      },
+      {
+        "text": "11 Safety-aware help-seeking",
+        "x0": 63.0,
+        "top": 70.84375039999998,
+        "x1": 332.39062880000006,
+        "bottom": 86.84375039999998,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "• If it is safe to do so, seek a private conversation with a trusted professional or specialist GBV",
+        "x0": 68.0,
+        "top": 101.21015648000002,
+        "x1": 504.4025400399996,
+        "bottom": 110.41015648000007,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "service.",
+        "x0": 78.0,
+        "top": 116.71015648000002,
+        "x1": 113.87910208,
+        "bottom": 125.91015648000007,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• If the person is being monitored, consider whether contacting a service from a safer device or",
+        "x0": 68.0,
+        "top": 137.21015648000002,
+        "x1": 510.5837927999998,
+        "bottom": 146.41015648000007,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "location is feasible; avoid making abrupt technology changes that could increase danger.",
+        "x0": 78.0,
+        "top": 152.71015648000002,
+        "x1": 490.68828423999963,
+        "bottom": 161.91015648000007,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• A survivor may choose to discuss possible safe contacts, essential needs and emergency options",
+        "x0": 68.0,
+        "top": 173.21015648000002,
+        "x1": 524.5814492799998,
+        "bottom": 182.41015648000007,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "with a trained provider.",
+        "x0": 78.0,
+        "top": 188.71015648000002,
+        "x1": 186.30214791999998,
+        "bottom": 197.91015648000007,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Do not encourage direct confrontation, retaliation, or mandatory couples counseling in the",
+        "x0": 68.0,
+        "top": 209.21015648000002,
+        "x1": 494.72636919999974,
+        "bottom": 218.41015648000007,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "presence of coercive control; these may increase risk.",
+        "x0": 78.0,
+        "top": 224.71015648000002,
+        "x1": 327.62187867999995,
+        "bottom": 233.91015648000007,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• If there is immediate danger, obtain emergency assistance through appropriate local channels.",
+        "x0": 68.0,
+        "top": 245.21015648000002,
+        "x1": 516.4056677999996,
+        "bottom": 254.41015648000007,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "Chapter 07 | Evidence-informed draft - professional review pending 7",
+        "x0": 57.0,
+        "top": 806.5716408,
+        "x1": 538.2800135,
+        "bottom": 813.5716408,
+        "size": 7.0,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 8,
+    "width": 595.28,
+    "height": 841.89,
+    "lines": [
+      {
+        "text": "VUGA NDAKUMVA / GBV EDUCATIONAL CONTENT LIBRARY",
+        "x0": 57.0,
+        "top": 28.529687680000052,
+        "x1": 297.18398352,
+        "bottom": 35.729687679999984,
+        "size": 7.2,
+        "bold": 1.0
+      },
+      {
+        "text": "12 Rwanda-specific support and referral",
+        "x0": 63.0,
+        "top": 70.84375039999998,
+        "x1": 427.0624992000001,
+        "bottom": 86.84375039999998,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Rwanda’s Ministry of Gender and Family Promotion describes Isange One Stop Centres as",
+        "x0": 63.0,
+        "top": 101.23417991999997,
+        "x1": 481.67710175999997,
+        "bottom": 110.53417991999993,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "coordinated entry points providing healthcare, psychosocial support, justice-related services and",
+        "x0": 63.0,
+        "top": 116.83417992,
+        "x1": 515.5939450799997,
+        "bottom": 126.13417991999995,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "referral to shelter when needed. UNHCR Rwanda also provides information about service access. [6,",
+        "x0": 63.0,
+        "top": 132.43417992000002,
+        "x1": 530.9607461399999,
+        "bottom": 141.73417991999997,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "7]",
+        "x0": 63.0,
+        "top": 148.03417992000004,
+        "x1": 72.54521496000001,
+        "bottom": 157.33417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Published contacts — verify before distribution",
+        "x0": 63.0,
+        "top": 176.04257840000002,
+        "x1": 356.1972626000001,
+        "bottom": 187.04257840000002,
+        "size": 11.0,
+        "bold": 1.0
+      },
+      {
+        "text": "• Rwanda Investigation Bureau (RIB): 116 / 3512 (MIGEPROF published numbers).",
+        "x0": 68.0,
+        "top": 198.61015648,
+        "x1": 445.67617727999976,
+        "bottom": 207.81015648000005,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Gender Monitoring Office: 5798 (MIGEPROF published number).",
+        "x0": 68.0,
+        "top": 219.11015648,
+        "x1": 369.3269550799999,
+        "bottom": 228.31015648000005,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• MIGEPROF: 9059 (MIGEPROF published number).",
+        "x0": 68.0,
+        "top": 239.61015648,
+        "x1": 301.45000092,
+        "bottom": 248.81015648000005,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Isange One Stop Centre: 3029 (UNHCR Rwanda published number).",
+        "x0": 68.0,
+        "top": 260.11015648,
+        "x1": 388.3154339999998,
+        "bottom": 269.31015648000005,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• National Child Development Agency: 711 (MIGEPROF published number).",
+        "x0": 68.0,
+        "top": 280.61015648,
+        "x1": 413.90742359999985,
+        "bottom": 289.81015648000005,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "Important: UNHCR cautions that approaching an Isange Centre may result in the incident being",
+        "x0": 63.0,
+        "top": 301.13417992000007,
+        "x1": 508.3056187799997,
+        "bottom": 310.43417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "reported to law-enforcement authorities. Explain this possibility before a survivor shares identifiable",
+        "x0": 63.0,
+        "top": 316.7341799200001,
+        "x1": 530.9925279599997,
+        "bottom": 326.03417992000004,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "information and confirm local confidentiality and reporting processes with qualified personnel.",
+        "x0": 63.0,
+        "top": 332.33417992000005,
+        "x1": 503.23330112999986,
+        "bottom": 341.63417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "These contacts do not guarantee an immediate answer or suitability in every situation. [7]",
+        "x0": 63.0,
+        "top": 347.93417992,
+        "x1": 485.2826680499998,
+        "bottom": 357.23417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "What should an educator do?",
+        "x0": 63.0,
+        "top": 375.9425784,
+        "x1": 244.79003369999998,
+        "bottom": 386.9425784,
+        "size": 11.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Offer the person the option to contact a verified service privately and discuss transport, accessibility",
+        "x0": 63.0,
+        "top": 398.53417992,
+        "x1": 532.2800048199996,
+        "bottom": 407.83417991999994,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "or communication barriers. Do not make a formal report on an adult survivor’s behalf without",
+        "x0": 63.0,
+        "top": 414.13417992,
+        "x1": 499.7957542199999,
+        "bottom": 423.43417991999996,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "understanding the relevant law, safety implications and consent, except where applicable legal or",
+        "x0": 63.0,
+        "top": 429.73417992000003,
+        "x1": 520.9932153899997,
+        "bottom": 439.03417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "safeguarding duties require action.",
+        "x0": 63.0,
+        "top": 445.33417992,
+        "x1": 226.66274478,
+        "bottom": 454.63417991999995,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "13 Scenario 1 — A university student and constant",
+        "x0": 63.0,
+        "top": 480.54375039999996,
+        "x1": 520.7031216000001,
+        "bottom": 496.54375039999996,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "monitoring",
+        "x0": 63.0,
+        "top": 503.54375039999996,
+        "x1": 162.3984336,
+        "bottom": 519.5437503999999,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Fictional case: A university student in Kigali receives dozens of messages each day from a dating",
+        "x0": 63.0,
+        "top": 533.93417992,
+        "x1": 517.1288114999999,
+        "bottom": 543.23417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "partner asking for location updates. When the student attends a study group, the partner calls",
+        "x0": 63.0,
+        "top": 549.53417992,
+        "x1": 504.60468935999984,
+        "bottom": 558.83417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "repeatedly, insults the student and threatens to post private messages online. The student begins",
+        "x0": 63.0,
+        "top": 565.13417992,
+        "x1": 522.0785170199998,
+        "bottom": 574.4341799199999,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "withdrawing from classmates to avoid conflict.",
+        "x0": 63.0,
+        "top": 580.73417992,
+        "x1": 280.40112264,
+        "bottom": 590.03417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Learning discussion: What patterns are concerning? Repeated monitoring, humiliation, threats and",
+        "x0": 63.0,
+        "top": 604.33417992,
+        "x1": 524.3671893599999,
+        "bottom": 613.63417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "isolation suggest coercive control. What would be unsafe? Instructing the student to confront the",
+        "x0": 63.0,
+        "top": 619.93417992,
+        "x1": 516.5021495999999,
+        "bottom": 629.23417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "partner immediately or change phone settings without assessing the risk. What might help? Private,",
+        "x0": 63.0,
+        "top": 635.53417992,
+        "x1": 531.0424810499998,
+        "bottom": 644.83417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "nonjudgmental support and information about trusted services.",
+        "x0": 63.0,
+        "top": 651.13417992,
+        "x1": 359.5737310499999,
+        "bottom": 660.43417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "14 Scenario 2 — Humiliation at work",
+        "x0": 63.0,
+        "top": 686.3437504,
+        "x1": 391.20311840000005,
+        "bottom": 702.3437504,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Fictional case: A supervisor repeatedly tells a female employee she is incapable of leadership",
+        "x0": 63.0,
+        "top": 716.73417992,
+        "x1": 499.9910179499999,
+        "bottom": 726.03417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "because of her gender, insults her during meetings and threatens her promotion if she complains. A",
+        "x0": 63.0,
+        "top": 732.33417992,
+        "x1": 530.4975624299998,
+        "bottom": 741.63417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "colleague wants to help but is worried about retaliation.",
+        "x0": 63.0,
+        "top": 747.93417992,
+        "x1": 324.07661034,
+        "bottom": 757.23417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Chapter 07 | Evidence-informed draft - professional review pending 8",
+        "x0": 57.0,
+        "top": 806.5716408,
+        "x1": 538.2800135,
+        "bottom": 813.5716408,
+        "size": 7.0,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 9,
+    "width": 595.28,
+    "height": 841.89,
+    "lines": [
+      {
+        "text": "VUGA NDAKUMVA / GBV EDUCATIONAL CONTENT LIBRARY",
+        "x0": 57.0,
+        "top": 28.529687680000052,
+        "x1": 297.18398352,
+        "bottom": 35.729687679999984,
+        "size": 7.2,
+        "bold": 1.0
+      },
+      {
+        "text": "Learning discussion: The gender-based insults, threats and unequal power are important. The",
+        "x0": 63.0,
+        "top": 69.23417991999997,
+        "x1": 501.04453404,
+        "bottom": 78.53417991999993,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "colleague could ask privately whether support is welcome, avoid circulating the story, and offer",
+        "x0": 63.0,
+        "top": 84.83417992,
+        "x1": 509.5453143599998,
+        "bottom": 94.13417991999995,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "information about independent workplace reporting or specialist services. The colleague should not",
+        "x0": 63.0,
+        "top": 100.43417992000002,
+        "x1": 527.8955572799997,
+        "bottom": 109.73417991999997,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "promise that reporting will be risk-free.",
+        "x0": 63.0,
+        "top": 116.03417992000004,
+        "x1": 245.75771310000002,
+        "bottom": 125.33417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "15 Scenario 3 — Family pressure and isolation",
+        "x0": 63.0,
+        "top": 151.24375039999995,
+        "x1": 480.4140560000001,
+        "bottom": 167.24375039999995,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Fictional case: A married adult in Musanze is regularly told that speaking to relatives is a betrayal.",
+        "x0": 63.0,
+        "top": 181.63417991999995,
+        "x1": 521.8378423199997,
+        "bottom": 190.9341799199999,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Their partner controls access to transport money and threatens to remove contact with the children",
+        "x0": 63.0,
+        "top": 197.23417991999997,
+        "x1": 529.9617206099998,
+        "bottom": 206.53417991999993,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "if the adult seeks advice.",
+        "x0": 63.0,
+        "top": 212.83417992,
+        "x1": 179.67231579,
+        "bottom": 222.13417991999995,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Learning discussion: Multiple behaviors—social isolation, threats and financial restriction—may work",
+        "x0": 63.0,
+        "top": 236.43417992000002,
+        "x1": 531.7690444799998,
+        "bottom": 245.73417991999997,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "together. The affected adult’s priorities and safety should guide any referral. Pressuring immediate",
+        "x0": 63.0,
+        "top": 252.03417992000004,
+        "x1": 526.3107433499999,
+        "bottom": 261.33417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "separation could increase danger.",
+        "x0": 63.0,
+        "top": 267.63417992000007,
+        "x1": 221.86289201999998,
+        "bottom": 276.93417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Chapter 07 | Evidence-informed draft - professional review pending 9",
+        "x0": 57.0,
+        "top": 806.5716408,
+        "x1": 538.2800135,
+        "bottom": 813.5716408,
+        "size": 7.0,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 10,
+    "width": 595.28,
+    "height": 841.89,
+    "lines": [
+      {
+        "text": "VUGA NDAKUMVA / GBV EDUCATIONAL CONTENT LIBRARY",
+        "x0": 57.0,
+        "top": 28.529687680000052,
+        "x1": 297.18398352,
+        "bottom": 35.729687679999984,
+        "size": 7.2,
+        "bold": 1.0
+      },
+      {
+        "text": "16 Scenario 4 — Digital humiliation",
+        "x0": 63.0,
+        "top": 70.84375039999998,
+        "x1": 380.51561599999997,
+        "bottom": 86.84375039999998,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Fictional case: A former partner sends insulting messages, creates fake accounts and threatens to",
+        "x0": 63.0,
+        "top": 101.23417991999997,
+        "x1": 522.2601608999998,
+        "bottom": 110.53417991999993,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "publish private information. Friends suggest responding publicly with screenshots, but the person",
+        "x0": 63.0,
+        "top": 116.83417992,
+        "x1": 519.2267575799998,
+        "bottom": 126.13417991999995,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "feels unsafe.",
+        "x0": 63.0,
+        "top": 132.43417992000002,
+        "x1": 122.38740432,
+        "bottom": 141.73417991999997,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Learning discussion: Online harassment and threats can be forms of emotional abuse. Public",
+        "x0": 63.0,
+        "top": 156.03417991999993,
+        "x1": 495.66797339999977,
+        "bottom": 165.33417991999988,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "retaliation may intensify harassment. Appropriate options depend on safety, available support and",
+        "x0": 63.0,
+        "top": 171.63417991999995,
+        "x1": 524.1537608699998,
+        "bottom": 180.9341799199999,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "local procedures. A specialist can help consider documentation and reporting without exposing",
+        "x0": 63.0,
+        "top": 187.23417991999997,
+        "x1": 506.78437499999995,
+        "bottom": 196.53417991999993,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "sensitive information unnecessarily.",
+        "x0": 63.0,
+        "top": 202.83417992,
+        "x1": 231.17651559000004,
+        "bottom": 212.13417991999995,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "17 Scenario 5 — A child who hears repeated threats",
+        "x0": 63.0,
+        "top": 238.0437503999999,
+        "x1": 531.7890608000001,
+        "bottom": 254.0437503999999,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Fictional case: A young adolescent hears one caregiver threaten another and repeatedly witnesses",
+        "x0": 63.0,
+        "top": 268.43417992,
+        "x1": 525.2299857,
+        "bottom": 277.73417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "humiliation at home. The child becomes worried about going home and has difficulty concentrating",
+        "x0": 63.0,
+        "top": 284.03417992000004,
+        "x1": 526.8829119,
+        "bottom": 293.33417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "at school.",
+        "x0": 63.0,
+        "top": 299.63417992000007,
+        "x1": 108.07412121000002,
+        "bottom": 308.93417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Learning discussion: The child’s distress is important even without direct physical assault. A",
+        "x0": 63.0,
+        "top": 323.23417992,
+        "x1": 492.5255861699999,
+        "bottom": 332.53417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "responsible adult should follow established safeguarding procedures, avoid asking the child to",
+        "x0": 63.0,
+        "top": 338.83417992000005,
+        "x1": 503.25600614999985,
+        "bottom": 348.13417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "investigate or mediate, and seek support from appropriate child protection professionals.",
+        "x0": 63.0,
+        "top": 354.43417992,
+        "x1": 480.3829091099998,
+        "bottom": 363.73417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "18 Five guided learning activities",
+        "x0": 63.0,
+        "top": 389.6437504,
+        "x1": 364.906248,
+        "bottom": 405.6437504,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Activity A — Recognize the pattern (individual or group; 10 minutes)",
+        "x0": 63.0,
+        "top": 423.4425784,
+        "x1": 489.2177656,
+        "bottom": 434.4425784,
+        "size": 11.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Read a fictional statement: “If you visit your friends, I will make sure no one trusts you again.”",
+        "x0": 63.0,
+        "top": 446.03417992,
+        "x1": 504.3049847699998,
+        "bottom": 455.33417991999994,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Identify the behavior (threat and isolation pressure), the possible impact (fear and withdrawal), and",
+        "x0": 63.0,
+        "top": 461.63417992,
+        "x1": 528.8310070799998,
+        "bottom": 470.93417991999996,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "a safer support response (private, nonjudgmental assistance). Do not ask participants to share",
+        "x0": 63.0,
+        "top": 477.23417992000003,
+        "x1": 505.6718280899998,
+        "bottom": 486.53417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "personal examples.",
+        "x0": 63.0,
+        "top": 492.83417992,
+        "x1": 154.11093843,
+        "bottom": 502.13417991999995,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Activity B — Respectful or controlling? (10 minutes)",
+        "x0": 63.0,
+        "top": 520.8425784,
+        "x1": 384.6533111,
+        "bottom": 531.8425784,
+        "size": 11.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Compare: “Can we agree on how to communicate when plans change?” versus “Give me your",
+        "x0": 63.0,
+        "top": 543.43417992,
+        "x1": 502.77920630999995,
+        "bottom": 552.73417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "passwords or I will punish you.” Discuss which response leaves room for choice, and how threats",
+        "x0": 63.0,
+        "top": 559.03417992,
+        "x1": 514.9809123299998,
+        "bottom": 568.33417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "change the situation.",
+        "x0": 63.0,
+        "top": 574.63417992,
+        "x1": 161.83974714000001,
+        "bottom": 583.9341799199999,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Activity C — Safe listening role-play (15 minutes)",
+        "x0": 63.0,
+        "top": 602.6425784,
+        "x1": 368.5561454,
+        "bottom": 613.6425784,
+        "size": 11.0,
+        "bold": 1.0
+      },
+      {
+        "text": "One participant reads a fictional disclosure, another practices a supportive response, and an",
+        "x0": 63.0,
+        "top": 625.23417992,
+        "x1": 495.15029540999984,
+        "bottom": 634.53417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "observer checks for listening, validation, choice and privacy. Do not role-play an aggressive",
+        "x0": 63.0,
+        "top": 640.83417992,
+        "x1": 491.5129417199997,
+        "bottom": 650.13417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "perpetrator or reenact violence. Any participant may opt out.",
+        "x0": 63.0,
+        "top": 656.4341799199999,
+        "x1": 348.89780255999995,
+        "bottom": 665.73417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Activity D — Support pathway mapping (15 minutes)",
+        "x0": 63.0,
+        "top": 684.4425784,
+        "x1": 389.884756,
+        "bottom": 695.4425784,
+        "size": 11.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Without naming survivors, identify a school counselor, health facility, Isange Centre or other verified",
+        "x0": 63.0,
+        "top": 707.03417992,
+        "x1": 532.2186064799997,
+        "bottom": 716.33417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "local resource and document accessibility, confidentiality limits and the safest way to make contact.",
+        "x0": 63.0,
+        "top": 722.63417992,
+        "x1": 532.0188006299998,
+        "bottom": 731.93417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Confirm contacts before using them in real referrals.",
+        "x0": 63.0,
+        "top": 738.23417992,
+        "x1": 308.31474807,
+        "bottom": 747.53417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Chapter 07 | Evidence-informed draft - professional review pending 10",
+        "x0": 57.0,
+        "top": 806.5716408,
+        "x1": 538.2800269999999,
+        "bottom": 813.5716408,
+        "size": 7.0,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 11,
+    "width": 595.28,
+    "height": 841.89,
+    "lines": [
+      {
+        "text": "VUGA NDAKUMVA / GBV EDUCATIONAL CONTENT LIBRARY",
+        "x0": 57.0,
+        "top": 28.529687680000052,
+        "x1": 297.18398352,
+        "bottom": 35.729687679999984,
+        "size": 7.2,
+        "bold": 1.0
+      },
+      {
+        "text": "Activity E — Digital privacy thought experiment (10 minutes)",
+        "x0": 63.0,
+        "top": 69.64257840000005,
+        "x1": 441.9951076999999,
+        "bottom": 80.64257840000005,
+        "size": 11.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Consider a fictional person whose messages may be monitored. Discuss why “just block the person”",
+        "x0": 63.0,
+        "top": 92.23417991999997,
+        "x1": 531.9552276899999,
+        "bottom": 101.53417991999993,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "or “change every password now” may be unsafe without considering the circumstances. Suggest",
+        "x0": 63.0,
+        "top": 107.83417992,
+        "x1": 517.15151838,
+        "bottom": 117.13417991999995,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "contacting a specialist from a safe channel when possible.",
+        "x0": 63.0,
+        "top": 123.43417992000002,
+        "x1": 335.09311784999994,
+        "bottom": 132.73417991999997,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "19 Reflection without disclosure",
+        "x0": 63.0,
+        "top": 158.64375039999993,
+        "x1": 354.8593696000001,
+        "bottom": 174.64375039999993,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "• What is the difference between criticism and a pattern of degradation?",
+        "x0": 68.0,
+        "top": 189.01015647999998,
+        "x1": 403.9751965199998,
+        "bottom": 198.21015648000002,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• How might threats affect a person’s freedom even without physical injury?",
+        "x0": 68.0,
+        "top": 209.51015647999998,
+        "x1": 421.26562775999975,
+        "bottom": 218.71015648000002,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Which supportive phrases respect the person’s choices?",
+        "x0": 68.0,
+        "top": 230.01015647999998,
+        "x1": 335.81074420000004,
+        "bottom": 239.21015648000002,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• What should be checked before referring someone to a local service?",
+        "x0": 68.0,
+        "top": 250.51015647999998,
+        "x1": 396.43730808000004,
+        "bottom": 259.71015648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "A learner may reflect privately or choose not to answer. Collecting identifiable disclosures is not",
+        "x0": 63.0,
+        "top": 271.03417992000004,
+        "x1": 511.53427745999977,
+        "bottom": 280.33417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "necessary for this exercise.",
+        "x0": 63.0,
+        "top": 286.63417992000007,
+        "x1": 190.78418178,
+        "bottom": 295.93417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Chapter 07 | Evidence-informed draft - professional review pending 11",
+        "x0": 57.0,
+        "top": 806.5716408,
+        "x1": 538.2800269999999,
+        "bottom": 813.5716408,
+        "size": 7.0,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 12,
+    "width": 595.28,
+    "height": 841.89,
+    "lines": [
+      {
+        "text": "VUGA NDAKUMVA / GBV EDUCATIONAL CONTENT LIBRARY",
+        "x0": 57.0,
+        "top": 28.529687680000052,
+        "x1": 297.18398352,
+        "bottom": 35.729687679999984,
+        "size": 7.2,
+        "bold": 1.0
+      },
+      {
+        "text": "20 Knowledge assessment — ten questions",
+        "x0": 63.0,
+        "top": 70.84375039999998,
+        "x1": 453.22655520000006,
+        "bottom": 86.84375039999998,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "1. Can abuse occur without physical violence?",
+        "x0": 63.0,
+        "top": 104.64257840000005,
+        "x1": 348.6240200000001,
+        "bottom": 115.64257840000005,
+        "size": 11.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Suggested answer: Yes. Psychological control, humiliation, threats and isolation can cause harm.",
+        "x0": 63.0,
+        "top": 127.23417992000009,
+        "x1": 515.5667016599999,
+        "bottom": 136.53417992000004,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "2. Is every disagreement emotional abuse?",
+        "x0": 63.0,
+        "top": 155.24257840000007,
+        "x1": 330.7597615,
+        "bottom": 166.24257840000007,
+        "size": 11.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Suggested answer: No. Context, fear, patterns, coercion and impact matter; one severe threat can",
+        "x0": 63.0,
+        "top": 177.83417992,
+        "x1": 524.0039108999999,
+        "bottom": 187.13417991999995,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "nevertheless be dangerous.",
+        "x0": 63.0,
+        "top": 193.43417992000002,
+        "x1": 192.79131057,
+        "bottom": 202.73417991999997,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "3. What is coercive control?",
+        "x0": 63.0,
+        "top": 221.4425784,
+        "x1": 235.29930960000002,
+        "bottom": 232.4425784,
+        "size": 11.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Suggested answer: A pattern that restricts autonomy through threats, monitoring, isolation,",
+        "x0": 63.0,
+        "top": 244.03417992000004,
+        "x1": 492.31215767999987,
+        "bottom": 253.33417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "intimidation or dependency.",
+        "x0": 63.0,
+        "top": 259.63417992000007,
+        "x1": 194.43061506,
+        "bottom": 268.93417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "4. Why might a person remain in an abusive situation?",
+        "x0": 63.0,
+        "top": 287.64257840000005,
+        "x1": 402.6787009,
+        "bottom": 298.64257840000005,
+        "size": 11.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Suggested answer: Safety threats, financial constraints, children, attachment, stigma and many",
+        "x0": 63.0,
+        "top": 310.23417992,
+        "x1": 511.5115761599998,
+        "bottom": 319.53417991999993,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "other barriers may be involved.",
+        "x0": 63.0,
+        "top": 325.83417992,
+        "x1": 210.05170974000004,
+        "bottom": 335.13417991999995,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "5. Is telling a survivor to confront the person harming them good advice?",
+        "x0": 63.0,
+        "top": 353.8425784,
+        "x1": 519.3979408999999,
+        "bottom": 364.8425784,
+        "size": 11.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Suggested answer: Not automatically. Confrontation can increase risk; safety and choice come first.",
+        "x0": 63.0,
+        "top": 376.43417992,
+        "x1": 530.1070358999998,
+        "bottom": 385.73417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "6. What should a supporter do first after a disclosure?",
+        "x0": 63.0,
+        "top": 404.4425784,
+        "x1": 400.70751079999997,
+        "bottom": 415.4425784,
+        "size": 11.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Suggested answer: Listen without judgment, ask what support is wanted and check whether the",
+        "x0": 63.0,
+        "top": 427.03417992000004,
+        "x1": 512.66953497,
+        "bottom": 436.33417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "conversation is safe.",
+        "x0": 63.0,
+        "top": 442.63417992,
+        "x1": 158.94257952,
+        "bottom": 451.93417991999996,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "7. Should you promise total confidentiality?",
+        "x0": 63.0,
+        "top": 470.6425784,
+        "x1": 335.1210866,
+        "bottom": 481.6425784,
+        "size": 11.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Suggested answer: No. Explain any legal, child safeguarding or imminent-danger exceptions.",
+        "x0": 63.0,
+        "top": 493.23417992,
+        "x1": 497.97934797,
+        "bottom": 502.53417991999993,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "8. Can digital monitoring be part of abuse?",
+        "x0": 63.0,
+        "top": 521.2425784,
+        "x1": 330.2172789,
+        "bottom": 532.2425784,
+        "size": 11.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Suggested answer: Yes. Coercive monitoring, threats and unauthorized access can be part of",
+        "x0": 63.0,
+        "top": 543.83417992,
+        "x1": 498.22456386,
+        "bottom": 553.13417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "controlling behavior.",
+        "x0": 63.0,
+        "top": 559.43417992,
+        "x1": 159.13784139,
+        "bottom": 568.73417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "9. Is it appropriate to diagnose PTSD based on someone’s story?",
+        "x0": 63.0,
+        "top": 587.4425784,
+        "x1": 465.43993240000003,
+        "bottom": 598.4425784,
+        "size": 11.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Suggested answer: No. Provide support and referral; a qualified professional assesses mental health",
+        "x0": 63.0,
+        "top": 610.03417992,
+        "x1": 531.6963900899998,
+        "bottom": 619.33417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "diagnoses.",
+        "x0": 63.0,
+        "top": 625.63417992,
+        "x1": 113.04199242000001,
+        "bottom": 634.93417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "10. What is a Rwanda-specific service pathway?",
+        "x0": 63.0,
+        "top": 653.6425784,
+        "x1": 360.72509030000015,
+        "bottom": 664.6425784,
+        "size": 11.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Suggested answer: A verified Isange One Stop Centre or other appropriate service, with reporting",
+        "x0": 63.0,
+        "top": 676.23417992,
+        "x1": 518.9361335099999,
+        "bottom": 685.53417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "and confidentiality implications explained.",
+        "x0": 63.0,
+        "top": 691.83417992,
+        "x1": 260.3434564499999,
+        "bottom": 701.13417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "21 Glossary",
+        "x0": 63.0,
+        "top": 727.0437504,
+        "x1": 168.6093744,
+        "bottom": 743.0437504,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Emotional abuse: Behavior that undermines emotional wellbeing through degradation, threats, manipulation or",
+        "x0": 63.0,
+        "top": 757.16992208,
+        "x1": 521.5633807,
+        "bottom": 765.36992208,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "other harmful treatment.",
+        "x0": 63.0,
+        "top": 770.16992208,
+        "x1": 165.92441478,
+        "bottom": 778.36992208,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "Chapter 07 | Evidence-informed draft - professional review pending 12",
+        "x0": 57.0,
+        "top": 806.5716408,
+        "x1": 538.2800269999999,
+        "bottom": 813.5716408,
+        "size": 7.0,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 13,
+    "width": 595.28,
+    "height": 841.89,
+    "lines": [
+      {
+        "text": "VUGA NDAKUMVA / GBV EDUCATIONAL CONTENT LIBRARY",
+        "x0": 57.0,
+        "top": 28.529687680000052,
+        "x1": 297.18398352,
+        "bottom": 35.729687679999984,
+        "size": 7.2,
+        "bold": 1.0
+      },
+      {
+        "text": "Psychological abuse: Abusive behavior that creates fear, distress or coercion, including nonverbal control.",
+        "x0": 63.0,
+        "top": 68.96992208000006,
+        "x1": 499.2976582999999,
+        "bottom": 77.16992207999999,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "Verbal abuse: Insults, degrading language, threats or humiliating speech used to harm or control.",
+        "x0": 63.0,
+        "top": 88.96992208000006,
+        "x1": 465.17236527999995,
+        "bottom": 97.16992207999999,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "Coercive control: A pattern of behaviors that limits choices and independence.",
+        "x0": 63.0,
+        "top": 108.96992208000006,
+        "x1": 386.31943507999995,
+        "bottom": 117.16992207999999,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "Intimidation: Actions or communication used to create fear.",
+        "x0": 63.0,
+        "top": 128.96992208000006,
+        "x1": 308.31533279999996,
+        "bottom": 137.16992208,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "Survivor-centred: An approach prioritizing safety, dignity, informed choices and individual needs.",
+        "x0": 63.0,
+        "top": 148.96992208000006,
+        "x1": 463.02626948,
+        "bottom": 157.16992208,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "Safeguarding: Procedures to protect people, especially children and at-risk people, from harm.",
+        "x0": 63.0,
+        "top": 168.96992208000006,
+        "x1": 452.4839845800002,
+        "bottom": 177.16992208,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "Referral: Connecting a person to an appropriate qualified service according to need and safety.",
+        "x0": 63.0,
+        "top": 188.96992208000006,
+        "x1": 455.6430690199999,
+        "bottom": 197.16992208,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "Chapter 07 | Evidence-informed draft - professional review pending 13",
+        "x0": 57.0,
+        "top": 806.5716408,
+        "x1": 538.2800269999999,
+        "bottom": 813.5716408,
+        "size": 7.0,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 14,
+    "width": 595.28,
+    "height": 841.89,
+    "lines": [
+      {
+        "text": "VUGA NDAKUMVA / GBV EDUCATIONAL CONTENT LIBRARY",
+        "x0": 57.0,
+        "top": 28.529687680000052,
+        "x1": 297.18398352,
+        "bottom": 35.729687679999984,
+        "size": 7.2,
+        "bold": 1.0
+      },
+      {
+        "text": "22 References and further reading",
+        "x0": 63.0,
+        "top": 70.84375039999998,
+        "x1": 375.5078176,
+        "bottom": 86.84375039999998,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "[1] World Health Organization (2026). Violence against women.",
+        "x0": 63.0,
+        "top": 101.23417992000009,
+        "x1": 358.96977603,
+        "bottom": 110.53417992000004,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "https://www.who.int/news-room/fact-sheets/detail/violence-against-women",
+        "x0": 63.0,
+        "top": 124.56992208000008,
+        "x1": 370.95644726,
+        "bottom": 132.76992208000001,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "[2] World Health Organization (2012). Understanding and addressing violence against women:",
+        "x0": 63.0,
+        "top": 144.83417992,
+        "x1": 504.29590052999987,
+        "bottom": 154.13417991999995,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Intimate partner violence.",
+        "x0": 63.0,
+        "top": 160.43417992000002,
+        "x1": 184.18608474,
+        "bottom": 169.73417991999997,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "https://iris.who.int/bitstream/10665/77432/1/WHO_RHR_12.36_eng.pdf",
+        "x0": 63.0,
+        "top": 183.76992208000001,
+        "x1": 353.6475625400001,
+        "bottom": 191.96992207999995,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "[3] Australian Institute of Health and Welfare (2026). Coercive control.",
+        "x0": 63.0,
+        "top": 204.03417992000004,
+        "x1": 391.37900564999995,
+        "bottom": 213.33417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "https://www.aihw.gov.au/family-domestic-and-sexual-violence/understanding-fdsv/coercive-control",
+        "x0": 63.0,
+        "top": 227.36992208000004,
+        "x1": 470.08916235999993,
+        "bottom": 235.56992207999997,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "[4] World Health Organization (2014). Health care for women subjected to intimate partner violence",
+        "x0": 63.0,
+        "top": 247.63417992000007,
+        "x1": 530.3204597399999,
+        "bottom": 256.93417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "or sexual violence: A clinical handbook.",
+        "x0": 63.0,
+        "top": 263.2341799200001,
+        "x1": 247.02011928000002,
+        "bottom": 272.53417992000004,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "https://www.who.int/publications/i/item/WHO-RHR-14.26",
+        "x0": 63.0,
+        "top": 286.5699220800001,
+        "x1": 294.54990260000005,
+        "bottom": 294.76992208,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "[5] World Health Organization (2019). Caring for women subjected to violence: A curriculum for",
+        "x0": 63.0,
+        "top": 306.83417992,
+        "x1": 508.54174949999987,
+        "bottom": 316.13417991999995,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "training health-care providers.",
+        "x0": 63.0,
+        "top": 322.43417992,
+        "x1": 204.84770502,
+        "bottom": 331.73417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "https://www.who.int/publications-detail-redirect/9789241517102",
+        "x0": 63.0,
+        "top": 345.76992208,
+        "x1": 329.3638693400001,
+        "bottom": 353.96992208,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "[6] Rwanda Ministry of Gender and Family Promotion. Family promotion and child protection: GBV",
+        "x0": 63.0,
+        "top": 366.03417992000004,
+        "x1": 520.0532216099998,
+        "bottom": 375.33417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "prevention and Isange One Stop Centres.",
+        "x0": 63.0,
+        "top": 381.63417992,
+        "x1": 255.6480492,
+        "bottom": 390.93417991999996,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "https://www.migeprof.gov.rw/family-promotion-and-child-right-protection",
+        "x0": 63.0,
+        "top": 404.96992208,
+        "x1": 363.88153974,
+        "bottom": 413.16992208,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "[7] UNHCR Rwanda. Gender-based violence: Services and referrals.",
+        "x0": 63.0,
+        "top": 425.23417992,
+        "x1": 377.4290065800001,
+        "bottom": 434.53417991999993,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "https://help.unhcr.org/rwanda/services/sgbv/",
+        "x0": 63.0,
+        "top": 448.56992207999997,
+        "x1": 247.15566724,
+        "bottom": 456.76992207999996,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "23 Publication and review checklist",
+        "x0": 63.0,
+        "top": 481.44375039999994,
+        "x1": 382.8046848,
+        "bottom": 497.44375039999994,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "• GBV practitioner or safeguarding specialist reviews safety advice and survivor-centred language.",
+        "x0": 68.0,
+        "top": 511.81015647999993,
+        "x1": 524.9183615599997,
+        "bottom": 521.01015648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Qualified Rwanda legal/safeguarding reviewer verifies confidentiality and reporting obligations.",
+        "x0": 68.0,
+        "top": 532.3101564799999,
+        "x1": 516.1675791599996,
+        "bottom": 541.51015648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Referral coordinator verifies phone numbers, location, eligibility, hours and possible",
+        "x0": 68.0,
+        "top": 552.8101564799999,
+        "x1": 463.3888673599997,
+        "bottom": 562.01015648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "law-enforcement reporting.",
+        "x0": 78.0,
+        "top": 568.3101564799999,
+        "x1": 204.33378912,
+        "bottom": 577.51015648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Kinyarwanda and French translations undergo independent review for nuance and safety.",
+        "x0": 68.0,
+        "top": 588.8101564799999,
+        "x1": 490.68340527999965,
+        "bottom": 598.01015648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• All activities are tested for accessibility, informed choice and potential distress.",
+        "x0": 68.0,
+        "top": 609.3101564799999,
+        "x1": 442.68886551999964,
+        "bottom": 618.51015648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• CMS assigns version history, next review date, content owner and approval status.",
+        "x0": 68.0,
+        "top": 629.8101564799999,
+        "x1": 458.58672219999966,
+        "bottom": 639.01015648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "Editorial status",
+        "x0": 77.14,
+        "top": 659.7425784,
+        "x1": 172.1976143,
+        "bottom": 670.7425784,
+        "size": 11.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Evidence-informed educational draft only. No claim of professional clinical, legal or",
+        "x0": 77.14,
+        "top": 682.33417992,
+        "x1": 464.04815481999975,
+        "bottom": 691.63417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "safeguarding approval has been made. Review the entire chapter before publishing or",
+        "x0": 77.14,
+        "top": 697.93417992,
+        "x1": 480.31861642000007,
+        "bottom": 707.23417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "adapting it for an AI chatbot or public awareness campaign.",
+        "x0": 77.14,
+        "top": 713.53417992,
+        "x1": 356.44878975999995,
+        "bottom": 722.83417992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Prepared for VUGA NDAKUMVA GBV Educational Content Library. Chapter 07 of a planned 18-chapter series.",
+        "x0": 63.0,
+        "top": 745.86992208,
+        "x1": 510.04013718,
+        "bottom": 754.06992208,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "Chapter 07 | Evidence-informed draft - professional review pending 14",
+        "x0": 57.0,
+        "top": 806.5716408,
+        "x1": 538.2800269999999,
+        "bottom": 813.5716408,
+        "size": 7.0,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  }
+]

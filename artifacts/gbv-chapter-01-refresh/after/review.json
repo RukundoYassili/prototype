@@ -1,0 +1,3248 @@
+{
+  "status": "passed",
+  "layouts": [
+    {
+      "width": 320,
+      "overflow": false,
+      "images": [
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0,
+          "alt": "Fictional illustration of two adults exploring learning materials together, with space to choose where to begin."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.008046393620877001,
+          "alt": "Fictional illustration of a young woman in a mustard cardigan considering a training leaflet in a quiet training room, with a phone face down nearby."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.008046393620877001,
+          "alt": "Fictional illustration of the same woman, in the same room with her leaflet and bag, considering information with a training adviser at a respectful distance."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.008046393620877001,
+          "alt": "Fictional illustration of a market trader in a blue blouse pausing over a closed earnings notebook in a quiet room beside her produce stall."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.008046393620877001,
+          "alt": "Fictional illustration of the same trader and notebook in the same room, with a support worker listening without taking over her decisions."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.008046393620877001,
+          "alt": "Fictional illustration of a college student in a sage shirt looking concerned at her phone in a quiet campus room, with her navy backpack nearby."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.008046393620877001,
+          "alt": "Fictional illustration of the same student in the same room with an adviser, her phone put away while they discuss the support she prefers."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.008046393620877001,
+          "alt": "Fictional illustration of a man in a beige shirt beginning a conversation with a volunteer in a quiet community room, without notes or recording devices."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.008046393620877001,
+          "alt": "Fictional illustration of the same man and volunteer in the same room, with the volunteer listening and explaining options while leaving personal space."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.008046393620877001,
+          "alt": "Fictional illustration of an adolescent in a blue school sweater talking with a teacher in a school welfare room; no abuse is depicted."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.008046393620877001,
+          "alt": "Fictional illustration of the same adolescent and teacher in the same room, joined by a safeguarding worker who sits at a respectful distance."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.008046393620877001,
+          "alt": "Fictional illustration of a woman in a rust blouse speaking with a friend at a quiet cafe table, while the friend is briefly distracted by a phone."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.008046393620877001,
+          "alt": "Fictional illustration of the same women at the same cafe table, with the phone put away and the friend listening attentively; the speaker remains thoughtful."
+        }
+      ]
+    },
+    {
+      "width": 375,
+      "overflow": false,
+      "images": [
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.007692714391456024,
+          "alt": "Fictional illustration of two adults exploring learning materials together, with space to choose where to begin."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.006266890317770946,
+          "alt": "Fictional illustration of a young woman in a mustard cardigan considering a training leaflet in a quiet training room, with a phone face down nearby."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.006266890317770946,
+          "alt": "Fictional illustration of the same woman, in the same room with her leaflet and bag, considering information with a training adviser at a respectful distance."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.006266890317770946,
+          "alt": "Fictional illustration of a market trader in a blue blouse pausing over a closed earnings notebook in a quiet room beside her produce stall."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.006266890317770946,
+          "alt": "Fictional illustration of the same trader and notebook in the same room, with a support worker listening without taking over her decisions."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.006266890317770946,
+          "alt": "Fictional illustration of a college student in a sage shirt looking concerned at her phone in a quiet campus room, with her navy backpack nearby."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.006266890317770946,
+          "alt": "Fictional illustration of the same student in the same room with an adviser, her phone put away while they discuss the support she prefers."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.006266890317770946,
+          "alt": "Fictional illustration of a man in a beige shirt beginning a conversation with a volunteer in a quiet community room, without notes or recording devices."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.006266890317770946,
+          "alt": "Fictional illustration of the same man and volunteer in the same room, with the volunteer listening and explaining options while leaving personal space."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.006266890317770946,
+          "alt": "Fictional illustration of an adolescent in a blue school sweater talking with a teacher in a school welfare room; no abuse is depicted."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.006266890317770946,
+          "alt": "Fictional illustration of the same adolescent and teacher in the same room, joined by a safeguarding worker who sits at a respectful distance."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.006266890317770946,
+          "alt": "Fictional illustration of a woman in a rust blouse speaking with a friend at a quiet cafe table, while the friend is briefly distracted by a phone."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.006266890317770946,
+          "alt": "Fictional illustration of the same women at the same cafe table, with the phone put away and the friend listening attentively; the speaker remains thoughtful."
+        }
+      ]
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "images": [
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.0014409221902016434,
+          "alt": "Fictional illustration of two adults exploring learning materials together, with space to choose where to begin."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.004202764976958706,
+          "alt": "Fictional illustration of a young woman in a mustard cardigan considering a training leaflet in a quiet training room, with a phone face down nearby."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.004202764976958706,
+          "alt": "Fictional illustration of the same woman, in the same room with her leaflet and bag, considering information with a training adviser at a respectful distance."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.004202764976958706,
+          "alt": "Fictional illustration of a market trader in a blue blouse pausing over a closed earnings notebook in a quiet room beside her produce stall."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.004202764976958706,
+          "alt": "Fictional illustration of the same trader and notebook in the same room, with a support worker listening without taking over her decisions."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.004202764976958706,
+          "alt": "Fictional illustration of a college student in a sage shirt looking concerned at her phone in a quiet campus room, with her navy backpack nearby."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.004202764976958706,
+          "alt": "Fictional illustration of the same student in the same room with an adviser, her phone put away while they discuss the support she prefers."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.004202764976958706,
+          "alt": "Fictional illustration of a man in a beige shirt beginning a conversation with a volunteer in a quiet community room, without notes or recording devices."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.004202764976958706,
+          "alt": "Fictional illustration of the same man and volunteer in the same room, with the volunteer listening and explaining options while leaving personal space."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.004202764976958706,
+          "alt": "Fictional illustration of an adolescent in a blue school sweater talking with a teacher in a school welfare room; no abuse is depicted."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.004202764976958706,
+          "alt": "Fictional illustration of the same adolescent and teacher in the same room, joined by a safeguarding worker who sits at a respectful distance."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.004202764976958706,
+          "alt": "Fictional illustration of a woman in a rust blouse speaking with a friend at a quiet cafe table, while the friend is briefly distracted by a phone."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.004202764976958706,
+          "alt": "Fictional illustration of the same women at the same cafe table, with the phone put away and the friend listening attentively; the speaker remains thoughtful."
+        }
+      ]
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "images": [
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.00015313153999274576,
+          "alt": "Fictional illustration of two adults exploring learning materials together, with space to choose where to begin."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.00020211002869974237,
+          "alt": "Fictional illustration of a young woman in a mustard cardigan considering a training leaflet in a quiet training room, with a phone face down nearby."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.00020211002869974237,
+          "alt": "Fictional illustration of the same woman, in the same room with her leaflet and bag, considering information with a training adviser at a respectful distance."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.00020211002869974237,
+          "alt": "Fictional illustration of a market trader in a blue blouse pausing over a closed earnings notebook in a quiet room beside her produce stall."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.00020211002869974237,
+          "alt": "Fictional illustration of the same trader and notebook in the same room, with a support worker listening without taking over her decisions."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.00020211002869974237,
+          "alt": "Fictional illustration of a college student in a sage shirt looking concerned at her phone in a quiet campus room, with her navy backpack nearby."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.00020211002869974237,
+          "alt": "Fictional illustration of the same student in the same room with an adviser, her phone put away while they discuss the support she prefers."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.00020211002869974237,
+          "alt": "Fictional illustration of a man in a beige shirt beginning a conversation with a volunteer in a quiet community room, without notes or recording devices."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.00020211002869974237,
+          "alt": "Fictional illustration of the same man and volunteer in the same room, with the volunteer listening and explaining options while leaving personal space."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.00020211002869974237,
+          "alt": "Fictional illustration of an adolescent in a blue school sweater talking with a teacher in a school welfare room; no abuse is depicted."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.00020211002869974237,
+          "alt": "Fictional illustration of the same adolescent and teacher in the same room, joined by a safeguarding worker who sits at a respectful distance."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.00020211002869974237,
+          "alt": "Fictional illustration of a woman in a rust blouse speaking with a friend at a quiet cafe table, while the friend is briefly distracted by a phone."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.00020211002869974237,
+          "alt": "Fictional illustration of the same women at the same cafe table, with the phone put away and the friend listening attentively; the speaker remains thoughtful."
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "images": [
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.003957783641160839,
+          "alt": "Fictional illustration of two adults exploring learning materials together, with space to choose where to begin."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.0011655011655011815,
+          "alt": "Fictional illustration of a young woman in a mustard cardigan considering a training leaflet in a quiet training room, with a phone face down nearby."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.0011655011655011815,
+          "alt": "Fictional illustration of the same woman, in the same room with her leaflet and bag, considering information with a training adviser at a respectful distance."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.0011655011655011815,
+          "alt": "Fictional illustration of a market trader in a blue blouse pausing over a closed earnings notebook in a quiet room beside her produce stall."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.0011655011655011815,
+          "alt": "Fictional illustration of the same trader and notebook in the same room, with a support worker listening without taking over her decisions."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.0011655011655011815,
+          "alt": "Fictional illustration of a college student in a sage shirt looking concerned at her phone in a quiet campus room, with her navy backpack nearby."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.0011655011655011815,
+          "alt": "Fictional illustration of the same student in the same room with an adviser, her phone put away while they discuss the support she prefers."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.0011655011655011815,
+          "alt": "Fictional illustration of a man in a beige shirt beginning a conversation with a volunteer in a quiet community room, without notes or recording devices."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.0011655011655011815,
+          "alt": "Fictional illustration of the same man and volunteer in the same room, with the volunteer listening and explaining options while leaving personal space."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.0011655011655011815,
+          "alt": "Fictional illustration of an adolescent in a blue school sweater talking with a teacher in a school welfare room; no abuse is depicted."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.0011655011655011815,
+          "alt": "Fictional illustration of the same adolescent and teacher in the same room, joined by a safeguarding worker who sits at a respectful distance."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.0011655011655011815,
+          "alt": "Fictional illustration of a woman in a rust blouse speaking with a friend at a quiet cafe table, while the friend is briefly distracted by a phone."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.0011655011655011815,
+          "alt": "Fictional illustration of the same women at the same cafe table, with the phone put away and the friend listening attentively; the speaker remains thoughtful."
+        }
+      ]
+    },
+    {
+      "width": 1920,
+      "overflow": false,
+      "images": [
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.003957783641160839,
+          "alt": "Fictional illustration of two adults exploring learning materials together, with space to choose where to begin."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.0011655011655011815,
+          "alt": "Fictional illustration of a young woman in a mustard cardigan considering a training leaflet in a quiet training room, with a phone face down nearby."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.0011655011655011815,
+          "alt": "Fictional illustration of the same woman, in the same room with her leaflet and bag, considering information with a training adviser at a respectful distance."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.0011655011655011815,
+          "alt": "Fictional illustration of a market trader in a blue blouse pausing over a closed earnings notebook in a quiet room beside her produce stall."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.0011655011655011815,
+          "alt": "Fictional illustration of the same trader and notebook in the same room, with a support worker listening without taking over her decisions."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.0011655011655011815,
+          "alt": "Fictional illustration of a college student in a sage shirt looking concerned at her phone in a quiet campus room, with her navy backpack nearby."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.0011655011655011815,
+          "alt": "Fictional illustration of the same student in the same room with an adviser, her phone put away while they discuss the support she prefers."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.0011655011655011815,
+          "alt": "Fictional illustration of a man in a beige shirt beginning a conversation with a volunteer in a quiet community room, without notes or recording devices."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.0011655011655011815,
+          "alt": "Fictional illustration of the same man and volunteer in the same room, with the volunteer listening and explaining options while leaving personal space."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.0011655011655011815,
+          "alt": "Fictional illustration of an adolescent in a blue school sweater talking with a teacher in a school welfare room; no abuse is depicted."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.0011655011655011815,
+          "alt": "Fictional illustration of the same adolescent and teacher in the same room, joined by a safeguarding worker who sits at a respectful distance."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.0011655011655011815,
+          "alt": "Fictional illustration of a woman in a rust blouse speaking with a friend at a quiet cafe table, while the friend is briefly distracted by a phone."
+        },
+        {
+          "loaded": true,
+          "reserved": true,
+          "fit": "contain",
+          "ratioError": 0.0011655011655011815,
+          "alt": "Fictional illustration of the same women at the same cafe table, with the phone put away and the friend listening attentively; the speaker remains thoughtful."
+        }
+      ]
+    }
+  ],
+  "interactions": [
+    "375px: keyboard contents, visible focus, header offset, optional disclosure and next-chapter navigation passed",
+    "1440px: keyboard contents, visible focus, header offset, optional disclosure and next-chapter navigation passed",
+    "Quick exit still replaces the page with its original destination; browsing-history limitation remains accessible. Destination mocked for this check."
+  ],
+  "comparisons": [
+    {
+      "name": "gbv-library",
+      "status": "Current library loads with ten cards and no chapter-specific presentation. Before/after pixel comparison excluded because an independent library-layout edit changed gbv.css during this task."
+    },
+    {
+      "name": "gbv-02",
+      "status": "Default reader presentation, original photo scenes, print action and layout verified; screenshot saved for visual review. Pixel baseline unavailable: initial capture was a loading screen, and isolated baseline prebundling was blocked by sandbox filesystem access."
+    },
+    {
+      "name": "mental-health-01",
+      "status": "Default reader presentation, original photo scenes, print action and layout verified; screenshot saved for visual review. Pixel baseline unavailable: initial capture was a loading screen, and isolated baseline prebundling was blocked by sandbox filesystem access."
+    }
+  ],
+  "sourceChecks": [
+    {
+      "path": "src/learning/gbv/visuals.ts",
+      "unchanged": true
+    },
+    {
+      "path": "src/learning/gbv/chapters.generated.ts",
+      "unchanged": true
+    },
+    {
+      "path": "src/learning/gbv/chapters-04-10.generated.ts",
+      "unchanged": true
+    },
+    {
+      "path": "src/learning/mental-health.css",
+      "unchanged": false,
+      "sameAfterFormatting": true,
+      "note": "Concurrent whitespace-only formatting preserved."
+    },
+    {
+      "path": "src/learning/learning-visuals.css",
+      "unchanged": true
+    },
+    {
+      "path": "src/learning/gbv/gbv.css",
+      "unchanged": false,
+      "note": "Independent library-layout update reviewed and preserved. This task does not edit this file."
+    }
+  ],
+  "contrast": [
+    {
+      "text": "Understand GBV",
+      "ratio": 4.86,
+      "required": 4.5
+    },
+    {
+      "text": "/",
+      "ratio": 4.86,
+      "required": 4.5
+    },
+    {
+      "text": "Chapter 01",
+      "ratio": 4.86,
+      "required": 4.5
+    },
+    {
+      "text": "VUGA NDAKUMVA Initiative - educational draft · GBV EDUCATION",
+      "ratio": 5.28,
+      "required": 4.5
+    },
+    {
+      "text": "CHAPTER 01",
+      "ratio": 7.71,
+      "required": 4.5
+    },
+    {
+      "text": "Understanding Gender-Based Violence",
+      "ratio": 11.97,
+      "required": 3
+    },
+    {
+      "text": "Read at your own pace",
+      "ratio": 5.98,
+      "required": 4.5
+    },
+    {
+      "text": "18 sections",
+      "ratio": 5.98,
+      "required": 4.5
+    },
+    {
+      "text": "English",
+      "ratio": 5.98,
+      "required": 4.5
+    },
+    {
+      "text": "Expanded educational handbook | English | Version 1.1 | 9 November 202",
+      "ratio": 5.98,
+      "required": 4.5
+    },
+    {
+      "text": "Download source PDF(12 pages)",
+      "ratio": 8.47,
+      "required": 4.5
+    },
+    {
+      "text": "(12 pages)",
+      "ratio": 6.66,
+      "required": 4.5
+    },
+    {
+      "text": "Print chapter",
+      "ratio": 8.47,
+      "required": 4.5
+    },
+    {
+      "text": "Fictional illustration · Learning with dignity and choice.",
+      "ratio": 5.98,
+      "required": 4.5
+    },
+    {
+      "text": "Editorial status: Evidence-informed educational draft. Not yet approve",
+      "ratio": 6.47,
+      "required": 4.5
+    },
+    {
+      "text": "In this chapter",
+      "ratio": 11.11,
+      "required": 4.5
+    },
+    {
+      "text": "In this chapter",
+      "ratio": 10.3,
+      "required": 4.5
+    },
+    {
+      "text": "Learning outcomes",
+      "ratio": 10.75,
+      "required": 4.5
+    },
+    {
+      "text": "1What gender-based violence means",
+      "ratio": 6.7,
+      "required": 4.5
+    },
+    {
+      "text": "1",
+      "ratio": 6.67,
+      "required": 4.5
+    },
+    {
+      "text": "2Why GBV is a public health and human rights concern",
+      "ratio": 6.7,
+      "required": 4.5
+    },
+    {
+      "text": "2",
+      "ratio": 6.67,
+      "required": 4.5
+    },
+    {
+      "text": "3What forms can GBV take?",
+      "ratio": 6.7,
+      "required": 4.5
+    },
+    {
+      "text": "3",
+      "ratio": 6.67,
+      "required": 4.5
+    },
+    {
+      "text": "4Gender norms, inequality and unequal power",
+      "ratio": 6.7,
+      "required": 4.5
+    },
+    {
+      "text": "4",
+      "ratio": 6.67,
+      "required": 4.5
+    },
+    {
+      "text": "5Recognizing coercive control",
+      "ratio": 6.7,
+      "required": 4.5
+    },
+    {
+      "text": "5",
+      "ratio": 6.67,
+      "required": 4.5
+    },
+    {
+      "text": "6Effects on health, relationships and opportunity",
+      "ratio": 6.7,
+      "required": 4.5
+    },
+    {
+      "text": "6",
+      "ratio": 6.67,
+      "required": 4.5
+    },
+    {
+      "text": "7Why seeking help can be difficult",
+      "ratio": 6.7,
+      "required": 4.5
+    },
+    {
+      "text": "7",
+      "ratio": 6.67,
+      "required": 4.5
+    },
+    {
+      "text": "8Consent, choice and boundaries",
+      "ratio": 6.7,
+      "required": 4.5
+    },
+    {
+      "text": "8",
+      "ratio": 6.67,
+      "required": 4.5
+    },
+    {
+      "text": "9Survivor-centred first-line support",
+      "ratio": 6.7,
+      "required": 4.5
+    },
+    {
+      "text": "9",
+      "ratio": 6.67,
+      "required": 4.5
+    },
+    {
+      "text": "10Safety planning without increasing danger",
+      "ratio": 6.7,
+      "required": 4.5
+    },
+    {
+      "text": "10",
+      "ratio": 6.67,
+      "required": 4.5
+    },
+    {
+      "text": "11Accessing support in Rwanda",
+      "ratio": 6.7,
+      "required": 4.5
+    },
+    {
+      "text": "11",
+      "ratio": 6.67,
+      "required": 4.5
+    },
+    {
+      "text": "12Learning scenarios and guided analysis",
+      "ratio": 6.7,
+      "required": 4.5
+    },
+    {
+      "text": "12",
+      "ratio": 6.67,
+      "required": 4.5
+    },
+    {
+      "text": "13Activities for individuals and facilitators",
+      "ratio": 6.7,
+      "required": 4.5
+    },
+    {
+      "text": "13",
+      "ratio": 6.67,
+      "required": 4.5
+    },
+    {
+      "text": "14Knowledge assessment",
+      "ratio": 6.7,
+      "required": 4.5
+    },
+    {
+      "text": "14",
+      "ratio": 6.67,
+      "required": 4.5
+    },
+    {
+      "text": "15Key messages for the reader",
+      "ratio": 6.7,
+      "required": 4.5
+    },
+    {
+      "text": "15",
+      "ratio": 6.67,
+      "required": 4.5
+    },
+    {
+      "text": "16Glossary",
+      "ratio": 6.7,
+      "required": 4.5
+    },
+    {
+      "text": "16",
+      "ratio": 6.67,
+      "required": 4.5
+    },
+    {
+      "text": "17Scientific and institutional references",
+      "ratio": 6.7,
+      "required": 4.5
+    },
+    {
+      "text": "17",
+      "ratio": 6.67,
+      "required": 4.5
+    },
+    {
+      "text": "18Editorial and publication review record",
+      "ratio": 6.7,
+      "required": 4.5
+    },
+    {
+      "text": "18",
+      "ratio": 6.67,
+      "required": 4.5
+    },
+    {
+      "text": "You can pause or skip an exercise at any time.",
+      "ratio": 6.45,
+      "required": 4.5
+    },
+    {
+      "text": "Urgent help information",
+      "ratio": 6.45,
+      "required": 4.5
+    },
+    {
+      "text": "About this chapter",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "Original cover information",
+      "ratio": 8.3,
+      "required": 4.5
+    },
+    {
+      "text": "VUGA NDAKUMVA INITIATIVE",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "GENDER-BASED VIOLENCE",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "EDUCATIONAL CONTENT",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "LIBRARY",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "CHAPTER 01",
+      "ratio": 6.26,
+      "required": 4.5
+    },
+    {
+      "text": "Understanding Gender-Based Violence",
+      "ratio": 6.26,
+      "required": 4.5
+    },
+    {
+      "text": "Expanded educational handbook | English | Version 1.1 | 9 November 202",
+      "ratio": 6.26,
+      "required": 4.5
+    },
+    {
+      "text": "For community education, awareness programmes, supportive learning and",
+      "ratio": 6.26,
+      "required": 4.5
+    },
+    {
+      "text": "Editorial status:",
+      "ratio": 9.27,
+      "required": 4.5
+    },
+    {
+      "text": "Evidence-informed educational draft. Not yet approved for publication.",
+      "ratio": 6.26,
+      "required": 4.5
+    },
+    {
+      "text": "How to use this chapter",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "This chapter offers foundational education about gender-based violence",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "Reader safety:",
+      "ratio": 8.58,
+      "required": 4.5
+    },
+    {
+      "text": "This handbook discusses abuse, threats and coercive control without gr",
+      "ratio": 5.79,
+      "required": 4.5
+    },
+    {
+      "text": "Urgent help information",
+      "ratio": 10.86,
+      "required": 4.5
+    },
+    {
+      "text": "Your pace. Your choice.",
+      "ratio": 11.55,
+      "required": 4.5
+    },
+    {
+      "text": "Read, explore the visual examples, or skip an optional practice. Keep ",
+      "ratio": 5.77,
+      "required": 4.5
+    },
+    {
+      "text": "The illustrations are AI-generated fictional teaching scenes, not real",
+      "ratio": 5.77,
+      "required": 4.5
+    },
+    {
+      "text": "BEFORE YOU BEGIN",
+      "ratio": 5.87,
+      "required": 4.5
+    },
+    {
+      "text": "Learning outcomes",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "Define GBV and distinguish it from disagreements that are not necessar",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "Recognize physical, sexual, emotional, economic and technology-facilit",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "Explain gender-related power, coercion, inequality, stigma and barrier",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "Respond respectfully to a disclosure without demanding evidence or tak",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "Identify safer options for medical care, support and referral in Rwand",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "A note on language",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "This handbook mainly uses survivor, emphasizing dignity and agency; so",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "[1,2]",
+      "ratio": 6.21,
+      "required": 4.5
+    },
+    {
+      "text": "1",
+      "ratio": 6.21,
+      "required": 4.5
+    },
+    {
+      "text": ",",
+      "ratio": 6.21,
+      "required": 4.5
+    },
+    {
+      "text": "2",
+      "ratio": 6.21,
+      "required": 4.5
+    },
+    {
+      "text": "1What gender-based violence means",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "1",
+      "ratio": 7.05,
+      "required": 4.5
+    },
+    {
+      "text": "Gender-based violence refers to harmful acts against a person that are",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "[1,2]",
+      "ratio": 6.21,
+      "required": 4.5
+    },
+    {
+      "text": "1",
+      "ratio": 6.21,
+      "required": 4.5
+    },
+    {
+      "text": ",",
+      "ratio": 6.21,
+      "required": 4.5
+    },
+    {
+      "text": "2",
+      "ratio": 6.21,
+      "required": 4.5
+    },
+    {
+      "text": "The term gender-based matters:",
+      "ratio": 9.27,
+      "required": 4.5
+    },
+    {
+      "text": "it describes the relationship between violence and gender norms or pow",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "Three ideas to remember",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "Harm may be visible or invisible. A person may be harmed without havin",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "Abuse can involve a pattern. Repeated humiliation, isolation and monit",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "Consent matters. A relationship, marriage, previous agreement or gift ",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "2Why GBV is a public health and human rights concern",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "2",
+      "ratio": 7.05,
+      "required": 4.5
+    },
+    {
+      "text": "GBV can undermine safety, bodily autonomy, health, education, employme",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "[1]",
+      "ratio": 6.21,
+      "required": 4.5
+    },
+    {
+      "text": "1",
+      "ratio": 6.21,
+      "required": 4.5
+    },
+    {
+      "text": "WHO estimates published for 2023 indicate that approximately 840 milli",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "[1]",
+      "ratio": 6.21,
+      "required": 4.5
+    },
+    {
+      "text": "1",
+      "ratio": 6.21,
+      "required": 4.5
+    },
+    {
+      "text": "Figures should never be used to predict the experience of a particular",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "3What forms can GBV take?",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "3",
+      "ratio": 7.05,
+      "required": 4.5
+    },
+    {
+      "text": "Physical violence",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "Physical violence involves actions that inflict or threaten physical h",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "Sexual violence and coercion",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "Sexual violence involves sexual acts or contact without free agreement",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "[1,3]",
+      "ratio": 6.21,
+      "required": 4.5
+    },
+    {
+      "text": "1",
+      "ratio": 6.21,
+      "required": 4.5
+    },
+    {
+      "text": ",",
+      "ratio": 6.21,
+      "required": 4.5
+    },
+    {
+      "text": "3",
+      "ratio": 6.21,
+      "required": 4.5
+    },
+    {
+      "text": "Psychological and emotional abuse",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "Examples include repeated humiliation, serious threats, intimidation, ",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "Economic abuse",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "Economic abuse occurs when access to income, work, property, essential",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "Technology-facilitated abuse",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "This may include repeated unwanted monitoring, threats to publish priv",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "Violence and coercion affecting children",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "Children and adolescents can experience sexual exploitation, forced re",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "Scroll to read the full table.",
+      "ratio": 6.26,
+      "required": 4.5
+    },
+    {
+      "text": "3 What forms can GBV take?",
+      "ratio": 11.74,
+      "required": 4.5
+    },
+    {
+      "text": "Form",
+      "ratio": 6.19,
+      "required": 4.5
+    },
+    {
+      "text": "Illustrative warning sign",
+      "ratio": 6.19,
+      "required": 4.5
+    },
+    {
+      "text": "Physical",
+      "ratio": 8.65,
+      "required": 4.5
+    },
+    {
+      "text": "Threats or acts of physical harm",
+      "ratio": 6.16,
+      "required": 4.5
+    },
+    {
+      "text": "Sexual",
+      "ratio": 8.21,
+      "required": 4.5
+    },
+    {
+      "text": "Sexual activity obtained through pressure, fear or coercion",
+      "ratio": 5.84,
+      "required": 4.5
+    },
+    {
+      "text": "Psychological",
+      "ratio": 8.65,
+      "required": 4.5
+    },
+    {
+      "text": "Repeated intimidation, isolation or humiliation",
+      "ratio": 6.16,
+      "required": 4.5
+    },
+    {
+      "text": "Economic",
+      "ratio": 8.21,
+      "required": 4.5
+    },
+    {
+      "text": "Blocking access to work or essential funds to exert control",
+      "ratio": 5.84,
+      "required": 4.5
+    },
+    {
+      "text": "Digital",
+      "ratio": 8.65,
+      "required": 4.5
+    },
+    {
+      "text": "Monitoring devices or threatening to share private material",
+      "ratio": 6.16,
+      "required": 4.5
+    },
+    {
+      "text": "4Gender norms, inequality and unequal power",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "4",
+      "ratio": 7.05,
+      "required": 4.5
+    },
+    {
+      "text": "Gender norms are social ideas about how people are expected to behave ",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "[1,2]",
+      "ratio": 6.21,
+      "required": 4.5
+    },
+    {
+      "text": "1",
+      "ratio": 6.21,
+      "required": 4.5
+    },
+    {
+      "text": ",",
+      "ratio": 6.21,
+      "required": 4.5
+    },
+    {
+      "text": "2",
+      "ratio": 6.21,
+      "required": 4.5
+    },
+    {
+      "text": "Power does not come only from physical strength. A person may have con",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "Risk factors are not excuses. Alcohol use, financial strain, conflict ",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "Illustrative example: training opportunity",
+      "ratio": 13.32,
+      "required": 4.5
+    },
+    {
+      "text": "A young woman is offered a vocational training programme. Her partner ",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "SEE THE EXAMPLE",
+      "ratio": 6.57,
+      "required": 4.5
+    },
+    {
+      "text": "Illustrative fictional example. AI-generated.",
+      "ratio": 6.2,
+      "required": 4.5
+    },
+    {
+      "text": "01",
+      "ratio": 9.3,
+      "required": 4.5
+    },
+    {
+      "text": "The situation",
+      "ratio": 8.22,
+      "required": 4.5
+    },
+    {
+      "text": "A training offer becomes a concern when a partner attaches threats and",
+      "ratio": 9.11,
+      "required": 4.5
+    },
+    {
+      "text": "02",
+      "ratio": 9.3,
+      "required": 4.5
+    },
+    {
+      "text": "A possible supportive response",
+      "ratio": 8.22,
+      "required": 4.5
+    },
+    {
+      "text": "A private conversation with a training adviser could help explore avai",
+      "ratio": 9.11,
+      "required": 4.5
+    },
+    {
+      "text": "What this shows: A training opportunity",
+      "ratio": 12.41,
+      "required": 4.5
+    },
+    {
+      "text": ": A training opportunity",
+      "ratio": 12.41,
+      "required": 4.5
+    },
+    {
+      "text": "Threats and compulsory monitoring differ from mutually agreed practica",
+      "ratio": 7.22,
+      "required": 4.5
+    },
+    {
+      "text": "Optional reflectionIn this fictional example, what would preserve free",
+      "ratio": 7.22,
+      "required": 4.5
+    },
+    {
+      "text": "Optional reflection",
+      "ratio": 6.57,
+      "required": 4.5
+    },
+    {
+      "text": "5Recognizing coercive control",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "5",
+      "ratio": 7.05,
+      "required": 4.5
+    },
+    {
+      "text": "Coercive control describes behaviors that may accumulate into a system",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "Control versus care",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "A caring partner can express concern and discuss safety while respecti",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "A CLOSER LOOK",
+      "ratio": 6.57,
+      "required": 4.5
+    },
+    {
+      "text": "Control versus care",
+      "ratio": 12.41,
+      "required": 3
+    },
+    {
+      "text": "A visual comparison of the distinction in this lesson.",
+      "ratio": 6.2,
+      "required": 4.5
+    },
+    {
+      "text": "Care",
+      "ratio": 7.66,
+      "required": 4.5
+    },
+    {
+      "text": "Control",
+      "ratio": 7.66,
+      "required": 4.5
+    },
+    {
+      "text": "CareExpress concern and discuss safety while respecting decisions.",
+      "ratio": 6.89,
+      "required": 4.5
+    },
+    {
+      "text": "Care",
+      "ratio": 11.62,
+      "required": 4.5
+    },
+    {
+      "text": "ControlUse fear, punishment, coercion, threats or surveillance to over",
+      "ratio": 6.6,
+      "required": 4.5
+    },
+    {
+      "text": "Control",
+      "ratio": 11.13,
+      "required": 4.5
+    },
+    {
+      "text": "A person may experience both affection and abuse in the same relations",
+      "ratio": 6.82,
+      "required": 4.5
+    },
+    {
+      "text": "What this shows: Control versus care",
+      "ratio": 12.41,
+      "required": 4.5
+    },
+    {
+      "text": ": Control versus care",
+      "ratio": 12.41,
+      "required": 4.5
+    },
+    {
+      "text": "Individual signs do not establish a legal finding, but they deserve at",
+      "ratio": 7.22,
+      "required": 4.5
+    },
+    {
+      "text": "Optional reflectionWhat would preserve freedom to choose?",
+      "ratio": 7.22,
+      "required": 4.5
+    },
+    {
+      "text": "Optional reflection",
+      "ratio": 6.57,
+      "required": 4.5
+    },
+    {
+      "text": "6Effects on health, relationships and opportunity",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "6",
+      "ratio": 7.05,
+      "required": 4.5
+    },
+    {
+      "text": "GBV can have physical, sexual and reproductive, emotional, social and ",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "[1,3]",
+      "ratio": 6.21,
+      "required": 4.5
+    },
+    {
+      "text": "1",
+      "ratio": 6.21,
+      "required": 4.5
+    },
+    {
+      "text": ",",
+      "ratio": 6.21,
+      "required": 4.5
+    },
+    {
+      "text": "3",
+      "ratio": 6.21,
+      "required": 4.5
+    },
+    {
+      "text": "Possible physical and health effects",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "Injury, pain, sleep disturbance and some sexual or reproductive health",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "Possible emotional effects",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "Fear, anxiety, sadness, shame, emotional numbness, confusion, traumati",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "Effects on daily life",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "A survivor may lose income, miss classes, experience disruption to fam",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "7Why seeking help can be difficult",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "7",
+      "ratio": 7.05,
+      "required": 4.5
+    },
+    {
+      "text": "Reasons for delaying disclosure or remaining in a harmful situation ma",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "Asking \"Why didn't you leave?\" often shifts attention away from the pe",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "A note on disclosure",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "A person may share only part of their experience, change their mind, o",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "8Consent, choice and boundaries",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "8",
+      "ratio": 7.05,
+      "required": 4.5
+    },
+    {
+      "text": "Consent is a free and informed agreement to a specific action. It must",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "Boundaries can concern physical contact, personal information, money, ",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "Reflection: respectful vs coercive requests",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "Respectful:",
+      "ratio": 9.27,
+      "required": 4.5
+    },
+    {
+      "text": "\"I am worried about getting home safely. Would you like us to agree on",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "The difference includes freedom to decline without retaliation. Contex",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "A CLOSER LOOK",
+      "ratio": 6.57,
+      "required": 4.5
+    },
+    {
+      "text": "Consent includes freedom to choose",
+      "ratio": 12.41,
+      "required": 3
+    },
+    {
+      "text": "Four connected qualities help explain the source lesson. Silence, fear",
+      "ratio": 6.2,
+      "required": 4.5
+    },
+    {
+      "text": "Consent",
+      "ratio": 7.99,
+      "required": 4.5
+    },
+    {
+      "text": "Freedom to choose",
+      "ratio": 6.24,
+      "required": 4.5
+    },
+    {
+      "text": "Free",
+      "ratio": 13.32,
+      "required": 4.5
+    },
+    {
+      "text": "No threats, pressure, punishment or exploitation.",
+      "ratio": 6.95,
+      "required": 4.5
+    },
+    {
+      "text": "Informed",
+      "ratio": 13.32,
+      "required": 4.5
+    },
+    {
+      "text": "Understand the particular action and available choice.",
+      "ratio": 6.95,
+      "required": 4.5
+    },
+    {
+      "text": "Specific",
+      "ratio": 13.32,
+      "required": 4.5
+    },
+    {
+      "text": "Agreement to one action does not allow another.",
+      "ratio": 6.95,
+      "required": 4.5
+    },
+    {
+      "text": "Changeable",
+      "ratio": 13.32,
+      "required": 4.5
+    },
+    {
+      "text": "Consent can be withdrawn; boundaries still matter.",
+      "ratio": 6.95,
+      "required": 4.5
+    },
+    {
+      "text": "Age, capacity, context and legal protections also matter. This is educ",
+      "ratio": 6.82,
+      "required": 4.5
+    },
+    {
+      "text": "What this shows: Consent includes freedom to choose",
+      "ratio": 12.41,
+      "required": 4.5
+    },
+    {
+      "text": ": Consent includes freedom to choose",
+      "ratio": 12.41,
+      "required": 4.5
+    },
+    {
+      "text": "These qualities belong together; they are not a script for testing ano",
+      "ratio": 7.22,
+      "required": 4.5
+    },
+    {
+      "text": "Optional reflectionHow does freedom to decline change the meaning of a",
+      "ratio": 7.22,
+      "required": 4.5
+    },
+    {
+      "text": "Optional reflection",
+      "ratio": 6.57,
+      "required": 4.5
+    },
+    {
+      "text": "9Survivor-centred first-line support",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "9",
+      "ratio": 7.05,
+      "required": 4.5
+    },
+    {
+      "text": "The survivor-centred approach prioritizes safety, confidentiality (wit",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "[3,4]",
+      "ratio": 6.21,
+      "required": 4.5
+    },
+    {
+      "text": "3",
+      "ratio": 6.21,
+      "required": 4.5
+    },
+    {
+      "text": ",",
+      "ratio": 6.21,
+      "required": 4.5
+    },
+    {
+      "text": "4",
+      "ratio": 6.21,
+      "required": 4.5
+    },
+    {
+      "text": "How to respond to a disclosure",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "Listen:",
+      "ratio": 9.27,
+      "required": 4.5
+    },
+    {
+      "text": "give the person time, avoid interruption, and do not demand details.",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "Inquire sensitively:",
+      "ratio": 9.27,
+      "required": 4.5
+    },
+    {
+      "text": "ask about immediate needs or worries, not investigative questions.",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "Validate:",
+      "ratio": 9.27,
+      "required": 4.5
+    },
+    {
+      "text": "communicate that the person deserves safety and respectful treatment.",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "Enhance safety:",
+      "ratio": 9.27,
+      "required": 4.5
+    },
+    {
+      "text": "ask whether it is safe to talk and what support they want now.",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "Support:",
+      "ratio": 9.27,
+      "required": 4.5
+    },
+    {
+      "text": "explain appropriate services and offer help reaching them without taki",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "This is a plain-language outline of the WHO LIVES first-line support a",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "[3]",
+      "ratio": 6.21,
+      "required": 4.5
+    },
+    {
+      "text": "3",
+      "ratio": 6.21,
+      "required": 4.5
+    },
+    {
+      "text": "Helpful words and words to avoid",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "Scroll to read the full table.",
+      "ratio": 6.26,
+      "required": 4.5
+    },
+    {
+      "text": "9 Survivor-centred first-line support",
+      "ratio": 11.74,
+      "required": 4.5
+    },
+    {
+      "text": "More supportive",
+      "ratio": 6.19,
+      "required": 4.5
+    },
+    {
+      "text": "Less supportive",
+      "ratio": 6.19,
+      "required": 4.5
+    },
+    {
+      "text": "\"Thank you for telling me. What would be useful right now?\"",
+      "ratio": 8.65,
+      "required": 4.5
+    },
+    {
+      "text": "\"Why did you stay?\"",
+      "ratio": 6.16,
+      "required": 4.5
+    },
+    {
+      "text": "\"You can choose how much to share.\"",
+      "ratio": 8.21,
+      "required": 4.5
+    },
+    {
+      "text": "\"Tell me exactly what happened, from the start.\"",
+      "ratio": 5.84,
+      "required": 4.5
+    },
+    {
+      "text": "\"Can we discuss options that feel safe to you?\"",
+      "ratio": 8.65,
+      "required": 4.5
+    },
+    {
+      "text": "\"You must report this immediately, whatever you want.\"",
+      "ratio": 6.16,
+      "required": 4.5
+    },
+    {
+      "text": "\"I will explain what I can keep private and where limits apply.\"",
+      "ratio": 8.21,
+      "required": 4.5
+    },
+    {
+      "text": "\"I promise nobody will ever find out.\"",
+      "ratio": 5.84,
+      "required": 4.5
+    },
+    {
+      "text": "A CLOSER LOOK",
+      "ratio": 6.57,
+      "required": 4.5
+    },
+    {
+      "text": "LIVES: a respectful first response",
+      "ratio": 12.41,
+      "required": 3
+    },
+    {
+      "text": "A visual companion to WHO's first-line support outline in the original",
+      "ratio": 6.2,
+      "required": 4.5
+    },
+    {
+      "text": "01",
+      "ratio": 7.05,
+      "required": 4.5
+    },
+    {
+      "text": "Listen",
+      "ratio": 13.32,
+      "required": 4.5
+    },
+    {
+      "text": "Give time; do not demand a detailed account.",
+      "ratio": 6.95,
+      "required": 4.5
+    },
+    {
+      "text": "02",
+      "ratio": 7.05,
+      "required": 4.5
+    },
+    {
+      "text": "Inquire",
+      "ratio": 13.32,
+      "required": 4.5
+    },
+    {
+      "text": "Ask sensitively about needs and concerns.",
+      "ratio": 6.95,
+      "required": 4.5
+    },
+    {
+      "text": "03",
+      "ratio": 7.05,
+      "required": 4.5
+    },
+    {
+      "text": "Validate",
+      "ratio": 13.32,
+      "required": 4.5
+    },
+    {
+      "text": "Affirm dignity without blame.",
+      "ratio": 6.95,
+      "required": 4.5
+    },
+    {
+      "text": "04",
+      "ratio": 7.05,
+      "required": 4.5
+    },
+    {
+      "text": "Enhance safety",
+      "ratio": 13.32,
+      "required": 4.5
+    },
+    {
+      "text": "Ask if it is safe to talk and what help is wanted.",
+      "ratio": 6.95,
+      "required": 4.5
+    },
+    {
+      "text": "05",
+      "ratio": 7.05,
+      "required": 4.5
+    },
+    {
+      "text": "Support",
+      "ratio": 13.32,
+      "required": 4.5
+    },
+    {
+      "text": "Offer appropriate services without taking over.",
+      "ratio": 6.95,
+      "required": 4.5
+    },
+    {
+      "text": "An approach for trained care, not a substitute for professional traini",
+      "ratio": 6.82,
+      "required": 4.5
+    },
+    {
+      "text": "What this shows: LIVES: a respectful first response",
+      "ratio": 12.41,
+      "required": 4.5
+    },
+    {
+      "text": ": LIVES: a respectful first response",
+      "ratio": 12.41,
+      "required": 4.5
+    },
+    {
+      "text": "Listening and offering choices differ from investigating, directing, o",
+      "ratio": 7.22,
+      "required": 4.5
+    },
+    {
+      "text": "Optional reflectionWhich response could leave the person with more cho",
+      "ratio": 7.22,
+      "required": 4.5
+    },
+    {
+      "text": "Optional reflection",
+      "ratio": 6.57,
+      "required": 4.5
+    },
+    {
+      "text": "10Safety planning without increasing danger",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "10",
+      "ratio": 7.05,
+      "required": 4.5
+    },
+    {
+      "text": "Safety planning is an individualized conversation about possible risks",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "[3,4]",
+      "ratio": 6.21,
+      "required": 4.5
+    },
+    {
+      "text": "3",
+      "ratio": 6.21,
+      "required": 4.5
+    },
+    {
+      "text": ",",
+      "ratio": 6.21,
+      "required": 4.5
+    },
+    {
+      "text": "4",
+      "ratio": 6.21,
+      "required": 4.5
+    },
+    {
+      "text": "Check whether the current conversation or device is private enough to ",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "Identify a trusted person or professional service that the survivor co",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "Discuss whether storing messages, notes or contact details on a shared",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "Avoid confronting an abusive person, arranging mediation, or notifying",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "Where there is immediate danger, seek emergency help through a suitabl",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "Important:",
+      "ratio": 9.27,
+      "required": 4.5
+    },
+    {
+      "text": "Leaving an abusive relationship, changing device access or making a re",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "11Accessing support in Rwanda",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "11",
+      "ratio": 7.05,
+      "required": 4.5
+    },
+    {
+      "text": "Rwanda's Isange One Stop Centre model coordinates health, psychosocial",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "[5]",
+      "ratio": 6.21,
+      "required": 4.5
+    },
+    {
+      "text": "5",
+      "ratio": 6.21,
+      "required": 4.5
+    },
+    {
+      "text": "UNHCR Rwanda lists the Isange One Stop Centre toll-free contact as 302",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "[6]",
+      "ratio": 6.21,
+      "required": 4.5
+    },
+    {
+      "text": "6",
+      "ratio": 6.21,
+      "required": 4.5
+    },
+    {
+      "text": "Scroll to read the full table.",
+      "ratio": 6.26,
+      "required": 4.5
+    },
+    {
+      "text": "11 Accessing support in Rwanda",
+      "ratio": 11.74,
+      "required": 4.5
+    },
+    {
+      "text": "Service / official source",
+      "ratio": 6.19,
+      "required": 4.5
+    },
+    {
+      "text": "Published contact",
+      "ratio": 6.19,
+      "required": 4.5
+    },
+    {
+      "text": "Isange One Stop Centre (UNHCR Rwanda)",
+      "ratio": 8.65,
+      "required": 4.5
+    },
+    {
+      "text": "3029",
+      "ratio": 6.16,
+      "required": 4.5
+    },
+    {
+      "text": "Rwanda Investigation Bureau (MIGEPROF)",
+      "ratio": 8.21,
+      "required": 4.5
+    },
+    {
+      "text": "116 / 3512",
+      "ratio": 5.84,
+      "required": 4.5
+    },
+    {
+      "text": "Gender Monitoring Office (MIGEPROF)",
+      "ratio": 8.65,
+      "required": 4.5
+    },
+    {
+      "text": "5798",
+      "ratio": 6.16,
+      "required": 4.5
+    },
+    {
+      "text": "MIGEPROF (MIGEPROF)",
+      "ratio": 8.21,
+      "required": 4.5
+    },
+    {
+      "text": "9059",
+      "ratio": 5.84,
+      "required": 4.5
+    },
+    {
+      "text": "National Child Development Agency (MIGEPROF)",
+      "ratio": 8.65,
+      "required": 4.5
+    },
+    {
+      "text": "711",
+      "ratio": 6.16,
+      "required": 4.5
+    },
+    {
+      "text": "Verification note:",
+      "ratio": 9.27,
+      "required": 4.5
+    },
+    {
+      "text": "These contacts are taken from official or UNHCR pages accessed in Nove",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "2026. VUGA NDAKUMVA must verify current operations, availability, elig",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "When urgent healthcare matters",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "After sexual assault, serious injury or a threat to immediate safety, ",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "[3]",
+      "ratio": 6.21,
+      "required": 4.5
+    },
+    {
+      "text": "3",
+      "ratio": 6.21,
+      "required": 4.5
+    },
+    {
+      "text": "12Learning scenarios and guided analysis",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "12",
+      "ratio": 7.05,
+      "required": 4.5
+    },
+    {
+      "text": "Scenario A: Financial control in a household",
+      "ratio": 13.32,
+      "required": 4.5
+    },
+    {
+      "text": "A market trader reports that her partner takes all earnings, refuses t",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "SEE THE EXAMPLE",
+      "ratio": 6.57,
+      "required": 4.5
+    },
+    {
+      "text": "Illustrative fictional example. AI-generated.",
+      "ratio": 6.2,
+      "required": 4.5
+    },
+    {
+      "text": "01",
+      "ratio": 9.3,
+      "required": 4.5
+    },
+    {
+      "text": "The situation",
+      "ratio": 8.22,
+      "required": 4.5
+    },
+    {
+      "text": "Taking earnings through threats can restrict access to food and indepe",
+      "ratio": 9.11,
+      "required": 4.5
+    },
+    {
+      "text": "02",
+      "ratio": 9.3,
+      "required": 4.5
+    },
+    {
+      "text": "A possible supportive response",
+      "ratio": 8.22,
+      "required": 4.5
+    },
+    {
+      "text": "A worker could listen privately and discuss support options the person",
+      "ratio": 9.11,
+      "required": 4.5
+    },
+    {
+      "text": "What this shows: Financial control in a household",
+      "ratio": 12.41,
+      "required": 4.5
+    },
+    {
+      "text": ": Financial control in a household",
+      "ratio": 12.41,
+      "required": 4.5
+    },
+    {
+      "text": "Economic abuse concerns coercive control, rather than low income alone",
+      "ratio": 7.22,
+      "required": 4.5
+    },
+    {
+      "text": "Optional reflectionWhat makes a supportive question different from an ",
+      "ratio": 7.22,
+      "required": 4.5
+    },
+    {
+      "text": "Optional reflection",
+      "ratio": 6.57,
+      "required": 4.5
+    },
+    {
+      "text": "Scenario B: A student and digital monitoring",
+      "ratio": 13.32,
+      "required": 4.5
+    },
+    {
+      "text": "A college student says a dating partner checks their phone daily, send",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "SEE THE EXAMPLE",
+      "ratio": 6.57,
+      "required": 4.5
+    },
+    {
+      "text": "Illustrative fictional example. AI-generated.",
+      "ratio": 6.2,
+      "required": 4.5
+    },
+    {
+      "text": "01",
+      "ratio": 9.3,
+      "required": 4.5
+    },
+    {
+      "text": "The situation",
+      "ratio": 8.22,
+      "required": 4.5
+    },
+    {
+      "text": "Repeated monitoring, threats and isolation can affect a student's auto",
+      "ratio": 9.11,
+      "required": 4.5
+    },
+    {
+      "text": "02",
+      "ratio": 9.3,
+      "required": 4.5
+    },
+    {
+      "text": "A possible supportive response",
+      "ratio": 8.22,
+      "required": 4.5
+    },
+    {
+      "text": "A student adviser could ask about safe communication and the support t",
+      "ratio": 9.11,
+      "required": 4.5
+    },
+    {
+      "text": "What this shows: A student and digital monitoring",
+      "ratio": 12.41,
+      "required": 4.5
+    },
+    {
+      "text": ": A student and digital monitoring",
+      "ratio": 12.41,
+      "required": 4.5
+    },
+    {
+      "text": "Changing passwords or contacting the partner is not automatically safe",
+      "ratio": 7.22,
+      "required": 4.5
+    },
+    {
+      "text": "Optional reflectionWhat could a supporter ask before discussing digita",
+      "ratio": 7.22,
+      "required": 4.5
+    },
+    {
+      "text": "Optional reflection",
+      "ratio": 6.57,
+      "required": 4.5
+    },
+    {
+      "text": "Scenario C: Disclosure to a community volunteer",
+      "ratio": 13.32,
+      "required": 4.5
+    },
+    {
+      "text": "An adult quietly tells a volunteer about sexual coercion but asks that",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "SEE THE EXAMPLE",
+      "ratio": 6.57,
+      "required": 4.5
+    },
+    {
+      "text": "Illustrative fictional example. AI-generated.",
+      "ratio": 6.2,
+      "required": 4.5
+    },
+    {
+      "text": "01",
+      "ratio": 9.3,
+      "required": 4.5
+    },
+    {
+      "text": "The situation",
+      "ratio": 8.22,
+      "required": 4.5
+    },
+    {
+      "text": "Someone may begin a disclosure quietly and ask for privacy.",
+      "ratio": 9.11,
+      "required": 4.5
+    },
+    {
+      "text": "02",
+      "ratio": 9.3,
+      "required": 4.5
+    },
+    {
+      "text": "A possible supportive response",
+      "ratio": 8.22,
+      "required": 4.5
+    },
+    {
+      "text": "A volunteer could explain confidentiality limits, listen, and offer re",
+      "ratio": 9.11,
+      "required": 4.5
+    },
+    {
+      "text": "What this shows: Disclosure to a community volunteer",
+      "ratio": 12.41,
+      "required": 4.5
+    },
+    {
+      "text": ": Disclosure to a community volunteer",
+      "ratio": 12.41,
+      "required": 4.5
+    },
+    {
+      "text": "A supporter does not need a detailed account to offer respectful infor",
+      "ratio": 7.22,
+      "required": 4.5
+    },
+    {
+      "text": "Optional reflectionHow could a volunteer respect a request for privacy",
+      "ratio": 7.22,
+      "required": 4.5
+    },
+    {
+      "text": "Optional reflection",
+      "ratio": 6.57,
+      "required": 4.5
+    },
+    {
+      "text": "Scenario D: A child appears unsafe",
+      "ratio": 13.32,
+      "required": 4.5
+    },
+    {
+      "text": "A teacher learns that an adolescent fears returning to a caregiver who",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "SEE THE EXAMPLE",
+      "ratio": 6.57,
+      "required": 4.5
+    },
+    {
+      "text": "Illustrative fictional example. AI-generated.",
+      "ratio": 6.2,
+      "required": 4.5
+    },
+    {
+      "text": "01",
+      "ratio": 9.3,
+      "required": 4.5
+    },
+    {
+      "text": "The situation",
+      "ratio": 8.22,
+      "required": 4.5
+    },
+    {
+      "text": "A school setting can be a place to notice that a young person needs su",
+      "ratio": 9.11,
+      "required": 4.5
+    },
+    {
+      "text": "02",
+      "ratio": 9.3,
+      "required": 4.5
+    },
+    {
+      "text": "A possible supportive response",
+      "ratio": 8.22,
+      "required": 4.5
+    },
+    {
+      "text": "A teacher could listen calmly and involve qualified safeguarding servi",
+      "ratio": 9.11,
+      "required": 4.5
+    },
+    {
+      "text": "What this shows: A child appears unsafe",
+      "ratio": 12.41,
+      "required": 4.5
+    },
+    {
+      "text": ": A child appears unsafe",
+      "ratio": 12.41,
+      "required": 4.5
+    },
+    {
+      "text": "This ordinary fictional school scene does not depict abuse. Adults sho",
+      "ratio": 7.22,
+      "required": 4.5
+    },
+    {
+      "text": "Optional reflectionWhich responsibilities belong to trained safeguardi",
+      "ratio": 7.22,
+      "required": 4.5
+    },
+    {
+      "text": "Optional reflection",
+      "ratio": 6.57,
+      "required": 4.5
+    },
+    {
+      "text": "Scenario E: A friend minimizes abuse",
+      "ratio": 13.32,
+      "required": 4.5
+    },
+    {
+      "text": "Someone says, \"It was only shouting, not violence,\" but describes repe",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "SEE THE EXAMPLE",
+      "ratio": 6.57,
+      "required": 4.5
+    },
+    {
+      "text": "Illustrative fictional example. AI-generated.",
+      "ratio": 6.2,
+      "required": 4.5
+    },
+    {
+      "text": "01",
+      "ratio": 9.3,
+      "required": 4.5
+    },
+    {
+      "text": "The situation",
+      "ratio": 8.22,
+      "required": 4.5
+    },
+    {
+      "text": "Threats and restrictions on visiting others can matter even without vi",
+      "ratio": 9.11,
+      "required": 4.5
+    },
+    {
+      "text": "02",
+      "ratio": 9.3,
+      "required": 4.5
+    },
+    {
+      "text": "A possible supportive response",
+      "ratio": 8.22,
+      "required": 4.5
+    },
+    {
+      "text": "A friend could acknowledge concerns and listen without imposing a labe",
+      "ratio": 9.11,
+      "required": 4.5
+    },
+    {
+      "text": "What this shows: A friend minimizes abuse",
+      "ratio": 12.41,
+      "required": 4.5
+    },
+    {
+      "text": ": A friend minimizes abuse",
+      "ratio": 12.41,
+      "required": 4.5
+    },
+    {
+      "text": "Minimizing abuse may make support harder to seek. Listening can open a",
+      "ratio": 7.22,
+      "required": 4.5
+    },
+    {
+      "text": "Optional reflectionWhat could an acknowledging response sound like?",
+      "ratio": 7.22,
+      "required": 4.5
+    },
+    {
+      "text": "Optional reflection",
+      "ratio": 6.57,
+      "required": 4.5
+    },
+    {
+      "text": "13Activities for individuals and facilitators",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "13",
+      "ratio": 7.05,
+      "required": 4.5
+    },
+    {
+      "text": "Activity 1: Recognize warning signs (10 minutes)",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "Read Scenario B. Write down three behaviors that may restrict the stud",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "Activity 2: Myth or fact (10 minutes)",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "\"GBV always leaves physical marks.\" Myth:",
+      "ratio": 9.27,
+      "required": 4.5
+    },
+    {
+      "text": "psychological, sexual, economic and digital abuse may leave no visible",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "\"A survivor can decide how much to disclose.\" Fact: support should min",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "\"Conflict or financial pressure makes violence acceptable.\" Myth: no c",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "\"A referral should consider the survivor's safety and choices.\" Fact: ",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "Activity 3: Safe response practice (15 minutes)",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "In pairs, one person reads a brief fictional disclosure and the other ",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "Activity 4: Service information check (10 minutes)",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "Using official sources, identify one safe service in your district and",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "Activity 5: Personal reflection (optional)",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "Think about a belief in your community that may excuse controlling beh",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "14Knowledge assessment",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "14",
+      "ratio": 7.05,
+      "required": 4.5
+    },
+    {
+      "text": "1. Is every disagreement between two people necessarily GBV?",
+      "ratio": 8.3,
+      "required": 4.5
+    },
+    {
+      "text": "Suggested answer:",
+      "ratio": 9.27,
+      "required": 4.5
+    },
+    {
+      "text": "No. Gender-linked harm, coercion and power dynamics must be considered",
+      "ratio": 6.26,
+      "required": 4.5
+    },
+    {
+      "text": "2. Can repeated monitoring and threats be harmful without physical ass",
+      "ratio": 8.3,
+      "required": 4.5
+    },
+    {
+      "text": "Suggested answer:",
+      "ratio": 9.27,
+      "required": 4.5
+    },
+    {
+      "text": "Yes. Patterns of coercive control can restrict freedom and create fear",
+      "ratio": 6.26,
+      "required": 4.5
+    },
+    {
+      "text": "3. Does marriage automatically establish consent to sexual activity?",
+      "ratio": 8.3,
+      "required": 4.5
+    },
+    {
+      "text": "Suggested answer:",
+      "ratio": 9.27,
+      "required": 4.5
+    },
+    {
+      "text": "No. Consent must be freely given for each activity.",
+      "ratio": 6.26,
+      "required": 4.5
+    },
+    {
+      "text": "4. Why might a person delay seeking help?",
+      "ratio": 8.3,
+      "required": 4.5
+    },
+    {
+      "text": "Suggested answer:",
+      "ratio": 9.27,
+      "required": 4.5
+    },
+    {
+      "text": "Possible reasons include danger, threats, dependence, stigma, children",
+      "ratio": 6.26,
+      "required": 4.5
+    },
+    {
+      "text": "5. What are two helpful first responses to a disclosure?",
+      "ratio": 8.3,
+      "required": 4.5
+    },
+    {
+      "text": "Suggested answer:",
+      "ratio": 9.27,
+      "required": 4.5
+    },
+    {
+      "text": "Listen without judgment and ask about immediate needs and preferred sa",
+      "ratio": 6.26,
+      "required": 4.5
+    },
+    {
+      "text": "6. Should a volunteer promise total confidentiality?",
+      "ratio": 8.3,
+      "required": 4.5
+    },
+    {
+      "text": "Suggested answer:",
+      "ratio": 9.27,
+      "required": 4.5
+    },
+    {
+      "text": "No. Explain confidentiality and its legal or safeguarding limits truth",
+      "ratio": 6.26,
+      "required": 4.5
+    },
+    {
+      "text": "7. Should a supporter contact the accused person without a safety asse",
+      "ratio": 8.3,
+      "required": 4.5
+    },
+    {
+      "text": "Suggested answer:",
+      "ratio": 9.27,
+      "required": 4.5
+    },
+    {
+      "text": "Generally no. Doing so could increase risks or undermine survivor choi",
+      "ratio": 6.26,
+      "required": 4.5
+    },
+    {
+      "text": "8. What is one Rwanda-based referral option?",
+      "ratio": 8.3,
+      "required": 4.5
+    },
+    {
+      "text": "Suggested answer:",
+      "ratio": 9.27,
+      "required": 4.5
+    },
+    {
+      "text": "A verified Isange One Stop Centre. Confirm service details and explain",
+      "ratio": 6.26,
+      "required": 4.5
+    },
+    {
+      "text": "15Key messages for the reader",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "15",
+      "ratio": 7.05,
+      "required": 4.5
+    },
+    {
+      "text": "GBV is linked to harmful gender-related power, discrimination and coer",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "Survivors are not responsible for another person's abusive actions.",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "Fear, dependence and safety risks can make disclosure and exit difficu",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "A respectful response listens, avoids blame, protects privacy and offe",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "Help-seeking and referral should be safe, voluntary where possible and",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "16Glossary",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "16",
+      "ratio": 7.05,
+      "required": 4.5
+    },
+    {
+      "text": "Scroll to read the full table.",
+      "ratio": 6.26,
+      "required": 4.5
+    },
+    {
+      "text": "16 Glossary",
+      "ratio": 11.74,
+      "required": 4.5
+    },
+    {
+      "text": "Term",
+      "ratio": 6.19,
+      "required": 4.5
+    },
+    {
+      "text": "Plain-language meaning",
+      "ratio": 6.19,
+      "required": 4.5
+    },
+    {
+      "text": "Gender-based violence",
+      "ratio": 8.65,
+      "required": 4.5
+    },
+    {
+      "text": "Gender-linked harmful actions, threats or coercion against a person.",
+      "ratio": 6.16,
+      "required": 4.5
+    },
+    {
+      "text": "Coercion",
+      "ratio": 8.21,
+      "required": 4.5
+    },
+    {
+      "text": "Pressure or threats that undermine free choice.",
+      "ratio": 5.84,
+      "required": 4.5
+    },
+    {
+      "text": "Survivor-centred care",
+      "ratio": 8.65,
+      "required": 4.5
+    },
+    {
+      "text": "Support led by the person's dignity, safety, wishes and needs.",
+      "ratio": 6.16,
+      "required": 4.5
+    },
+    {
+      "text": "Consent",
+      "ratio": 8.21,
+      "required": 4.5
+    },
+    {
+      "text": "Freely given and informed agreement to a particular action.",
+      "ratio": 5.84,
+      "required": 4.5
+    },
+    {
+      "text": "Confidentiality",
+      "ratio": 8.65,
+      "required": 4.5
+    },
+    {
+      "text": "Protecting sensitive information, with explained legal/safeguarding li",
+      "ratio": 6.16,
+      "required": 4.5
+    },
+    {
+      "text": "Referral",
+      "ratio": 8.21,
+      "required": 4.5
+    },
+    {
+      "text": "Connecting someone with suitable trained services and support.",
+      "ratio": 5.84,
+      "required": 4.5
+    },
+    {
+      "text": "Coercive control",
+      "ratio": 8.65,
+      "required": 4.5
+    },
+    {
+      "text": "Patterns of actions that restrict independence and generate fear.",
+      "ratio": 6.16,
+      "required": 4.5
+    },
+    {
+      "text": "17Scientific and institutional references",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "17",
+      "ratio": 7.05,
+      "required": 4.5
+    },
+    {
+      "text": "[1]",
+      "ratio": 6.38,
+      "required": 4.5
+    },
+    {
+      "text": "World Health Organization. (2026, June 18). Violence against women.",
+      "ratio": 6.26,
+      "required": 4.5
+    },
+    {
+      "text": "https://www.who.int/news-room/fact-sheets/detail/violence-against-wome",
+      "ratio": 5.4,
+      "required": 4.5
+    },
+    {
+      "text": "[2]",
+      "ratio": 6.38,
+      "required": 4.5
+    },
+    {
+      "text": "UNHCR Rwanda. Gender-Based Violence: definition, risks and response se",
+      "ratio": 6.26,
+      "required": 4.5
+    },
+    {
+      "text": "https://help.unhcr.org/rwanda/services/sgbv/",
+      "ratio": 5.4,
+      "required": 4.5
+    },
+    {
+      "text": "[3]",
+      "ratio": 6.38,
+      "required": 4.5
+    },
+    {
+      "text": "World Health Organization. (2014). Health care for women subjected to ",
+      "ratio": 6.26,
+      "required": 4.5
+    },
+    {
+      "text": "https://www.who.int/publications-detail-redirect/WHO-RHR-14.26",
+      "ratio": 5.4,
+      "required": 4.5
+    },
+    {
+      "text": "[4]",
+      "ratio": 6.38,
+      "required": 4.5
+    },
+    {
+      "text": "UNFPA. (2019). Inter-Agency Minimum Standards for Gender-Based Violenc",
+      "ratio": 6.26,
+      "required": 4.5
+    },
+    {
+      "text": "https://www.unfpa.org/sites/default/files/pub-pdf/19-200_Minimun_Stand",
+      "ratio": 5.4,
+      "required": 4.5
+    },
+    {
+      "text": "[5]",
+      "ratio": 6.38,
+      "required": 4.5
+    },
+    {
+      "text": "Ministry of Gender and Family Promotion (MIGEPROF), Rwanda. Directorat",
+      "ratio": 6.26,
+      "required": 4.5
+    },
+    {
+      "text": "https://www.migeprof.gov.rw/family-promotion-and-child-right-protectio",
+      "ratio": 5.4,
+      "required": 4.5
+    },
+    {
+      "text": "[6]",
+      "ratio": 6.38,
+      "required": 4.5
+    },
+    {
+      "text": "UNHCR Rwanda. Gender-Based Violence: Isange One Stop Centres and conta",
+      "ratio": 6.26,
+      "required": 4.5
+    },
+    {
+      "text": "https://help.unhcr.org/rwanda/services/sgbv/",
+      "ratio": 5.4,
+      "required": 4.5
+    },
+    {
+      "text": "[7]",
+      "ratio": 6.38,
+      "required": 4.5
+    },
+    {
+      "text": "UNFPA. (2026, October). Guidance note on safe and ethical management, ",
+      "ratio": 6.26,
+      "required": 4.5
+    },
+    {
+      "text": "https://www.unfpa.org/publications/guidance-note-safe-and-ethical-mana",
+      "ratio": 5.4,
+      "required": 4.5
+    },
+    {
+      "text": "18Editorial and publication review record",
+      "ratio": 13.32,
+      "required": 3
+    },
+    {
+      "text": "18",
+      "ratio": 7.05,
+      "required": 4.5
+    },
+    {
+      "text": "Document ID:",
+      "ratio": 9.27,
+      "required": 4.5
+    },
+    {
+      "text": "GBV-01 | Language: English | Revision: 1.1 | Prepared: 9 November 2026",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "Before publication:",
+      "ratio": 9.27,
+      "required": 4.5
+    },
+    {
+      "text": "obtain review by a Rwanda-informed GBV specialist, safeguarding lead a",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "[7]",
+      "ratio": 6.21,
+      "required": 4.5
+    },
+    {
+      "text": "7",
+      "ratio": 6.21,
+      "required": 4.5
+    },
+    {
+      "text": "Content boundaries: Education only. This document does not provide leg",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "Suggested next chapter:",
+      "ratio": 9.27,
+      "required": 4.5
+    },
+    {
+      "text": "GBV Chapter 02 - Types and Forms of Gender-Based Violence. Expand each",
+      "ratio": 8.55,
+      "required": 4.5
+    },
+    {
+      "text": "Separate reference verification",
+      "ratio": 8.56,
+      "required": 4.5
+    },
+    {
+      "text": "Chapters 1–3 have a source check dated 9 November 2026. Key Rwanda ref",
+      "ratio": 5.78,
+      "required": 4.5
+    },
+    {
+      "text": "Download link and referral review (JSON)",
+      "ratio": 6.57,
+      "required": 4.5
+    },
+    {
+      "text": "Original document: GBV_Chapter_01.pdf",
+      "ratio": 6.38,
+      "required": 4.5
+    },
+    {
+      "text": "THE LEARNING SERIES",
+      "ratio": 6,
+      "required": 4.5
+    },
+    {
+      "text": "Back to all chapters",
+      "ratio": 11.03,
+      "required": 4.5
+    },
+    {
+      "text": "NEXT CHAPTER · 02",
+      "ratio": 5.62,
+      "required": 4.5
+    },
+    {
+      "text": "Types and Forms of Gender-Based Violence",
+      "ratio": 10.33,
+      "required": 4.5
+    }
+  ],
+  "errors": []
+}

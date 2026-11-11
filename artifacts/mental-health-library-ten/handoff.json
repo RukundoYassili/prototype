@@ -1,0 +1,118 @@
+{
+  "scope": "Why Mental Health chapter library only",
+  "url": "http://localhost:5173/why-mental-health",
+  "changedFiles": [
+    "src/learning/MentalHealthPages.tsx",
+    "src/learning/mental-health-covers.tsx",
+    "src/learning/mental-health-library.css",
+    "public/images/learning/mental-health-covers/provenance.json",
+    "scripts/inspect-mental-health-library-ten.mjs",
+    "scripts/prepare-mental-health-library-ten.mjs",
+    "scripts/summarize-mental-health-library-ten.mjs",
+    "tests/mental-health-library-covers.spec.ts",
+    "CONTENT_LIBRARY_GUIDE.md",
+    "README.md",
+    "design-qa.md"
+  ],
+  "artwork": {
+    "method": "Built-in image_gen",
+    "responsiveFiles": "public/images/learning/mental-health-covers/",
+    "newOriginalsAndPrompts": "artifacts/mental-health-library-ten",
+    "fullPromptSet": "public/images/learning/mental-health-covers/provenance.json",
+    "format": "Raster PNG and WebP, not editable vector files"
+  },
+  "completedMappings": [
+    {
+      "chapter": 1,
+      "title": "Understanding Mental Health and Wellbeing",
+      "sections": 15,
+      "asset": "01-everyday-connections",
+      "reused": true,
+      "message": "Wellbeing is shaped by daily life, relationships, circumstances and practical support."
+    },
+    {
+      "chapter": 2,
+      "title": "Recognizing Emotions and Responding to Them",
+      "sections": 18,
+      "asset": "02-emotions-and-choice",
+      "reused": true,
+      "message": "Different emotions can be acknowledged while people have space to choose safe responses."
+    },
+    {
+      "chapter": 3,
+      "title": "Understanding Stress and Healthy Coping Strategies",
+      "sections": 19,
+      "asset": "03-demands-and-practical-help",
+      "reused": true,
+      "message": "Practical pressures call for manageable planning and assistance, not blame or guaranteed relief."
+    },
+    {
+      "chapter": 4,
+      "title": "Understanding Anxiety and Anxiety Disorders",
+      "sections": 23,
+      "asset": "04-worry-and-a-calm-companion",
+      "reused": true,
+      "message": "Everyday worry deserves understanding and respectful support without diagnosing from appearance."
+    },
+    {
+      "chapter": 5,
+      "title": "Understanding Depression and Depressive Disorders",
+      "sections": 22,
+      "asset": "05-low-energy-and-quiet-company",
+      "reused": true,
+      "message": "Quiet presence and small offers of support can respect low energy and individual circumstances."
+    },
+    {
+      "chapter": 6,
+      "title": "Understanding Trauma and Post-Traumatic Stress",
+      "sections": 31,
+      "asset": "06-space-choice-and-support",
+      "reused": true,
+      "message": "Safety, choice, personal space and voluntary access to support matter; no pressure to disclose."
+    },
+    {
+      "chapter": 7,
+      "title": "Understanding Grief, Loss, and Emotional Adjustment",
+      "sections": 20,
+      "asset": "07-loss-and-gentle-company",
+      "reused": true,
+      "message": "Leaving a familiar place is one form of loss; grief has no compulsory stages or universal timeline."
+    },
+    {
+      "chapter": 8,
+      "title": "Understanding Sleep and Mental Wellbeing",
+      "sections": 21,
+      "asset": "08-evening-and-rest",
+      "reused": false,
+      "message": "Sleep happens within daily rhythms and real living circumstances; an evening routine is an option, not a guaranteed solution."
+    },
+    {
+      "chapter": 9,
+      "title": "Relationships, Social Connection, and Mental Wellbeing",
+      "sections": 21,
+      "asset": "09-connection-and-boundaries",
+      "reused": false,
+      "message": "Meaningful connection involves listening, choice and respectful boundaries, not constant closeness or pressure to disclose."
+    },
+    {
+      "chapter": 10,
+      "title": "Child and Adolescent Mental Health",
+      "sections": 20,
+      "asset": "10-young-people-and-trusted-adults",
+      "reused": false,
+      "message": "Children and adolescents have different developmental needs; caring adults provide attentive listening and supportive environments."
+    }
+  ],
+  "verification": "See verification.json, the browser test output, and design-qa.md for final results.",
+  "remainingGaps": {
+    "libraryCovers": "None; all ten are complete.",
+    "singleChapterWork": "Deferred by the selected scope; original internal photography and teaching visuals remain.",
+    "editorialStatus": "Original educational-draft status retained; visual work does not constitute clinical or publication approval."
+  },
+  "nextChapterHandoff": {
+    "suggestedTarget": "Chapter 01, in a separate explicitly selected task",
+    "readFirst": "CONTENT_LIBRARY_GUIDE.md; all current Chapter 01 sections, examples, captions, reflections and source notes",
+    "retain": "15 sections; interacting-influences, pressure/protection, and Ask–Listen–Offer diagrams; paired examination-pressure, unemployment, and family-responsibility stories; routes, citations, downloads and print behavior",
+    "artDirection": "Reuse the established palette and reviewed flat 2D references; keep recurring characters and props consistent within each pair; use editable labels and preserve all qualifications."
+  }
+}

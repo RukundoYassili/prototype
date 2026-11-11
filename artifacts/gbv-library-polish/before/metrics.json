@@ -1,0 +1,146 @@
+[
+  {
+    "width": 375,
+    "height": 14874,
+    "heroHeight": 834,
+    "libraryLead": 752.546875,
+    "cards": [
+      {
+        "height": 594,
+        "titleHeight": 59
+      },
+      {
+        "height": 594,
+        "titleHeight": 59
+      },
+      {
+        "height": 594,
+        "titleHeight": 59
+      },
+      {
+        "height": 623,
+        "titleHeight": 88
+      },
+      {
+        "height": 594,
+        "titleHeight": 59
+      },
+      {
+        "height": 623,
+        "titleHeight": 88
+      },
+      {
+        "height": 594,
+        "titleHeight": 59
+      },
+      {
+        "height": 594,
+        "titleHeight": 59
+      },
+      {
+        "height": 623,
+        "titleHeight": 88
+      },
+      {
+        "height": 623,
+        "titleHeight": 88
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "height": 9362,
+    "heroHeight": 587,
+    "libraryLead": 585.734375,
+    "cards": [
+      {
+        "height": 601,
+        "titleHeight": 55
+      },
+      {
+        "height": 601,
+        "titleHeight": 55
+      },
+      {
+        "height": 629,
+        "titleHeight": 55
+      },
+      {
+        "height": 629,
+        "titleHeight": 82
+      },
+      {
+        "height": 601,
+        "titleHeight": 55
+      },
+      {
+        "height": 601,
+        "titleHeight": 55
+      },
+      {
+        "height": 601,
+        "titleHeight": 55
+      },
+      {
+        "height": 601,
+        "titleHeight": 55
+      },
+      {
+        "height": 629,
+        "titleHeight": 82
+      },
+      {
+        "height": 629,
+        "titleHeight": 82
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "height": 8866,
+    "heroHeight": 532,
+    "libraryLead": 538.578125,
+    "cards": [
+      {
+        "height": 734,
+        "titleHeight": 35
+      },
+      {
+        "height": 734,
+        "titleHeight": 35
+      },
+      {
+        "height": 793,
+        "titleHeight": 69
+      },
+      {
+        "height": 793,
+        "titleHeight": 69
+      },
+      {
+        "height": 793,
+        "titleHeight": 69
+      },
+      {
+        "height": 793,
+        "titleHeight": 35
+      },
+      {
+        "height": 758,
+        "titleHeight": 35
+      },
+      {
+        "height": 758,
+        "titleHeight": 35
+      },
+      {
+        "height": 793,
+        "titleHeight": 69
+      },
+      {
+        "height": 793,
+        "titleHeight": 69
+      }
+    ]
+  }
+]

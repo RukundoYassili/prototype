@@ -1,0 +1,84 @@
+{
+  "date": "2026-11-09",
+  "scope": "Local GBV library and shared learning reader; no deployment",
+  "source": {
+    "chapters": 3,
+    "pages": 33,
+    "sections": 57,
+    "tables": 12,
+    "tableCells": 160,
+    "references": 25,
+    "questionsAndAnswers": 28,
+    "namedExamples": 16,
+    "originalDownloadHashesMatch": true,
+    "orderedSectionAudit": true,
+    "independentPdfCoverage": true,
+    "frozenTableCellAudit": true
+  },
+  "visuals": {
+    "stories": 16,
+    "scenes": 32,
+    "editableDiagrams": 8,
+    "responsiveWebpFiles": 64,
+    "generator": "built-in image_gen",
+    "provenance": "artifacts/gbv-learning/visual-manifest.json",
+    "prompts": "artifacts/gbv-learning/image-prompts.json"
+  },
+  "responsive": {
+    "widths": [375, 768, 1024, 1440, 1920],
+    "beforePageCaptures": 20,
+    "afterPageCaptures": 20,
+    "afterVisualCaptures": 120,
+    "runtimeErrors": 0,
+    "pageOverflow": 0,
+    "failedImages": 0
+  },
+  "browserTests": {
+    "distinctGbvChecksPassed": 15,
+    "distinctExistingRegressionsPassed": 86,
+    "totalDistinctChecksPassed": 101,
+    "method": "Initial suites plus targeted production reruns; no source/assertion checks removed",
+    "productionBaseUrl": "http://127.0.0.1:4176",
+    "targetedReruns": {
+      "passed": 6,
+      "seconds": 31,
+      "log": "artifacts/gbv-learning/tests-rechecks.log"
+    },
+    "initialLimitations": [
+      "Five development-run regressions had timing/loading failures during concurrent work; all passed targeted production reruns.",
+      "The new library navigation test initially used desktop controls at a mobile width; corrected to test the desktop navigation at 1440px and passed."
+    ]
+  },
+  "print": {
+    "pagesPerChapter": [23, 22, 24],
+    "pagesVisuallyReviewed": 69,
+    "sceneImagesPerChapter": [12, 10, 10],
+    "missingExpectedSourceOrTeachingText": 0,
+    "blankPages": 0,
+    "textOutsidePage": 0,
+    "disclosureStatesRestored": true,
+    "audit": "artifacts/gbv-learning/print/audit.json"
+  },
+  "build": {
+    "typescript": "passed",
+    "production": "passed",
+    "formatting": "passed",
+    "output": "artifacts/gbv-learning/production"
+  },
+  "references": {
+    "sourceEntries": 25,
+    "distinctUrlsChecked": 20,
+    "manualRechecksRequired": 4,
+    "telephoneOperationTested": false,
+    "review": "public/learning/gbv/reference-review.json",
+    "specialistApproval": false,
+    "publicationApproval": false
+  },
+  "privacy": {
+    "lessonSubmissions": false,
+    "newBrowserStorage": false,
+    "backendChanges": false,
+    "accounts": false,
+    "tracking": false
+  }
+}

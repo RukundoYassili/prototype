@@ -1,0 +1,1369 @@
+{
+  "layouts": [
+    {
+      "width": 320,
+      "overflow": false,
+      "images": [
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/hero-dignity-and-space-480.webp",
+          "loaded": true,
+          "width": 240,
+          "height": 160,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/01-choice-and-connection-480.webp",
+          "loaded": true,
+          "width": 246,
+          "height": 164,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/02-connected-forms-480.webp",
+          "loaded": true,
+          "width": 246,
+          "height": 164,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/03-opportunity-and-responsibility-480.webp",
+          "loaded": true,
+          "width": 246,
+          "height": 164,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/04-space-and-consent-480.webp",
+          "loaded": true,
+          "width": 246,
+          "height": 164,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/05-private-support-480.webp",
+          "loaded": true,
+          "width": 246,
+          "height": 164,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/06-care-and-dignity-480.webp",
+          "loaded": true,
+          "width": 246,
+          "height": 164,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/07-heard-and-respected-480.webp",
+          "loaded": true,
+          "width": 246,
+          "height": 164,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/08-resources-and-choice-480.webp",
+          "loaded": true,
+          "width": 246,
+          "height": 164,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/09-digital-options-480.webp",
+          "loaded": true,
+          "width": 246,
+          "height": 164,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/10-listening-to-young-people-480.webp",
+          "loaded": true,
+          "width": 246,
+          "height": 164,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/07-heard-and-respected-480.webp",
+          "loaded": true,
+          "width": 240,
+          "height": 160,
+          "fit": "fill"
+        }
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "You deserve safety and respect."
+        },
+        {
+          "level": 2,
+          "text": "Understand more.Choose your own pace."
+        },
+        {
+          "level": 3,
+          "text": "Understanding Gender-Based Violence"
+        },
+        {
+          "level": 3,
+          "text": "Types and Forms of Gender-Based Violence"
+        },
+        {
+          "level": 3,
+          "text": "Root Causes, Risk Factors, and Gender Inequality"
+        },
+        {
+          "level": 3,
+          "text": "Understanding Consent, Boundaries, and Bodily Autonomy"
+        },
+        {
+          "level": 3,
+          "text": "Domestic Violence and Intimate Partner Violence"
+        },
+        {
+          "level": 3,
+          "text": "Sexual Violence, Harassment, and Exploitation"
+        },
+        {
+          "level": 3,
+          "text": "Emotional, Psychological and Verbal Abuse"
+        },
+        {
+          "level": 3,
+          "text": "Economic Violence and Financial Control"
+        },
+        {
+          "level": 3,
+          "text": "Technology-Facilitated and Online Gender-Based Violence"
+        },
+        {
+          "level": 3,
+          "text": "Gender-Based Violence Against Children and Adolescents"
+        },
+        {
+          "level": 2,
+          "text": "Understanding is a place to begin."
+        },
+        {
+          "level": 3,
+          "text": "Recognize harmful behaviour"
+        },
+        {
+          "level": 3,
+          "text": "Explore support safely"
+        },
+        {
+          "level": 3,
+          "text": "Understand choices and limits"
+        },
+        {
+          "level": 2,
+          "text": "Options to explore."
+        },
+        {
+          "level": 3,
+          "text": "Before your first conversation"
+        },
+        {
+          "level": 2,
+          "text": "Find your next point of contact."
+        },
+        {
+          "level": 3,
+          "text": "Isange One Stop Centres"
+        },
+        {
+          "level": 3,
+          "text": "RIB assistance and reporting information"
+        },
+        {
+          "level": 2,
+          "text": "Being there can start with listening."
+        },
+        {
+          "level": 2,
+          "text": "Clear information. Your own pace."
+        }
+      ],
+      "clipped": []
+    },
+    {
+      "width": 375,
+      "overflow": false,
+      "images": [
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/hero-dignity-and-space-480.webp",
+          "loaded": true,
+          "width": 295,
+          "height": 197,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/01-choice-and-connection-480.webp",
+          "loaded": true,
+          "width": 301,
+          "height": 201,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/02-connected-forms-480.webp",
+          "loaded": true,
+          "width": 301,
+          "height": 201,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/03-opportunity-and-responsibility-480.webp",
+          "loaded": true,
+          "width": 301,
+          "height": 201,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/04-space-and-consent-480.webp",
+          "loaded": true,
+          "width": 301,
+          "height": 201,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/05-private-support-480.webp",
+          "loaded": true,
+          "width": 301,
+          "height": 201,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/06-care-and-dignity-480.webp",
+          "loaded": true,
+          "width": 301,
+          "height": 201,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/07-heard-and-respected-480.webp",
+          "loaded": true,
+          "width": 301,
+          "height": 201,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/08-resources-and-choice-480.webp",
+          "loaded": true,
+          "width": 301,
+          "height": 201,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/09-digital-options-480.webp",
+          "loaded": true,
+          "width": 301,
+          "height": 201,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/10-listening-to-young-people-480.webp",
+          "loaded": true,
+          "width": 301,
+          "height": 201,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/07-heard-and-respected-480.webp",
+          "loaded": true,
+          "width": 295,
+          "height": 197,
+          "fit": "fill"
+        }
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "You deserve safety and respect."
+        },
+        {
+          "level": 2,
+          "text": "Understand more.Choose your own pace."
+        },
+        {
+          "level": 3,
+          "text": "Understanding Gender-Based Violence"
+        },
+        {
+          "level": 3,
+          "text": "Types and Forms of Gender-Based Violence"
+        },
+        {
+          "level": 3,
+          "text": "Root Causes, Risk Factors, and Gender Inequality"
+        },
+        {
+          "level": 3,
+          "text": "Understanding Consent, Boundaries, and Bodily Autonomy"
+        },
+        {
+          "level": 3,
+          "text": "Domestic Violence and Intimate Partner Violence"
+        },
+        {
+          "level": 3,
+          "text": "Sexual Violence, Harassment, and Exploitation"
+        },
+        {
+          "level": 3,
+          "text": "Emotional, Psychological and Verbal Abuse"
+        },
+        {
+          "level": 3,
+          "text": "Economic Violence and Financial Control"
+        },
+        {
+          "level": 3,
+          "text": "Technology-Facilitated and Online Gender-Based Violence"
+        },
+        {
+          "level": 3,
+          "text": "Gender-Based Violence Against Children and Adolescents"
+        },
+        {
+          "level": 2,
+          "text": "Understanding is a place to begin."
+        },
+        {
+          "level": 3,
+          "text": "Recognize harmful behaviour"
+        },
+        {
+          "level": 3,
+          "text": "Explore support safely"
+        },
+        {
+          "level": 3,
+          "text": "Understand choices and limits"
+        },
+        {
+          "level": 2,
+          "text": "Options to explore."
+        },
+        {
+          "level": 3,
+          "text": "Before your first conversation"
+        },
+        {
+          "level": 2,
+          "text": "Find your next point of contact."
+        },
+        {
+          "level": 3,
+          "text": "Isange One Stop Centres"
+        },
+        {
+          "level": 3,
+          "text": "RIB assistance and reporting information"
+        },
+        {
+          "level": 2,
+          "text": "Being there can start with listening."
+        },
+        {
+          "level": 2,
+          "text": "Clear information. Your own pace."
+        }
+      ],
+      "clipped": []
+    },
+    {
+      "width": 680,
+      "overflow": false,
+      "images": [
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/hero-dignity-and-space-960.webp",
+          "loaded": true,
+          "width": 480,
+          "height": 320,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/01-choice-and-connection-960.webp",
+          "loaded": true,
+          "width": 606,
+          "height": 404,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/02-connected-forms-960.webp",
+          "loaded": true,
+          "width": 606,
+          "height": 404,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/03-opportunity-and-responsibility-960.webp",
+          "loaded": true,
+          "width": 606,
+          "height": 404,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/04-space-and-consent-960.webp",
+          "loaded": true,
+          "width": 606,
+          "height": 404,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/05-private-support-960.webp",
+          "loaded": true,
+          "width": 606,
+          "height": 404,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/06-care-and-dignity-960.webp",
+          "loaded": true,
+          "width": 606,
+          "height": 404,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/07-heard-and-respected-960.webp",
+          "loaded": true,
+          "width": 606,
+          "height": 404,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/08-resources-and-choice-960.webp",
+          "loaded": true,
+          "width": 606,
+          "height": 404,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/09-digital-options-960.webp",
+          "loaded": true,
+          "width": 606,
+          "height": 404,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/10-listening-to-young-people-960.webp",
+          "loaded": true,
+          "width": 606,
+          "height": 404,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/07-heard-and-respected-960.webp",
+          "loaded": true,
+          "width": 300,
+          "height": 200,
+          "fit": "fill"
+        }
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "You deserve safety and respect."
+        },
+        {
+          "level": 2,
+          "text": "Understand more.Choose your own pace."
+        },
+        {
+          "level": 3,
+          "text": "Understanding Gender-Based Violence"
+        },
+        {
+          "level": 3,
+          "text": "Types and Forms of Gender-Based Violence"
+        },
+        {
+          "level": 3,
+          "text": "Root Causes, Risk Factors, and Gender Inequality"
+        },
+        {
+          "level": 3,
+          "text": "Understanding Consent, Boundaries, and Bodily Autonomy"
+        },
+        {
+          "level": 3,
+          "text": "Domestic Violence and Intimate Partner Violence"
+        },
+        {
+          "level": 3,
+          "text": "Sexual Violence, Harassment, and Exploitation"
+        },
+        {
+          "level": 3,
+          "text": "Emotional, Psychological and Verbal Abuse"
+        },
+        {
+          "level": 3,
+          "text": "Economic Violence and Financial Control"
+        },
+        {
+          "level": 3,
+          "text": "Technology-Facilitated and Online Gender-Based Violence"
+        },
+        {
+          "level": 3,
+          "text": "Gender-Based Violence Against Children and Adolescents"
+        },
+        {
+          "level": 2,
+          "text": "Understanding is a place to begin."
+        },
+        {
+          "level": 3,
+          "text": "Recognize harmful behaviour"
+        },
+        {
+          "level": 3,
+          "text": "Explore support safely"
+        },
+        {
+          "level": 3,
+          "text": "Understand choices and limits"
+        },
+        {
+          "level": 2,
+          "text": "Options to explore."
+        },
+        {
+          "level": 3,
+          "text": "Before your first conversation"
+        },
+        {
+          "level": 2,
+          "text": "Find your next point of contact."
+        },
+        {
+          "level": 3,
+          "text": "Isange One Stop Centres"
+        },
+        {
+          "level": 3,
+          "text": "RIB assistance and reporting information"
+        },
+        {
+          "level": 2,
+          "text": "Being there can start with listening."
+        },
+        {
+          "level": 2,
+          "text": "Clear information. Your own pace."
+        }
+      ],
+      "clipped": []
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "images": [
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/hero-dignity-and-space-960.webp",
+          "loaded": true,
+          "width": 312,
+          "height": 208,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/01-choice-and-connection-480.webp",
+          "loaded": true,
+          "width": 310,
+          "height": 207,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/02-connected-forms-480.webp",
+          "loaded": true,
+          "width": 310,
+          "height": 207,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/03-opportunity-and-responsibility-480.webp",
+          "loaded": true,
+          "width": 310,
+          "height": 207,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/04-space-and-consent-480.webp",
+          "loaded": true,
+          "width": 310,
+          "height": 207,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/05-private-support-480.webp",
+          "loaded": true,
+          "width": 310,
+          "height": 207,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/06-care-and-dignity-480.webp",
+          "loaded": true,
+          "width": 310,
+          "height": 207,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/07-heard-and-respected-480.webp",
+          "loaded": true,
+          "width": 310,
+          "height": 207,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/08-resources-and-choice-480.webp",
+          "loaded": true,
+          "width": 310,
+          "height": 207,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/09-digital-options-480.webp",
+          "loaded": true,
+          "width": 310,
+          "height": 207,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/10-listening-to-young-people-480.webp",
+          "loaded": true,
+          "width": 310,
+          "height": 207,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/07-heard-and-respected-480.webp",
+          "loaded": true,
+          "width": 300,
+          "height": 200,
+          "fit": "fill"
+        }
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "You deserve safety and respect."
+        },
+        {
+          "level": 2,
+          "text": "Understand more.Choose your own pace."
+        },
+        {
+          "level": 3,
+          "text": "Understanding Gender-Based Violence"
+        },
+        {
+          "level": 3,
+          "text": "Types and Forms of Gender-Based Violence"
+        },
+        {
+          "level": 3,
+          "text": "Root Causes, Risk Factors, and Gender Inequality"
+        },
+        {
+          "level": 3,
+          "text": "Understanding Consent, Boundaries, and Bodily Autonomy"
+        },
+        {
+          "level": 3,
+          "text": "Domestic Violence and Intimate Partner Violence"
+        },
+        {
+          "level": 3,
+          "text": "Sexual Violence, Harassment, and Exploitation"
+        },
+        {
+          "level": 3,
+          "text": "Emotional, Psychological and Verbal Abuse"
+        },
+        {
+          "level": 3,
+          "text": "Economic Violence and Financial Control"
+        },
+        {
+          "level": 3,
+          "text": "Technology-Facilitated and Online Gender-Based Violence"
+        },
+        {
+          "level": 3,
+          "text": "Gender-Based Violence Against Children and Adolescents"
+        },
+        {
+          "level": 2,
+          "text": "Understanding is a place to begin."
+        },
+        {
+          "level": 3,
+          "text": "Recognize harmful behaviour"
+        },
+        {
+          "level": 3,
+          "text": "Explore support safely"
+        },
+        {
+          "level": 3,
+          "text": "Understand choices and limits"
+        },
+        {
+          "level": 2,
+          "text": "Options to explore."
+        },
+        {
+          "level": 3,
+          "text": "Before your first conversation"
+        },
+        {
+          "level": 2,
+          "text": "Find your next point of contact."
+        },
+        {
+          "level": 3,
+          "text": "Isange One Stop Centres"
+        },
+        {
+          "level": 3,
+          "text": "RIB assistance and reporting information"
+        },
+        {
+          "level": 2,
+          "text": "Being there can start with listening."
+        },
+        {
+          "level": 2,
+          "text": "Clear information. Your own pace."
+        }
+      ],
+      "clipped": []
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "images": [
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/hero-dignity-and-space-960.webp",
+          "loaded": true,
+          "width": 418,
+          "height": 278,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/01-choice-and-connection-480.webp",
+          "loaded": true,
+          "width": 438,
+          "height": 292,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/02-connected-forms-480.webp",
+          "loaded": true,
+          "width": 438,
+          "height": 292,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/03-opportunity-and-responsibility-480.webp",
+          "loaded": true,
+          "width": 438,
+          "height": 292,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/04-space-and-consent-480.webp",
+          "loaded": true,
+          "width": 438,
+          "height": 292,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/05-private-support-480.webp",
+          "loaded": true,
+          "width": 438,
+          "height": 292,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/06-care-and-dignity-480.webp",
+          "loaded": true,
+          "width": 438,
+          "height": 292,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/07-heard-and-respected-480.webp",
+          "loaded": true,
+          "width": 438,
+          "height": 292,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/08-resources-and-choice-480.webp",
+          "loaded": true,
+          "width": 438,
+          "height": 292,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/09-digital-options-480.webp",
+          "loaded": true,
+          "width": 438,
+          "height": 292,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/10-listening-to-young-people-480.webp",
+          "loaded": true,
+          "width": 438,
+          "height": 292,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/07-heard-and-respected-480.webp",
+          "loaded": true,
+          "width": 300,
+          "height": 200,
+          "fit": "fill"
+        }
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "You deserve safety and respect."
+        },
+        {
+          "level": 2,
+          "text": "Understand more.Choose your own pace."
+        },
+        {
+          "level": 3,
+          "text": "Understanding Gender-Based Violence"
+        },
+        {
+          "level": 3,
+          "text": "Types and Forms of Gender-Based Violence"
+        },
+        {
+          "level": 3,
+          "text": "Root Causes, Risk Factors, and Gender Inequality"
+        },
+        {
+          "level": 3,
+          "text": "Understanding Consent, Boundaries, and Bodily Autonomy"
+        },
+        {
+          "level": 3,
+          "text": "Domestic Violence and Intimate Partner Violence"
+        },
+        {
+          "level": 3,
+          "text": "Sexual Violence, Harassment, and Exploitation"
+        },
+        {
+          "level": 3,
+          "text": "Emotional, Psychological and Verbal Abuse"
+        },
+        {
+          "level": 3,
+          "text": "Economic Violence and Financial Control"
+        },
+        {
+          "level": 3,
+          "text": "Technology-Facilitated and Online Gender-Based Violence"
+        },
+        {
+          "level": 3,
+          "text": "Gender-Based Violence Against Children and Adolescents"
+        },
+        {
+          "level": 2,
+          "text": "Understanding is a place to begin."
+        },
+        {
+          "level": 3,
+          "text": "Recognize harmful behaviour"
+        },
+        {
+          "level": 3,
+          "text": "Explore support safely"
+        },
+        {
+          "level": 3,
+          "text": "Understand choices and limits"
+        },
+        {
+          "level": 2,
+          "text": "Options to explore."
+        },
+        {
+          "level": 3,
+          "text": "Before your first conversation"
+        },
+        {
+          "level": 2,
+          "text": "Find your next point of contact."
+        },
+        {
+          "level": 3,
+          "text": "Isange One Stop Centres"
+        },
+        {
+          "level": 3,
+          "text": "RIB assistance and reporting information"
+        },
+        {
+          "level": 2,
+          "text": "Being there can start with listening."
+        },
+        {
+          "level": 2,
+          "text": "Clear information. Your own pace."
+        }
+      ],
+      "clipped": []
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "images": [
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/hero-dignity-and-space-960.webp",
+          "loaded": true,
+          "width": 543,
+          "height": 362,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/01-choice-and-connection-960.webp",
+          "loaded": true,
+          "width": 566,
+          "height": 377,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/02-connected-forms-960.webp",
+          "loaded": true,
+          "width": 566,
+          "height": 377,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/03-opportunity-and-responsibility-960.webp",
+          "loaded": true,
+          "width": 566,
+          "height": 377,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/04-space-and-consent-960.webp",
+          "loaded": true,
+          "width": 566,
+          "height": 377,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/05-private-support-960.webp",
+          "loaded": true,
+          "width": 566,
+          "height": 377,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/06-care-and-dignity-960.webp",
+          "loaded": true,
+          "width": 566,
+          "height": 377,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/07-heard-and-respected-960.webp",
+          "loaded": true,
+          "width": 566,
+          "height": 377,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/08-resources-and-choice-960.webp",
+          "loaded": true,
+          "width": 566,
+          "height": 377,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/09-digital-options-960.webp",
+          "loaded": true,
+          "width": 566,
+          "height": 377,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/10-listening-to-young-people-960.webp",
+          "loaded": true,
+          "width": 566,
+          "height": 377,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/07-heard-and-respected-480.webp",
+          "loaded": true,
+          "width": 300,
+          "height": 200,
+          "fit": "fill"
+        }
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "You deserve safety and respect."
+        },
+        {
+          "level": 2,
+          "text": "Understand more.Choose your own pace."
+        },
+        {
+          "level": 3,
+          "text": "Understanding Gender-Based Violence"
+        },
+        {
+          "level": 3,
+          "text": "Types and Forms of Gender-Based Violence"
+        },
+        {
+          "level": 3,
+          "text": "Root Causes, Risk Factors, and Gender Inequality"
+        },
+        {
+          "level": 3,
+          "text": "Understanding Consent, Boundaries, and Bodily Autonomy"
+        },
+        {
+          "level": 3,
+          "text": "Domestic Violence and Intimate Partner Violence"
+        },
+        {
+          "level": 3,
+          "text": "Sexual Violence, Harassment, and Exploitation"
+        },
+        {
+          "level": 3,
+          "text": "Emotional, Psychological and Verbal Abuse"
+        },
+        {
+          "level": 3,
+          "text": "Economic Violence and Financial Control"
+        },
+        {
+          "level": 3,
+          "text": "Technology-Facilitated and Online Gender-Based Violence"
+        },
+        {
+          "level": 3,
+          "text": "Gender-Based Violence Against Children and Adolescents"
+        },
+        {
+          "level": 2,
+          "text": "Understanding is a place to begin."
+        },
+        {
+          "level": 3,
+          "text": "Recognize harmful behaviour"
+        },
+        {
+          "level": 3,
+          "text": "Explore support safely"
+        },
+        {
+          "level": 3,
+          "text": "Understand choices and limits"
+        },
+        {
+          "level": 2,
+          "text": "Options to explore."
+        },
+        {
+          "level": 3,
+          "text": "Before your first conversation"
+        },
+        {
+          "level": 2,
+          "text": "Find your next point of contact."
+        },
+        {
+          "level": 3,
+          "text": "Isange One Stop Centres"
+        },
+        {
+          "level": 3,
+          "text": "RIB assistance and reporting information"
+        },
+        {
+          "level": 2,
+          "text": "Being there can start with listening."
+        },
+        {
+          "level": 2,
+          "text": "Clear information. Your own pace."
+        }
+      ],
+      "clipped": []
+    },
+    {
+      "width": 1920,
+      "overflow": false,
+      "images": [
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/hero-dignity-and-space-960.webp",
+          "loaded": true,
+          "width": 543,
+          "height": 362,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/01-choice-and-connection-960.webp",
+          "loaded": true,
+          "width": 566,
+          "height": 377,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/02-connected-forms-960.webp",
+          "loaded": true,
+          "width": 566,
+          "height": 377,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/03-opportunity-and-responsibility-960.webp",
+          "loaded": true,
+          "width": 566,
+          "height": 377,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/04-space-and-consent-960.webp",
+          "loaded": true,
+          "width": 566,
+          "height": 377,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/05-private-support-960.webp",
+          "loaded": true,
+          "width": 566,
+          "height": 377,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/06-care-and-dignity-960.webp",
+          "loaded": true,
+          "width": 566,
+          "height": 377,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/07-heard-and-respected-960.webp",
+          "loaded": true,
+          "width": 566,
+          "height": 377,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/08-resources-and-choice-960.webp",
+          "loaded": true,
+          "width": 566,
+          "height": 377,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/09-digital-options-960.webp",
+          "loaded": true,
+          "width": 566,
+          "height": 377,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/10-listening-to-young-people-960.webp",
+          "loaded": true,
+          "width": 566,
+          "height": 377,
+          "fit": "contain"
+        },
+        {
+          "src": "http://127.0.0.1:5184/images/learning/gbv-covers/07-heard-and-respected-480.webp",
+          "loaded": true,
+          "width": 300,
+          "height": 200,
+          "fit": "fill"
+        }
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "You deserve safety and respect."
+        },
+        {
+          "level": 2,
+          "text": "Understand more.Choose your own pace."
+        },
+        {
+          "level": 3,
+          "text": "Understanding Gender-Based Violence"
+        },
+        {
+          "level": 3,
+          "text": "Types and Forms of Gender-Based Violence"
+        },
+        {
+          "level": 3,
+          "text": "Root Causes, Risk Factors, and Gender Inequality"
+        },
+        {
+          "level": 3,
+          "text": "Understanding Consent, Boundaries, and Bodily Autonomy"
+        },
+        {
+          "level": 3,
+          "text": "Domestic Violence and Intimate Partner Violence"
+        },
+        {
+          "level": 3,
+          "text": "Sexual Violence, Harassment, and Exploitation"
+        },
+        {
+          "level": 3,
+          "text": "Emotional, Psychological and Verbal Abuse"
+        },
+        {
+          "level": 3,
+          "text": "Economic Violence and Financial Control"
+        },
+        {
+          "level": 3,
+          "text": "Technology-Facilitated and Online Gender-Based Violence"
+        },
+        {
+          "level": 3,
+          "text": "Gender-Based Violence Against Children and Adolescents"
+        },
+        {
+          "level": 2,
+          "text": "Understanding is a place to begin."
+        },
+        {
+          "level": 3,
+          "text": "Recognize harmful behaviour"
+        },
+        {
+          "level": 3,
+          "text": "Explore support safely"
+        },
+        {
+          "level": 3,
+          "text": "Understand choices and limits"
+        },
+        {
+          "level": 2,
+          "text": "Options to explore."
+        },
+        {
+          "level": 3,
+          "text": "Before your first conversation"
+        },
+        {
+          "level": 2,
+          "text": "Find your next point of contact."
+        },
+        {
+          "level": 3,
+          "text": "Isange One Stop Centres"
+        },
+        {
+          "level": 3,
+          "text": "RIB assistance and reporting information"
+        },
+        {
+          "level": 2,
+          "text": "Being there can start with listening."
+        },
+        {
+          "level": 2,
+          "text": "Clear information. Your own pace."
+        }
+      ],
+      "clipped": []
+    }
+  ],
+  "anchors": [
+    {
+      "id": "gbv-chapters",
+      "top": 157.625,
+      "headerBottom": 122
+    },
+    {
+      "id": "understanding",
+      "top": 157.671875,
+      "headerBottom": 122
+    },
+    {
+      "id": "support-options",
+      "top": 158.125,
+      "headerBottom": 122
+    },
+    {
+      "id": "official-resources",
+      "top": 158.0625,
+      "headerBottom": 122
+    },
+    {
+      "id": "for-supporters",
+      "top": 157.546875,
+      "headerBottom": 122
+    }
+  ],
+  "chapters": [
+    "understanding-gender-based-violence",
+    "types-and-forms-of-gender-based-violence",
+    "root-causes-risk-factors-and-gender-inequality",
+    "understanding-consent-boundaries-and-bodily-autonomy",
+    "domestic-violence-and-intimate-partner-violence",
+    "sexual-violence-harassment-and-exploitation",
+    "emotional-psychological-and-verbal-abuse",
+    "economic-violence-and-financial-control",
+    "technology-facilitated-and-online-gender-based-violence",
+    "gender-based-violence-against-children-and-adolescents"
+  ],
+  "resources": [
+    {
+      "region": "International",
+      "id": "unhcr",
+      "url": "https://help.unhcr.org/",
+      "checkedAtPreserved": "2026-11-08"
+    },
+    {
+      "region": "Rwanda",
+      "id": "isange",
+      "url": "https://help.unhcr.org/rwanda/services/sgbv/",
+      "checkedAtPreserved": "2026-11-08"
+    },
+    {
+      "region": "Rwanda",
+      "id": "rib",
+      "url": "https://www.rib.gov.rw/updates/news/news-detail/rib-launches-its-service-charter-to-promote-transparency-and-accountability-in-service-delivery",
+      "checkedAtPreserved": "2026-11-08"
+    }
+  ],
+  "checks": [
+    "Metadata, source counts, heading order, full frames, keyboard anchors, focus, all ten reader routes, shared topic defaults, selector and link targets, eager hero/lazy covers",
+    "Keyboard Quick exit replaces current history entry; destination intercepted, no external call"
+  ],
+  "consoleErrors": [],
+  "posts": [],
+  "contrast": {
+    "count": 196,
+    "minimum": 4.650368789500458,
+    "failures": []
+  }
+}

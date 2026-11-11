@@ -1,0 +1,58 @@
+[
+  {
+    "id": "depression-influences",
+    "title": "Several influences can interact",
+    "explanation": "Health, relationships, experiences and material circumstances may interact. Understanding that context supports a compassionate response and helps identify practical needs alongside appropriate care.",
+    "reflection": "Optional reflectionWhat would be missed by describing every difficulty as a matter of attitude?",
+    "scenes": 0
+  },
+  {
+    "id": "depression-support",
+    "title": "Care can include several kinds of support",
+    "explanation": "Care can combine clinical and everyday support. The relevant options depend on the person and should be discussed and reviewed with qualified practitioners, including treatment preferences and practical access.",
+    "reflection": "Optional reflectionWhy might practical help remain important during treatment?",
+    "scenes": 0
+  },
+  {
+    "id": "depression-small-steps",
+    "title": "Reduce the size of the first step",
+    "explanation": "The first step can be reduced when energy is limited. Noticing no immediate improvement is allowed; the activity remains an invitation alongside appropriate assessment and care.",
+    "reflection": "Optional reflectionWhat would a compassionate adjustment look like if the activity is too much?",
+    "scenes": 0
+  },
+  {
+    "id": "depression-self-criticism",
+    "title": "Respond to a harsh conclusion with care",
+    "explanation": "The example acknowledges that a task was difficult without making it a judgment about personal worth. Reflection can be paused if it becomes repetitive or distressing.",
+    "reflection": "Optional reflectionWhy should the response acknowledge difficulty instead of denying it?",
+    "scenes": 0
+  },
+  {
+    "id": "depression-student",
+    "title": "Scenario A: University student",
+    "explanation": "Changes lasting several weeks and affecting studies deserve a private, compassionate conversation. An assessment can explore possible explanations and support needs.",
+    "reflection": "Optional reflectionWhy would assumptions about laziness miss the student's needs?",
+    "scenes": 2
+  },
+  {
+    "id": "depression-parent",
+    "title": "Scenario B: Parent after childbirth",
+    "explanation": "The setting makes room for both confidential care and practical help after childbirth. A scene cannot establish perinatal depression or determine suitable treatment.",
+    "reflection": "Optional reflectionWhat makes practical family help complementary to professional assessment?",
+    "scenes": 2
+  },
+  {
+    "id": "depression-income",
+    "title": "Scenario C: Worker under financial pressure",
+    "explanation": "Financial adversity and symptoms may interact. Support can consider living circumstances alongside assessment and care rather than treating the problem as a failure of motivation.",
+    "reflection": "Optional reflectionWhich parts of the situation call for practical assistance as well as care?",
+    "scenes": 2
+  },
+  {
+    "id": "depression-older-adult",
+    "title": "Scenario D: Older adult",
+    "explanation": "The older person's physical symptoms and changes in interest both matter. Neither age nor outward appearance rules out a need for care.",
+    "reflection": "Optional reflectionWhy should physical and mental health be considered together here?",
+    "scenes": 2
+  }
+]

@@ -1,0 +1,260 @@
+{
+  "checks": [
+    {
+      "page": "library",
+      "width": 375,
+      "cards": 7,
+      "overflow": false
+    },
+    {
+      "chapter": 3,
+      "width": 375,
+      "sections": 20,
+      "stories": 4,
+      "diagrams": 6,
+      "failedImages": 0,
+      "overflow": false
+    },
+    {
+      "chapter": 4,
+      "width": 375,
+      "sections": 24,
+      "stories": 4,
+      "diagrams": 6,
+      "failedImages": 0,
+      "overflow": false
+    },
+    {
+      "chapter": 5,
+      "width": 375,
+      "sections": 23,
+      "stories": 4,
+      "diagrams": 4,
+      "failedImages": 0,
+      "overflow": false
+    },
+    {
+      "chapter": 6,
+      "width": 375,
+      "sections": 32,
+      "stories": 4,
+      "diagrams": 5,
+      "failedImages": 0,
+      "overflow": false
+    },
+    {
+      "chapter": 7,
+      "width": 375,
+      "sections": 21,
+      "stories": 5,
+      "diagrams": 7,
+      "failedImages": 0,
+      "overflow": false
+    },
+    {
+      "page": "library",
+      "width": 768,
+      "cards": 7,
+      "overflow": false
+    },
+    {
+      "chapter": 3,
+      "width": 768,
+      "sections": 20,
+      "stories": 4,
+      "diagrams": 6,
+      "failedImages": 0,
+      "overflow": false
+    },
+    {
+      "chapter": 4,
+      "width": 768,
+      "sections": 24,
+      "stories": 4,
+      "diagrams": 6,
+      "failedImages": 0,
+      "overflow": false
+    },
+    {
+      "chapter": 5,
+      "width": 768,
+      "sections": 23,
+      "stories": 4,
+      "diagrams": 4,
+      "failedImages": 0,
+      "overflow": false
+    },
+    {
+      "chapter": 6,
+      "width": 768,
+      "sections": 32,
+      "stories": 4,
+      "diagrams": 5,
+      "failedImages": 0,
+      "overflow": false
+    },
+    {
+      "chapter": 7,
+      "width": 768,
+      "sections": 21,
+      "stories": 5,
+      "diagrams": 7,
+      "failedImages": 0,
+      "overflow": false
+    },
+    {
+      "page": "library",
+      "width": 1024,
+      "cards": 7,
+      "overflow": false
+    },
+    {
+      "chapter": 3,
+      "width": 1024,
+      "sections": 20,
+      "stories": 4,
+      "diagrams": 6,
+      "failedImages": 0,
+      "overflow": false
+    },
+    {
+      "chapter": 4,
+      "width": 1024,
+      "sections": 24,
+      "stories": 4,
+      "diagrams": 6,
+      "failedImages": 0,
+      "overflow": false
+    },
+    {
+      "chapter": 5,
+      "width": 1024,
+      "sections": 23,
+      "stories": 4,
+      "diagrams": 4,
+      "failedImages": 0,
+      "overflow": false
+    },
+    {
+      "chapter": 6,
+      "width": 1024,
+      "sections": 32,
+      "stories": 4,
+      "diagrams": 5,
+      "failedImages": 0,
+      "overflow": false
+    },
+    {
+      "chapter": 7,
+      "width": 1024,
+      "sections": 21,
+      "stories": 5,
+      "diagrams": 7,
+      "failedImages": 0,
+      "overflow": false
+    },
+    {
+      "page": "library",
+      "width": 1440,
+      "cards": 7,
+      "overflow": false
+    },
+    {
+      "chapter": 3,
+      "width": 1440,
+      "sections": 20,
+      "stories": 4,
+      "diagrams": 6,
+      "failedImages": 0,
+      "overflow": false
+    },
+    {
+      "chapter": 4,
+      "width": 1440,
+      "sections": 24,
+      "stories": 4,
+      "diagrams": 6,
+      "failedImages": 0,
+      "overflow": false
+    },
+    {
+      "chapter": 5,
+      "width": 1440,
+      "sections": 23,
+      "stories": 4,
+      "diagrams": 4,
+      "failedImages": 0,
+      "overflow": false
+    },
+    {
+      "chapter": 6,
+      "width": 1440,
+      "sections": 32,
+      "stories": 4,
+      "diagrams": 5,
+      "failedImages": 0,
+      "overflow": false
+    },
+    {
+      "chapter": 7,
+      "width": 1440,
+      "sections": 21,
+      "stories": 5,
+      "diagrams": 7,
+      "failedImages": 0,
+      "overflow": false
+    },
+    {
+      "page": "library",
+      "width": 1920,
+      "cards": 7,
+      "overflow": false
+    },
+    {
+      "chapter": 3,
+      "width": 1920,
+      "sections": 20,
+      "stories": 4,
+      "diagrams": 6,
+      "failedImages": 0,
+      "overflow": false
+    },
+    {
+      "chapter": 4,
+      "width": 1920,
+      "sections": 24,
+      "stories": 4,
+      "diagrams": 6,
+      "failedImages": 0,
+      "overflow": false
+    },
+    {
+      "chapter": 5,
+      "width": 1920,
+      "sections": 23,
+      "stories": 4,
+      "diagrams": 4,
+      "failedImages": 0,
+      "overflow": false
+    },
+    {
+      "chapter": 6,
+      "width": 1920,
+      "sections": 32,
+      "stories": 4,
+      "diagrams": 5,
+      "failedImages": 0,
+      "overflow": false
+    },
+    {
+      "chapter": 7,
+      "width": 1920,
+      "sections": 21,
+      "stories": 5,
+      "diagrams": 7,
+      "failedImages": 0,
+      "overflow": false
+    }
+  ],
+  "errors": []
+}

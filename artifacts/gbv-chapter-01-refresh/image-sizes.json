@@ -1,0 +1,262 @@
+[
+  {
+    "id": "gbv-foundations-header",
+    "section": "chapter-header",
+    "originalWidth": 1536,
+    "originalHeight": 1024,
+    "variants": [
+      {
+        "path": "public/images/learning/gbv/chapter-01/gbv-foundations-header-640.webp",
+        "width": 640,
+        "height": 427,
+        "bytes": 32208
+      },
+      {
+        "path": "public/images/learning/gbv/chapter-01/gbv-foundations-header-1280.webp",
+        "width": 1280,
+        "height": 853,
+        "bytes": 74358
+      }
+    ]
+  },
+  {
+    "id": "gbv-training-opportunity-situation",
+    "section": "gbv-section-1-4",
+    "originalWidth": 1448,
+    "originalHeight": 1086,
+    "variants": [
+      {
+        "path": "public/images/learning/gbv/chapter-01/gbv-training-opportunity-situation-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 26824
+      },
+      {
+        "path": "public/images/learning/gbv/chapter-01/gbv-training-opportunity-situation-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 59474
+      }
+    ]
+  },
+  {
+    "id": "gbv-household-earnings-situation",
+    "section": "gbv-section-1-12",
+    "originalWidth": 1448,
+    "originalHeight": 1086,
+    "variants": [
+      {
+        "path": "public/images/learning/gbv/chapter-01/gbv-household-earnings-situation-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 32206
+      },
+      {
+        "path": "public/images/learning/gbv/chapter-01/gbv-household-earnings-situation-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 79554
+      }
+    ]
+  },
+  {
+    "id": "gbv-student-monitoring-situation",
+    "section": "gbv-section-1-12",
+    "originalWidth": 1448,
+    "originalHeight": 1086,
+    "variants": [
+      {
+        "path": "public/images/learning/gbv/chapter-01/gbv-student-monitoring-situation-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 39464
+      },
+      {
+        "path": "public/images/learning/gbv/chapter-01/gbv-student-monitoring-situation-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 103008
+      }
+    ]
+  },
+  {
+    "id": "gbv-volunteer-disclosure-situation",
+    "section": "gbv-section-1-12",
+    "originalWidth": 1448,
+    "originalHeight": 1086,
+    "variants": [
+      {
+        "path": "public/images/learning/gbv/chapter-01/gbv-volunteer-disclosure-situation-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 40462
+      },
+      {
+        "path": "public/images/learning/gbv/chapter-01/gbv-volunteer-disclosure-situation-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 106178
+      }
+    ]
+  },
+  {
+    "id": "gbv-child-safeguarding-situation",
+    "section": "gbv-section-1-12",
+    "originalWidth": 1448,
+    "originalHeight": 1086,
+    "variants": [
+      {
+        "path": "public/images/learning/gbv/chapter-01/gbv-child-safeguarding-situation-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 42770
+      },
+      {
+        "path": "public/images/learning/gbv/chapter-01/gbv-child-safeguarding-situation-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 100712
+      }
+    ]
+  },
+  {
+    "id": "gbv-friend-listening-situation",
+    "section": "gbv-section-1-12",
+    "originalWidth": 1448,
+    "originalHeight": 1086,
+    "variants": [
+      {
+        "path": "public/images/learning/gbv/chapter-01/gbv-friend-listening-situation-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 48804
+      },
+      {
+        "path": "public/images/learning/gbv/chapter-01/gbv-friend-listening-situation-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 120680
+      }
+    ]
+  },
+  {
+    "id": "gbv-training-opportunity-support",
+    "section": "gbv-section-1-4",
+    "originalWidth": 1448,
+    "originalHeight": 1086,
+    "variants": [
+      {
+        "path": "public/images/learning/gbv/chapter-01/gbv-training-opportunity-support-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 30206
+      },
+      {
+        "path": "public/images/learning/gbv/chapter-01/gbv-training-opportunity-support-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 67788
+      }
+    ]
+  },
+  {
+    "id": "gbv-household-earnings-support",
+    "section": "gbv-section-1-12",
+    "originalWidth": 1448,
+    "originalHeight": 1086,
+    "variants": [
+      {
+        "path": "public/images/learning/gbv/chapter-01/gbv-household-earnings-support-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 34914
+      },
+      {
+        "path": "public/images/learning/gbv/chapter-01/gbv-household-earnings-support-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 85232
+      }
+    ]
+  },
+  {
+    "id": "gbv-student-monitoring-support",
+    "section": "gbv-section-1-12",
+    "originalWidth": 1448,
+    "originalHeight": 1086,
+    "variants": [
+      {
+        "path": "public/images/learning/gbv/chapter-01/gbv-student-monitoring-support-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 42184
+      },
+      {
+        "path": "public/images/learning/gbv/chapter-01/gbv-student-monitoring-support-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 109320
+      }
+    ]
+  },
+  {
+    "id": "gbv-volunteer-disclosure-support",
+    "section": "gbv-section-1-12",
+    "originalWidth": 1448,
+    "originalHeight": 1086,
+    "variants": [
+      {
+        "path": "public/images/learning/gbv/chapter-01/gbv-volunteer-disclosure-support-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 39460
+      },
+      {
+        "path": "public/images/learning/gbv/chapter-01/gbv-volunteer-disclosure-support-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 102172
+      }
+    ]
+  },
+  {
+    "id": "gbv-child-safeguarding-support",
+    "section": "gbv-section-1-12",
+    "originalWidth": 1448,
+    "originalHeight": 1086,
+    "variants": [
+      {
+        "path": "public/images/learning/gbv/chapter-01/gbv-child-safeguarding-support-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 45326
+      },
+      {
+        "path": "public/images/learning/gbv/chapter-01/gbv-child-safeguarding-support-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 107440
+      }
+    ]
+  },
+  {
+    "id": "gbv-friend-listening-support",
+    "section": "gbv-section-1-12",
+    "originalWidth": 1448,
+    "originalHeight": 1086,
+    "variants": [
+      {
+        "path": "public/images/learning/gbv/chapter-01/gbv-friend-listening-support-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 48432
+      },
+      {
+        "path": "public/images/learning/gbv/chapter-01/gbv-friend-listening-support-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 117976
+      }
+    ]
+  }
+]

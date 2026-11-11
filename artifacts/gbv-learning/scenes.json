@@ -1,0 +1,162 @@
+[
+  {
+    "id": "gbv-training-opportunity",
+    "chapter": 1,
+    "section": 4,
+    "prefix": "Illustrative example: training opportunity",
+    "title": "A training opportunity",
+    "character": "woman around 28 with short natural hair, mustard cardigan, cream blouse, navy skirt",
+    "situation": "Sits at a dining table looking thoughtfully at a plain training leaflet, adult male partner across table distant neutral body language, ordinary contemporary Kigali home.",
+    "support": "Meets an adult female training adviser privately in an accessible office to discuss available information and choices."
+  },
+  {
+    "id": "gbv-household-earnings",
+    "chapter": 1,
+    "section": 12,
+    "prefix": "Scenario A:",
+    "title": "Financial control in a household",
+    "character": "woman around 38, braided bun, muted blue blouse, small silver earrings",
+    "situation": "At a small produce stall in a Rwandan neighborhood market, pauses thoughtfully over a closed earnings notebook; no confrontation visible.",
+    "support": "Sits privately with an adult woman community support worker, listening to options with her notebook closed."
+  },
+  {
+    "id": "gbv-student-monitoring",
+    "chapter": 1,
+    "section": 12,
+    "prefix": "Scenario B:",
+    "title": "A student and digital monitoring",
+    "character": "college student woman aged 21, short natural curls, sage green shirt, navy backpack",
+    "situation": "Sits on a college courtyard bench looking concerned at a phone with screen turned away, classmates at a respectful distance.",
+    "support": "Talks privately with an adult female student-support adviser, her phone face down, no advice displayed on screen."
+  },
+  {
+    "id": "gbv-volunteer-disclosure",
+    "chapter": 1,
+    "section": 12,
+    "prefix": "Scenario C:",
+    "title": "Disclosure to a community volunteer",
+    "character": "adult man around 32, close cropped hair, beige short sleeve shirt",
+    "situation": "Sits quietly at the edge of a community center waiting area with an adult male volunteer, hesitant thoughtful expression.",
+    "support": "Same adult male volunteer listens attentively in a quieter private office, maintaining respectful distance, no notes or recording device."
+  },
+  {
+    "id": "gbv-child-safeguarding",
+    "chapter": 1,
+    "section": 12,
+    "prefix": "Scenario D:",
+    "title": "A child appears unsafe",
+    "character": "adolescent Rwandan girl aged 15, braided hair, plain blue school sweater and navy skirt",
+    "situation": "Sits thoughtfully on a bench outside a bright school office with a female adult teacher nearby, no abusive person depicted.",
+    "support": "Same teacher sits at a respectful distance and listens calmly in an open welcoming safeguarding office, another qualified female worker visible, no physical contact."
+  },
+  {
+    "id": "gbv-friend-listening",
+    "chapter": 1,
+    "section": 12,
+    "prefix": "Scenario E:",
+    "title": "A friend minimizes abuse",
+    "character": "woman around 26, chin length twists, rust orange blouse",
+    "situation": "Sits with a female friend at an outdoor cafe in Kigali, thoughtful guarded conversation, no shouting or threats depicted.",
+    "support": "Same friend now listens attentively with open relaxed body language, phone put away, protagonist remains thoughtful, no hugging or guaranteed recovery."
+  },
+  {
+    "id": "gbv-home-argument",
+    "chapter": 2,
+    "section": 2,
+    "prefix": "Case A -",
+    "title": "An argument at home",
+    "character": "woman around 30, short natural hair, pale blue blouse, dark trousers",
+    "situation": "Stands alone thoughtfully near a bright open doorway in a contemporary home, a chair and table behind her, no abusive act or person depicted.",
+    "support": "Sits privately with an adult female professional support worker in a calm modest office, listening and considering options."
+  },
+  {
+    "id": "gbv-trainee-support",
+    "chapter": 2,
+    "section": 3,
+    "prefix": "Case B -",
+    "title": "A job opportunity",
+    "character": "female adult trainee aged 23, neat braids tied back, white shirt and olive trousers",
+    "situation": "Sits thoughtfully at an ordinary workplace desk reviewing a blank folder, supervisor blurred in distant background, no touching or sexual content.",
+    "support": "Speaks privately with an independent adult female worker at a community advice office, both seated at equal height, no confrontation or complaint requirement."
+  },
+  {
+    "id": "gbv-messages-isolation",
+    "chapter": 2,
+    "section": 4,
+    "prefix": "Case C -",
+    "title": "Messages and isolation",
+    "character": "male university student aged 22, short coiled hair, muted burgundy polo, dark backpack",
+    "situation": "Sits thoughtfully alone on university steps with phone screen turned away and classmates in background.",
+    "support": "Speaks quietly with a male student adviser on two chairs in a calm private office, phone put away, discussion of preferred support."
+  },
+  {
+    "id": "gbv-family-shop",
+    "chapter": 2,
+    "section": 5,
+    "prefix": "Case D -",
+    "title": "A family business",
+    "character": "married woman around 36, short twists, teal blouse and charcoal skirt",
+    "situation": "Works thoughtfully behind a small family grocery counter, closed cash ledger and ordinary products without visible brands, no abusive partner depicted.",
+    "support": "Meets an adult woman practical-support adviser privately, closed notebook on table, choices discussed without directing departure."
+  },
+  {
+    "id": "gbv-online-threats",
+    "chapter": 2,
+    "section": 6,
+    "prefix": "Case E -",
+    "title": "Online threats",
+    "character": "woman around 25, natural hair in a puff, lavender shirt and dark trousers",
+    "situation": "Looks thoughtfully at a phone held away from camera at home, no private photos or readable threats, no distress spectacle.",
+    "support": "Sits in a private advice room with a female specialist, phone face down, discussing safe options, no evidence collection or password change shown."
+  },
+  {
+    "id": "gbv-work-transport",
+    "chapter": 3,
+    "section": 12,
+    "prefix": "Scenario A -",
+    "title": "Household decisions and financial control",
+    "character": "woman around 31, neatly braided hair, beige blouse, navy work bag",
+    "situation": "Sits at a home table thoughtfully beside a work bag and small closed notebook, preparing for work, no confrontation.",
+    "support": "Discusses practical support privately with an adult female worker in an accessible office, neither handles her phone or money."
+  },
+  {
+    "id": "gbv-school-authority",
+    "chapter": 3,
+    "section": 12,
+    "prefix": "Scenario B -",
+    "title": "School authority and retaliation",
+    "character": "female adult student aged 19, neat natural hair, plain light blue shirt, dark backpack",
+    "situation": "Stands thoughtfully outside a campus administrative office, distant adults in corridor, no abuse or private meeting depicted.",
+    "support": "Meets an independent female safeguarding adviser in a welcoming office, safe reporting choices represented by a plain closed folder."
+  },
+  {
+    "id": "gbv-challenging-norms",
+    "chapter": 3,
+    "section": 12,
+    "prefix": "Scenario C -",
+    "title": "Men and boys challenging norms",
+    "character": "young adult man aged 20, short natural hair, forest green shirt, with three peers aged 18 to 23",
+    "situation": "Listens thoughtfully during a mixed-gender youth club discussion at a Rwandan community center, no slogans or signs.",
+    "support": "Same peers discuss respectful relationships around a table, one man gestures with open hands while others listen equally, no personal disclosure, everyday grounded tone."
+  },
+  {
+    "id": "gbv-mediation-pressure",
+    "chapter": 3,
+    "section": 12,
+    "prefix": "Scenario D -",
+    "title": "Community mediation pressure",
+    "character": "adult woman around 40, short braids, cream blouse and terracotta cardigan",
+    "situation": "Sits thoughtfully with a female community volunteer in a simple community office, a second empty chair in distance suggests choices, no partner or confrontation.",
+    "support": "Same volunteer listens privately and respectfully across a small table, offers a plain closed information folder without commanding, no mediation meeting or reconciliation."
+  },
+  {
+    "id": "gbv-temporary-worker",
+    "chapter": 3,
+    "section": 12,
+    "prefix": "Scenario E -",
+    "title": "Work and economic vulnerability",
+    "character": "adult male temporary worker aged 27, close cropped hair, light grey shirt and navy trousers",
+    "situation": "Sits thoughtfully at a desk in an ordinary small workplace holding a plain contract folder, no coercive contact or readable text.",
+    "support": "Speaks privately with an independent male employment support adviser in a modest accessible office, confidential options not guaranteed job protection."
+  }
+]

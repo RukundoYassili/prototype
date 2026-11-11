@@ -1,0 +1,1204 @@
+{
+  "generatedAt": "2026-11-09",
+  "tool": "Built-in image_gen",
+  "disclosure": "AI-generated, illustrative fictional examples. Not real participants, providers, case histories, or endorsements.",
+  "review": "Each original was visually reviewed for story alignment, recurring-character continuity, natural anatomy, respectful expressions, and absence of embedded explanatory labels. Captions and diagrams are editable React content based on the supplied educational drafts. No clinical review is implied.",
+  "scenes": [
+    {
+      "id": "exam-pressure-situation",
+      "prompt": "Use case: photorealistic-natural. Asset type: one educational mental-health story photograph for a React reading page, landscape 4:3. Style: premium natural documentary-style staged photography, contemporary everyday Rwanda, warm daylight, cream walls and subtle forest-green accents, realistic skin texture, restrained expressions, respectful and non-stigmatizing, inclusive ordinary clothing, natural anatomy and hands, no dramatic suffering, no hospital, no logos, no readable text, no captions or graphics embedded. Entirely fictional adult characters; not actual patients, clients, professionals or testimonials. Keep useful context visible; medium-wide composition, faces and meaningful gestures unobscured. No implication of diagnosis or instant recovery. Scene: A young Rwandan adult learner with dark brown skin, short natural black hair, wearing a muted sage-green crewneck shirt, seated at a small wooden study desk with an open notebook and a few textbooks in a simple bright study room. He is quietly tense and distracted before examinations, looking down at his study materials; hands resting naturally on the desk, not clutching his head. A window, leafy plant and uncluttered cream wall. Capture the situation with dignity, not caricature. One single photograph.",
+      "source": "artifacts/learning-visuals/exam-pressure-situation.png",
+      "sha256": "9dec01f066b3dbe1706de607cf15b1c321ed764cc35576af505f31d634b26d22",
+      "outputs": [
+        {
+          "file": "/images/learning/exam-pressure-situation-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 34860
+        },
+        {
+          "file": "/images/learning/exam-pressure-situation-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 92528
+        }
+      ]
+    },
+    {
+      "id": "exam-pressure-support",
+      "prompt": "Use case: photorealistic-natural. Asset type: one educational mental-health story photograph for a React reading page, landscape 4:3. Style: premium natural documentary-style staged photography, contemporary everyday Rwanda, warm daylight, cream walls and subtle forest-green accents, realistic skin texture, restrained expressions, respectful and non-stigmatizing, inclusive ordinary clothing, natural anatomy and hands, no dramatic suffering, no hospital, no logos, no readable text, no captions or graphics embedded. Entirely fictional adult characters; not actual patients, clients, professionals or testimonials. Keep useful context visible; medium-wide composition, faces and meaningful gestures unobscured. No implication of diagnosis or instant recovery. Reference image: character, study-room and photographic-style reference only. Create a new photograph showing the SAME young adult learner from the reference (same face, short hair and sage shirt) at the same study desk, now talking with a trusted adult educator in a plain cream shirt. Both seated at equal eye level, educator listening respectfully and pointing gently to a simple realistic study schedule in a notebook with NO legible text. Learner is attentive, still thoughtful, not suddenly cured or euphoric. Comfortable personal space, natural hands resting on table, no handshake. The helpful next step is collaborative practical planning, not diagnosis. Single landscape photograph, consistent light and palette.",
+      "reference": "exam-pressure-situation",
+      "source": "artifacts/learning-visuals/exam-pressure-support.png",
+      "sha256": "b618639388bba90ae085289ffcaaaef2208ec9436ffbd23d6f7a642c5bd654a8",
+      "outputs": [
+        {
+          "file": "/images/learning/exam-pressure-support-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 38374
+        },
+        {
+          "file": "/images/learning/exam-pressure-support-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 108012
+        }
+      ]
+    },
+    {
+      "id": "unemployment-situation",
+      "prompt": "Use case: photorealistic-natural. Asset type: one educational mental-health story photograph for a React reading page, landscape 4:3. Style: premium natural documentary-style staged photography, contemporary everyday Rwanda, warm daylight, cream walls and subtle forest-green accents, realistic skin texture, restrained expressions, respectful and non-stigmatizing, inclusive ordinary clothing, natural anatomy and hands, no dramatic suffering, no hospital, no logos, no readable text, no captions or graphics embedded. Entirely fictional adult characters; not actual patients, clients, professionals or testimonials. Keep useful context visible; medium-wide composition, faces and meaningful gestures unobscured. No implication of diagnosis or instant recovery. Scene: a fictional young Rwandan woman with dark brown skin, shoulder-length neat twists pulled loosely back, wearing a muted rust-colored blouse, sitting alone at a small dining table in a modest contemporary cream-walled apartment. Closed laptop and a plain folder of job application papers with no readable text. She looks quietly discouraged while searching for work, not despairing. Window daylight, small houseplant, background hint of an urban hillside outside. Medium wide, hands relaxed on the table. Different character and setting from the style reference. Single photograph.",
+      "reference": "exam-pressure-situation (style only)",
+      "source": "artifacts/learning-visuals/unemployment-situation.png",
+      "sha256": "1c9859a48f95c763fed3dcd47cdff62fc9bf76f6584372cf3324a72a8c447471",
+      "outputs": [
+        {
+          "file": "/images/learning/unemployment-situation-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 45488
+        },
+        {
+          "file": "/images/learning/unemployment-situation-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 128286
+        }
+      ]
+    },
+    {
+      "id": "unemployment-support",
+      "prompt": "Use case: photorealistic-natural. Asset type: one educational mental-health story photograph for a React reading page, landscape 4:3. Style: premium natural documentary-style staged photography, contemporary everyday Rwanda, warm daylight, cream walls and subtle forest-green accents, realistic skin texture, restrained expressions, respectful and non-stigmatizing, inclusive ordinary clothing, natural anatomy and hands, no dramatic suffering, no hospital, no logos, no readable text, no captions or graphics embedded. Entirely fictional adult characters; not actual patients, clients, professionals or testimonials. Keep useful context visible; medium-wide composition, faces and meaningful gestures unobscured. No implication of diagnosis or instant recovery. Character and room reference: use the SAME woman in a rust blouse and same cream apartment as the reference. New scene: a trusted adult female friend in a light cream top sits beside her at the dining table, both reviewing an open laptop and plain job-application folder. Gentle attentive expressions, practical collaboration, no celebratory victory, no job offer, no badges or professional credentials. Both hands natural and separately visible resting on table. Keep window daylight, green frame and plant consistent. Single photograph showing company and job-search assistance; their employment situation is not magically resolved.",
+      "reference": "unemployment-situation",
+      "source": "artifacts/learning-visuals/unemployment-support.png",
+      "sha256": "f18168b8be07b6533db983f420a9ac551af6314da8c516587bb4ab3b0db99428",
+      "outputs": [
+        {
+          "file": "/images/learning/unemployment-support-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 52818
+        },
+        {
+          "file": "/images/learning/unemployment-support-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 159922
+        }
+      ]
+    },
+    {
+      "id": "caregiving-situation",
+      "prompt": "Use case: photorealistic-natural. Asset type: one educational mental-health story photograph for a React reading page, landscape 4:3. Style: premium natural documentary-style staged photography, contemporary everyday Rwanda, warm daylight, cream walls and subtle forest-green accents, realistic skin texture, restrained expressions, respectful and non-stigmatizing, inclusive ordinary clothing, natural anatomy and hands, no dramatic suffering, no hospital, no logos, no readable text, no captions or graphics embedded. Entirely fictional adult characters; not actual patients, clients, professionals or testimonials. Keep useful context visible; medium-wide composition, faces and meaningful gestures unobscured. No implication of diagnosis or instant recovery. Style reference only, create a different character and home. Scene: fictional middle-aged Rwandan woman with dark brown skin, neat short natural hair, wearing a dusty blue cotton blouse. She pauses at a wooden household table with a modest basket of clean laundry and a few folded clothes, ordinary family responsibilities, daylight cream-walled home, leafy plant and green doorway. She looks tired and thoughtful with relaxed natural hands, not clutching her head. No children or dependent person need appear, no medical equipment. Single medium-wide landscape photograph about a caregiver's workload, dignified and realistic.",
+      "reference": "exam-pressure-situation (style only)",
+      "source": "artifacts/learning-visuals/caregiving-situation.png",
+      "sha256": "b41f1f62c274444a7ad19f9ddd027477611b476db2f15953fe0e71050fb262b3",
+      "outputs": [
+        {
+          "file": "/images/learning/caregiving-situation-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 52334
+        },
+        {
+          "file": "/images/learning/caregiving-situation-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 148078
+        }
+      ]
+    },
+    {
+      "id": "caregiving-support",
+      "prompt": "Use case: photorealistic-natural. Asset type: one educational mental-health story photograph for a React reading page, landscape 4:3. Style: premium natural documentary-style staged photography, contemporary everyday Rwanda, warm daylight, cream walls and subtle forest-green accents, realistic skin texture, restrained expressions, respectful and non-stigmatizing, inclusive ordinary clothing, natural anatomy and hands, no dramatic suffering, no hospital, no logos, no readable text, no captions or graphics embedded. Entirely fictional adult characters; not actual patients, clients, professionals or testimonials. Keep useful context visible; medium-wide composition, faces and meaningful gestures unobscured. No implication of diagnosis or instant recovery. Character and room reference: SAME middle-aged woman, same short natural hair and dusty blue blouse, same home, table and laundry basket. New scene: an adult male relative in a light beige cotton shirt joins her to share folding clean laundry. Both seated or comfortably standing at the same table, each holding a separate simple towel with natural visible hands; respectful ordinary conversation, thoughtful calm expressions rather than big smiles. Show redistribution of practical work, not a miraculous cure. Green doorway, daylight, medium wide, one photograph.",
+      "reference": "caregiving-situation",
+      "source": "artifacts/learning-visuals/caregiving-support.png",
+      "sha256": "b6ba11c416475809b72d31012ea17d72dcc3a993b5befa671774719195789922",
+      "outputs": [
+        {
+          "file": "/images/learning/caregiving-support-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 52288
+        },
+        {
+          "file": "/images/learning/caregiving-support-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 150144
+        }
+      ]
+    },
+    {
+      "id": "work-meeting-situation",
+      "prompt": "Use case: photorealistic-natural. Asset type: one educational mental-health story photograph for a React reading page, landscape 4:3. Style: premium natural documentary-style staged photography, contemporary everyday Rwanda, warm daylight, cream walls and subtle forest-green accents, realistic skin texture, restrained expressions, respectful and non-stigmatizing, inclusive ordinary clothing, natural anatomy and hands, no dramatic suffering, no hospital, no logos, no readable text, no captions or graphics embedded. Entirely fictional adult characters; not actual patients, clients, professionals or testimonials. Keep useful context visible; medium-wide composition, faces and meaningful gestures unobscured. No implication of diagnosis or instant recovery. Photographic style reference only; DIFFERENT adult and location. Scene: fictional Rwandan man in his early forties with dark brown skin, close-cropped hair and a neatly trimmed short beard, wearing an olive-green casual overshirt over a cream T-shirt. He sits at a small contemporary office desk reading a meeting notification on a laptop, screen facing away with NO readable words. Slightly raised shoulders and a thoughtful uncertain expression, hands near a notebook. Soft daylight, cream walls, simple office plant, professional but ordinary workplace. Not head in hands, not visibly panicked. One medium-wide photograph.",
+      "reference": "exam-pressure-situation (style only)",
+      "source": "artifacts/learning-visuals/work-meeting-situation.png",
+      "sha256": "666c79278e76e65f50017f278237685e69cc01f28ead4f29f927d61d72fbd6ea",
+      "outputs": [
+        {
+          "file": "/images/learning/work-meeting-situation-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 41690
+        },
+        {
+          "file": "/images/learning/work-meeting-situation-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 115184
+        }
+      ]
+    },
+    {
+      "id": "work-meeting-support",
+      "prompt": "Use case: photorealistic-natural. Asset type: one educational mental-health story photograph for a React reading page, landscape 4:3. Style: premium natural documentary-style staged photography, contemporary everyday Rwanda, warm daylight, cream walls and subtle forest-green accents, realistic skin texture, restrained expressions, respectful and non-stigmatizing, inclusive ordinary clothing, natural anatomy and hands, no dramatic suffering, no hospital, no logos, no readable text, no captions or graphics embedded. Entirely fictional adult characters; not actual patients, clients, professionals or testimonials. Keep useful context visible; medium-wide composition, faces and meaningful gestures unobscured. No implication of diagnosis or instant recovery. Character and office reference: SAME man in olive overshirt, close cropped hair and short beard, same desk, laptop and green mug. New single photograph: he is asking an adult female colleague wearing a modest cream blouse for clarification, both seated at equal eye level on opposite sides of the small office desk, attentive natural conversation, open notebook between them. His expression remains thoughtful rather than celebratory; he may still feel nervous. Medium-wide includes natural hands resting separately on the table; no handshaking, no embedded text. Same daylight and realistic documentary style. This is an ordinary colleague, not a clinician.",
+      "reference": "work-meeting-situation",
+      "source": "artifacts/learning-visuals/work-meeting-support.png",
+      "sha256": "fea7203e8c4d84eee74d9a29a22e81e54ab20c9f728afff657be059020354221",
+      "outputs": [
+        {
+          "file": "/images/learning/work-meeting-support-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 48652
+        },
+        {
+          "file": "/images/learning/work-meeting-support-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 134248
+        }
+      ]
+    },
+    {
+      "id": "results-situation",
+      "prompt": "Use case: photorealistic-natural. Asset type: one educational mental-health story photograph for a React reading page, landscape 4:3. Style: premium natural documentary-style staged photography, contemporary everyday Rwanda, warm daylight, cream walls and subtle forest-green accents, realistic skin texture, restrained expressions, respectful and non-stigmatizing, inclusive ordinary clothing, natural anatomy and hands, no dramatic suffering, no hospital, no logos, no readable text, no captions or graphics embedded. Entirely fictional adult characters; not actual patients, clients, professionals or testimonials. Keep useful context visible; medium-wide composition, faces and meaningful gestures unobscured. No implication of diagnosis or instant recovery. Style reference only, DIFFERENT character and setting. Scene: fictional Rwandan young adult female learner with dark brown skin, short natural coily hair, wearing a muted mustard cardigan over a cream top. Seated at a quiet college study table, looking thoughtfully at a paper with blank or indistinct marks, no readable grades or words. A notebook and closed textbook nearby. Natural disappointment or embarrassment, not crying or melodramatic. Hands resting naturally around paper. Bright cream-walled classroom with soft foliage through a window, not a fancy clinic. Single medium-wide photograph.",
+      "reference": "exam-pressure-situation (style only)",
+      "source": "artifacts/learning-visuals/results-situation.png",
+      "sha256": "0e8ae34a9ff54f1ec4d8cef6ba5e180d9b64b8b7ecb34f82825e771d3fbf3b79",
+      "outputs": [
+        {
+          "file": "/images/learning/results-situation-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 45738
+        },
+        {
+          "file": "/images/learning/results-situation-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 133000
+        }
+      ]
+    },
+    {
+      "id": "results-support",
+      "prompt": "Use case: photorealistic-natural. Asset type: one educational mental-health story photograph for a React reading page, landscape 4:3. Style: premium natural documentary-style staged photography, contemporary everyday Rwanda, warm daylight, cream walls and subtle forest-green accents, realistic skin texture, restrained expressions, respectful and non-stigmatizing, inclusive ordinary clothing, natural anatomy and hands, no dramatic suffering, no hospital, no logos, no readable text, no captions or graphics embedded. Entirely fictional adult characters; not actual patients, clients, professionals or testimonials. Keep useful context visible; medium-wide composition, faces and meaningful gestures unobscured. No implication of diagnosis or instant recovery. Character and classroom reference: SAME young adult woman with short natural coily hair, mustard cardigan, cream top and brown watch. New single photograph: she sits with a trusted adult female educator in a pale green blouse at the same college study table, both looking at an open notebook, educator listening and helping discuss study materials, no legible writing. The learner is attentive and still thoughtful, not suddenly happy or cured. Respectful equal eye level, natural separated hands, ordinary learning support rather than clinical treatment. Same daylight, framing and palette.",
+      "reference": "results-situation",
+      "source": "artifacts/learning-visuals/results-support.png",
+      "sha256": "b6d38bab55b836cf704146d77cca4f6715cc69cc074baf222ad083515d9b57e8",
+      "outputs": [
+        {
+          "file": "/images/learning/results-support-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 48756
+        },
+        {
+          "file": "/images/learning/results-support-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 139604
+        }
+      ]
+    },
+    {
+      "id": "caregiver-exhaustion-situation",
+      "prompt": "Use case: photorealistic-natural. Asset type: one educational mental-health story photograph for a React reading page, landscape 4:3. Style: premium natural documentary-style staged photography, contemporary everyday Rwanda, warm daylight, cream walls and subtle forest-green accents, realistic skin texture, restrained expressions, respectful and non-stigmatizing, inclusive ordinary clothing, natural anatomy and hands, no dramatic suffering, no hospital, no logos, no readable text, no captions or graphics embedded. Entirely fictional adult characters; not actual patients, clients, professionals or testimonials. Keep useful context visible; medium-wide composition, faces and meaningful gestures unobscured. No implication of diagnosis or instant recovery. Style reference only, DIFFERENT man and room. Scene: fictional Rwandan father or adult family caregiver around thirty-five, dark brown skin, short black hair and clean-shaven face, wearing a pale blue linen shirt with rolled sleeves. He pauses while sorting a small basket of household items and folded clothes on a table in an ordinary bright cream home. His posture is tired but composed; he has noticed irritation rather than acting harshly. One hand rests flat on the table and the other loosely holds a cloth, natural anatomy. No angry confrontation, no children in frame. Different framing from the reference: medium wide side angle with doorway and a simple wall shelf. Single photograph.",
+      "reference": "exam-pressure-situation (style only)",
+      "source": "artifacts/learning-visuals/caregiver-exhaustion-situation.png",
+      "sha256": "23fb4b43105c2359614d0d4584320e3b1fac03199a4821b687ed7dc249ae3e93",
+      "outputs": [
+        {
+          "file": "/images/learning/caregiver-exhaustion-situation-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 43222
+        },
+        {
+          "file": "/images/learning/caregiver-exhaustion-situation-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 117106
+        }
+      ]
+    },
+    {
+      "id": "caregiver-exhaustion-support",
+      "prompt": "Use case: photorealistic-natural. Asset type: one educational mental-health story photograph for a React reading page, landscape 4:3. Style: premium natural documentary-style staged photography, contemporary everyday Rwanda, warm daylight, cream walls and subtle forest-green accents, realistic skin texture, restrained expressions, respectful and non-stigmatizing, inclusive ordinary clothing, natural anatomy and hands, no dramatic suffering, no hospital, no logos, no readable text, no captions or graphics embedded. Entirely fictional adult characters; not actual patients, clients, professionals or testimonials. Keep useful context visible; medium-wide composition, faces and meaningful gestures unobscured. No implication of diagnosis or instant recovery. Character and home reference: SAME clean-shaven man, same pale blue rolled-sleeve shirt, same table, basket and green doorway. New scene: an adult female relative in a simple cream shirt joins him in sorting household clothes. Both stand at the table sharing the task and speaking attentively, each holding a separate cloth or resting a natural hand on the table. His expression is still tired but engaged; no miraculous transformation, no exuberant smile. Acknowledging workload and asking for help, not therapy. Medium wide side angle, ordinary household daylight, single photograph.",
+      "reference": "caregiver-exhaustion-situation",
+      "source": "artifacts/learning-visuals/caregiver-exhaustion-support.png",
+      "sha256": "059fc62013952734711be7f27c1b2de4b1f1acf17494a1b3d420dd5a972c25ce",
+      "outputs": [
+        {
+          "file": "/images/learning/caregiver-exhaustion-support-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 49406
+        },
+        {
+          "file": "/images/learning/caregiver-exhaustion-support-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 141482
+        }
+      ]
+    },
+    {
+      "id": "moving-situation",
+      "prompt": "Use case: photorealistic-natural. Asset type: one educational mental-health story photograph for a React reading page, landscape 4:3. Style: premium natural documentary-style staged photography, contemporary everyday Rwanda, warm daylight, cream walls and subtle forest-green accents, realistic skin texture, restrained expressions, respectful and non-stigmatizing, inclusive ordinary clothing, natural anatomy and hands, no dramatic suffering, no hospital, no logos, no readable text, no captions or graphics embedded. Entirely fictional adult characters; not actual patients, clients, professionals or testimonials. Keep useful context visible; medium-wide composition, faces and meaningful gestures unobscured. No implication of diagnosis or instant recovery. Style reference only, DIFFERENT adult and apartment. Scene: fictional young Rwandan adult woman with dark brown skin, long neat braids tied back, wearing a pale green cotton blouse and dark trousers. Sitting by a bright apartment window beside two plain moving boxes and a small folded blanket. She looks quietly reflective and lonely after moving to a new district, gazing outward, hands relaxed in her lap; no head clutching. Simple cream room with green view through the window, no readable box labels. Medium-wide, single respectful photograph. No implication of a diagnosis.",
+      "reference": "exam-pressure-situation (style only)",
+      "source": "artifacts/learning-visuals/moving-situation.png",
+      "sha256": "273d247b14b72fea63b96be9affb7c5c879631e968a6bfaa968712dc8b6828e2",
+      "outputs": [
+        {
+          "file": "/images/learning/moving-situation-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 46970
+        },
+        {
+          "file": "/images/learning/moving-situation-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 130724
+        }
+      ]
+    },
+    {
+      "id": "moving-support",
+      "prompt": "Use case: photorealistic-natural. Asset type: one educational mental-health story photograph for a React reading page, landscape 4:3. Style: premium natural documentary-style staged photography, contemporary everyday Rwanda, warm daylight, cream walls and subtle forest-green accents, realistic skin texture, restrained expressions, respectful and non-stigmatizing, inclusive ordinary clothing, natural anatomy and hands, no dramatic suffering, no hospital, no logos, no readable text, no captions or graphics embedded. Entirely fictional adult characters; not actual patients, clients, professionals or testimonials. Keep useful context visible; medium-wide composition, faces and meaningful gestures unobscured. No implication of diagnosis or instant recovery. Character and apartment reference: SAME young woman with long tied-back braids, same pale green blouse, same window chair and two moving boxes. New photograph: she is seated in the same place looking attentively at a smartphone held naturally in both hands, sending a message to a trusted friend. Screen angled away with no readable text. A subtle engaged expression, not an exaggerated smile; loneliness and the move are not instantly resolved. Same daylight, calm framing, box and blanket continuity. Single medium-wide photo about a chosen small step toward reconnection.",
+      "reference": "moving-situation",
+      "source": "artifacts/learning-visuals/moving-support.png",
+      "sha256": "163cd0b3cc4ed79e3f49dbae8a1916d341fd9190232fbaf36a0fd4461674a5fa",
+      "outputs": [
+        {
+          "file": "/images/learning/moving-support-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 46542
+        },
+        {
+          "file": "/images/learning/moving-support-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 131472
+        }
+      ]
+    },
+    {
+      "id": "conflict-safety-situation",
+      "prompt": "Use case: photorealistic-natural. Asset type: one educational mental-health story photograph for a React reading page, landscape 4:3. Style: premium natural documentary-style staged photography, contemporary everyday Rwanda, warm daylight, cream walls and subtle forest-green accents, realistic skin texture, restrained expressions, respectful and non-stigmatizing, inclusive ordinary clothing, natural anatomy and hands, no dramatic suffering, no hospital, no logos, no readable text, no captions or graphics embedded. Entirely fictional adult characters; not actual patients, clients, professionals or testimonials. Keep useful context visible; medium-wide composition, faces and meaningful gestures unobscured. No implication of diagnosis or instant recovery. Style reference only, DIFFERENT woman and outdoor setting. Scene for a fictional teaching example about considering safety after a conflict: Rwandan adult woman around forty with dark brown skin, black hair in a low braided bun, wearing a modest plum-colored blouse and dark skirt. Standing alone in a quiet bright courtyard near a cream wall and potted greenery, holding a smartphone naturally at waist height and looking concerned but composed. There is NO violence, injury, threatening person, confrontation, weapon, police, or visible incident. The photograph does not certify the location is safe. Everyday contemporary setting, soft daylight, medium-wide view, single non-graphic photograph.",
+      "reference": "exam-pressure-situation (style only)",
+      "source": "artifacts/learning-visuals/conflict-safety-situation.png",
+      "sha256": "f974c6a7b644e0d49a7d7b7a9890a34aad2dffc82453fb4c2ec67c58e5939d51",
+      "outputs": [
+        {
+          "file": "/images/learning/conflict-safety-situation-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 42846
+        },
+        {
+          "file": "/images/learning/conflict-safety-situation-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 101930
+        }
+      ]
+    },
+    {
+      "id": "conflict-safety-support",
+      "prompt": "Use case: photorealistic-natural. Asset type: one educational mental-health story photograph for a React reading page, landscape 4:3. Style: premium natural documentary-style staged photography, contemporary everyday Rwanda, warm daylight, cream walls and subtle forest-green accents, realistic skin texture, restrained expressions, respectful and non-stigmatizing, inclusive ordinary clothing, natural anatomy and hands, no dramatic suffering, no hospital, no logos, no readable text, no captions or graphics embedded. Entirely fictional adult characters; not actual patients, clients, professionals or testimonials. Keep useful context visible; medium-wide composition, faces and meaningful gestures unobscured. No implication of diagnosis or instant recovery. Character and setting reference: SAME adult woman with low braided bun and plum blouse from the reference. New single photograph: she sits in a quiet sheltered part of the same bright courtyard with a trusted adult female companion in a soft cream cardigan, both at equal eye level, companion listening attentively at respectful personal distance. The main woman's phone rests within reach on a small side table. Thoughtful composed faces, no hug, handshake or exaggerated smile. No conflict, perpetrator, injury, confrontation, medical equipment, or claim of guaranteed safety. The scene represents one possible supportive contact, not proof that danger is resolved. Same realistic daylight and medium-wide photographic framing.",
+      "reference": "conflict-safety-situation",
+      "source": "artifacts/learning-visuals/conflict-safety-support.png",
+      "sha256": "8daf326d89803f080cf6af9379dfd9cbadfe4ef9c37555142e962e4dcb30ef14",
+      "outputs": [
+        {
+          "file": "/images/learning/conflict-safety-support-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 66740
+        },
+        {
+          "file": "/images/learning/conflict-safety-support-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 198224
+        }
+      ]
+    },
+    {
+      "id": "stress-examination-situation",
+      "prompt": "Use case: photorealistic-natural. Asset type: single educational mental-health story photograph, landscape 4:3. Natural staged documentary photography, contemporary everyday Rwanda, warm daylight, cream walls and subtle forest-green accents, realistic dark skin texture, restrained respectful expressions, natural anatomy and hands. Entirely fictional characters. No logos, readable text, captions, graphics, violence, injury, dramatic distress, or implication of diagnosis. Medium-wide framing; faces and meaningful actions within central crop. Scene: A fictional Rwandan university student age 21, dark brown skin, short natural black hair, wearing a muted olive cotton shirt, sits at a small wooden desk in a simple bright study room. A few open books and loose revision papers, with no legible writing, show several assessments to prepare for. The student looks quietly tired and distracted, rereading a page rather than visibly studying effectively. Hands resting naturally on desk, not clutching head. Soft window light, green doorway, plain cream wall. This is examination pressure and exhaustion, not laziness. One single photograph, not collage.",
+      "source": "artifacts/learning-visuals/stress-examination-situation.png",
+      "sha256": "991bc9cd02b379b7c9783a236e1aa62a2532d6cea66fcac3790adbdf5aa18688",
+      "outputs": [
+        {
+          "file": "/images/learning/stress-examination-situation-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 31022
+        },
+        {
+          "file": "/images/learning/stress-examination-situation-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 87296
+        }
+      ]
+    },
+    {
+      "id": "stress-finances-situation",
+      "prompt": "Use case: photorealistic-natural. Asset type: one mental-health teaching story photograph, landscape 4:3. Premium natural staged documentary photography in contemporary everyday Rwanda. Warm window daylight, cream and subtle forest-green surroundings, realistic skin texture, dignified restrained expressions, natural hands and anatomy. Fictional people, not real participants or endorsements. Medium-wide composition with faces and meaningful actions safe within a central mobile crop. No logos, legible text, captions, graphics, violence, injuries, dramatic distress or promises of recovery. One single photograph, not a collage. Subject: a Rwandan adult man, age 34, dark brown skin, close-cropped hair, dusty blue shirt. Setting: a modest contemporary Kigali apartment, small dining table, plain bills and closed notebook. Situation: He sits thoughtfully with household bills and looks withdrawn, with his phone set aside.",
+      "source": "artifacts/learning-visuals/stress-finances-situation.png",
+      "sha256": "dd07cbe3680281f757a92da4ff809f81f8a04777761bb17a1599a84b85b37f94",
+      "outputs": [
+        {
+          "file": "/images/learning/stress-finances-situation-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 41646
+        },
+        {
+          "file": "/images/learning/stress-finances-situation-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 114382
+        }
+      ]
+    },
+    {
+      "id": "stress-caregiver-situation",
+      "prompt": "Use case: photorealistic-natural. Asset type: one mental-health teaching story photograph, landscape 4:3. Premium natural staged documentary photography in contemporary everyday Rwanda. Warm window daylight, cream and subtle forest-green surroundings, realistic skin texture, dignified restrained expressions, natural hands and anatomy. Fictional people, not real participants or endorsements. Medium-wide composition with faces and meaningful actions safe within a central mobile crop. No logos, legible text, captions, graphics, violence, injuries, dramatic distress or promises of recovery. One single photograph, not a collage. Subject: a Rwandan woman, age 43, dark brown skin, short natural hair, muted terracotta blouse. Setting: a tidy family living room, folded laundry, plain appointment folder and water glass. Situation: She pauses tiredly after organizing household tasks and appointments for an unwell adult relative; no patient or medical equipment is shown.",
+      "source": "artifacts/learning-visuals/stress-caregiver-situation.png",
+      "sha256": "ed78e130fdf0ef45898d0c4ec4ec3e9962f1ee011a86b5278d7613e19788802b",
+      "outputs": [
+        {
+          "file": "/images/learning/stress-caregiver-situation-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 49018
+        },
+        {
+          "file": "/images/learning/stress-caregiver-situation-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 129402
+        }
+      ]
+    },
+    {
+      "id": "stress-workplace-situation",
+      "prompt": "Use case: photorealistic-natural. Asset type: one mental-health teaching story photograph, landscape 4:3. Premium natural staged documentary photography in contemporary everyday Rwanda. Warm window daylight, cream and subtle forest-green surroundings, realistic skin texture, dignified restrained expressions, natural hands and anatomy. Fictional people, not real participants or endorsements. Medium-wide composition with faces and meaningful actions safe within a central mobile crop. No logos, legible text, captions, graphics, violence, injuries, dramatic distress or promises of recovery. One single photograph, not a collage. Subject: a Rwandan office worker, age 30, dark brown skin, neat short twists, plain light-green blouse. Setting: a small contemporary office, closed laptop and plain notebook. Situation: She sits thoughtfully after repeated harsh criticism, with restrained worry, no confrontation or aggressor shown.",
+      "source": "artifacts/learning-visuals/stress-workplace-situation.png",
+      "sha256": "f4f9b8776f4e03ce306067d685d80767e335a053abcc49084d47919e09965fa8",
+      "outputs": [
+        {
+          "file": "/images/learning/stress-workplace-situation-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 32398
+        },
+        {
+          "file": "/images/learning/stress-workplace-situation-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 82790
+        }
+      ]
+    },
+    {
+      "id": "anxiety-examination-situation",
+      "prompt": "Use case: photorealistic-natural. Asset type: one mental-health teaching story photograph, landscape 4:3. Premium natural staged documentary photography in contemporary everyday Rwanda. Warm window daylight, cream and subtle forest-green surroundings, realistic skin texture, dignified restrained expressions, natural hands and anatomy. Fictional people, not real participants or endorsements. Medium-wide composition with faces and meaningful actions safe within a central mobile crop. No logos, legible text, captions, graphics, violence, injuries, dramatic distress or promises of recovery. One single photograph, not a collage. Subject: a Rwandan adult female student, age 22, dark brown skin, braided hair tied back, soft blue cotton top. Setting: a bright study space with open books and a simple desk. Situation: She looks tense and thoughtful over examination preparation, hands naturally on notebook.",
+      "source": "artifacts/learning-visuals/anxiety-examination-situation.png",
+      "sha256": "023256c006d731fda552d18c27fc8ecf160ce9580d0e26584376186ff80541c9",
+      "outputs": [
+        {
+          "file": "/images/learning/anxiety-examination-situation-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 39048
+        },
+        {
+          "file": "/images/learning/anxiety-examination-situation-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 101944
+        }
+      ]
+    },
+    {
+      "id": "anxiety-speaking-situation",
+      "prompt": "Use case: photorealistic-natural. Asset type: one mental-health teaching story photograph, landscape 4:3. Premium natural staged documentary photography in contemporary everyday Rwanda. Warm window daylight, cream and subtle forest-green surroundings, realistic skin texture, dignified restrained expressions, natural hands and anatomy. Fictional people, not real participants or endorsements. Medium-wide composition with faces and meaningful actions safe within a central mobile crop. No logos, legible text, captions, graphics, violence, injuries, dramatic distress or promises of recovery. One single photograph, not a collage. Subject: a Rwandan male employee, age 32, dark brown skin, short black hair, cream shirt. Setting: a modest office meeting room with a few ordinary adult colleagues in the background. Situation: He sits quietly at the meeting table, hesitant to speak, without ridicule or hostility.",
+      "source": "artifacts/learning-visuals/anxiety-speaking-situation.png",
+      "sha256": "c255060dfb4a1eadb04a323cd75291d6acaaa0910c589e00c7c8dfe6675b3fab",
+      "outputs": [
+        {
+          "file": "/images/learning/anxiety-speaking-situation-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 37376
+        },
+        {
+          "file": "/images/learning/anxiety-speaking-situation-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 95576
+        }
+      ]
+    },
+    {
+      "id": "stress-examination-support",
+      "prompt": "Use case: photorealistic-natural. Asset type: one mental-health teaching story photograph, landscape 4:3. Premium natural staged documentary photography in contemporary everyday Rwanda. Warm window daylight, cream and subtle forest-green surroundings, realistic skin texture, dignified restrained expressions, natural hands and anatomy. Fictional people, not real participants or endorsements. Medium-wide composition with faces and meaningful actions safe within a central mobile crop. No logos, legible text, captions, graphics, violence, injuries, dramatic distress or promises of recovery. One single photograph, not a collage. Reference image is a character and photographic-style reference only. Make a NEW scene with exactly the same main person's face, age, hair and clothing. Preserve ordinary natural appearance, not sudden happiness or a cure. Main person: a Rwandan university student, age 21, dark brown skin, short natural black hair, muted olive cotton shirt. Supportive next step: The same student and a trusted adult teacher sit at the desk, discussing a realistic study plan and priorities; papers have no readable text.",
+      "reference": "stress-examination-situation",
+      "source": "artifacts/learning-visuals/stress-examination-support.png",
+      "sha256": "30bc9d910136dad930a48c502853ab12c5579cfcd35386d90d0198b25b694d26",
+      "outputs": [
+        {
+          "file": "/images/learning/stress-examination-support-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 35420
+        },
+        {
+          "file": "/images/learning/stress-examination-support-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 97984
+        }
+      ]
+    },
+    {
+      "id": "stress-finances-support",
+      "prompt": "Use case: photorealistic-natural. Asset type: one mental-health teaching story photograph, landscape 4:3. Premium natural staged documentary photography in contemporary everyday Rwanda. Warm window daylight, cream and subtle forest-green surroundings, realistic skin texture, dignified restrained expressions, natural hands and anatomy. Fictional people, not real participants or endorsements. Medium-wide composition with faces and meaningful actions safe within a central mobile crop. No logos, legible text, captions, graphics, violence, injuries, dramatic distress or promises of recovery. One single photograph, not a collage. Reference image is a character and photographic-style reference only. Make a NEW scene with exactly the same main person's face, age, hair and clothing. Preserve ordinary natural appearance, not sudden happiness or a cure. Main person: a Rwandan adult man, age 34, dark brown skin, close-cropped hair, dusty blue shirt. Supportive next step: The same man and a trusted adult friend sit together reviewing a simple household budget and discussing practical support, without suggesting the money problem has disappeared.",
+      "reference": "stress-finances-situation",
+      "source": "artifacts/learning-visuals/stress-finances-support.png",
+      "sha256": "110ef3b3bfd625f4b529f79faee193268fd710467dea46e0303db5768258bc07",
+      "outputs": [
+        {
+          "file": "/images/learning/stress-finances-support-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 48646
+        },
+        {
+          "file": "/images/learning/stress-finances-support-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 133858
+        }
+      ]
+    },
+    {
+      "id": "stress-caregiver-support",
+      "prompt": "Use case: photorealistic-natural. Asset type: one mental-health teaching story photograph, landscape 4:3. Premium natural staged documentary photography in contemporary everyday Rwanda. Warm window daylight, cream and subtle forest-green surroundings, realistic skin texture, dignified restrained expressions, natural hands and anatomy. Fictional people, not real participants or endorsements. Medium-wide composition with faces and meaningful actions safe within a central mobile crop. No logos, legible text, captions, graphics, violence, injuries, dramatic distress or promises of recovery. One single photograph, not a collage. Reference image is a character and photographic-style reference only. Make a NEW scene with exactly the same main person's face, age, hair and clothing. Preserve ordinary natural appearance, not sudden happiness or a cure. Main person: a Rwandan woman, age 43, dark brown skin, short natural hair, muted terracotta blouse. Supportive next step: The same woman and an adult relative share practical planning at the table; relative organizes transport papers while she takes a seated break.",
+      "reference": "stress-caregiver-situation",
+      "source": "artifacts/learning-visuals/stress-caregiver-support.png",
+      "sha256": "b16fe1e15a054c00bfdefb8e44157d0bd551726fbbe332e62f94f69a8b369bcd",
+      "outputs": [
+        {
+          "file": "/images/learning/stress-caregiver-support-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 61800
+        },
+        {
+          "file": "/images/learning/stress-caregiver-support-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 176836
+        }
+      ]
+    },
+    {
+      "id": "stress-workplace-support",
+      "prompt": "Use case: photorealistic-natural. Asset type: one mental-health teaching story photograph, landscape 4:3. Premium natural staged documentary photography in contemporary everyday Rwanda. Warm window daylight, cream and subtle forest-green surroundings, realistic skin texture, dignified restrained expressions, natural hands and anatomy. Fictional people, not real participants or endorsements. Medium-wide composition with faces and meaningful actions safe within a central mobile crop. No logos, legible text, captions, graphics, violence, injuries, dramatic distress or promises of recovery. One single photograph, not a collage. Reference image is a character and photographic-style reference only. Make a NEW scene with exactly the same main person's face, age, hair and clothing. Preserve ordinary natural appearance, not sudden happiness or a cure. Main person: a Rwandan office worker, age 30, dark brown skin, neat short twists, plain light-green blouse. Supportive next step: The same worker speaks privately with a trusted adult adviser in a quiet meeting area, considering workplace support options and a closed notebook.",
+      "reference": "stress-workplace-situation",
+      "source": "artifacts/learning-visuals/stress-workplace-support.png",
+      "sha256": "b4cd8e3f0c301a57ce7192d23ca9b319421894592105938b2ac332623be1e36a",
+      "outputs": [
+        {
+          "file": "/images/learning/stress-workplace-support-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 40996
+        },
+        {
+          "file": "/images/learning/stress-workplace-support-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 111130
+        }
+      ]
+    },
+    {
+      "id": "anxiety-examination-support",
+      "prompt": "Use case: photorealistic-natural. Asset type: one mental-health teaching story photograph, landscape 4:3. Premium natural staged documentary photography in contemporary everyday Rwanda. Warm window daylight, cream and subtle forest-green surroundings, realistic skin texture, dignified restrained expressions, natural hands and anatomy. Fictional people, not real participants or endorsements. Medium-wide composition with faces and meaningful actions safe within a central mobile crop. No logos, legible text, captions, graphics, violence, injuries, dramatic distress or promises of recovery. One single photograph, not a collage. Reference image is a character and photographic-style reference only. Make a NEW scene with exactly the same main person's face, age, hair and clothing. Preserve ordinary natural appearance, not sudden happiness or a cure. Main person: a Rwandan adult female student, age 22, dark brown skin, braided hair tied back, soft blue cotton top. Supportive next step: The same student discusses a manageable revision plan with a trusted adult teacher at the desk; calm attentive interaction without sudden happiness.",
+      "reference": "anxiety-examination-situation",
+      "source": "artifacts/learning-visuals/anxiety-examination-support.png",
+      "sha256": "881cd8b12b9795bda50a226b0f567950374a0c0fc56e34bdd4466fc5dd035a9f",
+      "outputs": [
+        {
+          "file": "/images/learning/anxiety-examination-support-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 46462
+        },
+        {
+          "file": "/images/learning/anxiety-examination-support-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 120984
+        }
+      ]
+    },
+    {
+      "id": "anxiety-speaking-support",
+      "prompt": "Use case: photorealistic-natural. Asset type: one mental-health teaching story photograph, landscape 4:3. Premium natural staged documentary photography in contemporary everyday Rwanda. Warm window daylight, cream and subtle forest-green surroundings, realistic skin texture, dignified restrained expressions, natural hands and anatomy. Fictional people, not real participants or endorsements. Medium-wide composition with faces and meaningful actions safe within a central mobile crop. No logos, legible text, captions, graphics, violence, injuries, dramatic distress or promises of recovery. One single photograph, not a collage. Reference image is a character and photographic-style reference only. Make a NEW scene with exactly the same main person's face, age, hair and clothing. Preserve ordinary natural appearance, not sudden happiness or a cure. Main person: a Rwandan male employee, age 32, dark brown skin, short black hair, cream shirt. Supportive next step: The same employee has a private supportive conversation with a fictional adult practitioner in a plain green blouse in a quiet office; no certificates or badges.",
+      "reference": "anxiety-speaking-situation",
+      "source": "artifacts/learning-visuals/anxiety-speaking-support.png",
+      "sha256": "80f19ed70c9920b1233445eb17ea19cc6921c84d39ac5509d51b6abf0a3dc05d",
+      "outputs": [
+        {
+          "file": "/images/learning/anxiety-speaking-support-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 44246
+        },
+        {
+          "file": "/images/learning/anxiety-speaking-support-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 119268
+        }
+      ]
+    },
+    {
+      "id": "anxiety-travel-situation",
+      "prompt": "Use case: photorealistic-natural. Asset type: one mental-health teaching story photograph, landscape 4:3. Premium natural staged documentary photography in contemporary everyday Rwanda. Warm window daylight, cream and subtle forest-green surroundings, realistic skin texture, dignified restrained expressions, natural hands and anatomy. Fictional people, not real participants or endorsements. Medium-wide composition with faces and meaningful actions safe within a central mobile crop. No logos, legible text, captions, graphics, violence, injuries, dramatic distress or promises of recovery. One single photograph, not a collage. Subject: a Rwandan adult female passenger, age 29, dark brown skin, short neat braids, dusty rose shirt. Setting: a safely parked passenger minibus in daylight, open door and a nearby sheltered seating area. Situation: She is seated with a companion, appearing worried by new dizziness and breathing discomfort, no collapse, injury or dramatic gasping.",
+      "source": "artifacts/learning-visuals/anxiety-travel-situation.png",
+      "sha256": "8723a03c9d2b6e6e277aadf3b89a454865923f1aa1d56abd7f922701a2f732c8",
+      "outputs": [
+        {
+          "file": "/images/learning/anxiety-travel-situation-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 55364
+        },
+        {
+          "file": "/images/learning/anxiety-travel-situation-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 167790
+        }
+      ]
+    },
+    {
+      "id": "anxiety-finances-situation",
+      "prompt": "Use case: photorealistic-natural. Asset type: one mental-health teaching story photograph, landscape 4:3. Premium natural staged documentary photography in contemporary everyday Rwanda. Warm window daylight, cream and subtle forest-green surroundings, realistic skin texture, dignified restrained expressions, natural hands and anatomy. Fictional people, not real participants or endorsements. Medium-wide composition with faces and meaningful actions safe within a central mobile crop. No logos, legible text, captions, graphics, violence, injuries, dramatic distress or promises of recovery. One single photograph, not a collage. Subject: a Rwandan caregiver woman, age 39, dark brown skin, natural hair in a low bun, sage cardigan. Setting: a simple family dining area with household papers and a school bag in the background. Situation: She looks concerned while considering school costs and essential expenses, no child distress depicted.",
+      "source": "artifacts/learning-visuals/anxiety-finances-situation.png",
+      "sha256": "4050199a7b34242eb027418a2999470bf90dc1bf0f29aeb264dec431f9020131",
+      "outputs": [
+        {
+          "file": "/images/learning/anxiety-finances-situation-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 46628
+        },
+        {
+          "file": "/images/learning/anxiety-finances-situation-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 138348
+        }
+      ]
+    },
+    {
+      "id": "depression-student-situation",
+      "prompt": "Use case: photorealistic-natural. Asset type: one mental-health teaching story photograph, landscape 4:3. Premium natural staged documentary photography in contemporary everyday Rwanda. Warm window daylight, cream and subtle forest-green surroundings, realistic skin texture, dignified restrained expressions, natural hands and anatomy. Fictional people, not real participants or endorsements. Medium-wide composition with faces and meaningful actions safe within a central mobile crop. No logos, legible text, captions, graphics, violence, injuries, dramatic distress or promises of recovery. One single photograph, not a collage. Subject: a Rwandan university student, age 23, dark brown skin, short coiled black hair, muted blue overshirt. Setting: a modest student room, desk, untouched books, phone resting nearby. Situation: The student appears quietly withdrawn and low in energy after weeks of missing classes, without exaggerated distress or hopeless imagery.",
+      "source": "artifacts/learning-visuals/depression-student-situation.png",
+      "sha256": "1f87e1bf01d142b195dc2cc781e4fc8ba4ea7f2abc1b39b357c35a4ffa97a0dc",
+      "outputs": [
+        {
+          "file": "/images/learning/depression-student-situation-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 44782
+        },
+        {
+          "file": "/images/learning/depression-student-situation-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 113610
+        }
+      ]
+    },
+    {
+      "id": "depression-parent-situation",
+      "prompt": "Use case: photorealistic-natural. Asset type: one mental-health teaching story photograph, landscape 4:3. Premium natural staged documentary photography in contemporary everyday Rwanda. Warm window daylight, cream and subtle forest-green surroundings, realistic skin texture, dignified restrained expressions, natural hands and anatomy. Fictional people, not real participants or endorsements. Medium-wide composition with faces and meaningful actions safe within a central mobile crop. No logos, legible text, captions, graphics, violence, injuries, dramatic distress or promises of recovery. One single photograph, not a collage. Subject: a Rwandan new parent woman, age 31, dark brown skin, neatly tied natural hair, soft beige cardigan. Setting: a bright family living room with folded baby blankets and a bassinet safely in the background. Situation: She sits quietly looking tired and overwhelmed; no infant needs to be visible, no unsafe care situation.",
+      "source": "artifacts/learning-visuals/depression-parent-situation.png",
+      "sha256": "7db2f78d8ca4705df090cc00db50ce35e369e379d7d210da019e59912a795131",
+      "outputs": [
+        {
+          "file": "/images/learning/depression-parent-situation-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 61946
+        },
+        {
+          "file": "/images/learning/depression-parent-situation-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 179150
+        }
+      ]
+    },
+    {
+      "id": "depression-income-situation",
+      "prompt": "Use case: photorealistic-natural. Asset type: one mental-health teaching story photograph, landscape 4:3. Premium natural staged documentary photography in contemporary everyday Rwanda. Warm window daylight, cream and subtle forest-green surroundings, realistic skin texture, dignified restrained expressions, natural hands and anatomy. Fictional people, not real participants or endorsements. Medium-wide composition with faces and meaningful actions safe within a central mobile crop. No logos, legible text, captions, graphics, violence, injuries, dramatic distress or promises of recovery. One single photograph, not a collage. Subject: a Rwandan adult worker man, age 41, dark brown skin, short hair, rust-brown polo shirt. Setting: a modest home dining table, plain work folder and closed laptop. Situation: He sits withdrawn and exhausted after losing income, with restrained thoughtful expression.",
+      "source": "artifacts/learning-visuals/depression-income-situation.png",
+      "sha256": "799cf2d595860984c165cbfc836289d0f46cd8de7be90dfdc9368d3775502bc1",
+      "outputs": [
+        {
+          "file": "/images/learning/depression-income-situation-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 43496
+        },
+        {
+          "file": "/images/learning/depression-income-situation-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 129074
+        }
+      ]
+    },
+    {
+      "id": "anxiety-travel-support",
+      "prompt": "Use case: photorealistic-natural. Asset type: one mental-health teaching story photograph, landscape 4:3. Premium natural staged documentary photography in contemporary everyday Rwanda. Warm window daylight, cream and subtle forest-green surroundings, realistic skin texture, dignified restrained expressions, natural hands and anatomy. Fictional people, not real participants or endorsements. Medium-wide composition with faces and meaningful actions safe within a central mobile crop. No logos, legible text, captions, graphics, violence, injuries, dramatic distress or promises of recovery. One single photograph, not a collage. Avoid repetitive head-in-hands poses; express the situation through context and quiet body language. Reference is for main-person identity and photographic style. Create a NEW scene with the SAME main face, age, hair and clothing. Main person: a Rwandan adult female passenger, age 29, dark brown skin, short neat braids, dusty rose shirt. Supportive next step: The same passenger and companion speak with a fictional healthcare worker in a simple clinic assessment room; everyone seated, no equipment procedure or diagnosis.. Preserve thoughtful expressions; do not imply an instant cure or confirmed diagnosis.",
+      "reference": "anxiety-travel-situation",
+      "source": "artifacts/learning-visuals/anxiety-travel-support.png",
+      "sha256": "2c1c0cde94573694857f67a21fba6550b4d6a7460c19eaca24cc97110c9851bf",
+      "outputs": [
+        {
+          "file": "/images/learning/anxiety-travel-support-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 51268
+        },
+        {
+          "file": "/images/learning/anxiety-travel-support-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 145432
+        }
+      ]
+    },
+    {
+      "id": "anxiety-finances-support",
+      "prompt": "Use case: photorealistic-natural. Asset type: one mental-health teaching story photograph, landscape 4:3. Premium natural staged documentary photography in contemporary everyday Rwanda. Warm window daylight, cream and subtle forest-green surroundings, realistic skin texture, dignified restrained expressions, natural hands and anatomy. Fictional people, not real participants or endorsements. Medium-wide composition with faces and meaningful actions safe within a central mobile crop. No logos, legible text, captions, graphics, violence, injuries, dramatic distress or promises of recovery. One single photograph, not a collage. Avoid repetitive head-in-hands poses; express the situation through context and quiet body language. Reference is for main-person identity and photographic style. Create a NEW scene with the SAME main face, age, hair and clothing. Main person: a Rwandan caregiver woman, age 39, dark brown skin, natural hair in a low bun, sage cardigan. Supportive next step: The same caregiver and a trusted adult friend sit together identifying practical assistance and organizing a few household papers.. Preserve thoughtful expressions; do not imply an instant cure or confirmed diagnosis.",
+      "reference": "anxiety-finances-situation",
+      "source": "artifacts/learning-visuals/anxiety-finances-support.png",
+      "sha256": "7e7a7cdaa8e369a96f25ed5b4c688c8c2f758e889e1b0cf4db65a039b0f7c488",
+      "outputs": [
+        {
+          "file": "/images/learning/anxiety-finances-support-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 54186
+        },
+        {
+          "file": "/images/learning/anxiety-finances-support-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 177068
+        }
+      ]
+    },
+    {
+      "id": "depression-student-support",
+      "prompt": "Use case: photorealistic-natural. Asset type: one mental-health teaching story photograph, landscape 4:3. Premium natural staged documentary photography in contemporary everyday Rwanda. Warm window daylight, cream and subtle forest-green surroundings, realistic skin texture, dignified restrained expressions, natural hands and anatomy. Fictional people, not real participants or endorsements. Medium-wide composition with faces and meaningful actions safe within a central mobile crop. No logos, legible text, captions, graphics, violence, injuries, dramatic distress or promises of recovery. One single photograph, not a collage. Avoid repetitive head-in-hands poses; express the situation through context and quiet body language. Reference is for main-person identity and photographic style. Create a NEW scene with the SAME main face, age, hair and clothing. Main person: a Rwandan university student, age 23, dark brown skin, short coiled black hair, muted blue overshirt. Supportive next step: The same student talks privately with a trusted adult support person who listens and offers help arranging healthcare and academic support.. Preserve thoughtful expressions; do not imply an instant cure or confirmed diagnosis.",
+      "reference": "depression-student-situation",
+      "source": "artifacts/learning-visuals/depression-student-support.png",
+      "sha256": "051058ebc049fa45538f4dd9f6619ad4a1d77c75a4fe9eb750b3aa7a9f3a256e",
+      "outputs": [
+        {
+          "file": "/images/learning/depression-student-support-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 48942
+        },
+        {
+          "file": "/images/learning/depression-student-support-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 130624
+        }
+      ]
+    },
+    {
+      "id": "depression-parent-support",
+      "prompt": "Use case: photorealistic-natural. Asset type: one mental-health teaching story photograph, landscape 4:3. Premium natural staged documentary photography in contemporary everyday Rwanda. Warm window daylight, cream and subtle forest-green surroundings, realistic skin texture, dignified restrained expressions, natural hands and anatomy. Fictional people, not real participants or endorsements. Medium-wide composition with faces and meaningful actions safe within a central mobile crop. No logos, legible text, captions, graphics, violence, injuries, dramatic distress or promises of recovery. One single photograph, not a collage. Avoid repetitive head-in-hands poses; express the situation through context and quiet body language. Reference is for main-person identity and photographic style. Create a NEW scene with the SAME main face, age, hair and clothing. Main person: a Rwandan new parent woman, age 31, dark brown skin, neatly tied natural hair, soft beige cardigan. Supportive next step: The same parent speaks privately with a fictional maternal healthcare practitioner while an adult partner quietly organizes practical household help in the background.. Preserve thoughtful expressions; do not imply an instant cure or confirmed diagnosis.",
+      "reference": "depression-parent-situation",
+      "source": "artifacts/learning-visuals/depression-parent-support.png",
+      "sha256": "89bccbe5c53eac86b3b4d5ffe90c6ca53c08e885e09ef7f2c3dd1e91c3ea73a2",
+      "outputs": [
+        {
+          "file": "/images/learning/depression-parent-support-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 60942
+        },
+        {
+          "file": "/images/learning/depression-parent-support-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 179596
+        }
+      ]
+    },
+    {
+      "id": "depression-income-support",
+      "prompt": "Use case: photorealistic-natural. Asset type: one mental-health teaching story photograph, landscape 4:3. Premium natural staged documentary photography in contemporary everyday Rwanda. Warm window daylight, cream and subtle forest-green surroundings, realistic skin texture, dignified restrained expressions, natural hands and anatomy. Fictional people, not real participants or endorsements. Medium-wide composition with faces and meaningful actions safe within a central mobile crop. No logos, legible text, captions, graphics, violence, injuries, dramatic distress or promises of recovery. One single photograph, not a collage. Avoid repetitive head-in-hands poses; express the situation through context and quiet body language. Reference is for main-person identity and photographic style. Create a NEW scene with the SAME main face, age, hair and clothing. Main person: a Rwandan adult worker man, age 41, dark brown skin, short hair, rust-brown polo shirt. Supportive next step: The same man and an adult support worker talk at a quiet community office, considering both care access and practical financial or social assistance.. Preserve thoughtful expressions; do not imply an instant cure or confirmed diagnosis.",
+      "reference": "depression-income-situation",
+      "source": "artifacts/learning-visuals/depression-income-support.png",
+      "sha256": "b1248fb373f49e95de76a5f87119b48f187e325ba7087d6282757686342025f3",
+      "outputs": [
+        {
+          "file": "/images/learning/depression-income-support-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 51218
+        },
+        {
+          "file": "/images/learning/depression-income-support-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 140634
+        }
+      ]
+    },
+    {
+      "id": "depression-older-adult-situation",
+      "prompt": "Use case: photorealistic-natural. Asset type: one mental-health teaching story photograph, landscape 4:3. Premium natural staged documentary photography in contemporary everyday Rwanda. Warm window daylight, cream and subtle forest-green surroundings, realistic skin texture, dignified restrained expressions, natural hands and anatomy. Fictional people, not real participants or endorsements. Medium-wide composition with faces and meaningful actions safe within a central mobile crop. No logos, legible text, captions, graphics, violence, injuries, dramatic distress or promises of recovery. One single photograph, not a collage. Avoid repetitive head-in-hands poses; express the situation through context and quiet body language. Subject: a Rwandan older woman, age 69, dark brown skin, short grey natural hair, dusty green blouse. Setting: an accessible quiet living room with a comfortable chair and walking stick resting nearby. Situation: She sits thoughtfully with low energy, a family photo on a side table, without exaggerated pain or frailty.",
+      "source": "artifacts/learning-visuals/depression-older-adult-situation.png",
+      "sha256": "d4b52e0687355ea6636d89abf05d09a1359d7ba8837c412fdf1eeb1fd2133e7e",
+      "outputs": [
+        {
+          "file": "/images/learning/depression-older-adult-situation-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 63248
+        },
+        {
+          "file": "/images/learning/depression-older-adult-situation-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 196394
+        }
+      ]
+    },
+    {
+      "id": "trauma-road-situation",
+      "prompt": "Use case: photorealistic-natural. Asset type: one mental-health teaching story photograph, landscape 4:3. Premium natural staged documentary photography in contemporary everyday Rwanda. Warm window daylight, cream and subtle forest-green surroundings, realistic skin texture, dignified restrained expressions, natural hands and anatomy. Fictional people, not real participants or endorsements. Medium-wide composition with faces and meaningful actions safe within a central mobile crop. No logos, legible text, captions, graphics, violence, injuries, dramatic distress or promises of recovery. One single photograph, not a collage. Avoid repetitive head-in-hands poses; express the situation through context and quiet body language. Subject: a Rwandan adult university student, age 24, dark brown skin, short black hair, muted teal shirt. Setting: a quiet campus courtyard well away from traffic, ordinary daylight. Situation: He looks tense and tired while considering transport, holding a plain backpack; do not show the accident, injury, damaged vehicle or flashback.",
+      "source": "artifacts/learning-visuals/trauma-road-situation.png",
+      "sha256": "fc3ac12425306294c51e78bdd292c6ecf3cba9d6cb7fdc3ecf996b5dbf172ac6",
+      "outputs": [
+        {
+          "file": "/images/learning/trauma-road-situation-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 67702
+        },
+        {
+          "file": "/images/learning/trauma-road-situation-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 186496
+        }
+      ]
+    },
+    {
+      "id": "trauma-health-worker-situation",
+      "prompt": "Use case: photorealistic-natural. Asset type: one mental-health teaching story photograph, landscape 4:3. Premium natural staged documentary photography in contemporary everyday Rwanda. Warm window daylight, cream and subtle forest-green surroundings, realistic skin texture, dignified restrained expressions, natural hands and anatomy. Fictional people, not real participants or endorsements. Medium-wide composition with faces and meaningful actions safe within a central mobile crop. No logos, legible text, captions, graphics, violence, injuries, dramatic distress or promises of recovery. One single photograph, not a collage. Avoid repetitive head-in-hands poses; express the situation through context and quiet body language. Subject: a Rwandan healthcare worker woman, age 37, dark brown skin, short braids, plain unbranded sage scrubs. Setting: a quiet staff rest area with window light, no patients or clinical emergency. Situation: She sits tiredly after a difficult shift, with a cup of water, thoughtful rather than incapacitated.",
+      "source": "artifacts/learning-visuals/trauma-health-worker-situation.png",
+      "sha256": "1937f29a31f5b538bac02e3a6af8415addd2bb7033a1a028de196c2f5f901215",
+      "outputs": [
+        {
+          "file": "/images/learning/trauma-health-worker-situation-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 42440
+        },
+        {
+          "file": "/images/learning/trauma-health-worker-situation-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 123062
+        }
+      ]
+    },
+    {
+      "id": "trauma-threats-situation",
+      "prompt": "Use case: photorealistic-natural. Asset type: one mental-health teaching story photograph, landscape 4:3. Premium natural staged documentary photography in contemporary everyday Rwanda. Warm window daylight, cream and subtle forest-green surroundings, realistic skin texture, dignified restrained expressions, natural hands and anatomy. Fictional people, not real participants or endorsements. Medium-wide composition with faces and meaningful actions safe within a central mobile crop. No logos, legible text, captions, graphics, violence, injuries, dramatic distress or promises of recovery. One single photograph, not a collage. Avoid repetitive head-in-hands poses; express the situation through context and quiet body language. Subject: a Rwandan adult woman, age 35, dark brown skin, neat shoulder-length twists, muted plum blouse. Setting: a calm private room in a trusted community support setting, clear open space and daylight. Situation: She appears watchful and thoughtful while seated alone; no threatening person, confrontation, weapon or violent scene.",
+      "source": "artifacts/learning-visuals/trauma-threats-situation.png",
+      "sha256": "cbd773855d7b80855b4e94226d5e6fb6463a34d25247ebc6222b9ca9017160e0",
+      "outputs": [
+        {
+          "file": "/images/learning/trauma-threats-situation-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 39570
+        },
+        {
+          "file": "/images/learning/trauma-threats-situation-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 115874
+        }
+      ]
+    },
+    {
+      "id": "trauma-adolescent-situation",
+      "prompt": "Use case: photorealistic-natural. Asset type: one mental-health teaching story photograph, landscape 4:3. Premium natural staged documentary photography in contemporary everyday Rwanda. Warm window daylight, cream and subtle forest-green surroundings, realistic skin texture, dignified restrained expressions, natural hands and anatomy. Fictional people, not real participants or endorsements. Medium-wide composition with faces and meaningful actions safe within a central mobile crop. No logos, legible text, captions, graphics, violence, injuries, dramatic distress or promises of recovery. One single photograph, not a collage. Avoid repetitive head-in-hands poses; express the situation through context and quiet body language. Subject: a fictional Rwandan adolescent boy, age 16, dark brown skin, short black hair, ordinary blue school sweater. Setting: a quiet school courtyard and nearby private pastoral-support room. Situation: He sits quietly apart from peers after an unspecified frightening event, backpack beside him; no event, injury, abuse or humiliation shown.",
+      "source": "artifacts/learning-visuals/trauma-adolescent-situation.png",
+      "sha256": "3de60e67b585d36b66e7144d68c5c8a136cccbdd933a966c138e71522591bf60",
+      "outputs": [
+        {
+          "file": "/images/learning/trauma-adolescent-situation-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 53956
+        },
+        {
+          "file": "/images/learning/trauma-adolescent-situation-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 129292
+        }
+      ]
+    },
+    {
+      "id": "grief-student-situation",
+      "prompt": "Use case: photorealistic-natural. Asset type: one mental-health teaching story photograph, landscape 4:3. Premium natural staged documentary photography in contemporary everyday Rwanda. Warm window daylight, cream and subtle forest-green surroundings, realistic skin texture, dignified restrained expressions, natural hands and anatomy. Fictional people, not real participants or endorsements. Medium-wide composition with faces and meaningful actions safe within a central mobile crop. No logos, legible text, captions, graphics, violence, injuries, dramatic distress or promises of recovery. One single photograph, not a collage. Avoid repetitive head-in-hands poses; express the situation through context and quiet body language. Subject: a Rwandan university student woman, age 22, dark brown skin, neatly pulled-back braids, cream and sage clothing. Setting: a bright quiet campus study area, ordinary backpack and books. Situation: She looks reflective and distracted after a parent's death, thinking about studies and family responsibilities; no deceased person, funeral or crying close-up.",
+      "source": "artifacts/learning-visuals/grief-student-situation.png",
+      "sha256": "343f13cce06cd959ee3492a228d39c90de124fee5d96ec861f326a9f32677880",
+      "outputs": [
+        {
+          "file": "/images/learning/grief-student-situation-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 37060
+        },
+        {
+          "file": "/images/learning/grief-student-situation-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 102902
+        }
+      ]
+    },
+    {
+      "id": "grief-employment-situation",
+      "prompt": "Use case: photorealistic-natural. Asset type: one mental-health teaching story photograph, landscape 4:3. Premium natural staged documentary photography in contemporary everyday Rwanda. Warm window daylight, cream and subtle forest-green surroundings, realistic skin texture, dignified restrained expressions, natural hands and anatomy. Fictional people, not real participants or endorsements. Medium-wide composition with faces and meaningful actions safe within a central mobile crop. No logos, legible text, captions, graphics, violence, injuries, dramatic distress or promises of recovery. One single photograph, not a collage. Avoid repetitive head-in-hands poses; express the situation through context and quiet body language. Subject: a Rwandan adult worker woman, age 46, dark brown skin, short natural hair, muted ochre blouse. Setting: a modest home with a plain work folder, closed laptop and dining table. Situation: She looks thoughtful and uncertain after losing long-held employment, no eviction or degrading imagery.",
+      "source": "artifacts/learning-visuals/grief-employment-situation.png",
+      "sha256": "f0954b700af56b7b458caebbd61e64b56903464cdce5bde02012bf2ce9a23e21",
+      "outputs": [
+        {
+          "file": "/images/learning/grief-employment-situation-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 33394
+        },
+        {
+          "file": "/images/learning/grief-employment-situation-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 91562
+        }
+      ]
+    },
+    {
+      "id": "grief-assessment-situation",
+      "prompt": "Use case: photorealistic-natural. Asset type: one mental-health teaching story photograph, landscape 4:3. Premium natural staged documentary photography in contemporary everyday Rwanda. Warm window daylight, cream and subtle forest-green surroundings, realistic skin texture, dignified restrained expressions, natural hands and anatomy. Fictional people, not real participants or endorsements. Medium-wide composition with faces and meaningful actions safe within a central mobile crop. No logos, legible text, captions, graphics, violence, injuries, dramatic distress or promises of recovery. One single photograph, not a collage. Avoid repetitive head-in-hands poses; express the situation through context and quiet body language. Subject: a Rwandan adult bereaved woman, age 40, dark brown skin, short twists pulled back, dusty blue blouse. Setting: a quiet uncluttered home with everyday tasks left on a table. Situation: She sits withdrawn and reflective with daily obligations feeling difficult long after a partner's death; no self-harm, deceased person or extreme distress.",
+      "source": "artifacts/learning-visuals/grief-assessment-situation.png",
+      "sha256": "d1ea359b1c72d959a001e9e2ff787ba0c503247fe9aedbe90de2ce930b159b17",
+      "outputs": [
+        {
+          "file": "/images/learning/grief-assessment-situation-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 31446
+        },
+        {
+          "file": "/images/learning/grief-assessment-situation-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 78134
+        }
+      ]
+    },
+    {
+      "id": "grief-child-situation",
+      "prompt": "Use case: photorealistic-natural. Asset type: one mental-health teaching story photograph, landscape 4:3. Premium natural staged documentary photography in contemporary everyday Rwanda. Warm window daylight, cream and subtle forest-green surroundings, realistic skin texture, dignified restrained expressions, natural hands and anatomy. Fictional people, not real participants or endorsements. Medium-wide composition with faces and meaningful actions safe within a central mobile crop. No logos, legible text, captions, graphics, violence, injuries, dramatic distress or promises of recovery. One single photograph, not a collage. Avoid repetitive head-in-hands poses; express the situation through context and quiet body language. Subject: a fictional Rwandan child boy, age 8, dark brown skin, short coiled black hair, plain green T-shirt. Setting: a bright family living room with a small bookshelf and everyday toys. Situation: The child sits with a thoughtful puzzled expression next to a trusted adult caregiver, no frightening imagery, no bedroom or deceased person.",
+      "source": "artifacts/learning-visuals/grief-child-situation.png",
+      "sha256": "c854fb3d5c77fb3844de81350b8686b7fc8b483c7db18133546148f77605b5a3",
+      "outputs": [
+        {
+          "file": "/images/learning/grief-child-situation-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 59006
+        },
+        {
+          "file": "/images/learning/grief-child-situation-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 174702
+        }
+      ]
+    },
+    {
+      "id": "grief-anniversary-situation",
+      "prompt": "Use case: photorealistic-natural. Asset type: one mental-health teaching story photograph, landscape 4:3. Premium natural staged documentary photography in contemporary everyday Rwanda. Warm window daylight, cream and subtle forest-green surroundings, realistic skin texture, dignified restrained expressions, natural hands and anatomy. Fictional people, not real participants or endorsements. Medium-wide composition with faces and meaningful actions safe within a central mobile crop. No logos, legible text, captions, graphics, violence, injuries, dramatic distress or promises of recovery. One single photograph, not a collage. Avoid repetitive head-in-hands poses; express the situation through context and quiet body language. Subject: a Rwandan adult parent man, age 48, dark brown skin, short hair with slight greying, soft olive shirt. Setting: a quiet home veranda with two chairs and a small leafy plant. Situation: He sits reflectively on a difficult anniversary, holding an ordinary closed photo album without visible portraits.",
+      "source": "artifacts/learning-visuals/grief-anniversary-situation.png",
+      "sha256": "b550fa3e3d43694534cb65e4a78eeed21e280793289b25f77f959a3c9fcf3511",
+      "outputs": [
+        {
+          "file": "/images/learning/grief-anniversary-situation-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 47028
+        },
+        {
+          "file": "/images/learning/grief-anniversary-situation-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 126368
+        }
+      ]
+    },
+    {
+      "id": "depression-older-adult-support",
+      "prompt": "Use case: photorealistic-natural. Asset type: one mental-health teaching story photograph, landscape 4:3. Premium natural staged documentary photography in contemporary everyday Rwanda. Warm window daylight, cream and subtle forest-green surroundings, realistic skin texture, dignified restrained expressions, natural hands and anatomy. Fictional people, not real participants or endorsements. Medium-wide composition with faces and meaningful actions safe within a central mobile crop. No logos, legible text, captions, graphics, violence, injuries, dramatic distress or promises of recovery. One single photograph, not a collage. Reference image is for identity and photographic style only. Create a new supportive-next-step photograph with the SAME main person's face, age, hair and clothing. Main person: a Rwandan older woman, age 69, dark brown skin, short grey natural hair, dusty green blouse. Supportive scene: The same older woman, accompanied by an adult relative if welcome, talks with a fictional healthcare practitioner in an accessible clinic room.. Use natural anatomy, respectful listening and comfortable personal space. No surprise cure, no guaranteed outcome, no graphic event, no coercion, no readable text or badges. Keep both faces and meaningful actions clearly visible. One single landscape photo.",
+      "reference": "depression-older-adult-situation",
+      "source": "artifacts/learning-visuals/depression-older-adult-support.png",
+      "sha256": "7ba809864403a18d71a224aaadcd90d1b6891a9c1f8e5e888fd351307db1c9d9",
+      "outputs": [
+        {
+          "file": "/images/learning/depression-older-adult-support-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 47600
+        },
+        {
+          "file": "/images/learning/depression-older-adult-support-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 127794
+        }
+      ]
+    },
+    {
+      "id": "trauma-road-support",
+      "prompt": "Use case: photorealistic-natural. Asset type: one mental-health teaching story photograph, landscape 4:3. Premium natural staged documentary photography in contemporary everyday Rwanda. Warm window daylight, cream and subtle forest-green surroundings, realistic skin texture, dignified restrained expressions, natural hands and anatomy. Fictional people, not real participants or endorsements. Medium-wide composition with faces and meaningful actions safe within a central mobile crop. No logos, legible text, captions, graphics, violence, injuries, dramatic distress or promises of recovery. One single photograph, not a collage. Reference image is for identity and photographic style only. Create a new supportive-next-step photograph with the SAME main person's face, age, hair and clothing. Main person: a Rwandan adult university student, age 24, dark brown skin, short black hair, muted teal shirt. Supportive scene: The same student and a trusted adult adviser discuss practical transport assistance and a healthcare appointment in a calm campus office.. Use natural anatomy, respectful listening and comfortable personal space. No surprise cure, no guaranteed outcome, no graphic event, no coercion, no readable text or badges. Keep both faces and meaningful actions clearly visible. One single landscape photo.",
+      "reference": "trauma-road-situation",
+      "source": "artifacts/learning-visuals/trauma-road-support.png",
+      "sha256": "3fe641fc40b9e6b626a36aaa8b7a4d4687293e759cc715390bfa476cc57985fe",
+      "outputs": [
+        {
+          "file": "/images/learning/trauma-road-support-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 47496
+        },
+        {
+          "file": "/images/learning/trauma-road-support-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 129442
+        }
+      ]
+    },
+    {
+      "id": "trauma-health-worker-support",
+      "prompt": "Use case: photorealistic-natural. Asset type: one mental-health teaching story photograph, landscape 4:3. Premium natural staged documentary photography in contemporary everyday Rwanda. Warm window daylight, cream and subtle forest-green surroundings, realistic skin texture, dignified restrained expressions, natural hands and anatomy. Fictional people, not real participants or endorsements. Medium-wide composition with faces and meaningful actions safe within a central mobile crop. No logos, legible text, captions, graphics, violence, injuries, dramatic distress or promises of recovery. One single photograph, not a collage. Reference image is for identity and photographic style only. Create a new supportive-next-step photograph with the SAME main person's face, age, hair and clothing. Main person: a Rwandan healthcare worker woman, age 37, dark brown skin, short braids, plain unbranded sage scrubs. Supportive scene: The same worker talks privately with an adult support professional in a quiet staff wellbeing room; equal eye level, no intrusive questioning or certificates.. Use natural anatomy, respectful listening and comfortable personal space. No surprise cure, no guaranteed outcome, no graphic event, no coercion, no readable text or badges. Keep both faces and meaningful actions clearly visible. One single landscape photo.",
+      "reference": "trauma-health-worker-situation",
+      "source": "artifacts/learning-visuals/trauma-health-worker-support.png",
+      "sha256": "dd4c420f175a6e6f873a5b365886ce35247d5cdac6b049d2aed0d02a03781cc9",
+      "outputs": [
+        {
+          "file": "/images/learning/trauma-health-worker-support-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 48352
+        },
+        {
+          "file": "/images/learning/trauma-health-worker-support-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 144118
+        }
+      ]
+    },
+    {
+      "id": "trauma-threats-support",
+      "prompt": "Use case: photorealistic-natural. Asset type: one mental-health teaching story photograph, landscape 4:3. Premium natural staged documentary photography in contemporary everyday Rwanda. Warm window daylight, cream and subtle forest-green surroundings, realistic skin texture, dignified restrained expressions, natural hands and anatomy. Fictional people, not real participants or endorsements. Medium-wide composition with faces and meaningful actions safe within a central mobile crop. No logos, legible text, captions, graphics, violence, injuries, dramatic distress or promises of recovery. One single photograph, not a collage. Reference image is for identity and photographic style only. Create a new supportive-next-step photograph with the SAME main person's face, age, hair and clothing. Main person: a Rwandan adult woman, age 35, dark brown skin, neat shoulder-length twists, muted plum blouse. Supportive scene: The same woman speaks privately with a fictional qualified support practitioner about present safety and practical assistance, with comfortable space and no physical contact.. Use natural anatomy, respectful listening and comfortable personal space. No surprise cure, no guaranteed outcome, no graphic event, no coercion, no readable text or badges. Keep both faces and meaningful actions clearly visible. One single landscape photo.",
+      "reference": "trauma-threats-situation",
+      "source": "artifacts/learning-visuals/trauma-threats-support.png",
+      "sha256": "9d3a11c55292cbca9fdd72ff3405686c87de66960d2c536f1fb4c16b772eacfd",
+      "outputs": [
+        {
+          "file": "/images/learning/trauma-threats-support-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 50914
+        },
+        {
+          "file": "/images/learning/trauma-threats-support-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 145700
+        }
+      ]
+    },
+    {
+      "id": "trauma-adolescent-support",
+      "prompt": "Use case: photorealistic-natural. Asset type: one mental-health teaching story photograph, landscape 4:3. Premium natural staged documentary photography in contemporary everyday Rwanda. Warm window daylight, cream and subtle forest-green surroundings, realistic skin texture, dignified restrained expressions, natural hands and anatomy. Fictional people, not real participants or endorsements. Medium-wide composition with faces and meaningful actions safe within a central mobile crop. No logos, legible text, captions, graphics, violence, injuries, dramatic distress or promises of recovery. One single photograph, not a collage. Reference image is for identity and photographic style only. Create a new supportive-next-step photograph with the SAME main person's face, age, hair and clothing. Main person: a fictional Rwandan adolescent boy, age 16, dark brown skin, short black hair, ordinary blue school sweater. Supportive scene: The same adolescent has a respectful conversation with a trusted adult school support person in a private room, no closed locked door or coercion.. Use natural anatomy, respectful listening and comfortable personal space. No surprise cure, no guaranteed outcome, no graphic event, no coercion, no readable text or badges. Keep both faces and meaningful actions clearly visible. One single landscape photo.",
+      "reference": "trauma-adolescent-situation",
+      "source": "artifacts/learning-visuals/trauma-adolescent-support.png",
+      "sha256": "fcf8ad5b6580e790d2b3b01c6db6ff5f89534aeb4a28bedb6ca17468884f3d05",
+      "outputs": [
+        {
+          "file": "/images/learning/trauma-adolescent-support-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 53458
+        },
+        {
+          "file": "/images/learning/trauma-adolescent-support-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 154532
+        }
+      ]
+    },
+    {
+      "id": "grief-student-support",
+      "prompt": "Use case: photorealistic-natural. Asset type: one mental-health teaching story photograph, landscape 4:3. Premium natural staged documentary photography in contemporary everyday Rwanda. Warm window daylight, cream and subtle forest-green surroundings, realistic skin texture, dignified restrained expressions, natural hands and anatomy. Fictional people, not real participants or endorsements. Medium-wide composition with faces and meaningful actions safe within a central mobile crop. No logos, legible text, captions, graphics, violence, injuries, dramatic distress or promises of recovery. One single photograph, not a collage. Reference image is for identity and photographic style only. Create a new supportive-next-step photograph with the SAME main person's face, age, hair and clothing. Main person: a Rwandan university student woman, age 22, dark brown skin, neatly pulled-back braids, cream and sage clothing. Supportive scene: The same student talks with a trusted adult campus adviser about temporary academic flexibility and practical support, without visible forms or readable text.. Use natural anatomy, respectful listening and comfortable personal space. No surprise cure, no guaranteed outcome, no graphic event, no coercion, no readable text or badges. Keep both faces and meaningful actions clearly visible. One single landscape photo.",
+      "reference": "grief-student-situation",
+      "source": "artifacts/learning-visuals/grief-student-support.png",
+      "sha256": "bf0718370c6ea8555e8d541bdff72a39d88aecb53465dc4171a2227de7af96ba",
+      "outputs": [
+        {
+          "file": "/images/learning/grief-student-support-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 46536
+        },
+        {
+          "file": "/images/learning/grief-student-support-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 132480
+        }
+      ]
+    },
+    {
+      "id": "grief-anniversary-support",
+      "prompt": "Use case: photorealistic-natural. Asset type: one mental-health teaching story photograph, landscape 4:3. Premium natural staged documentary photography in contemporary everyday Rwanda. Warm window daylight, cream and subtle forest-green surroundings, realistic skin texture, dignified restrained expressions, natural hands and anatomy. Fictional people, not real participants or endorsements. Medium-wide composition with faces and meaningful actions safe within a central mobile crop. No logos, legible text, captions, graphics, violence, injuries, dramatic distress or promises of recovery. One single photograph, not a collage. Reference image is for identity and photographic style only. Create a new supportive-next-step photograph with the SAME main person's face, age, hair and clothing. Main person: a Rwandan adult parent man, age 48, dark brown skin, short hair with slight greying, soft olive shirt. Supportive scene: The same man sits with a trusted adult friend on the veranda, choosing quiet company; thoughtful warmth, not celebratory or instantly relieved.. Use natural anatomy, respectful listening and comfortable personal space. No surprise cure, no guaranteed outcome, no graphic event, no coercion, no readable text or badges. Keep both faces and meaningful actions clearly visible. One single landscape photo.",
+      "reference": "grief-anniversary-situation",
+      "source": "artifacts/learning-visuals/grief-anniversary-support.png",
+      "sha256": "f46d30932bde24441ceaf26ef50b91749636f6e3a7ca2f04ae1306341ef65f45",
+      "outputs": [
+        {
+          "file": "/images/learning/grief-anniversary-support-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 47458
+        },
+        {
+          "file": "/images/learning/grief-anniversary-support-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 131340
+        }
+      ]
+    },
+    {
+      "id": "grief-employment-support",
+      "prompt": "Use case: photorealistic-natural. Asset type: one mental-health teaching story photograph, landscape 4:3. Premium natural staged documentary photography in contemporary everyday Rwanda. Warm window daylight, cream and subtle forest-green surroundings, realistic skin texture, dignified restrained expressions, natural hands and anatomy. Fictional people, not real participants or endorsements. Medium-wide composition with faces and meaningful actions safe within a central mobile crop. No logos, legible text, captions, graphics, violence, injuries, dramatic distress or promises of recovery. One single photograph, not a collage. Reference image is for identity and photographic style only. Create a new supportive-next-step photograph with the SAME main person's face, age, hair and clothing. Main person: a Rwandan adult worker woman, age 46, dark brown skin, short natural hair, muted ochre blouse. Supportive scene: The same woman and a trusted adult adviser review available job-search and practical assistance in a community office, without suggesting a job offer.. Use natural anatomy, respectful listening and comfortable personal space. No surprise cure, no guaranteed outcome, no graphic event, no coercion, no readable text or badges. Keep both faces and meaningful actions clearly visible. One single landscape photo.",
+      "reference": "grief-employment-situation",
+      "source": "artifacts/learning-visuals/grief-employment-support.png",
+      "sha256": "28e761cfe6bb07766ba290676b1ee0d83de5f1e087060f3ced81a16213bcb5e3",
+      "outputs": [
+        {
+          "file": "/images/learning/grief-employment-support-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 43434
+        },
+        {
+          "file": "/images/learning/grief-employment-support-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 122342
+        }
+      ]
+    },
+    {
+      "id": "grief-assessment-support",
+      "prompt": "Use case: photorealistic-natural. Asset type: one mental-health teaching story photograph, landscape 4:3. Premium natural staged documentary photography in contemporary everyday Rwanda. Warm window daylight, cream and subtle forest-green surroundings, realistic skin texture, dignified restrained expressions, natural hands and anatomy. Fictional people, not real participants or endorsements. Medium-wide composition with faces and meaningful actions safe within a central mobile crop. No logos, legible text, captions, graphics, violence, injuries, dramatic distress or promises of recovery. One single photograph, not a collage. Reference image is for identity and photographic style only. Create a new supportive-next-step photograph with the SAME main person's face, age, hair and clothing. Main person: a Rwandan adult bereaved woman, age 40, dark brown skin, short twists pulled back, dusty blue blouse. Supportive scene: The same woman speaks with a fictional mental health practitioner in a quiet assessment room, with respectful eye level and no diagnostic labels or certificates.. Use natural anatomy, respectful listening and comfortable personal space. No surprise cure, no guaranteed outcome, no graphic event, no coercion, no readable text or badges. Keep both faces and meaningful actions clearly visible. One single landscape photo.",
+      "reference": "grief-assessment-situation",
+      "source": "artifacts/learning-visuals/grief-assessment-support.png",
+      "sha256": "763ba0800fdde1e68928ee4b8b8a1efbc6731e251d9ecb4098b07db2f04454cf",
+      "outputs": [
+        {
+          "file": "/images/learning/grief-assessment-support-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 45534
+        },
+        {
+          "file": "/images/learning/grief-assessment-support-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 117390
+        }
+      ]
+    },
+    {
+      "id": "grief-child-support",
+      "prompt": "Use case: photorealistic-natural. Asset type: one mental-health teaching story photograph, landscape 4:3. Premium natural staged documentary photography in contemporary everyday Rwanda. Warm window daylight, cream and subtle forest-green surroundings, realistic skin texture, dignified restrained expressions, natural hands and anatomy. Fictional people, not real participants or endorsements. Medium-wide composition with faces and meaningful actions safe within a central mobile crop. No logos, legible text, captions, graphics, violence, injuries, dramatic distress or promises of recovery. One single photograph, not a collage. Reference image is for identity and photographic style only. Create a new supportive-next-step photograph with the SAME main person's face, age, hair and clothing. Main person: a fictional Rwandan child boy, age 8, dark brown skin, short coiled black hair, plain green T-shirt. Supportive scene: The same child and caregiver sit together at eye level, caregiver calmly answering questions with attentive natural gestures; no visible written explanation.. Use natural anatomy, respectful listening and comfortable personal space. No surprise cure, no guaranteed outcome, no graphic event, no coercion, no readable text or badges. Keep both faces and meaningful actions clearly visible. One single landscape photo.",
+      "reference": "grief-child-situation",
+      "source": "artifacts/learning-visuals/grief-child-support.png",
+      "sha256": "6d86d08e8879e5fd814b8cfbed6f331fd4686eef1eb9f393383b6d7370736658",
+      "outputs": [
+        {
+          "file": "/images/learning/grief-child-support-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 60614
+        },
+        {
+          "file": "/images/learning/grief-child-support-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 177272
+        }
+      ]
+    }
+  ]
+}

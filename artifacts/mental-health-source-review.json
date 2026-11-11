@@ -1,0 +1,222 @@
+[
+  {
+    "chapter": 1,
+    "source": "VUGA_NDAKUMVA_Mental_Health_Review_and_Expanded_Chapter_01.pdf",
+    "pages": 7,
+    "sha256": "2bdb1ca82bb5436321bbc244731e55a8734b8b5e6888ca8e4a774f71b4b0cff1",
+    "sections": [
+      {
+        "section": "1.1",
+        "sourceWords": 192,
+        "matchingWords": 192,
+        "complete": true
+      },
+      {
+        "section": "1.2",
+        "sourceWords": 158,
+        "matchingWords": 158,
+        "complete": true
+      },
+      {
+        "section": "1.3",
+        "sourceWords": 144,
+        "matchingWords": 144,
+        "complete": true
+      },
+      {
+        "section": "1.4",
+        "sourceWords": 181,
+        "matchingWords": 181,
+        "complete": true
+      },
+      {
+        "section": "1.5",
+        "sourceWords": 124,
+        "matchingWords": 124,
+        "complete": true
+      },
+      {
+        "section": "1.6",
+        "sourceWords": 104,
+        "matchingWords": 104,
+        "complete": true
+      },
+      {
+        "section": "1.7",
+        "sourceWords": 94,
+        "matchingWords": 94,
+        "complete": true
+      },
+      {
+        "section": "1.8",
+        "sourceWords": 90,
+        "matchingWords": 90,
+        "complete": true
+      },
+      {
+        "section": "1.9",
+        "sourceWords": 170,
+        "matchingWords": 170,
+        "complete": true
+      },
+      {
+        "section": "1.10",
+        "sourceWords": 97,
+        "matchingWords": 97,
+        "complete": true
+      },
+      {
+        "section": "1.11",
+        "sourceWords": 124,
+        "matchingWords": 124,
+        "complete": true
+      },
+      {
+        "section": "1.12",
+        "sourceWords": 163,
+        "matchingWords": 163,
+        "complete": true
+      },
+      {
+        "section": "1.13",
+        "sourceWords": 121,
+        "matchingWords": 121,
+        "complete": true
+      },
+      {
+        "section": "1.14",
+        "sourceWords": 131,
+        "matchingWords": 131,
+        "complete": true
+      },
+      {
+        "section": "1.15",
+        "sourceWords": 65,
+        "matchingWords": 65,
+        "complete": true
+      },
+      {
+        "section": "Editorial review",
+        "sourceWords": 147,
+        "matchingWords": 147,
+        "complete": true
+      }
+    ]
+  },
+  {
+    "chapter": 2,
+    "source": "VUGA_NDAKUMVA_Mental_Health_Expanded_Chapter_02_Emotions.pdf",
+    "pages": 7,
+    "sha256": "ea7d1ec4c07cd6b33b29408df732527670189006c46629629c9f1519888c59f7",
+    "sections": [
+      {
+        "section": "2.1",
+        "sourceWords": 177,
+        "matchingWords": 177,
+        "complete": true
+      },
+      {
+        "section": "2.2",
+        "sourceWords": 146,
+        "matchingWords": 146,
+        "complete": true
+      },
+      {
+        "section": "2.3",
+        "sourceWords": 132,
+        "matchingWords": 132,
+        "complete": true
+      },
+      {
+        "section": "2.4",
+        "sourceWords": 144,
+        "matchingWords": 144,
+        "complete": true
+      },
+      {
+        "section": "2.5",
+        "sourceWords": 111,
+        "matchingWords": 111,
+        "complete": true
+      },
+      {
+        "section": "2.6",
+        "sourceWords": 97,
+        "matchingWords": 97,
+        "complete": true
+      },
+      {
+        "section": "2.7",
+        "sourceWords": 158,
+        "matchingWords": 158,
+        "complete": true
+      },
+      {
+        "section": "2.8",
+        "sourceWords": 103,
+        "matchingWords": 103,
+        "complete": true
+      },
+      {
+        "section": "2.9",
+        "sourceWords": 102,
+        "matchingWords": 102,
+        "complete": true
+      },
+      {
+        "section": "2.10",
+        "sourceWords": 99,
+        "matchingWords": 99,
+        "complete": true
+      },
+      {
+        "section": "2.11",
+        "sourceWords": 98,
+        "matchingWords": 98,
+        "complete": true
+      },
+      {
+        "section": "2.12",
+        "sourceWords": 214,
+        "matchingWords": 214,
+        "complete": true
+      },
+      {
+        "section": "2.13",
+        "sourceWords": 94,
+        "matchingWords": 94,
+        "complete": true
+      },
+      {
+        "section": "2.14",
+        "sourceWords": 126,
+        "matchingWords": 126,
+        "complete": true
+      },
+      {
+        "section": "2.15",
+        "sourceWords": 156,
+        "matchingWords": 156,
+        "complete": true
+      },
+      {
+        "section": "2.16",
+        "sourceWords": 128,
+        "matchingWords": 128,
+        "complete": true
+      },
+      {
+        "section": "2.17",
+        "sourceWords": 67,
+        "matchingWords": 67,
+        "complete": true
+      },
+      {
+        "section": "2.18",
+        "sourceWords": 69,
+        "matchingWords": 69,
+        "complete": true
+      }
+    ]
+  }
+]

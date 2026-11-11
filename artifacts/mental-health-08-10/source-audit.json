@@ -1,0 +1,629 @@
+{
+  "reviewedOn": "2026-11-11",
+  "method": "31-page text and visual review, measured table columns, ordered per-section checks, independent pypdf character coverage and unchanged PDF hashes. Publication checklists remain pending source material.",
+  "chapters": [
+    {
+      "chapter": 8,
+      "pages": 11,
+      "numberedSections": 19,
+      "readerSections": 21,
+      "sections": [
+        {
+          "id": "section-8-1",
+          "sourceHeading": "1. What is sleep, and why do we need it?",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 924
+        },
+        {
+          "id": "section-8-2",
+          "sourceHeading": "2. The body clock: circadian rhythm",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 908
+        },
+        {
+          "id": "section-8-3",
+          "sourceHeading": "3. What happens during the night?",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 591
+        },
+        {
+          "id": "section-8-4",
+          "sourceHeading": "4. How much sleep is generally recommended?",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 521
+        },
+        {
+          "id": "section-8-5",
+          "sourceHeading": "5. What is insufficient or poor-quality sleep?",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 751
+        },
+        {
+          "id": "section-8-6",
+          "sourceHeading": "6. Insomnia: more than one bad night",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 858
+        },
+        {
+          "id": "section-8-7",
+          "sourceHeading": "7. Other sleep conditions people should know about",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 746
+        },
+        {
+          "id": "section-8-8",
+          "sourceHeading": "8. How sleep and mental health interact",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 976
+        },
+        {
+          "id": "section-8-9",
+          "sourceHeading": "9. Everyday habits that can support sleep",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 714
+        },
+        {
+          "id": "section-8-10",
+          "sourceHeading": "10. Practical barriers in Rwanda-relevant daily life",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 556
+        },
+        {
+          "id": "section-8-11",
+          "sourceHeading": "11. Evidence-based care for persistent insomnia",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 885
+        },
+        {
+          "id": "section-8-12",
+          "sourceHeading": "12. When should someone seek professional help?",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 772
+        },
+        {
+          "id": "section-8-13",
+          "sourceHeading": "13. Four everyday learning scenarios",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 906
+        },
+        {
+          "id": "section-8-14",
+          "sourceHeading": "14. Guided activity A - My seven-day sleep observation",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 459
+        },
+        {
+          "id": "section-8-15",
+          "sourceHeading": "15. Guided activity B - A gentle evening routine",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 385
+        },
+        {
+          "id": "section-8-16",
+          "sourceHeading": "16. Guided activity C - Distinguishing a worry from a plan",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 420
+        },
+        {
+          "id": "section-8-17",
+          "sourceHeading": "17. Knowledge assessment",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 455
+        },
+        {
+          "id": "section-8-18",
+          "sourceHeading": "18. Assessment answers and explanations",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 477
+        },
+        {
+          "id": "section-8-19",
+          "sourceHeading": "19. Glossary",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 576
+        },
+        {
+          "id": "section-8-references",
+          "sourceHeading": "Scientific and institutional references",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 929
+        },
+        {
+          "id": "section-8-editorial",
+          "sourceHeading": "Pre-publication review checklist",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 533
+        }
+      ],
+      "frontMatterPreserved": true,
+      "independentPypdfCoverage": true,
+      "downloadHashMatch": true,
+      "references": 10,
+      "questions": 10,
+      "scenarios": 4,
+      "activities": 3,
+      "tables": [
+        {
+          "page": 2,
+          "columns": [
+            54,
+            144,
+            564
+          ],
+          "sourceText": "Section What readers will learn 1-4 Why sleep matters; circadian rhythms; sleep pressure; NREM and REM sleep 5-9 Sleep needs; inadequate sleep; insomnia and other disorders; mental health connections 10-14 Practical sleep habits; contextual barriers; treatment, medications and safety 15-19 Case studies, guided exercises, assessments, answers, glossary and references",
+          "table": {
+            "type": "table",
+            "headers": [
+              "Section",
+              "What readers will learn"
+            ],
+            "rows": [
+              [
+                "1-4",
+                "Why sleep matters; circadian rhythms; sleep pressure; NREM and REM sleep"
+              ],
+              [
+                "5-9",
+                "Sleep needs; inadequate sleep; insomnia and other disorders; mental health connections"
+              ],
+              [
+                "10-14",
+                "Practical sleep habits; contextual barriers; treatment, medications and safety"
+              ],
+              [
+                "15-19",
+                "Case studies, guided exercises, assessments, answers, glossary and references"
+              ]
+            ]
+          },
+          "allCharactersPreserved": true
+        },
+        {
+          "page": 3,
+          "columns": [
+            54,
+            154,
+            564
+          ],
+          "sourceText": "Stage Broad description NREM 1 A light transition from wakefulness into sleep; easy to awaken. NREM 2 More established sleep; body functions slow and external awareness decreases. NREM 3 Deep or slow-wave sleep; especially prominent earlier in the night. REM Brain activity changes; vivid dreams are common and memory/emotional functions are supported.",
+          "table": {
+            "type": "table",
+            "headers": [
+              "Stage",
+              "Broad description"
+            ],
+            "rows": [
+              [
+                "NREM 1",
+                "A light transition from wakefulness into sleep; easy to awaken."
+              ],
+              [
+                "NREM 2",
+                "More established sleep; body functions slow and external awareness decreases."
+              ],
+              [
+                "NREM 3",
+                "Deep or slow-wave sleep; especially prominent earlier in the night."
+              ],
+              [
+                "REM",
+                "Brain activity changes; vivid dreams are common and memory/emotional functions are supported."
+              ]
+            ]
+          },
+          "allCharactersPreserved": true
+        },
+        {
+          "page": 3,
+          "columns": [
+            54,
+            234,
+            564
+          ],
+          "sourceText": "Age group Typical recommended sleep 6-12 years 9-12 hours per 24 hours 13-17 years 8-10 hours per 24 hours 18-60 years At least 7 hours, commonly 7-9 hours 61-64 years 7-9 hours 65 years and over 7-8 hours",
+          "table": {
+            "type": "table",
+            "headers": [
+              "Age group",
+              "Typical recommended sleep"
+            ],
+            "rows": [
+              [
+                "6-12 years",
+                "9-12 hours per 24 hours"
+              ],
+              [
+                "13-17 years",
+                "8-10 hours per 24 hours"
+              ],
+              [
+                "18-60 years",
+                "At least 7 hours, commonly 7-9 hours"
+              ],
+              [
+                "61-64 years",
+                "7-9 hours"
+              ],
+              [
+                "65 years and over",
+                "7-8 hours"
+              ]
+            ]
+          },
+          "allCharactersPreserved": true
+        },
+        {
+          "page": 8,
+          "columns": [
+            54.22222222222222,
+            109,
+            314,
+            564
+          ],
+          "sourceText": "Day Approx. bedtime / wake time Restfulness and daytime notes Mon ________________________ ________________________ Tue ________________________ ________________________ Wed ________________________ ________________________ Thu ________________________ ________________________ Fri ________________________ ________________________ Sat ________________________ ________________________ Sun ________________________ ________________________",
+          "table": {
+            "type": "table",
+            "headers": [
+              "Day",
+              "Approx. bedtime / wake time",
+              "Restfulness and daytime notes"
+            ],
+            "rows": [
+              [
+                "Mon",
+                "________________________",
+                "________________________"
+              ],
+              [
+                "Tue",
+                "________________________",
+                "________________________"
+              ],
+              [
+                "Wed",
+                "________________________",
+                "________________________"
+              ],
+              [
+                "Thu",
+                "________________________",
+                "________________________"
+              ],
+              [
+                "Fri",
+                "________________________",
+                "________________________"
+              ],
+              [
+                "Sat",
+                "________________________",
+                "________________________"
+              ],
+              [
+                "Sun",
+                "________________________",
+                "________________________"
+              ]
+            ]
+          },
+          "allCharactersPreserved": true
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "pages": 10,
+      "numberedSections": 20,
+      "readerSections": 21,
+      "sections": [
+        {
+          "id": "section-9-1",
+          "sourceHeading": "01. Why relationships matter for mental health",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 819
+        },
+        {
+          "id": "section-9-2",
+          "sourceHeading": "02. Understanding social connection, loneliness, isolation, and solitude",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 1292
+        },
+        {
+          "id": "section-9-3",
+          "sourceHeading": "03. Healthy relationships: what to look for",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 811
+        },
+        {
+          "id": "section-9-4",
+          "sourceHeading": "04. Social support: emotional, practical, informational, and belonging",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 657
+        },
+        {
+          "id": "section-9-5",
+          "sourceHeading": "05. Why making and maintaining connections can be difficult",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 635
+        },
+        {
+          "id": "section-9-6",
+          "sourceHeading": "06. Listening and communicating with care",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 942
+        },
+        {
+          "id": "section-9-7",
+          "sourceHeading": "07. Interpersonal conflict and healthy repair",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 706
+        },
+        {
+          "id": "section-9-8",
+          "sourceHeading": "08. Emotional boundaries and personal autonomy",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 777
+        },
+        {
+          "id": "section-9-9",
+          "sourceHeading": "09. Loneliness and its effects on wellbeing",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 884
+        },
+        {
+          "id": "section-9-10",
+          "sourceHeading": "10. Digital relationships and online wellbeing",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 712
+        },
+        {
+          "id": "section-9-11",
+          "sourceHeading": "11. Families, friends, peers, and caregivers",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 661
+        },
+        {
+          "id": "section-9-12",
+          "sourceHeading": "12. Community belonging in Rwanda",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 684
+        },
+        {
+          "id": "section-9-13",
+          "sourceHeading": "13. Supporting someone who feels lonely or distressed",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 459
+        },
+        {
+          "id": "section-9-14",
+          "sourceHeading": "14. When professional support is appropriate",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 599
+        },
+        {
+          "id": "section-9-15",
+          "sourceHeading": "15. Fictional learning scenarios",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 1428
+        },
+        {
+          "id": "section-9-16",
+          "sourceHeading": "16. Guided educational activities",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 1400
+        },
+        {
+          "id": "section-9-17",
+          "sourceHeading": "17. Knowledge assessment",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 1090
+        },
+        {
+          "id": "section-9-18",
+          "sourceHeading": "18. Summary and key messages",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 451
+        },
+        {
+          "id": "section-9-19",
+          "sourceHeading": "19. Glossary",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 555
+        },
+        {
+          "id": "section-9-20",
+          "sourceHeading": "20. References and evidence notes",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 941
+        },
+        {
+          "id": "section-9-editorial",
+          "sourceHeading": "Publication review checklist",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 249
+        }
+      ],
+      "frontMatterPreserved": true,
+      "independentPypdfCoverage": true,
+      "downloadHashMatch": true,
+      "references": 6,
+      "questions": 10,
+      "scenarios": 5,
+      "activities": 5,
+      "tables": []
+    },
+    {
+      "chapter": 10,
+      "pages": 10,
+      "numberedSections": 14,
+      "readerSections": 20,
+      "sections": [
+        {
+          "id": "section-10-1",
+          "sourceHeading": "1. What does child and adolescent mental health mean?",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 773
+        },
+        {
+          "id": "section-10-2",
+          "sourceHeading": "2. Emotional development across life stages",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 1068
+        },
+        {
+          "id": "section-10-3",
+          "sourceHeading": "3. Risk and protective factors",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 580
+        },
+        {
+          "id": "section-10-4",
+          "sourceHeading": "4. Common mental health challenges",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 890
+        },
+        {
+          "id": "section-10-5",
+          "sourceHeading": "5. What is a warning sign rather than a normal phase?",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 752
+        },
+        {
+          "id": "section-10-6",
+          "sourceHeading": "6. School experience and mental wellbeing",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 617
+        },
+        {
+          "id": "section-10-7",
+          "sourceHeading": "7. Bullying, exclusion and cyberbullying",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 619
+        },
+        {
+          "id": "section-10-8",
+          "sourceHeading": "8. Supportive parenting and caregiving",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 677
+        },
+        {
+          "id": "section-10-9",
+          "sourceHeading": "9. Communication that helps young people speak",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 512
+        },
+        {
+          "id": "section-10-10",
+          "sourceHeading": "10. Helping a young person experiencing distress",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 529
+        },
+        {
+          "id": "section-10-11",
+          "sourceHeading": "11. Mental health in digitally connected lives",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 524
+        },
+        {
+          "id": "section-10-12",
+          "sourceHeading": "12. Supporting diverse needs and inclusion",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 428
+        },
+        {
+          "id": "section-10-13",
+          "sourceHeading": "13. Evidence-based care and professional assessment",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 590
+        },
+        {
+          "id": "section-10-14",
+          "sourceHeading": "14. When and how to seek help in Rwanda",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 657
+        },
+        {
+          "id": "section-10-scenarios",
+          "sourceHeading": "Five Rwanda-relevant fictional learning scenarios",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 1403
+        },
+        {
+          "id": "section-10-activities",
+          "sourceHeading": "Five practical learning activities",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 1169
+        },
+        {
+          "id": "section-10-knowledge",
+          "sourceHeading": "Knowledge check: questions and explained answers",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 1264
+        },
+        {
+          "id": "section-10-glossary",
+          "sourceHeading": "Short glossary",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 552
+        },
+        {
+          "id": "section-10-references",
+          "sourceHeading": "References and evidence register",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 968
+        },
+        {
+          "id": "section-10-editorial",
+          "sourceHeading": "Editorial and publication safeguards",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 394
+        }
+      ],
+      "frontMatterPreserved": true,
+      "independentPypdfCoverage": true,
+      "downloadHashMatch": true,
+      "references": 7,
+      "questions": 10,
+      "scenarios": 5,
+      "activities": 5,
+      "tables": [
+        {
+          "page": 3,
+          "columns": [
+            61,
+            161,
+            338,
+            546
+          ],
+          "sourceText": "Life stage Developmental needs Helpful adult response Early childhood Co-regulation, stable relationships, Name feelings; create safety and routines play School-age Peer belonging, learning, mastery Notice school pressures; encourage skills Adolescence Autonomy, identity, connectedness Listen privately; negotiate safe boundaries",
+          "table": {
+            "type": "table",
+            "headers": [
+              "Life stage",
+              "Developmental needs",
+              "Helpful adult response"
+            ],
+            "rows": [
+              [
+                "Early childhood",
+                "Co-regulation, stable relationships, play",
+                "Name feelings; create safety and routines"
+              ],
+              [
+                "School-age",
+                "Peer belonging, learning, mastery",
+                "Notice school pressures; encourage skills"
+              ],
+              [
+                "Adolescence",
+                "Autonomy, identity, connectedness",
+                "Listen privately; negotiate safe boundaries"
+              ]
+            ]
+          },
+          "allCharactersPreserved": true
+        }
+      ]
+    }
+  ]
+}

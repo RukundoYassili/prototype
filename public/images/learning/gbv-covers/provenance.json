@@ -1,0 +1,435 @@
+{
+  "disclosure": "AI-generated fictional illustrations. Not photographs or editable vectors. No real survivors or service users are identified; no outcome is promised.",
+  "generatedOn": "2026-11-11",
+  "assets": [
+    {
+      "id": "gbv-landing-hero",
+      "file": "hero-dignity-and-space",
+      "chapterNumber": null,
+      "title": "You deserve safety and respect.",
+      "placement": "Landing hero",
+      "original": "artifacts/gbv-library-refresh/originals/hero-dignity-and-space.png",
+      "originalSha256": "cebefdcbe504e332c3365aa0c4cdcc689a665f64f0911fa69fb52104553235ab",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "generator": "Built-in image_gen",
+      "prompt": "Use case: illustration-story. Create one polished mature 2D flat editorial illustration for VUGA NDAKUMVA's GBV education website. Black African people in contemporary Rwanda-relevant everyday surroundings, ordinary modern clothing, natural hair, no stereotypes. Clean well-defined shapes, restrained detail, consistent believable adult proportions and anatomically correct hands. Palette deep purple #452959, lavender #baa1d5, golden yellow #efb93c, teal #22766c, mint #d6eadc, soft blue #aacce1. Gentle serious/attentive expressions, no forced smiles, no frightened faces. Generous breathing room, 3:2 landscape 1536x1024; keep all faces, hands, meaningful props comfortably inside frame. No text, numbers, lettering, logo, watermark, graphic violence, threats, bruises, sexual imagery, savior pose, guaranteed outcome, promise of absolute confidentiality, or confrontation. This is a fictional conceptual cover, not a reenactment or before/after. Asset: landing-page hero. Audience: adults, older adolescents and supporters exploring information. Message: dignity, personal space, and support that respects choice. Scene: a Black African adult woman in a lavender shirt sits comfortably upright in a purple chair holding her own closed notebook, turning thoughtfully toward a trusted adult woman in a teal shirt seated separately at a respectful distance. A third adult is quietly reading on a bench further back, not intervening. Spacious ordinary contemporary community courtyard with pale lavender background, simple mint foliage, distant soft blue Kigali hills and a clean low wall. Each has an independent place and clear space around them. The main person is an equal participant, not being rescued. No handholding, no touching. Compose as one calm welcoming scene.",
+      "review": "Reviewed for content relevance, anatomy, expression and complete framing. Fictional conceptual illustration; not a source-case reenactment.",
+      "files": [
+        {
+          "path": "public/images/learning/gbv-covers/hero-dignity-and-space-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 24140,
+          "sha256": "dfb53aae60ff09049655d23f8ed0a2c75dd5d3854b83eb82a79fe7a8ebe9bf69"
+        },
+        {
+          "path": "public/images/learning/gbv-covers/hero-dignity-and-space-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 56748,
+          "sha256": "cf1d02aab49848db718c9cb5258f24dab4aa86f96f3ba370271504e2340a8641"
+        },
+        {
+          "path": "public/images/learning/gbv-covers/hero-dignity-and-space-1440.webp",
+          "width": 1440,
+          "height": 960,
+          "bytes": 89596,
+          "sha256": "c3ec1129beb4bf6e9a4d2185e6ef9ad139dc2be037098caaa089ac96e387f339"
+        }
+      ]
+    },
+    {
+      "id": "understanding-gender-based-violence",
+      "file": "01-choice-and-connection",
+      "chapterNumber": 1,
+      "title": "Understanding Gender-Based Violence",
+      "placement": "Chapter 01 cover",
+      "original": "artifacts/gbv-library-refresh/originals/01-choice-and-connection.png",
+      "originalSha256": "fb6bf427019ab05ab33983dae9a7f7d602405239dfc418f3db7a733ea6a8e13f",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "generator": "Built-in image_gen",
+      "prompt": "Use case: illustration-story. Create one polished mature 2D flat editorial illustration for VUGA NDAKUMVA's GBV education website. Black African people in contemporary Rwanda-relevant everyday surroundings, ordinary modern clothing, natural hair, no stereotypes. Clean well-defined shapes, restrained detail, consistent believable adult proportions and anatomically correct hands. Palette deep purple #452959, lavender #baa1d5, golden yellow #efb93c, teal #22766c, mint #d6eadc, soft blue #aacce1. Gentle serious/attentive expressions, no forced smiles, no frightened faces. Generous breathing room, 3:2 landscape 1536x1024; keep all faces, hands, meaningful props comfortably inside frame. No text, numbers, lettering, logo, watermark, graphic violence, threats, bruises, sexual imagery, savior pose, guaranteed outcome, promise of absolute confidentiality, or confrontation. This is a fictional conceptual cover, not a reenactment or before/after. Asset: Chapter 1 cover. Audience adults and older adolescents. Message: autonomy, room to make choices, respectful connection. An adult Black African woman in teal sits at her own small round table in a contemporary community learning space, looking at two open unmarked informational leaflets and choosing one with a relaxed hand. A trusted adult in lavender sits separately to one side, listening without reaching for the materials. Golden notebook and simple blue window, pale mint background. Make the central person the active decision-maker. No official badges, rescue gestures, instructions, or outcome imagery.",
+      "review": "Reviewed for content relevance, anatomy, expression and complete framing. Fictional conceptual illustration; not a source-case reenactment.",
+      "files": [
+        {
+          "path": "public/images/learning/gbv-covers/01-choice-and-connection-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 20954,
+          "sha256": "5254e7cb3fc5ebc68fb4506c7b947fc02ad81f1323fd6c0c7fab59164479a64c"
+        },
+        {
+          "path": "public/images/learning/gbv-covers/01-choice-and-connection-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 49160,
+          "sha256": "19f52d879e2690ca6ccf9c24a1b1a8f40b23f4c745b2f3f195e3b9f3b084187b"
+        },
+        {
+          "path": "public/images/learning/gbv-covers/01-choice-and-connection-1440.webp",
+          "width": 1440,
+          "height": 960,
+          "bytes": 78760,
+          "sha256": "2be43c067aa9ce328cbcc9311a8b57e3f097e6fe9ca5281dace6f96daa7cb102"
+        }
+      ]
+    },
+    {
+      "id": "types-and-forms-of-gender-based-violence",
+      "file": "02-connected-forms",
+      "chapterNumber": 2,
+      "title": "Types and Forms of Gender-Based Violence",
+      "placement": "Chapter 02 cover",
+      "original": "artifacts/gbv-library-refresh/originals/02-connected-forms.png",
+      "originalSha256": "198d6837868428d9645ec64ec4fe85b6bc00d368dfdc20e758a6865df4081baa",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "generator": "Built-in image_gen",
+      "prompt": "Use case: illustration-story. Create one polished mature 2D flat editorial illustration for VUGA NDAKUMVA's GBV education website. Black African people in contemporary Rwanda-relevant everyday surroundings, ordinary modern clothing, natural hair, no stereotypes. Clean well-defined shapes, restrained detail, consistent believable adult proportions and anatomically correct hands. Palette deep purple #452959, lavender #baa1d5, golden yellow #efb93c, teal #22766c, mint #d6eadc, soft blue #aacce1. Gentle serious/attentive expressions, no forced smiles, no frightened faces. Generous breathing room, 3:2 landscape 1536x1024; keep all faces, hands, meaningful props comfortably inside frame. No text, numbers, lettering, logo, watermark, graphic violence, threats, bruises, sexual imagery, savior pose, guaranteed outcome, promise of absolute confidentiality, or confrontation. This is a fictional conceptual cover, not a reenactment or before/after. Asset: Chapter 2 cover. Audience general learners. Message: forms of harm can overlap across everyday life; harm need not be visible. One coherent conceptual editorial still life: simple home doorway, two abstract blank overlapping conversation shapes, a closed purple purse beside unmarked financial papers, and a teal smartphone with a blank screen arranged as connected objects on one shared pale lavender tabletop. A thoughtful Black African adult in a yellow shirt sits behind the composition considering the objects. Wide airy composition, objects clearly readable, no violence, no threatening messages or locks that imply guaranteed safety.",
+      "review": "Reviewed for content relevance, anatomy, expression and complete framing. Fictional conceptual illustration; not a source-case reenactment.",
+      "files": [
+        {
+          "path": "public/images/learning/gbv-covers/02-connected-forms-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 17596,
+          "sha256": "43c7fe5a0c142aa3c3424bfe5bab3b7a14dd1c8d865918e5e3fb26bcbce5b11f"
+        },
+        {
+          "path": "public/images/learning/gbv-covers/02-connected-forms-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 39504,
+          "sha256": "d75c4c6abf39c88d76c818f82d84ee8f91ea9c6ac9ad4343184096cc2e4db814"
+        },
+        {
+          "path": "public/images/learning/gbv-covers/02-connected-forms-1440.webp",
+          "width": 1440,
+          "height": 960,
+          "bytes": 64006,
+          "sha256": "899fce6943d1c1f8079bc214505eec2365e6f82035a5701851083f3bf3f9496c"
+        }
+      ]
+    },
+    {
+      "id": "root-causes-risk-factors-and-gender-inequality",
+      "file": "03-opportunity-and-responsibility",
+      "chapterNumber": 3,
+      "title": "Root Causes, Risk Factors, and Gender Inequality",
+      "placement": "Chapter 03 cover",
+      "original": "artifacts/gbv-library-refresh/originals/03-opportunity-and-responsibility.png",
+      "originalSha256": "8c8e208a3f416d31f415e07f17f3645681babc16dce7ba4d6fb4dba3c8325efa",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "generator": "Built-in image_gen",
+      "prompt": "Use case: illustration-story. Create one polished mature 2D flat editorial illustration for VUGA NDAKUMVA's GBV education website. Black African people in contemporary Rwanda-relevant everyday surroundings, ordinary modern clothing, natural hair, no stereotypes. Clean well-defined shapes, restrained detail, consistent believable adult proportions and anatomically correct hands. Palette deep purple #452959, lavender #baa1d5, golden yellow #efb93c, teal #22766c, mint #d6eadc, soft blue #aacce1. Gentle serious/attentive expressions, no forced smiles, no frightened faces. Generous breathing room, 3:2 landscape 1536x1024; keep all faces, hands, meaningful props comfortably inside frame. No text, numbers, lettering, logo, watermark, graphic violence, threats, bruises, sexual imagery, savior pose, guaranteed outcome, promise of absolute confidentiality, or confrontation. This is a fictional conceptual cover, not a reenactment or before/after. Asset: Chapter 3 cover. Audience adult community learners. Message: unequal access to opportunity involves institutions and shared responsibility, not individual blame. Three Black African adult community members of different genders at a simple planning table, looking thoughtfully at a small architectural model: two pathways to the same learning/work doorway, one with steps and one with an unfinished access ramp. A woman in lavender holds a plain training booklet, a man in teal listens, another woman in golden shirt gestures toward the access model. Pale mint background, minimal ordinary community-room furnishings. Do not portray anyone as inherently weak or an oppressor. This is a conceptual community discussion, not a promise that a ramp fixes GBV. No text or diagrams requiring labels.",
+      "review": "Reviewed for content relevance, anatomy, expression and complete framing. Fictional conceptual illustration; not a source-case reenactment.",
+      "files": [
+        {
+          "path": "public/images/learning/gbv-covers/03-opportunity-and-responsibility-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 25594,
+          "sha256": "897e899fb0a6165ffc6872a809cc99dc1b1cda2abdb66000e4129aebe1ac6ef6"
+        },
+        {
+          "path": "public/images/learning/gbv-covers/03-opportunity-and-responsibility-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 67720,
+          "sha256": "8306485d4230e1d29c9a78cb7a77ef788e4ccb007358b7894e19d15016237482"
+        },
+        {
+          "path": "public/images/learning/gbv-covers/03-opportunity-and-responsibility-1440.webp",
+          "width": 1440,
+          "height": 960,
+          "bytes": 116964,
+          "sha256": "cfb22606f30978331de8af6b9c804a2fd839777146159cbec5c67da0478960c3"
+        }
+      ]
+    },
+    {
+      "id": "understanding-consent-boundaries-and-bodily-autonomy",
+      "file": "04-space-and-consent",
+      "chapterNumber": 4,
+      "title": "Understanding Consent, Boundaries, and Bodily Autonomy",
+      "placement": "Chapter 04 cover",
+      "original": "artifacts/gbv-library-refresh/originals/04-space-and-consent.png",
+      "originalSha256": "77ffbace3cc95320198901e948282f9b237aaae233bd5d4b271b69738bb9cd65",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "generator": "Built-in image_gen",
+      "prompt": "Use case: illustration-story. Create one polished mature 2D flat editorial illustration for VUGA NDAKUMVA's GBV education website. Black African people in contemporary Rwanda-relevant everyday surroundings, ordinary modern clothing, natural hair, no stereotypes. Clean well-defined shapes, restrained detail, consistent believable adult proportions and anatomically correct hands. Palette deep purple #452959, lavender #baa1d5, golden yellow #efb93c, teal #22766c, mint #d6eadc, soft blue #aacce1. Gentle serious/attentive expressions, no forced smiles, no frightened faces. Generous breathing room, 3:2 landscape 1536x1024; keep all faces, hands, meaningful props comfortably inside frame. No text, numbers, lettering, logo, watermark, graphic violence, threats, bruises, sexual imagery, savior pose, guaranteed outcome, promise of absolute confidentiality, or confrontation. This is a fictional conceptual cover, not a reenactment or before/after. Asset: Chapter 4 cover. Audience adults and older adolescents. Message: preference and personal boundaries are respected without argument. Two Black African young adults in an ordinary courtyard. One in purple speaks with a small relaxed open-palm gesture at waist height, the other in teal listens with hands at their own sides and leaves generous personal space. Both at equal standing height, calm serious expressions, clearly separate bodies, no touching or blocked exits. A simple yellow chair and mint plant, pale lavender background. This is an everyday respectful interaction, not a confrontation or portrayal of abuse.",
+      "review": "Reviewed for content relevance, anatomy, expression and complete framing. Fictional conceptual illustration; not a source-case reenactment.",
+      "files": [
+        {
+          "path": "public/images/learning/gbv-covers/04-space-and-consent-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 16280,
+          "sha256": "4cc010ccada8a8ec5840d252f955a9104ce701eba8c243a84b786ed2e1c6269e"
+        },
+        {
+          "path": "public/images/learning/gbv-covers/04-space-and-consent-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 38264,
+          "sha256": "b2a05d15f39ea8cd13944a434b240f94204fa7a78f69b648d1dddf8eb6308d9d"
+        },
+        {
+          "path": "public/images/learning/gbv-covers/04-space-and-consent-1440.webp",
+          "width": 1440,
+          "height": 960,
+          "bytes": 61458,
+          "sha256": "95193c0f253f9ae665b93fb6bb94f2433306ab4e21f998cdd5688122929f062d"
+        }
+      ]
+    },
+    {
+      "id": "domestic-violence-and-intimate-partner-violence",
+      "file": "05-private-support",
+      "chapterNumber": 5,
+      "title": "Domestic Violence and Intimate Partner Violence",
+      "placement": "Chapter 05 cover",
+      "original": "artifacts/gbv-library-refresh/originals/05-private-support.png",
+      "originalSha256": "1dd3e3811628aa3249b5ae17839bf05af520d1816a254ed820278a0db46e1437",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "generator": "Built-in image_gen",
+      "prompt": "Use case: illustration-story. Create one polished mature 2D flat editorial illustration for VUGA NDAKUMVA's GBV education website. Black African people in contemporary Rwanda-relevant everyday surroundings, ordinary modern clothing, natural hair, no stereotypes. Clean well-defined shapes, restrained detail, consistent believable adult proportions and anatomically correct hands. Palette deep purple #452959, lavender #baa1d5, golden yellow #efb93c, teal #22766c, mint #d6eadc, soft blue #aacce1. Gentle serious/attentive expressions, no forced smiles, no frightened faces. Generous breathing room, 3:2 landscape 1536x1024; keep all faces, hands, meaningful props comfortably inside frame. No text, numbers, lettering, logo, watermark, graphic violence, threats, bruises, sexual imagery, savior pose, guaranteed outcome, promise of absolute confidentiality, or confrontation. This is a fictional conceptual cover, not a reenactment or before/after. Asset: Chapter 5 cover. Audience adults and supporters; tied to chapter scenario acknowledging a man experiencing abuse. Message: anyone's experience deserves respectful listening and choices. Black African adult man in a golden ochre shirt sits upright holding his own closed notebook in a modest private consultation room, with an adult woman in teal seated at equal level at respectful distance. She listens with relaxed hands in her lap, no touching and no form being filled. Pale mint background, purple chair, blue window with privacy curtain, ordinary modern Rwanda setting. No partner present, no mediation, no paperwork implying reporting, no sad spectacle, no obligatory smile.",
+      "review": "Reviewed for content relevance, anatomy, expression and complete framing. Fictional conceptual illustration; not a source-case reenactment.",
+      "files": [
+        {
+          "path": "public/images/learning/gbv-covers/05-private-support-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 17636,
+          "sha256": "78652e1fd67af5d84112f1ef719f9b0c147f7143fe72036dc9b8d63aa0088eac"
+        },
+        {
+          "path": "public/images/learning/gbv-covers/05-private-support-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 42480,
+          "sha256": "f338a379449e0343ed20c10b1e14324eb7853dab70d2fb5e3b7c54c10eda3651"
+        },
+        {
+          "path": "public/images/learning/gbv-covers/05-private-support-1440.webp",
+          "width": 1440,
+          "height": 960,
+          "bytes": 68918,
+          "sha256": "a52265f378185453bdef20323ebbb6319e7cf97b435d5b0d33b137f50376bbfa"
+        }
+      ]
+    },
+    {
+      "id": "sexual-violence-harassment-and-exploitation",
+      "file": "06-care-and-dignity",
+      "chapterNumber": 6,
+      "title": "Sexual Violence, Harassment, and Exploitation",
+      "placement": "Chapter 06 cover",
+      "original": "artifacts/gbv-library-refresh/originals/06-care-and-dignity.png",
+      "originalSha256": "a98e8ed529327657d3fdf81531f13553432a08075050bda52579a1bd815816ae",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "generator": "Built-in image_gen",
+      "prompt": "Use case: illustration-story. Create one polished mature 2D flat editorial illustration for VUGA NDAKUMVA's GBV education website. Black African people in contemporary Rwanda-relevant everyday surroundings, ordinary modern clothing, natural hair, no stereotypes. Clean well-defined shapes, restrained detail, consistent believable adult proportions and anatomically correct hands. Palette deep purple #452959, lavender #baa1d5, golden yellow #efb93c, teal #22766c, mint #d6eadc, soft blue #aacce1. Gentle serious/attentive expressions, no forced smiles, no frightened faces. Generous breathing room, 3:2 landscape 1536x1024; keep all faces, hands, meaningful props comfortably inside frame. No text, numbers, lettering, logo, watermark, graphic violence, threats, bruises, sexual imagery, savior pose, guaranteed outcome, promise of absolute confidentiality, or confrontation. This is a fictional conceptual cover, not a reenactment or before/after. Asset: Chapter 6 cover. Audience adult learners. Message: dignified first response and healthcare information after sexual harm, without reenacting it. A fully clothed Black African adult woman in a deep-purple blouse and golden skirt sits at equal level with a Black African female healthcare professional in a simple teal tunic in a modest consultation room. The visitor holds an unopened pale-blue information folder and considers options; the professional listens. Subtle unbranded clinical cabinet and handwashing sink in background only. Pale lavender backdrop, personal space, no touching, no physical examination, no wounds or medical procedures, no promises of services or outcome.",
+      "review": "Reviewed for content relevance, anatomy, expression and complete framing. Fictional conceptual illustration; not a source-case reenactment.",
+      "files": [
+        {
+          "path": "public/images/learning/gbv-covers/06-care-and-dignity-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 16900,
+          "sha256": "669c8fee1a0e2a9792f392484a077ddbadd3860a46245812d4b01fdb2f300266"
+        },
+        {
+          "path": "public/images/learning/gbv-covers/06-care-and-dignity-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 38146,
+          "sha256": "8fff40be03b5eb437f1a9ff4e0ec644704419d445786eafee4b442e84b86f8cf"
+        },
+        {
+          "path": "public/images/learning/gbv-covers/06-care-and-dignity-1440.webp",
+          "width": 1440,
+          "height": 960,
+          "bytes": 62722,
+          "sha256": "863c774ab02bd0e3c6edbf284770cf3c3b1bb5c333f93a240ce98ec3e906f35c"
+        }
+      ]
+    },
+    {
+      "id": "emotional-psychological-and-verbal-abuse",
+      "file": "07-heard-and-respected",
+      "chapterNumber": 7,
+      "title": "Emotional, Psychological and Verbal Abuse",
+      "placement": "Chapter 07 cover and For supporters section",
+      "original": "artifacts/gbv-library-refresh/originals/07-heard-and-respected.png",
+      "originalSha256": "9e7b7d57ca474b63296aadbbcdec1064f01bc327bd76b749c558d9ffce26d780",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "generator": "Built-in image_gen",
+      "prompt": "Use case: illustration-story. Create one polished mature 2D flat editorial illustration for VUGA NDAKUMVA's GBV education website. Black African people in contemporary Rwanda-relevant everyday surroundings, ordinary modern clothing, natural hair, no stereotypes. Clean well-defined shapes, restrained detail, consistent believable adult proportions and anatomically correct hands. Palette deep purple #452959, lavender #baa1d5, golden yellow #efb93c, teal #22766c, mint #d6eadc, soft blue #aacce1. Gentle serious/attentive expressions, no forced smiles, no frightened faces. Generous breathing room, 3:2 landscape 1536x1024; keep all faces, hands, meaningful props comfortably inside frame. No text, numbers, lettering, logo, watermark, graphic violence, threats, bruises, sexual imagery, savior pose, guaranteed outcome, promise of absolute confidentiality, or confrontation. This is a fictional conceptual cover, not a reenactment or before/after. Asset: Chapter 7 cover. Audience adults and supporters. Message: nonphysical harm matters and a person's account is taken seriously. Black African adult woman in a muted lavender top speaking thoughtfully to an adult friend in golden yellow who listens at equal level, in a quiet sitting room, no touch. In the distant background only, two small abstract unlettered angular conversation shapes fade into pale lavender; one smooth open conversation shape beside the speaker. Avoid sharp shapes pointing at people, threatening faces, or showing an abuser. Deep teal chairs, white and pale lavender breathing space.",
+      "review": "Reviewed for content relevance, anatomy, expression and complete framing. Fictional conceptual illustration; not a source-case reenactment.",
+      "files": [
+        {
+          "path": "public/images/learning/gbv-covers/07-heard-and-respected-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 14866,
+          "sha256": "1032e73b17b90e540e7dd1e93527df59d43c3edf0354bcd229730324656335f4"
+        },
+        {
+          "path": "public/images/learning/gbv-covers/07-heard-and-respected-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 34406,
+          "sha256": "f3683c68d4362f87d0067a0fbe02083bed65e394f4c211a37bed60045bc6ed12"
+        },
+        {
+          "path": "public/images/learning/gbv-covers/07-heard-and-respected-1440.webp",
+          "width": 1440,
+          "height": 960,
+          "bytes": 53786,
+          "sha256": "2bb4b9d2a3f9e3fa9858fee3792b1c428536bf4f879d139af0a050872728dfbc"
+        }
+      ]
+    },
+    {
+      "id": "economic-violence-and-financial-control",
+      "file": "08-resources-and-choice",
+      "chapterNumber": 8,
+      "title": "Economic Violence and Financial Control",
+      "placement": "Chapter 08 cover",
+      "original": "artifacts/gbv-library-refresh/originals/08-resources-and-choice.png",
+      "originalSha256": "abe6cd954ff071e75834a68e23b6d2e586291ab820f5018cc146303043908490",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "generator": "Built-in image_gen",
+      "prompt": "Use case: illustration-story. Create one polished mature 2D flat editorial illustration for VUGA NDAKUMVA's GBV education website. Black African people in contemporary Rwanda-relevant everyday surroundings, ordinary modern clothing, natural hair, no stereotypes. Clean well-defined shapes, restrained detail, consistent believable adult proportions and anatomically correct hands. Palette deep purple #452959, lavender #baa1d5, golden yellow #efb93c, teal #22766c, mint #d6eadc, soft blue #aacce1. Gentle serious/attentive expressions, no forced smiles, no frightened faces. Generous breathing room, 3:2 landscape 1536x1024; keep all faces, hands, meaningful props comfortably inside frame. No text, numbers, lettering, logo, watermark, graphic violence, threats, bruises, sexual imagery, savior pose, guaranteed outcome, promise of absolute confidentiality, or confrontation. This is a fictional conceptual cover, not a reenactment or before/after. Asset: Chapter 8 cover. Audience adults and community educators. Message: economic autonomy includes documents, work, money and digital access; the person retains control. Black African adult market trader woman in teal at her own simple workspace looking thoughtfully at an open unmarked ledger, identity-sized blank document wallet, small plain money pouch and phone with blank screen. A trusted adult adviser in lavender sits to one side at equal level with hands resting on their own lap; the trader alone handles her materials. A small folded work apron hints at her business. Pale mint background, golden and purple accents. No visible passwords, currency amounts, financial instructions, exchange of money, guaranteed solution or rescue.",
+      "review": "Reviewed for content relevance, anatomy, expression and complete framing. Fictional conceptual illustration; not a source-case reenactment.",
+      "files": [
+        {
+          "path": "public/images/learning/gbv-covers/08-resources-and-choice-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 22794,
+          "sha256": "0635ab675ea1ef9947095e0b41e66d79ebda17c8d056e158eb4226c9beb3c6e8"
+        },
+        {
+          "path": "public/images/learning/gbv-covers/08-resources-and-choice-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 55316,
+          "sha256": "308db947a9c7b120e0b31ee4f6bb6b7837ee90a979cafc989f5b1d98aa22a503"
+        },
+        {
+          "path": "public/images/learning/gbv-covers/08-resources-and-choice-1440.webp",
+          "width": 1440,
+          "height": 960,
+          "bytes": 88478,
+          "sha256": "754c8ddf2fd2a915b2a7f363e93658af185ced61d7eaeda41a88b3a3ce2a88f1"
+        }
+      ]
+    },
+    {
+      "id": "technology-facilitated-and-online-gender-based-violence",
+      "file": "09-digital-options",
+      "chapterNumber": 9,
+      "title": "Technology-Facilitated and Online Gender-Based Violence",
+      "placement": "Chapter 09 cover",
+      "original": "artifacts/gbv-library-refresh/originals/09-digital-options.png",
+      "originalSha256": "9aa32ce04782c655581ad64cc6831a07c696333c5e66565c2f9ea6c4938ac090",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "generator": "Built-in image_gen",
+      "prompt": "Use case: illustration-story. Create one polished mature 2D flat editorial illustration for VUGA NDAKUMVA's GBV education website. Black African people in contemporary Rwanda-relevant everyday surroundings, ordinary modern clothing, natural hair, no stereotypes. Clean well-defined shapes, restrained detail, consistent believable adult proportions and anatomically correct hands. Palette deep purple #452959, lavender #baa1d5, golden yellow #efb93c, teal #22766c, mint #d6eadc, soft blue #aacce1. Gentle serious/attentive expressions, no forced smiles, no frightened faces. Generous breathing room, 3:2 landscape 1536x1024; keep all faces, hands, meaningful props comfortably inside frame. No text, numbers, lettering, logo, watermark, graphic violence, threats, bruises, sexual imagery, savior pose, guaranteed outcome, promise of absolute confidentiality, or confrontation. This is a fictional conceptual cover, not a reenactment or before/after. Asset: Chapter 9 cover. Audience adults and older adolescents. Message: consider context and safe support before changing device settings; technology is not a safety guarantee. Black African young adult in lavender sits at a desk with an unlit smartphone face up on the tabletop, holding a closed blue notebook while talking thoughtfully with a trusted adult in teal seated across the corner at respectful distance. Unused closed golden laptop nearby. Pale lavender background, simple window, restrained composition. Neither person touches device controls; no shields, padlocks, checkmarks, password screens, tracking map, guaranteed privacy or implied instruction to change settings.",
+      "review": "Reviewed for content relevance, anatomy, expression and complete framing. Fictional conceptual illustration; not a source-case reenactment.",
+      "files": [
+        {
+          "path": "public/images/learning/gbv-covers/09-digital-options-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 16648,
+          "sha256": "d9295f0b5fb9c3320572c263d9dfe37c862ef512889fd5369bcf633c1bcfba73"
+        },
+        {
+          "path": "public/images/learning/gbv-covers/09-digital-options-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 41582,
+          "sha256": "d0aab493df32ffdb3b844ba5d24b3bd773e60f9ba0d7c635f57affaea45fdfa6"
+        },
+        {
+          "path": "public/images/learning/gbv-covers/09-digital-options-1440.webp",
+          "width": 1440,
+          "height": 960,
+          "bytes": 69068,
+          "sha256": "ea416725375d1a144bf6d85777193e578e7ee129f9688e8ba2ebbd8b3864fd89"
+        }
+      ]
+    },
+    {
+      "id": "gender-based-violence-against-children-and-adolescents",
+      "file": "10-listening-to-young-people",
+      "chapterNumber": 10,
+      "title": "Gender-Based Violence Against Children and Adolescents",
+      "placement": "Chapter 10 cover",
+      "original": "artifacts/gbv-library-refresh/originals/10-listening-to-young-people.png",
+      "originalSha256": "2253e123d48a9ec0c3f09f460d577f27bc6204515b6491ca1368c6390d2c979f",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "generator": "Built-in image_gen",
+      "prompt": "Use case: illustration-story. Create one polished mature 2D flat editorial illustration for VUGA NDAKUMVA's GBV education website. Black African people in contemporary Rwanda-relevant everyday surroundings, ordinary modern clothing, natural hair, no stereotypes. Clean well-defined shapes, restrained detail, consistent believable adult proportions and anatomically correct hands. Palette deep purple #452959, lavender #baa1d5, golden yellow #efb93c, teal #22766c, mint #d6eadc, soft blue #aacce1. Gentle serious/attentive expressions, no forced smiles, no frightened faces. Generous breathing room, 3:2 landscape 1536x1024; keep all faces, hands, meaningful props comfortably inside frame. No text, numbers, lettering, logo, watermark, graphic violence, threats, bruises, sexual imagery, savior pose, guaranteed outcome, promise of absolute confidentiality, or confrontation. This is a fictional conceptual cover, not a reenactment or before/after. Asset: Chapter 10 cover. Audience adolescents, caregivers and educators. Message: a young person's voice matters; a trusted adult listens without interrogation. Black African adolescent about 14 years old in a lavender everyday shirt and dark trousers seated on a school courtyard bench, speaking calmly to a trusted Black African adult woman in teal seated on a separate chair at the same eye level. The young person has a closed golden school notebook next to them. Attentive expressions, respectful space, no touching, no compulsory smile, no secrets gesture, no threatening figure. Quiet pale mint background, small blue window and simple plant; age-appropriate non-graphic safeguarding scene. The child is never responsible for solving the problem.",
+      "review": "Reviewed for content relevance, anatomy, expression and complete framing. Fictional conceptual illustration; not a source-case reenactment.",
+      "files": [
+        {
+          "path": "public/images/learning/gbv-covers/10-listening-to-young-people-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 16872,
+          "sha256": "ee43167a97a1f7b2585ea456a11d62c0d450078dec194ec1fa5805e261919bfd"
+        },
+        {
+          "path": "public/images/learning/gbv-covers/10-listening-to-young-people-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 38252,
+          "sha256": "e50f7442da52023fe0420d000d3094c4d3c675eff50bc3154d65404860029690"
+        },
+        {
+          "path": "public/images/learning/gbv-covers/10-listening-to-young-people-1440.webp",
+          "width": 1440,
+          "height": 960,
+          "bytes": 61082,
+          "sha256": "5c77520cea398c6cc99a44f8f072568fc3d891a1acf56856e3ec901b12a96055"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1179 @@
+{
+  "method": "PDF geometry + independent pypdf character coverage, per-section preservation, exact ordered table cells, explicit reference and Q&A counts, unchanged download hashes.",
+  "chapters": [
+    {
+      "chapter": 1,
+      "pages": 12,
+      "numberedSections": 18,
+      "sections": [
+        {
+          "id": "gbv-section-1-1",
+          "number": "1",
+          "title": "What gender-based violence means",
+          "sourceCharacters": 995,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-1-2",
+          "number": "2",
+          "title": "Why GBV is a public health and human rights concern",
+          "sourceCharacters": 714,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-1-3",
+          "number": "3",
+          "title": "What forms can GBV take?",
+          "sourceCharacters": 2181,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-1-4",
+          "number": "4",
+          "title": "Gender norms, inequality and unequal power",
+          "sourceCharacters": 1015,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-1-5",
+          "number": "5",
+          "title": "Recognizing coercive control",
+          "sourceCharacters": 627,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-1-6",
+          "number": "6",
+          "title": "Effects on health, relationships and opportunity",
+          "sourceCharacters": 905,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-1-7",
+          "number": "7",
+          "title": "Why seeking help can be difficult",
+          "sourceCharacters": 696,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-1-8",
+          "number": "8",
+          "title": "Consent, choice and boundaries",
+          "sourceCharacters": 757,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-1-9",
+          "number": "9",
+          "title": "Survivor-centred first-line support",
+          "sourceCharacters": 1022,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-1-10",
+          "number": "10",
+          "title": "Safety planning without increasing danger",
+          "sourceCharacters": 883,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-1-11",
+          "number": "11",
+          "title": "Accessing support in Rwanda",
+          "sourceCharacters": 1237,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-1-12",
+          "number": "12",
+          "title": "Learning scenarios and guided analysis",
+          "sourceCharacters": 1625,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-1-13",
+          "number": "13",
+          "title": "Activities for individuals and facilitators",
+          "sourceCharacters": 1535,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-1-14",
+          "number": "14",
+          "title": "Knowledge assessment",
+          "sourceCharacters": 1032,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-1-15",
+          "number": "15",
+          "title": "Key messages for the reader",
+          "sourceCharacters": 372,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-1-16",
+          "number": "16",
+          "title": "Glossary",
+          "sourceCharacters": 487,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-1-17",
+          "number": "17",
+          "title": "Scientific and institutional references",
+          "sourceCharacters": 1005,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-1-18",
+          "number": "18",
+          "title": "Editorial and publication review record",
+          "sourceCharacters": 651,
+          "preserved": true,
+          "orderedContentPreserved": true
+        }
+      ],
+      "frontMatter": {
+        "sourceBlocks": 16,
+        "allCharactersPreserved": true,
+        "paragraphObjectives": false,
+        "safetyNotices": 1
+      },
+      "tables": [
+        {
+          "type": "table",
+          "headers": [
+            "Form",
+            "Illustrative warning sign"
+          ],
+          "rows": [
+            [
+              "Physical",
+              "Threats or acts of physical harm"
+            ],
+            [
+              "Sexual",
+              "Sexual activity obtained through pressure, fear or coercion"
+            ],
+            [
+              "Psychological",
+              "Repeated intimidation, isolation or humiliation"
+            ],
+            [
+              "Economic",
+              "Blocking access to work or essential funds to exert control"
+            ],
+            [
+              "Digital",
+              "Monitoring devices or threatening to share private material"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "headers": [
+            "More supportive",
+            "Less supportive"
+          ],
+          "rows": [
+            [
+              "\"Thank you for telling me. What would be useful right now?\"",
+              "\"Why did you stay?\""
+            ],
+            [
+              "\"You can choose how much to share.\"",
+              "\"Tell me exactly what happened, from the start.\""
+            ],
+            [
+              "\"Can we discuss options that feel safe to you?\"",
+              "\"You must report this immediately, whatever you want.\""
+            ],
+            [
+              "\"I will explain what I can keep private and where limits apply.\"",
+              "\"I promise nobody will ever find out.\""
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Service / official source",
+            "Published contact"
+          ],
+          "rows": [
+            [
+              "Isange One Stop Centre (UNHCR Rwanda)",
+              "3029"
+            ],
+            [
+              "Rwanda Investigation Bureau (MIGEPROF)",
+              "116 / 3512"
+            ],
+            [
+              "Gender Monitoring Office (MIGEPROF)",
+              "5798"
+            ],
+            [
+              "MIGEPROF (MIGEPROF)",
+              "9059"
+            ],
+            [
+              "National Child Development Agency (MIGEPROF)",
+              "711"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Term",
+            "Plain-language meaning"
+          ],
+          "rows": [
+            [
+              "Gender-based violence",
+              "Gender-linked harmful actions, threats or coercion against a person."
+            ],
+            [
+              "Coercion",
+              "Pressure or threats that undermine free choice."
+            ],
+            [
+              "Survivor-centred care",
+              "Support led by the person's dignity, safety, wishes and needs."
+            ],
+            [
+              "Consent",
+              "Freely given and informed agreement to a particular action."
+            ],
+            [
+              "Confidentiality",
+              "Protecting sensitive information, with explained legal/safeguarding limits."
+            ],
+            [
+              "Referral",
+              "Connecting someone with suitable trained services and support."
+            ],
+            [
+              "Coercive control",
+              "Patterns of actions that restrict independence and generate fear."
+            ]
+          ]
+        }
+      ],
+      "tableCellChecks": 50,
+      "references": [
+        {
+          "number": 1,
+          "text": "World Health Organization. (2026, June 18). Violence against women. https://www.who.int/news-room/fact-sheets/detail/violence-against-women",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/violence-against-women"
+        },
+        {
+          "number": 2,
+          "text": "UNHCR Rwanda. Gender-Based Violence: definition, risks and response services. https://help.unhcr.org/rwanda/services/sgbv/",
+          "url": "https://help.unhcr.org/rwanda/services/sgbv/"
+        },
+        {
+          "number": 3,
+          "text": "World Health Organization. (2014). Health care for women subjected to intimate partner violence or sexual violence: a clinical handbook (WHO/RHR/14.26). https://www.who.int/publications-detail-redirect/WHO-RHR-14.26",
+          "url": "https://www.who.int/publications-detail-redirect/WHO-RHR-14.26"
+        },
+        {
+          "number": 4,
+          "text": "UNFPA. (2019). Inter-Agency Minimum Standards for Gender-Based Violence in Emergencies Programming. https://www.unfpa.org/sites/default/files/pub-pdf/19-200_Minimun_Standards_Report_ENGLISH-Nov.FINAL_.pdf",
+          "url": "https://www.unfpa.org/sites/default/files/pub-pdf/19-200_Minimun_Standards_Report_ENGLISH-Nov.FINAL_.pdf"
+        },
+        {
+          "number": 5,
+          "text": "Ministry of Gender and Family Promotion (MIGEPROF), Rwanda. Directorate General of Family Promotion and Child Protection. https://www.migeprof.gov.rw/family-promotion-and-child-right-protection",
+          "url": "https://www.migeprof.gov.rw/family-promotion-and-child-right-protection"
+        },
+        {
+          "number": 6,
+          "text": "UNHCR Rwanda. Gender-Based Violence: Isange One Stop Centres and contact information. https://help.unhcr.org/rwanda/services/sgbv/",
+          "url": "https://help.unhcr.org/rwanda/services/sgbv/"
+        },
+        {
+          "number": 7,
+          "text": "UNFPA. (2026, October). Guidance note on safe and ethical management, analysis and sharing of GBV service data. https://www.unfpa.org/publications/guidance-note-safe-and-ethical-management-analysis-and-sharing-gbv-service-data",
+          "url": "https://www.unfpa.org/publications/guidance-note-safe-and-ethical-management-analysis-and-sharing-gbv-service-data"
+        }
+      ],
+      "questionsAndAnswers": [
+        {
+          "question": "1. Is every disagreement between two people necessarily GBV?",
+          "answer": "No. Gender-linked harm, coercion and power dynamics must be considered.",
+          "answerLabel": "Suggested answer:"
+        },
+        {
+          "question": "2. Can repeated monitoring and threats be harmful without physical assault?",
+          "answer": "Yes. Patterns of coercive control can restrict freedom and create fear.",
+          "answerLabel": "Suggested answer:"
+        },
+        {
+          "question": "3. Does marriage automatically establish consent to sexual activity?",
+          "answer": "No. Consent must be freely given for each activity.",
+          "answerLabel": "Suggested answer:"
+        },
+        {
+          "question": "4. Why might a person delay seeking help?",
+          "answer": "Possible reasons include danger, threats, dependence, stigma, children, or lack of accessible services.",
+          "answerLabel": "Suggested answer:"
+        },
+        {
+          "question": "5. What are two helpful first responses to a disclosure?",
+          "answer": "Listen without judgment and ask about immediate needs and preferred safe options.",
+          "answerLabel": "Suggested answer:"
+        },
+        {
+          "question": "6. Should a volunteer promise total confidentiality?",
+          "answer": "No. Explain confidentiality and its legal or safeguarding limits truthfully.",
+          "answerLabel": "Suggested answer:"
+        },
+        {
+          "question": "7. Should a supporter contact the accused person without a safety assessment?",
+          "answer": "Generally no. Doing so could increase risks or undermine survivor choice.",
+          "answerLabel": "Suggested answer:"
+        },
+        {
+          "question": "8. What is one Rwanda-based referral option?",
+          "answer": "A verified Isange One Stop Centre. Confirm service details and explain any reporting implications.",
+          "answerLabel": "Suggested answer:"
+        }
+      ],
+      "examples": [
+        "example-gbv-training-opportunity",
+        "example-gbv-household-earnings",
+        "example-gbv-student-monitoring",
+        "example-gbv-volunteer-disclosure",
+        "example-gbv-child-safeguarding",
+        "example-gbv-friend-listening"
+      ],
+      "independentPypdfCoverage": true,
+      "downloadHashMatch": true,
+      "checklistsRemainUnchecked": true
+    },
+    {
+      "chapter": 2,
+      "pages": 10,
+      "numberedSections": 19,
+      "sections": [
+        {
+          "id": "gbv-section-2-1",
+          "number": "1",
+          "title": "Understanding what counts as GBV",
+          "sourceCharacters": 920,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-2-2",
+          "number": "2",
+          "title": "Physical violence",
+          "sourceCharacters": 1232,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-2-3",
+          "number": "3",
+          "title": "Sexual violence and sexual coercion",
+          "sourceCharacters": 1729,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-2-4",
+          "number": "4",
+          "title": "Psychological and emotional violence",
+          "sourceCharacters": 1184,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-2-5",
+          "number": "5",
+          "title": "Economic and financial abuse",
+          "sourceCharacters": 968,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-2-6",
+          "number": "6",
+          "title": "Technology-facilitated GBV",
+          "sourceCharacters": 1051,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-2-7",
+          "number": "7",
+          "title": "Social, reproductive and identity-related coercion",
+          "sourceCharacters": 635,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-2-8",
+          "number": "8",
+          "title": "GBV in different settings",
+          "sourceCharacters": 619,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-2-9",
+          "number": "9",
+          "title": "How forms of GBV overlap",
+          "sourceCharacters": 633,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-2-10",
+          "number": "10",
+          "title": "Recognizing risk without creating a checklist diagnosis",
+          "sourceCharacters": 606,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-2-11",
+          "number": "11",
+          "title": "Effects on survivors and why reactions differ",
+          "sourceCharacters": 545,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-2-12",
+          "number": "12",
+          "title": "Survivor-centred first-line support",
+          "sourceCharacters": 797,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-2-13",
+          "number": "13",
+          "title": "Helping children and adolescents safely",
+          "sourceCharacters": 548,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-2-14",
+          "number": "14",
+          "title": "Safe information seeking in Rwanda",
+          "sourceCharacters": 862,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-2-15",
+          "number": "15",
+          "title": "Practical learning activities",
+          "sourceCharacters": 1492,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-2-16",
+          "number": "16",
+          "title": "Knowledge assessment",
+          "sourceCharacters": 1214,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-2-17",
+          "number": "17",
+          "title": "Facilitator guidance and safeguarding",
+          "sourceCharacters": 677,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-2-18",
+          "number": "18",
+          "title": "Key messages and glossary",
+          "sourceCharacters": 817,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-2-19",
+          "number": "19",
+          "title": "References and source notes",
+          "sourceCharacters": 1686,
+          "preserved": true,
+          "orderedContentPreserved": true
+        }
+      ],
+      "frontMatter": {
+        "sourceBlocks": 10,
+        "allCharactersPreserved": true,
+        "paragraphObjectives": true,
+        "safetyNotices": 1
+      },
+      "tables": [
+        {
+          "type": "table",
+          "headers": [
+            "Setting",
+            "Examples of potential GBV",
+            "Important consideration"
+          ],
+          "rows": [
+            [
+              "Intimate relationships",
+              "Physical assault; sexual coercion; controlling behavior",
+              "A former partner may also pose risks"
+            ],
+            [
+              "Family or household",
+              "Violence linked to gender roles; restrictions on autonomy",
+              "Not all family conflict is GBV"
+            ],
+            [
+              "School or university",
+              "Sexual pressure linked to grades; harassment; stalking",
+              "Safeguarding and independent reporting matter"
+            ],
+            [
+              "Workplace",
+              "Sexual harassment; retaliation after refusal",
+              "Employment power differences can increase vulnerability"
+            ],
+            [
+              "Community/public spaces",
+              "Threats; harassment; targeted assaults",
+              "Access to safe transport and support matters"
+            ],
+            [
+              "Digital spaces",
+              "Threats; non-consensual images; surveillance",
+              "The abuser may monitor the same device"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Principle",
+            "What supportive behavior can sound like"
+          ],
+          "rows": [
+            [
+              "Listen",
+              "\"You can share only what you want to share.\""
+            ],
+            [
+              "Inquire",
+              "\"What would be most useful or safest for you right now?\""
+            ],
+            [
+              "Validate",
+              "\"What happened is not something you deserved.\""
+            ],
+            [
+              "Enhance safety",
+              "\"Would it help to discuss a safe person or place with a trained worker?\""
+            ],
+            [
+              "Support",
+              "\"I can help you find available services if you want.\""
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Service",
+            "Published contact",
+            "Important note"
+          ],
+          "rows": [
+            [
+              "Isange One Stop Centres",
+              "3029",
+              "UNHCR Rwanda listing; ask about access and reporting implications"
+            ],
+            [
+              "Rwanda Investigation Bureau",
+              "116 / 3512",
+              "MIGEPROF listing"
+            ],
+            [
+              "Gender Monitoring Office",
+              "5798",
+              "MIGEPROF listing"
+            ],
+            [
+              "MIGEPROF",
+              "9059",
+              "MIGEPROF listing"
+            ],
+            [
+              "Child protection (NCDA)",
+              "711",
+              "MIGEPROF listing"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Term",
+            "Plain-language explanation"
+          ],
+          "rows": [
+            [
+              "Coercion",
+              "Pressure or threats used to make someone do something against their free choice"
+            ],
+            [
+              "Consent",
+              "A freely given, specific and changeable agreement"
+            ],
+            [
+              "Survivor-centred",
+              "An approach prioritizing dignity, safety, informed choice and respectful support"
+            ],
+            [
+              "Economic abuse",
+              "Use of financial or material control to cause harm or reduce independence"
+            ],
+            [
+              "Digital abuse",
+              "Harm or coercion carried out or amplified through technology"
+            ],
+            [
+              "Intimate partner violence",
+              "Abusive behavior by a current or former partner"
+            ],
+            [
+              "Safeguarding",
+              "Steps to prevent and respond to harm, particularly involving children or vulnerable people"
+            ]
+          ]
+        }
+      ],
+      "tableCellChecks": 67,
+      "references": [
+        {
+          "number": 1,
+          "text": "World Health Organization. Violence against women. Fact sheet, 18 June 2026. https://www.who.int/en/news-room/fact-sheets/detail/violence-against-women",
+          "url": "https://www.who.int/en/news-room/fact-sheets/detail/violence-against-women"
+        },
+        {
+          "number": 2,
+          "text": "UN Women Australia. Types of violence against women and girls. 2024. https://unwomen.org.au/types-of-violence-against-women-and-girls/",
+          "url": "https://unwomen.org.au/types-of-violence-against-women-and-girls/"
+        },
+        {
+          "number": 3,
+          "text": "UN Women New Zealand. Frequently asked questions: Types of violence against women and girls. https://unwomen.org.nz/types-of-violence-against-women-and-girls",
+          "url": "https://unwomen.org.nz/types-of-violence-against-women-and-girls"
+        },
+        {
+          "number": 4,
+          "text": "United Nations. What is domestic abuse? https://www.un.org/en/node/71778",
+          "url": "https://www.un.org/en/node/71778"
+        },
+        {
+          "number": 5,
+          "text": "UN Women Australia. Technology-facilitated violence definitions in Types of violence against women and girls. 2024. https://unwomen.org.au/types-of-violence-against-women-and-girls/",
+          "url": "https://unwomen.org.au/types-of-violence-against-women-and-girls/"
+        },
+        {
+          "number": 6,
+          "text": "European Institute for Gender Equality. What is gender-based violence? https://eige.europa.eu/gender-based-violence/what-is-gender-based-violence",
+          "url": "https://eige.europa.eu/gender-based-violence/what-is-gender-based-violence"
+        },
+        {
+          "number": 7,
+          "text": "World Health Organization. Clinical management of rape and intimate partner violence survivors. 2020. https://www.who.int/publications/i/item/9789240001411",
+          "url": "https://www.who.int/publications/i/item/9789240001411"
+        },
+        {
+          "number": 8,
+          "text": "US Centers for Disease Control and Prevention. Clinical Guidance for PEP. Updated 7 October 2026. https://www.cdc.gov/hivnexus/hcp/pep/",
+          "url": "https://www.cdc.gov/hivnexus/hcp/pep/"
+        },
+        {
+          "number": 9,
+          "text": "World Bank. Violence against Women and Girls: Terminology. https://www.worldbank.org/en/programs/violence-against-women-and-girls/terminology",
+          "url": "https://www.worldbank.org/en/programs/violence-against-women-and-girls/terminology"
+        },
+        {
+          "number": 10,
+          "text": "World Health Organization. Health care for women subjected to intimate partner violence or sexual violence: A clinical handbook. 2014. https://apps.who.int/iris/handle/10665/136101",
+          "url": "https://apps.who.int/iris/handle/10665/136101"
+        },
+        {
+          "number": 11,
+          "text": "Rwanda Ministry of Gender and Family Promotion (MIGEPROF). Family promotion and child rights protection. https://www.migeprof.gov.rw/family-promotion-and-child-right-protection",
+          "url": "https://www.migeprof.gov.rw/family-promotion-and-child-right-protection"
+        },
+        {
+          "number": 12,
+          "text": "UNHCR Rwanda. Gender-Based Violence: response services. https://help.unhcr.org/rwanda/services/sgbv/",
+          "url": "https://help.unhcr.org/rwanda/services/sgbv/"
+        }
+      ],
+      "questionsAndAnswers": [
+        {
+          "question": "1. Can GBV happen without physical injuries?",
+          "answer": "Yes. Sexual, psychological, economic and digital forms can occur without visible injuries.",
+          "answerLabel": ""
+        },
+        {
+          "question": "2. Does marriage mean a person has permanently consented to sex?",
+          "answer": "No. Consent must be freely given and remains specific and revocable.",
+          "answerLabel": ""
+        },
+        {
+          "question": "3. Is every financial disagreement economic abuse?",
+          "answer": "No. Coercive control, deprivation, threats and context distinguish abuse from ordinary disagreement.",
+          "answerLabel": ""
+        },
+        {
+          "question": "4. Can one incident involve multiple forms?",
+          "answer": "Yes. A physical assault may also involve threats, sexual coercion or economic control.",
+          "answerLabel": ""
+        },
+        {
+          "question": "5. Should a supporter ask for a detailed account to verify what happened?",
+          "answer": "No. Do not investigate or demand repeated disclosure. Offer respectful support and professional referral.",
+          "answerLabel": ""
+        },
+        {
+          "question": "6. Is digital surveillance harmless when no physical contact occurs?",
+          "answer": "No. Technology can be used to intimidate, monitor or control someone.",
+          "answerLabel": ""
+        },
+        {
+          "question": "7. What is an important time window after possible HIV exposure?",
+          "answer": "PEP assessment is time-sensitive; when indicated, it should begin as soon as possible and within 72 hours.",
+          "answerLabel": ""
+        },
+        {
+          "question": "8. Are response services automatically confidential in every circumstance?",
+          "answer": "No. Explain that legal, safeguarding or reporting requirements may limit confidentiality.",
+          "answerLabel": ""
+        },
+        {
+          "question": "9. Who can experience GBV?",
+          "answer": "People of any gender, while women and girls are disproportionately affected.",
+          "answerLabel": ""
+        },
+        {
+          "question": "10. What is the first priority when someone is in immediate danger?",
+          "answer": "Consider immediate safety and appropriate urgent support; avoid actions that could escalate danger.",
+          "answerLabel": ""
+        }
+      ],
+      "examples": [
+        "example-gbv-home-argument",
+        "example-gbv-trainee-support",
+        "example-gbv-messages-isolation",
+        "example-gbv-family-shop",
+        "example-gbv-online-threats"
+      ],
+      "independentPypdfCoverage": true,
+      "downloadHashMatch": true,
+      "checklistsRemainUnchecked": true
+    },
+    {
+      "chapter": 3,
+      "pages": 11,
+      "numberedSections": 20,
+      "sections": [
+        {
+          "id": "gbv-section-3-1",
+          "number": "1",
+          "title": "Understanding what drives GBV",
+          "sourceCharacters": 1102,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-3-2",
+          "number": "2",
+          "title": "Gender inequality and unequal power",
+          "sourceCharacters": 885,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-3-3",
+          "number": "3",
+          "title": "Harmful norms and learned beliefs",
+          "sourceCharacters": 1017,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-3-4",
+          "number": "4",
+          "title": "The ecological model: four connected levels",
+          "sourceCharacters": 1021,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-3-5",
+          "number": "5",
+          "title": "Social and institutional influences",
+          "sourceCharacters": 1373,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-3-6",
+          "number": "6",
+          "title": "Economic pressures: association is not justification",
+          "sourceCharacters": 608,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-3-7",
+          "number": "7",
+          "title": "Alcohol, substances, and violence",
+          "sourceCharacters": 454,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-3-8",
+          "number": "8",
+          "title": "Risk factors versus warning signs",
+          "sourceCharacters": 759,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-3-9",
+          "number": "9",
+          "title": "Protective factors and resilience",
+          "sourceCharacters": 485,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-3-10",
+          "number": "10",
+          "title": "Prevention based on evidence: the RESPECT framework",
+          "sourceCharacters": 1094,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-3-11",
+          "number": "11",
+          "title": "Rwanda relevance: local systems and approaches",
+          "sourceCharacters": 900,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-3-12",
+          "number": "12",
+          "title": "Realistic learning scenarios",
+          "sourceCharacters": 1704,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-3-13",
+          "number": "13",
+          "title": "Practical learning activities",
+          "sourceCharacters": 1522,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-3-14",
+          "number": "14",
+          "title": "Supporting a person safely",
+          "sourceCharacters": 681,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-3-15",
+          "number": "15",
+          "title": "Safe communication and sensitive data",
+          "sourceCharacters": 551,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-3-16",
+          "number": "16",
+          "title": "Knowledge assessment",
+          "sourceCharacters": 1304,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-3-17",
+          "number": "17",
+          "title": "Key messages to remember",
+          "sourceCharacters": 404,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-3-18",
+          "number": "18",
+          "title": "Short glossary",
+          "sourceCharacters": 665,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-3-19",
+          "number": "19",
+          "title": "Evidence and references",
+          "sourceCharacters": 1141,
+          "preserved": true,
+          "orderedContentPreserved": true
+        },
+        {
+          "id": "gbv-section-3-20",
+          "number": "20",
+          "title": "Publication readiness checklist",
+          "sourceCharacters": 612,
+          "preserved": true,
+          "orderedContentPreserved": true
+        }
+      ],
+      "frontMatter": {
+        "sourceBlocks": 7,
+        "allCharactersPreserved": true,
+        "paragraphObjectives": false,
+        "safetyNotices": 0
+      },
+      "tables": [
+        {
+          "type": "table",
+          "headers": [
+            "Concept",
+            "Meaning and example"
+          ],
+          "rows": [
+            [
+              "Root or structural driver",
+              "A broad, persistent condition that supports GBV, such as norms accepting control of women or unequal access to decision-making."
+            ],
+            [
+              "Risk factor",
+              "A circumstance statistically associated with greater likelihood of violence, such as prior exposure to family violence; not a prediction about one person."
+            ],
+            [
+              "Protective factor",
+              "A condition that may reduce risk, such as equitable relationships, accessible survivor services, or effective institutional accountability."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Harmful message",
+            "Healthier principle"
+          ],
+          "rows": [
+            [
+              "\"A partner must obey without question.\"",
+              "Adults have equal dignity and may express disagreement without fear."
+            ],
+            [
+              "\"Real men must control the household.\"",
+              "Responsibility and care do not require coercion or domination."
+            ],
+            [
+              "\"Family matters should never be discussed outside.\"",
+              "Privacy matters, but seeking safe support for violence is legitimate."
+            ],
+            [
+              "\"If someone stays, the abuse cannot be serious.\"",
+              "Leaving may create danger or involve housing, childcare, and financial barriers."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Level",
+            "Examples of concerns",
+            "Possible protective response"
+          ],
+          "rows": [
+            [
+              "Individual",
+              "Attitudes condoning abuse; prior exposure to violence; harmful alcohol use in some contexts.",
+              "Nonviolent conflict skills, respectful gender education, accessible support."
+            ],
+            [
+              "Relationship",
+              "Controlling behavior, extreme power imbalance, threats, isolation.",
+              "Equitable decision-making and intervention addressing perpetration."
+            ],
+            [
+              "Community",
+              "Harassment tolerated at school or work; barriers to reporting; unsafe public spaces.",
+              "Safe complaint channels, bystander responsibility, trained staff."
+            ],
+            [
+              "Societal",
+              "Discriminatory practices, weak enforcement, norms accepting GBV.",
+              "Equality policies, accountable institutions, long-term norm change."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Risk factor (association)",
+            "Warning sign (behavior to take seriously)"
+          ],
+          "rows": [
+            [
+              "Prior exposure to violence in childhood.",
+              "A partner repeatedly threatens harm if someone talks to friends."
+            ],
+            [
+              "Economic insecurity.",
+              "A partner confiscates wages or blocks access to essential money."
+            ],
+            [
+              "Harmful norms supporting dominance.",
+              "A supervisor demands sexual favors in exchange for a grade or job."
+            ],
+            [
+              "Weak reporting systems.",
+              "Staff dismiss a disclosure or warn the survivor not to complain."
+            ]
+          ]
+        }
+      ],
+      "tableCellChecks": 43,
+      "references": [
+        {
+          "number": 1,
+          "text": "World Health Organization. Violence against women. Fact sheet, updated 2026. https://www.who.int/news-room/fact-sheets/detail/violence-against-women",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/violence-against-women"
+        },
+        {
+          "number": 2,
+          "text": "WHO and partners. RESPECT women: Preventing violence against women. 2nd ed. 2025. https://www.who.int/publications/i/item/9789240117020",
+          "url": "https://www.who.int/publications/i/item/9789240117020"
+        },
+        {
+          "number": 3,
+          "text": "Ministry of Gender and Family Promotion (Rwanda). National Transformative Strategy: Engaging Men and Boys for Gender Equality Promotion. https://www.migeprof.gov.rw/fileadmin/user_upload/Migeprof/Publications/Guidelines/01_National_Transformative_Strategy_Engaging_Men_and_Boys_for_Gender_Equality_Promotion_.pdf",
+          "url": "https://www.migeprof.gov.rw/fileadmin/user_upload/Migeprof/Publications/Guidelines/01_National_Transformative_Strategy_Engaging_Men_and_Boys_for_Gender_Equality_Promotion_.pdf"
+        },
+        {
+          "number": 4,
+          "text": "World Health Organization. Violence Prevention Unit strategy 2022-2026: Social ecological model. https://cdn.who.int/media/docs/default-source/documents/social-determinants-of-health/who_2022_plv_strategy_2022-2026_finalfile.pdf",
+          "url": "https://cdn.who.int/media/docs/default-source/documents/social-determinants-of-health/who_2022_plv_strategy_2022-2026_finalfile.pdf"
+        },
+        {
+          "number": 5,
+          "text": "UN Women. Handbook on Multisectoral National Action Plans to Prevent Violence Against Women and Girls. 2023. https://www.unwomen.org/sites/default/files/2023-10/handbook-on-multisectoral-national-action-plans-to-prevent-violence-against-women-and-girls-en.pdf",
+          "url": "https://www.unwomen.org/sites/default/files/2023-10/handbook-on-multisectoral-national-action-plans-to-prevent-violence-against-women-and-girls-en.pdf"
+        },
+        {
+          "number": 6,
+          "text": "MIGEPROF Rwanda. National Policy Against Gender-Based Violence. 2011 (historical policy reference; verify current operational requirements). https://www.migeprof.gov.rw/fileadmin/user_upload/Migeprof/Publications/Guidelines/National_Policy_against_Gender-Based_Violence-2011.pdf",
+          "url": "https://www.migeprof.gov.rw/fileadmin/user_upload/Migeprof/Publications/Guidelines/National_Policy_against_Gender-Based_Violence-2011.pdf"
+        }
+      ],
+      "questionsAndAnswers": [
+        {
+          "question": "1. Is poverty a sufficient explanation or excuse for GBV?",
+          "answer": "No. Economic insecurity may affect risk or options, but does not justify abuse.",
+          "answerLabel": "Suggested answer:"
+        },
+        {
+          "question": "2. What is a structural driver?",
+          "answer": "A broad condition, such as gender inequality or norms tolerating domination, that supports violence risk.",
+          "answerLabel": "Suggested answer:"
+        },
+        {
+          "question": "3. What four levels appear in the ecological model?",
+          "answer": "Individual, relationship, community, and societal.",
+          "answerLabel": "Suggested answer:"
+        },
+        {
+          "question": "4. Does witnessing violence as a child determine adult behavior?",
+          "answer": "No. It can be a risk factor, not an inevitable outcome.",
+          "answerLabel": "Suggested answer:"
+        },
+        {
+          "question": "5. Give one example of coercive control.",
+          "answer": "Repeated threats, forced isolation, surveillance, or deprivation of necessary resources to control another person.",
+          "answerLabel": "Suggested answer:"
+        },
+        {
+          "question": "6. What makes a reporting system safer?",
+          "answer": "Confidentiality within legal limits, staff training, protection against retaliation, and credible follow-through.",
+          "answerLabel": "Suggested answer:"
+        },
+        {
+          "question": "7. Name two RESPECT prevention strategies.",
+          "answer": "Any two: relationship skills, empowerment, services, poverty reduction, safe environments, child abuse prevention, transformed norms.",
+          "answerLabel": "Suggested answer:"
+        },
+        {
+          "question": "8. Why can forced couple mediation be unsafe in abusive situations?",
+          "answer": "It may expose a survivor to coercion, retaliation, and further harm.",
+          "answerLabel": "Suggested answer:"
+        },
+        {
+          "question": "9. Does having a mental health condition mean someone will commit GBV?",
+          "answer": "No. Population-level associations must never be used to stereotype individuals.",
+          "answerLabel": "Suggested answer:"
+        },
+        {
+          "question": "10. What is the first principle when receiving a disclosure?",
+          "answer": "Respect the person’s safety, dignity, privacy and choices; listen without judgment.",
+          "answerLabel": "Suggested answer:"
+        }
+      ],
+      "examples": [
+        "example-gbv-work-transport",
+        "example-gbv-school-authority",
+        "example-gbv-challenging-norms",
+        "example-gbv-mediation-pressure",
+        "example-gbv-temporary-worker"
+      ],
+      "independentPypdfCoverage": true,
+      "downloadHashMatch": true,
+      "checklistsRemainUnchecked": true
+    }
+  ]
+}

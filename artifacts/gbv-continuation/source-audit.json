@@ -1,0 +1,1291 @@
+{
+  "reviewedOn": "2026-11-11",
+  "method": "73 page visual review, geometry extraction, ordered section checks, independent pypdf character coverage, explicit flattened-table transcription, unchanged PDF hashes. Review requirements in the sources are not claims that review has occurred.",
+  "chapters": [
+    {
+      "chapter": 4,
+      "pages": 9,
+      "numberedSections": 17,
+      "readerSections": 17,
+      "sections": [
+        {
+          "id": "gbv-section-4-1",
+          "sourceHeading": "01 | What consent means",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 1222
+        },
+        {
+          "id": "gbv-section-4-2",
+          "sourceHeading": "02 | Consent, choice and capacity",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 909
+        },
+        {
+          "id": "gbv-section-4-3",
+          "sourceHeading": "03 | Personal boundaries: understanding and expressing limits",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 1075
+        },
+        {
+          "id": "gbv-section-4-4",
+          "sourceHeading": "04 | Bodily autonomy and dignity",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 640
+        },
+        {
+          "id": "gbv-section-4-5",
+          "sourceHeading": "05 | Coercion, manipulation and power imbalances",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 975
+        },
+        {
+          "id": "gbv-section-4-6",
+          "sourceHeading": "06 | Consent in dating, marriage and long-term relationships",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 774
+        },
+        {
+          "id": "gbv-section-4-7",
+          "sourceHeading": "07 | Digital consent, privacy and technology",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 964
+        },
+        {
+          "id": "gbv-section-4-8",
+          "sourceHeading": "08 | Culture, social expectations and unequal power",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 542
+        },
+        {
+          "id": "gbv-section-4-9",
+          "sourceHeading": "09 | Scenario learning: four Rwanda-relevant cases",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 1262
+        },
+        {
+          "id": "gbv-section-4-10",
+          "sourceHeading": "10 | How to respond when someone describes coercion",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 674
+        },
+        {
+          "id": "gbv-section-4-11",
+          "sourceHeading": "11 | Safety considerations and seeking support",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 911
+        },
+        {
+          "id": "gbv-section-4-12",
+          "sourceHeading": "12 | Guided learning activities (optional and non-disclosing)",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 1467
+        },
+        {
+          "id": "gbv-section-4-13",
+          "sourceHeading": "13 | Knowledge assessment with explained answers",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 1173
+        },
+        {
+          "id": "gbv-section-4-14",
+          "sourceHeading": "14 | Facilitator notes and accessibility",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 580
+        },
+        {
+          "id": "gbv-section-4-15",
+          "sourceHeading": "15 | Key terms",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 639
+        },
+        {
+          "id": "gbv-section-4-16",
+          "sourceHeading": "16 | References and source notes",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 995
+        },
+        {
+          "id": "gbv-section-4-17",
+          "sourceHeading": "17 | Publication approval checklist",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 714
+        }
+      ],
+      "frontMatterPreserved": true,
+      "independentPypdfCoverage": true,
+      "downloadHashMatch": true,
+      "references": 6,
+      "questions": 10,
+      "scenarios": 4,
+      "activities": 5,
+      "tables": [],
+      "layoutCorrections": []
+    },
+    {
+      "chapter": 5,
+      "pages": 9,
+      "numberedSections": 17,
+      "readerSections": 17,
+      "sections": [
+        {
+          "id": "gbv-section-5-1",
+          "sourceHeading": "01 Understanding domestic violence",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 1483
+        },
+        {
+          "id": "gbv-section-5-2",
+          "sourceHeading": "02 Forms of violence within relationships",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 1427
+        },
+        {
+          "id": "gbv-section-5-3",
+          "sourceHeading": "03 What is coercive control?",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 857
+        },
+        {
+          "id": "gbv-section-5-4",
+          "sourceHeading": "04 Recognizing warning signs and escalation",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 820
+        },
+        {
+          "id": "gbv-section-5-5",
+          "sourceHeading": "05 Effects on health, dignity, and daily life",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 987
+        },
+        {
+          "id": "gbv-section-5-6",
+          "sourceHeading": "06 Risk factors are not excuses",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 556
+        },
+        {
+          "id": "gbv-section-5-7",
+          "sourceHeading": "07 Safe, survivor-centred first-line support",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 1241
+        },
+        {
+          "id": "gbv-section-5-8",
+          "sourceHeading": "08 Safety planning: principles, not a fixed script",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 916
+        },
+        {
+          "id": "gbv-section-5-9",
+          "sourceHeading": "09 Health care and urgent situations",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 879
+        },
+        {
+          "id": "gbv-section-5-10",
+          "sourceHeading": "10 Accessing help in Rwanda",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 835
+        },
+        {
+          "id": "gbv-section-5-11",
+          "sourceHeading": "11 Practical scenarios: recognizing what matters",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 1499
+        },
+        {
+          "id": "gbv-section-5-12",
+          "sourceHeading": "12 Guided learning activities",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 1352
+        },
+        {
+          "id": "gbv-section-5-13",
+          "sourceHeading": "13 Knowledge assessment with explained answers",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 1202
+        },
+        {
+          "id": "gbv-section-5-14",
+          "sourceHeading": "14 Key terms",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 426
+        },
+        {
+          "id": "gbv-section-5-15",
+          "sourceHeading": "15 Key messages to remember",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 438
+        },
+        {
+          "id": "gbv-section-5-16",
+          "sourceHeading": "16 References and source notes",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 899
+        },
+        {
+          "id": "gbv-section-5-17",
+          "sourceHeading": "17 Editorial and professional review before publication",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 574
+        }
+      ],
+      "frontMatterPreserved": true,
+      "independentPypdfCoverage": true,
+      "downloadHashMatch": true,
+      "references": 7,
+      "questions": 10,
+      "scenarios": 5,
+      "activities": 5,
+      "tables": [
+        {
+          "type": "table",
+          "headers": [
+            "Example behavior",
+            "Why it is concerning"
+          ],
+          "rows": [
+            [
+              "Requiring constant location updates",
+              "May create surveillance, fear, and loss of independence"
+            ],
+            [
+              "Preventing visits to trusted friends",
+              "May isolate the person from support"
+            ],
+            [
+              "Threatening to take children away",
+              "May use parenting fears as a means of coercion"
+            ],
+            [
+              "Taking all wages or IDs",
+              "May reduce access to basic needs and safe options"
+            ],
+            [
+              "Threatening self-harm to prevent a breakup",
+              "May impose guilt and pressure; threats still require appropriate safety response"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Element",
+            "Practical approach"
+          ],
+          "rows": [
+            [
+              "L - Listen",
+              "Listen patiently, without judgment or repeated requests for details"
+            ],
+            [
+              "I - Inquire about needs",
+              "Ask what the person needs now, privately and without pressure"
+            ],
+            [
+              "V - Validate",
+              "Communicate that the abuse is serious and the survivor is not to blame"
+            ],
+            [
+              "E - Enhance safety",
+              "Ask about immediate safety and link to skilled help rather than imposing a plan"
+            ],
+            [
+              "S - Support",
+              "Explain available care, referral, and practical options; respect choice and confidentiality limits"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "headers": [
+            "More supportive",
+            "Potentially harmful"
+          ],
+          "rows": [
+            [
+              "“Thank you for telling me. What would help you feel safer?”",
+              "“Why didn’t you leave earlier?”"
+            ],
+            [
+              "“We can explore options; you decide what feels safe.”",
+              "“You must report right now, whatever the risk.”"
+            ],
+            [
+              "“I will explain what I can and cannot keep confidential.”",
+              "“I promise nobody will ever know.”"
+            ],
+            [
+              "“You do not have to describe every detail to me.”",
+              "“Tell me exactly everything that happened.”"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Official contact",
+            "Purpose"
+          ],
+          "rows": [
+            [
+              "3029",
+              "Isange One Stop Centre (RIB contact page)"
+            ],
+            [
+              "3512",
+              "Reporting domestic or gender-based violence (RIB)"
+            ],
+            [
+              "116",
+              "Reporting child abuse (RIB)"
+            ],
+            [
+              "166",
+              "Emergency or crime-related information (RIB)"
+            ],
+            [
+              "9059",
+              "MIGEPROF assistance hotline (ministry site)"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Term",
+            "Plain-language meaning"
+          ],
+          "rows": [
+            [
+              "Domestic violence",
+              "Abuse occurring in a domestic or family relationship"
+            ],
+            [
+              "Intimate partner violence",
+              "Abuse by a current or former intimate partner"
+            ],
+            [
+              "Coercive control",
+              "Pattern of threats, restrictions and monitoring that reduces autonomy"
+            ],
+            [
+              "Survivor-centred",
+              "Support that prioritizes dignity, choices, safety and needs"
+            ],
+            [
+              "Safety planning",
+              "Individualized consideration of actions and resources to reduce risk"
+            ],
+            [
+              "Referral",
+              "Connecting someone with suitable professional support or services"
+            ]
+          ]
+        }
+      ],
+      "layoutCorrections": [
+        {
+          "page": 3,
+          "sourceText": "Example behavior Why it is concerning Requiring constant location updates May create surveillance, fear, and loss of independence Preventing visits to trusted friends May isolate the person from support Threatening to take children away May use parenting fears as a means of coercion Taking all wages or IDs May reduce access to basic needs and safe options Threatening self-harm to prevent a May impose guilt and pressure; threats still require appropriate safety breakup response",
+          "table": {
+            "type": "table",
+            "headers": [
+              "Example behavior",
+              "Why it is concerning"
+            ],
+            "rows": [
+              [
+                "Requiring constant location updates",
+                "May create surveillance, fear, and loss of independence"
+              ],
+              [
+                "Preventing visits to trusted friends",
+                "May isolate the person from support"
+              ],
+              [
+                "Threatening to take children away",
+                "May use parenting fears as a means of coercion"
+              ],
+              [
+                "Taking all wages or IDs",
+                "May reduce access to basic needs and safe options"
+              ],
+              [
+                "Threatening self-harm to prevent a breakup",
+                "May impose guilt and pressure; threats still require appropriate safety response"
+              ]
+            ]
+          },
+          "allWordsPreserved": true,
+          "columnOrderRestored": true
+        },
+        {
+          "page": 4,
+          "sourceText": "Element Practical approach L - Listen Listen patiently, without judgment or repeated requests for details I - Inquire about needs Ask what the person needs now, privately and without pressure V - Validate Communicate that the abuse is serious and the survivor is not to blame E - Enhance safety Ask about immediate safety and link to skilled help rather than imposing a plan S - Support Explain available care, referral, and practical options; respect choice and confidentiality limits",
+          "table": {
+            "type": "table",
+            "headers": [
+              "Element",
+              "Practical approach"
+            ],
+            "rows": [
+              [
+                "L - Listen",
+                "Listen patiently, without judgment or repeated requests for details"
+              ],
+              [
+                "I - Inquire about needs",
+                "Ask what the person needs now, privately and without pressure"
+              ],
+              [
+                "V - Validate",
+                "Communicate that the abuse is serious and the survivor is not to blame"
+              ],
+              [
+                "E - Enhance safety",
+                "Ask about immediate safety and link to skilled help rather than imposing a plan"
+              ],
+              [
+                "S - Support",
+                "Explain available care, referral, and practical options; respect choice and confidentiality limits"
+              ]
+            ]
+          },
+          "allWordsPreserved": true,
+          "columnOrderRestored": false
+        },
+        {
+          "page": 4,
+          "sourceText": "More supportive Potentially harmful “Thank you for telling me. What would help you feel “Why didn’t you leave earlier?” safer?” “We can explore options; you decide what feels safe.” “You must report right now, whatever the risk.” “I will explain what I can and cannot keep “I promise nobody will ever know.” confidential.” “You do not have to describe every detail to me.” “Tell me exactly everything that happened.”",
+          "table": {
+            "type": "table",
+            "headers": [
+              "More supportive",
+              "Potentially harmful"
+            ],
+            "rows": [
+              [
+                "“Thank you for telling me. What would help you feel safer?”",
+                "“Why didn’t you leave earlier?”"
+              ],
+              [
+                "“We can explore options; you decide what feels safe.”",
+                "“You must report right now, whatever the risk.”"
+              ],
+              [
+                "“I will explain what I can and cannot keep confidential.”",
+                "“I promise nobody will ever know.”"
+              ],
+              [
+                "“You do not have to describe every detail to me.”",
+                "“Tell me exactly everything that happened.”"
+              ]
+            ]
+          },
+          "allWordsPreserved": true,
+          "columnOrderRestored": true
+        },
+        {
+          "page": 6,
+          "sourceText": "Official contact Purpose 3029 Isange One Stop Centre (RIB contact page) 3512 Reporting domestic or gender-based violence (RIB) 116 Reporting child abuse (RIB) 166 Emergency or crime-related information (RIB) 9059 MIGEPROF assistance hotline (ministry site)",
+          "table": {
+            "type": "table",
+            "headers": [
+              "Official contact",
+              "Purpose"
+            ],
+            "rows": [
+              [
+                "3029",
+                "Isange One Stop Centre (RIB contact page)"
+              ],
+              [
+                "3512",
+                "Reporting domestic or gender-based violence (RIB)"
+              ],
+              [
+                "116",
+                "Reporting child abuse (RIB)"
+              ],
+              [
+                "166",
+                "Emergency or crime-related information (RIB)"
+              ],
+              [
+                "9059",
+                "MIGEPROF assistance hotline (ministry site)"
+              ]
+            ]
+          },
+          "allWordsPreserved": true,
+          "columnOrderRestored": false
+        },
+        {
+          "page": 8,
+          "sourceText": "Term Plain-language meaning Domestic violence Abuse occurring in a domestic or family relationship Intimate partner violence Abuse by a current or former intimate partner Coercive control Pattern of threats, restrictions and monitoring that reduces autonomy Survivor-centred Support that prioritizes dignity, choices, safety and needs Safety planning Individualized consideration of actions and resources to reduce risk Referral Connecting someone with suitable professional support or services",
+          "table": {
+            "type": "table",
+            "headers": [
+              "Term",
+              "Plain-language meaning"
+            ],
+            "rows": [
+              [
+                "Domestic violence",
+                "Abuse occurring in a domestic or family relationship"
+              ],
+              [
+                "Intimate partner violence",
+                "Abuse by a current or former intimate partner"
+              ],
+              [
+                "Coercive control",
+                "Pattern of threats, restrictions and monitoring that reduces autonomy"
+              ],
+              [
+                "Survivor-centred",
+                "Support that prioritizes dignity, choices, safety and needs"
+              ],
+              [
+                "Safety planning",
+                "Individualized consideration of actions and resources to reduce risk"
+              ],
+              [
+                "Referral",
+                "Connecting someone with suitable professional support or services"
+              ]
+            ]
+          },
+          "allWordsPreserved": true,
+          "columnOrderRestored": false
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "pages": 9,
+      "numberedSections": 18,
+      "readerSections": 18,
+      "sections": [
+        {
+          "id": "gbv-section-6-1",
+          "sourceHeading": "1. Understanding sexual violence",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 720
+        },
+        {
+          "id": "gbv-section-6-2",
+          "sourceHeading": "2. Consent: what makes agreement meaningful?",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 833
+        },
+        {
+          "id": "gbv-section-6-3",
+          "sourceHeading": "3. Sexual harassment",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 833
+        },
+        {
+          "id": "gbv-section-6-4",
+          "sourceHeading": "4. Sexual exploitation and abuse of authority",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 875
+        },
+        {
+          "id": "gbv-section-6-5",
+          "sourceHeading": "5. Sexual coercion and intimidation",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 491
+        },
+        {
+          "id": "gbv-section-6-6",
+          "sourceHeading": "6. Technology-facilitated sexual harm",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 948
+        },
+        {
+          "id": "gbv-section-6-7",
+          "sourceHeading": "7. Effects on wellbeing and daily life",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 627
+        },
+        {
+          "id": "gbv-section-6-8",
+          "sourceHeading": "8. Responding to a disclosure: first-line support",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 1087
+        },
+        {
+          "id": "gbv-section-6-9",
+          "sourceHeading": "9. Urgent healthcare after sexual assault",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 1029
+        },
+        {
+          "id": "gbv-section-6-10",
+          "sourceHeading": "10. Safeguarding children and other vulnerable people",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 586
+        },
+        {
+          "id": "gbv-section-6-11",
+          "sourceHeading": "11. Rwanda: care and referral pathways",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 767
+        },
+        {
+          "id": "gbv-section-6-12",
+          "sourceHeading": "12. Prevention in schools, workplaces, and institutions",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 634
+        },
+        {
+          "id": "gbv-section-6-13",
+          "sourceHeading": "13. Fictional learning scenarios",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 1548
+        },
+        {
+          "id": "gbv-section-6-14",
+          "sourceHeading": "14. Guided educational activities",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 1329
+        },
+        {
+          "id": "gbv-section-6-15",
+          "sourceHeading": "15. Knowledge assessment with answer explanations",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 1183
+        },
+        {
+          "id": "gbv-section-6-16",
+          "sourceHeading": "16. Key terms",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 714
+        },
+        {
+          "id": "gbv-section-6-17",
+          "sourceHeading": "17. References and further reading",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 1287
+        },
+        {
+          "id": "gbv-section-6-18",
+          "sourceHeading": "18. Publication and specialist review checklist",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 632
+        }
+      ],
+      "frontMatterPreserved": true,
+      "independentPypdfCoverage": true,
+      "downloadHashMatch": true,
+      "references": 9,
+      "questions": 10,
+      "scenarios": 5,
+      "activities": 5,
+      "tables": [],
+      "layoutCorrections": []
+    },
+    {
+      "chapter": 7,
+      "pages": 14,
+      "numberedSections": 23,
+      "readerSections": 23,
+      "sections": [
+        {
+          "id": "gbv-section-7-1",
+          "sourceHeading": "01 Understanding non-physical abuse",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 1653
+        },
+        {
+          "id": "gbv-section-7-2",
+          "sourceHeading": "02 Verbal abuse versus respectful conflict",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 818
+        },
+        {
+          "id": "gbv-section-7-3",
+          "sourceHeading": "03 Coercive control: understanding the pattern",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 510
+        },
+        {
+          "id": "gbv-section-7-4",
+          "sourceHeading": "04 Manipulation and reality-distorting behavior",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 804
+        },
+        {
+          "id": "gbv-section-7-5",
+          "sourceHeading": "05 Threats, humiliation and intimidation",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 527
+        },
+        {
+          "id": "gbv-section-7-6",
+          "sourceHeading": "06 Emotional abuse in different settings",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 1127
+        },
+        {
+          "id": "gbv-section-7-7",
+          "sourceHeading": "07 Possible effects on survivors",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 516
+        },
+        {
+          "id": "gbv-section-7-8",
+          "sourceHeading": "08 Why leaving or reporting may be difficult",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 419
+        },
+        {
+          "id": "gbv-section-7-9",
+          "sourceHeading": "09 Supporting someone who discloses abuse",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 830
+        },
+        {
+          "id": "gbv-section-7-10",
+          "sourceHeading": "10 Confidentiality, privacy and safeguarding",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 574
+        },
+        {
+          "id": "gbv-section-7-11",
+          "sourceHeading": "11 Safety-aware help-seeking",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 541
+        },
+        {
+          "id": "gbv-section-7-12",
+          "sourceHeading": "12 Rwanda-specific support and referral",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 1154
+        },
+        {
+          "id": "gbv-section-7-13",
+          "sourceHeading": "13 Scenario 1 — A university student and constant monitoring",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 581
+        },
+        {
+          "id": "gbv-section-7-14",
+          "sourceHeading": "14 Scenario 2 — Humiliation at work",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 486
+        },
+        {
+          "id": "gbv-section-7-15",
+          "sourceHeading": "15 Scenario 3 — Family pressure and isolation",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 390
+        },
+        {
+          "id": "gbv-section-7-16",
+          "sourceHeading": "16 Scenario 4 — Digital humiliation",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 451
+        },
+        {
+          "id": "gbv-section-7-17",
+          "sourceHeading": "17 Scenario 5 — A child who hears repeated threats",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 411
+        },
+        {
+          "id": "gbv-section-7-18",
+          "sourceHeading": "18 Five guided learning activities",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 1264
+        },
+        {
+          "id": "gbv-section-7-19",
+          "sourceHeading": "19 Reflection without disclosure",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 330
+        },
+        {
+          "id": "gbv-section-7-20",
+          "sourceHeading": "20 Knowledge assessment — ten questions",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 1341
+        },
+        {
+          "id": "gbv-section-7-21",
+          "sourceHeading": "21 Glossary",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 642
+        },
+        {
+          "id": "gbv-section-7-22",
+          "sourceHeading": "22 References and further reading",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 955
+        },
+        {
+          "id": "gbv-section-7-23",
+          "sourceHeading": "23 Publication and review checklist",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 772
+        }
+      ],
+      "frontMatterPreserved": true,
+      "independentPypdfCoverage": true,
+      "downloadHashMatch": true,
+      "references": 7,
+      "questions": 10,
+      "scenarios": 5,
+      "activities": 5,
+      "tables": [],
+      "layoutCorrections": []
+    },
+    {
+      "chapter": 8,
+      "pages": 12,
+      "numberedSections": 18,
+      "readerSections": 18,
+      "sections": [
+        {
+          "id": "gbv-section-8-1",
+          "sourceHeading": "1. Understanding economic violence",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 848
+        },
+        {
+          "id": "gbv-section-8-2",
+          "sourceHeading": "2. Why economic abuse matters",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 492
+        },
+        {
+          "id": "gbv-section-8-3",
+          "sourceHeading": "3. Forms of economic violence",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 1899
+        },
+        {
+          "id": "gbv-section-8-4",
+          "sourceHeading": "4. Financial partnership versus financial control",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 512
+        },
+        {
+          "id": "gbv-section-8-5",
+          "sourceHeading": "5. Warning signs and patterns",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 631
+        },
+        {
+          "id": "gbv-section-8-6",
+          "sourceHeading": "6. Causes, power dynamics, and misconceptions",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 613
+        },
+        {
+          "id": "gbv-section-8-7",
+          "sourceHeading": "7. Effects on wellbeing and opportunities",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 497
+        },
+        {
+          "id": "gbv-section-8-8",
+          "sourceHeading": "8. Survivor-centred first response",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 574
+        },
+        {
+          "id": "gbv-section-8-9",
+          "sourceHeading": "9. Financial safety: choice-based considerations",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 993
+        },
+        {
+          "id": "gbv-section-8-10",
+          "sourceHeading": "10. Rwanda-relevant fictional scenarios",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 1772
+        },
+        {
+          "id": "gbv-section-8-11",
+          "sourceHeading": "11. Five guided learning activities",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 1220
+        },
+        {
+          "id": "gbv-section-8-12",
+          "sourceHeading": "12. Knowledge assessment - questions and explained answers",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 1308
+        },
+        {
+          "id": "gbv-section-8-13",
+          "sourceHeading": "13. Facilitator notes and safeguarding",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 571
+        },
+        {
+          "id": "gbv-section-8-14",
+          "sourceHeading": "14. Accessing support in Rwanda",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 592
+        },
+        {
+          "id": "gbv-section-8-15",
+          "sourceHeading": "15. Key takeaways",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 350
+        },
+        {
+          "id": "gbv-section-8-16",
+          "sourceHeading": "16. Glossary",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 645
+        },
+        {
+          "id": "gbv-section-8-17",
+          "sourceHeading": "17. Scientific and institutional references",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 926
+        },
+        {
+          "id": "gbv-section-8-18",
+          "sourceHeading": "18. Editorial and professional review checklist",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 434
+        }
+      ],
+      "frontMatterPreserved": true,
+      "independentPypdfCoverage": true,
+      "downloadHashMatch": true,
+      "references": 8,
+      "questions": 10,
+      "scenarios": 5,
+      "activities": 5,
+      "tables": [],
+      "layoutCorrections": []
+    },
+    {
+      "chapter": 9,
+      "pages": 10,
+      "numberedSections": 20,
+      "readerSections": 21,
+      "sections": [
+        {
+          "id": "gbv-section-9-1",
+          "sourceHeading": "01 | What is technology-facilitated GBV?",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 912
+        },
+        {
+          "id": "gbv-section-9-2",
+          "sourceHeading": "02 | How digital abuse differs from ordinary disagreement",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 592
+        },
+        {
+          "id": "gbv-section-9-3",
+          "sourceHeading": "03 | Major forms of technology-facilitated abuse",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 1481
+        },
+        {
+          "id": "gbv-section-9-4",
+          "sourceHeading": "04 | Why forms of abuse overlap",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 310
+        },
+        {
+          "id": "gbv-section-9-5",
+          "sourceHeading": "05 | The role of artificial intelligence",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 502
+        },
+        {
+          "id": "gbv-section-9-6",
+          "sourceHeading": "06 | Risk factors and unequal exposure",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 534
+        },
+        {
+          "id": "gbv-section-9-7",
+          "sourceHeading": "07 | Signs that digital behavior is becoming unsafe",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 682
+        },
+        {
+          "id": "gbv-section-9-8",
+          "sourceHeading": "08 | Impact on wellbeing, rights and participation",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 550
+        },
+        {
+          "id": "gbv-section-9-9",
+          "sourceHeading": "09 | First response: safety before technology",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 560
+        },
+        {
+          "id": "gbv-section-9-10",
+          "sourceHeading": "10 | Privacy and account-security options",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 613
+        },
+        {
+          "id": "gbv-section-9-11",
+          "sourceHeading": "11 | Evidence and incident documentation",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 524
+        },
+        {
+          "id": "gbv-section-9-12",
+          "sourceHeading": "12 | Blocking, reporting and removing content",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 494
+        },
+        {
+          "id": "gbv-section-9-13",
+          "sourceHeading": "13 | Responding to children and adolescents",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 575
+        },
+        {
+          "id": "gbv-section-9-14",
+          "sourceHeading": "14 | What families, schools and workplaces can do",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 554
+        },
+        {
+          "id": "gbv-section-9-15",
+          "sourceHeading": "15 | Rwanda: where to seek support",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 860
+        },
+        {
+          "id": "gbv-section-9-16",
+          "sourceHeading": "16 | Five fictional Rwanda-relevant learning scenarios",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 1626
+        },
+        {
+          "id": "gbv-section-9-17",
+          "sourceHeading": "17 | Five guided learning activities",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 1455
+        },
+        {
+          "id": "gbv-section-9-18",
+          "sourceHeading": "18 | Knowledge assessment - 10 questions",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 1072
+        },
+        {
+          "id": "gbv-section-9-19",
+          "sourceHeading": "19 | Glossary",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 692
+        },
+        {
+          "id": "gbv-section-9-20",
+          "sourceHeading": "20 | Key lessons and further support",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 433
+        },
+        {
+          "id": "gbv-section-9-references",
+          "sourceHeading": "References and evidence notes",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 1624
+        }
+      ],
+      "frontMatterPreserved": true,
+      "independentPypdfCoverage": true,
+      "downloadHashMatch": true,
+      "references": 8,
+      "questions": 10,
+      "scenarios": 5,
+      "activities": 5,
+      "tables": [],
+      "layoutCorrections": []
+    },
+    {
+      "chapter": 10,
+      "pages": 10,
+      "numberedSections": 20,
+      "readerSections": 21,
+      "sections": [
+        {
+          "id": "gbv-section-10-1",
+          "sourceHeading": "01 | Understanding violence against children and adolescents",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 894
+        },
+        {
+          "id": "gbv-section-10-2",
+          "sourceHeading": "02 | What forms of GBV can affect children?",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 897
+        },
+        {
+          "id": "gbv-section-10-3",
+          "sourceHeading": "03 | Where abuse may occur",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 306
+        },
+        {
+          "id": "gbv-section-10-4",
+          "sourceHeading": "04 | Power, dependence and age-appropriate consent",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 645
+        },
+        {
+          "id": "gbv-section-10-5",
+          "sourceHeading": "05 | Grooming and manipulation",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 476
+        },
+        {
+          "id": "gbv-section-10-6",
+          "sourceHeading": "06 | Early warning signs: notice, do not diagnose",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 499
+        },
+        {
+          "id": "gbv-section-10-7",
+          "sourceHeading": "07 | Effects on health, learning and development",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 500
+        },
+        {
+          "id": "gbv-section-10-8",
+          "sourceHeading": "08 | Safe first response when a child tells you about abuse",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 906
+        },
+        {
+          "id": "gbv-section-10-9",
+          "sourceHeading": "09 | Confidentiality and safeguarding responsibilities",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 649
+        },
+        {
+          "id": "gbv-section-10-10",
+          "sourceHeading": "10 | Urgent health needs after sexual assault",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 821
+        },
+        {
+          "id": "gbv-section-10-11",
+          "sourceHeading": "11 | Safer school and youth-program responses",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 544
+        },
+        {
+          "id": "gbv-section-10-12",
+          "sourceHeading": "12 | Online grooming, harassment and image-based abuse",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 622
+        },
+        {
+          "id": "gbv-section-10-13",
+          "sourceHeading": "13 | Prevention: family, community and institutions",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 655
+        },
+        {
+          "id": "gbv-section-10-14",
+          "sourceHeading": "14 | Access to support in Rwanda",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 629
+        },
+        {
+          "id": "gbv-section-10-15",
+          "sourceHeading": "15 | Supporting different needs",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 336
+        },
+        {
+          "id": "gbv-section-10-16",
+          "sourceHeading": "16 | Fictional, Rwanda-relevant learning scenarios",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 1301
+        },
+        {
+          "id": "gbv-section-10-17",
+          "sourceHeading": "17 | Guided educational activities",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 879
+        },
+        {
+          "id": "gbv-section-10-18",
+          "sourceHeading": "18 | Knowledge assessment",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 1233
+        },
+        {
+          "id": "gbv-section-10-19",
+          "sourceHeading": "19 | Key terms",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 650
+        },
+        {
+          "id": "gbv-section-10-20",
+          "sourceHeading": "20 | Source notes and references",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 789
+        },
+        {
+          "id": "gbv-section-10-publication",
+          "sourceHeading": "Publication and safeguarding review",
+          "orderedContentPreserved": true,
+          "sourceCharacters": 666
+        }
+      ],
+      "frontMatterPreserved": true,
+      "independentPypdfCoverage": true,
+      "downloadHashMatch": true,
+      "references": 7,
+      "questions": 10,
+      "scenarios": 5,
+      "activities": 5,
+      "tables": [
+        {
+          "type": "table",
+          "headers": [
+            "Form",
+            "Explanation and example"
+          ],
+          "rows": [
+            [
+              "Sexual abuse or exploitation",
+              "An adult or other person uses coercion, manipulation or a position of power to involve a child in sexual activity; exchange of school benefits or gifts for sexual access."
+            ],
+            [
+              "Sexual harassment",
+              "Unwelcome sexual comments, sexualized messages, unwanted touching or intimidation at school or elsewhere."
+            ],
+            [
+              "Forced or coerced union",
+              "Pressuring a child into a marriage or relationship they cannot freely choose."
+            ],
+            [
+              "Psychological abuse",
+              "Gendered humiliation, threats, isolation or coercive control that undermines safety and confidence."
+            ],
+            [
+              "Technology-facilitated abuse",
+              "Sexual extortion, grooming, threats to share private images, unwanted sexual messages or persistent tracking."
+            ],
+            [
+              "Gender-related exclusion",
+              "Restrictions on schooling or opportunities enforced through harmful stereotypes, threats or violence."
+            ]
+          ]
+        }
+      ],
+      "layoutCorrections": []
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "checkedOn": "2026-11-11",
+  "scope": "Selected high-priority referral and clinical source checks for GBV Chapters 4–10. This is not an exhaustive bibliography, legal, safeguarding or clinical approval. Original source text and references remain unchanged.",
+  "earlierChaptersReview": "/learning/gbv/reference-review.json",
+  "checks": [
+    {
+      "url": "https://www.rib.gov.rw/contact-us",
+      "status": "retrieved",
+      "finding": "Published listings include 166, 3512, 116 and 3029 in the roles described by the source chapters. No test calls were made."
+    },
+    {
+      "url": "https://help.unhcr.org/rwanda/services/sgbv/",
+      "status": "retrieved",
+      "finding": "Lists Isange 3029 and warns that approaching a centre may lead to law-enforcement reporting. Individual confidentiality, suitability and availability were not independently confirmed."
+    },
+    {
+      "url": "https://www.migeprof.gov.rw/family-promotion-and-child-right-protection",
+      "status": "retrieved",
+      "finding": "Lists RIB 116 / 3512, GMO 5798, MIGEPROF 9059 and NCDA 711. Describes coordinated Isange services."
+    },
+    {
+      "url": "https://www.who.int/publications/i/item/9789240095137",
+      "status": "retrieved",
+      "finding": "The 2024 PEP guideline overview supports starting as soon as possible, ideally within 24 hours and no later than 72 hours. Clinical assessment remains necessary."
+    },
+    {
+      "url": "https://www.who.int/news/item/19-10-2017-responding-to-children-and-adolescents-who-have-been-sexually-abused",
+      "status": "retrieved",
+      "finding": "The WHO child/adolescent guideline summary supports the source's 72-hour PEP and 120-hour emergency-contraception timing, with qualified clinical care and confidentiality limits."
+    },
+    {
+      "url": "https://www.who.int/publications/inspire-seven-strategies-for-ending-violence-against-children",
+      "status": "retrieved",
+      "finding": "The seven INSPIRE strategy names align with the child-protection chapter."
+    },
+    {
+      "url": "https://www.who.int/news-room/fact-sheets/detail/violence-against-women",
+      "status": "retrieved",
+      "finding": "Page date is 18 June 2026, matching the source date. No clinical approval inferred."
+    },
+    {
+      "url": "https://www.amategeko.gov.rw/view/toc/doc/3879/4053",
+      "status": "manual-review-needed",
+      "finding": "Only the legal portal shell was readable. The historical law citation remains as printed; current law, amendments and reporting duties require qualified local verification."
+    },
+    {
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK493107/",
+      "status": "automated-access-blocked",
+      "finding": "Browser verification page prevented reading this version. The official WHO summary was checked separately; the exact linked text still needs manual review."
+    }
+  ]
+}

@@ -1,0 +1,329 @@
+PAGE 1
+ 10.0 B VUGA NDAKUMVA | GBV EDUCATIONAL CONTENT SERIES
+ 10.0 B CHAPTER 09
+ 24.0 B Technology-Facilitated and Online
+ 24.0 B Gender-Based Violence
+ 11.0   Understanding digital abuse, recognizing warning signs, protecting safety, and
+ 11.0   accessing respectful support
+  9.0   PUBLICATION STATUS
+  9.0   Evidence-informed educational draft | English | Version 1.0 | 11 November 2026. Requires GBV
+  9.0   safeguarding, local legal and digital-safety review before use with survivors. This is educational
+  9.0   information, not individual legal, cybersecurity, or clinical advice.
+  8.0   Intended audience: adults, older adolescents with age-appropriate support, educators, community advocates, and
+  8.0   first-line service providers.
+  8.0   This chapter does not request private experiences or personal information. All scenarios are fictional and are not
+  8.0   reports of actual individuals.
+  7.0   VUGA NDAKUMVA | GBV CHAPTER 09 | Educational draft 1
+PAGE 2
+ 15.0 B Learning goals and how to use this chapter
+  9.0   By the end of this chapter, readers should be able to define technology-facilitated gender-based
+  9.0   violence (TFGBV), identify several forms of digital abuse, understand the relationship between online
+  9.0   and offline threats, consider safer responses, and know where to seek support in Rwanda. A reader
+  9.0   need not have experienced violence to benefit from the material.
+  9.0   An essential starting point
+  9.0   Digital abuse is real abuse. The responsibility for harassment, coercion, stalking, or non-consensual
+  9.0   sharing rests with the person committing it. Technology safety steps are choices, not obligations or
+  9.0   guarantees. If someone might be monitoring a device or account, an abrupt security change could
+  9.0   increase danger.
+ 15.0 B 01 | What is technology-facilitated GBV?
+  9.0   Technology-facilitated gender-based violence is a harmful act that is committed, enabled, intensified,
+  9.0   or spread through information and communication technology and connected to gender-based
+  9.0   targeting or power inequalities. It can cause psychological, sexual, social, economic, political, or
+  9.0   physical harm. It may occur through phones, messages, social media, email, shared cloud accounts,
+  9.0   smart devices, gaming platforms, or location tools. [1, 2]
+  9.0   The word "online" captures only part of the problem. A person may be monitored through location
+  9.0   settings, harassed by telephone, tracked through shared accounts, or threatened with the release of
+  9.0   private information. Digital harm can cross into offline life when a location is exposed, an employer is
+  9.0   contacted, or threats create fear of physical assault.
+  9.0   Not every rude online comment is necessarily GBV. Context matters: discriminatory targeting,
+  9.0   sexualized threats, controlling behavior, repeated harassment, and misuse of power can signal
+  9.0   gender-based abuse. Even where a single act is not clearly categorized as GBV, it may still be harmful
+  9.0   and merit support.
+ 15.0 B 02 | How digital abuse differs from ordinary
+ 15.0 B disagreement
+  9.0   Disagreement involves expressing a different view. Abuse uses intimidation, non-consensual
+  9.0   exposure, threats, deception, repeated unwanted contact, or coercion to cause harm or restrict
+  9.0   another person's freedom. The affected person does not need to prove a repeated pattern before a
+  9.0   serious threat or non-consensual intimate-image disclosure is taken seriously.
+  9.0   The scale and speed of digital distribution can multiply harm: material can be copied rapidly, resurface
+  9.0   after removal, be shared anonymously, or reach workplaces and families. Yet digital risks should not
+  9.0   be presented as unavoidable; platforms, schools, employers, public institutions and other actors have
+  9.0   responsibilities to prevent and respond.
+  7.0   VUGA NDAKUMVA | GBV CHAPTER 09 | Educational draft 2
+PAGE 3
+ 15.0 B 03 | Major forms of technology-facilitated abuse
+ 11.0 B Online harassment and gendered hate
+  9.0   Repeated insulting, sexualized, degrading, or threatening messages, including coordinated attacks
+  9.0   intended to shame or silence a person. A single credible threat is serious even without repetition.
+ 11.0 B Cyberstalking and unwanted monitoring
+  9.0   Persistent unwanted messages, tracking, repeated account contact, checking whereabouts, or using
+  9.0   shared digital services to monitor someone. It may accompany intimate partner violence.
+ 11.0 B Non-consensual intimate-image abuse
+  9.0   Sharing, threatening to share, or creating intimate images without the person's agreement, including
+  9.0   AI-generated or manipulated material. Prior consensual creation or sharing with one person never
+  9.0   means consent to redistribution.
+ 11.0 B Doxing and exposure of private information
+  9.0   Publishing a home address, telephone number, private correspondence, or identifying details to
+  9.0   expose someone to threats, harassment, or loss of safety.
+ 11.0 B Impersonation and account misuse
+  9.0   Creating a false profile, pretending to be someone else, accessing their accounts without
+  9.0   authorization, or posting messages in their name to intimidate, defraud, or damage relationships.
+ 11.0 B Digital sexual coercion and extortion
+  9.0   Demanding sexual images, sexual acts, money, or compliance by threatening to release private
+  9.0   material or harm someone. A survivor is not responsible for the threat.
+ 11.0 B Location and device surveillance
+  9.0   Using shared accounts, connected devices, permissions, location services, or potentially malicious
+  9.0   tools to track movements or communications without informed agreement.
+ 11.0 B Economic and professional sabotage
+  9.0   Restricting access to mobile money, digital work platforms or education accounts; contacting
+  9.0   employers with threats; or using account control to interfere with income or study.
+ 15.0 B 04 | Why forms of abuse overlap
+  9.0   A former partner might monitor a shared cloud account, send threats, impersonate a survivor online,
+  9.0   and contact their workplace. The harm is not only "a password problem" or "a social media problem";
+  9.0   it may be part of broader coercive control. Responses should consider immediate safety, relationships
+  9.0   of power, technology access, the survivor's preferences, and available support.
+  7.0   VUGA NDAKUMVA | GBV CHAPTER 09 | Educational draft 3
+PAGE 4
+ 15.0 B 05 | The role of artificial intelligence
+  9.0   AI tools can be misused to create fabricated intimate images, impersonate voices, produce believable
+  9.0   forged messages, or amplify targeted abuse. A manipulated image is not proof that an event occurred.
+  9.0   If a person is targeted, responders should avoid sharing the material further, blaming the survivor, or
+  9.0   making promises that removal from the internet will be complete. [1, 3]
+  9.0   Prevention also requires platforms and institutions to address reporting failures, abusive content
+  9.0   dissemination, privacy weaknesses, and harmful design practices. The burden should not be placed
+  9.0   entirely on the targeted person.
+ 15.0 B 06 | Risk factors and unequal exposure
+  9.0   Women and girls are disproportionately exposed to many forms of technology-facilitated violence;
+  9.0   public-facing women, journalists, women in leadership, and people experiencing discrimination can
+  9.0   face targeted attacks. Children and adolescents have distinct developmental and protection needs.
+  9.0   Individuals with disabilities or limited digital access may face extra obstacles to safe reporting. [1, 2]
+  9.0   Risk factors do not predict who will be abused and do not excuse perpetrators. A person should never
+  9.0   be blamed for using social media, posting photographs, entering a relationship, trusting somebody, or
+  9.0   having limited technical knowledge.
+ 15.0 B 07 | Signs that digital behavior is becoming unsafe
+  9.0   • Repeated unwanted contact after a clear request to stop, especially when it moves across
+  9.0   platforms.
+  9.0   • Threats to publish intimate images, private conversations, location details, or accusations.
+  9.0   • Sudden account activity, password reset messages, unexpected devices, or unexplained sharing
+  9.0   settings.
+  9.0   • Pressure to give passwords, share live location, respond immediately, or stop contacting friends.
+  9.0   • Attempts to control access to study accounts, work platforms, money or communication.
+  9.0   • Fear that online behavior could lead to physical confrontation, school exclusion, or job loss.
+  9.0   These signs are not proof of surveillance or wrongdoing by a particular person. Some account
+  9.0   anomalies have ordinary technical explanations. Seek knowledgeable assistance without making risky
+  9.0   assumptions or confronting a suspected abuser.
+ 15.0 B 08 | Impact on wellbeing, rights and participation
+  9.0   Digital abuse may cause fear, sleep problems, shame, anxiety, concentration difficulties, social
+  9.0   isolation, or avoidance of digital spaces. It can also disrupt school, work, income, relationships, and
+  9.0   civic participation. These responses are understandable and vary by person. No one should need to
+  9.0   provide intimate details in order to receive empathy and basic information.
+  9.0   Some people experience threats to physical safety, particularly when location details are disclosed or
+  9.0   an abusive person has access to devices. Psychological support and digital-security assistance can
+  9.0   complement, rather than replace, appropriate medical, legal, or protection services.
+  7.0   VUGA NDAKUMVA | GBV CHAPTER 09 | Educational draft 4
+PAGE 5
+ 15.0 B 09 | First response: safety before technology
+  9.0   If someone discloses digital abuse, ask whether it is safe to discuss the issue on the current device or
+  9.0   channel. Listen calmly, avoid requesting screenshots or intimate images, and ask what the person
+  9.0   wants help with. Do not pressure them to report, block, change a password, or confront someone
+  9.0   immediately. They may be using a monitored device. [4]
+  9.0   Safer response sequence
+  9.0   1. Check immediate physical and communication safety. 2. Ask what support is wanted. 3. Consider
+  9.0   whether accounts/devices may be monitored. 4. Discuss practical options without imposing them.
+  9.0   5. Offer verified GBV, legal, protection or cybersecurity support. 6. Record only information
+  9.0   necessary for a safe referral.
+ 15.0 B 10 | Privacy and account-security options
+  9.0   Where it is safe, a trusted specialist may help review account recovery information, active sessions,
+  9.0   login alerts, privacy and sharing permissions, connected devices, cloud photo synchronization,
+  9.0   location sharing, and two-factor authentication. Separate accounts and unique passwords can reduce
+  9.0   some risks, but changing them may notify another person or lock the survivor out of essential
+  9.0   services.
+  9.0   When technology may be monitored, using a separate trusted device or seeking discreet specialist
+  9.0   support can be safer than investigating the suspected device. Avoid installing unknown "anti-spyware"
+  9.0   products or attempting to hack another account. Technical checks should be informed by consent,
+  9.0   professional competence, and local law.
+ 15.0 B 11 | Evidence and incident documentation
+  9.0   If safe and desired, documenting dates, platforms, usernames, links, messages and threats may help a
+  9.0   report. Evidence can be stored through a trusted, secure method, but creating or retaining files may
+  9.0   also expose someone if their device is monitored. A survivor can ask a qualified provider how to
+  9.0   document material without causing additional harm.
+  9.0   Do not forward intimate content in group chats or to VUGA NDAKUMVA staff simply to "prove" a case.
+  9.0   Where a child may be depicted in sexual content, do not download, copy, or redistribute it; seek
+  9.0   prompt advice from child protection or law enforcement channels on how to report the content safely.
+ 15.0 B 12 | Blocking, reporting and removing content
+  9.0   Platforms may offer blocking, muting, account-reporting, impersonation reporting, and requests to
+  9.0   remove private or intimate content. These tools may reduce exposure but do not guarantee removal
+  9.0   or safety. Blocking or reporting can sometimes trigger retaliation; consider timing and safety before
+  9.0   acting. Avoid communicating directly with an extortionist without specialist advice.
+  9.0   If a person is being blackmailed, remind them they did not cause the abuse. Paying money or
+  9.0   providing further material does not reliably end extortion. Specialist support can help identify safer
+  7.0   VUGA NDAKUMVA | GBV CHAPTER 09 | Educational draft 5
+PAGE 6
+  9.0   next actions.
+ 15.0 B 13 | Responding to children and adolescents
+  9.0   Online grooming, sexual extortion, image-based abuse, and harassment involving children require
+  9.0   age-appropriate safeguarding. Adults should respond without blame, use developmentally appropriate
+  9.0   language, and avoid unnecessary repeated questioning. Confidentiality limits and mandatory
+  9.0   reporting duties must be explained in a manner appropriate to the child and local law. [2]
+  9.0   A child should not be asked to negotiate with a suspected perpetrator. If there is imminent danger or
+  9.0   sexual exploitation, contact an appropriate protection or emergency service. School staff should follow
+  9.0   vetted safeguarding protocols rather than handling the matter through informal public discussion.
+ 15.0 B 14 | What families, schools and workplaces can do
+  9.0   Prevention includes clear rules against harassment; private and accessible reporting pathways;
+  9.0   trained focal points; proportional institutional responses; digital literacy; and policies that protect
+  9.0   survivors against retaliation. Staff should not force a survivor to confront an alleged perpetrator or
+  9.0   expose private evidence publicly.
+  9.0   Families can normalize asking permission before sharing photos and discussing account privacy
+  9.0   without using fear. Schools can teach respectful digital communication and enable confidential
+  9.0   referrals. Employers can protect work credentials and document harassment without punishing the
+  9.0   person experiencing it.
+ 15.0 B 15 | Rwanda: where to seek support
+  9.0   Rwanda's Isange One Stop Centres provide integrated GBV-related services. RIB publishes the
+  9.0   following contacts: 3029 for Isange One Stop Centre, 3512 for domestic and gender-based violence
+  9.0   reporting, 116 for child abuse, and 166 for emergencies or crime-related information. These are
+  9.0   published contacts, not a guarantee that every digital complaint can be handled through every line.
+  9.0   [5, 6]
+  9.0   UNHCR Rwanda notes that approaching an Isange Centre may lead to law-enforcement reporting.
+  9.0   Where privacy or reporting obligations could affect safety, ask service providers to explain
+  9.0   confidentiality limits and available options before disclosing sensitive details. For urgent physical
+  9.0   danger, use emergency assistance and consider a safe location rather than relying only on online
+  9.0   platform reports. [6]
+  9.0   Rwanda referral note
+  9.0   RIB: 166 (emergency / crime information), 3512 (GBV), 116 (child abuse). Isange One Stop Centre:
+  9.0   3029. Source: official RIB contact page and UNHCR Rwanda. Verify contact details and accessibility
+  9.0   before operational publication.
+  7.0   VUGA NDAKUMVA | GBV CHAPTER 09 | Educational draft 6
+PAGE 7
+ 15.0 B 16 | Five fictional Rwanda-relevant learning scenarios
+ 11.0 B Case 1 - Campus group harassment
+  9.0   Situation: A university student is mocked with sexualized comments across class chat groups. Others
+  9.0   repost screenshots to embarrass her.
+  9.0   Learning points: The harm can involve gendered harassment and amplification. A response should
+  9.0   prioritize the student's choices, school safeguarding channel, platform reporting options and safe
+  9.0   documentation. Do not publicly repeat offensive material.
+ 11.0 B Case 2 - Shared location after a breakup
+  9.0   Situation: A former partner appears to know where a young adult is traveling and sends alarming
+  9.0   messages. They previously shared a cloud account.
+  9.0   Learning points: Do not assume the technical cause. First assess physical safety and whether the
+  9.0   current phone is safe. A qualified person can help examine account and location-sharing settings when
+  9.0   doing so is safe.
+ 11.0 B Case 3 - A manipulated image
+  9.0   Situation: An employee learns that an altered intimate-looking image using her face is circulating in a
+  9.0   workplace messaging group.
+  9.0   Learning points: The image does not establish consent or real conduct. Workplace response should
+  9.0   protect privacy, stop redistribution, provide confidential reporting and avoid punishing the target.
+ 11.0 B Case 4 - Mobile money and account control
+  9.0   Situation: A person's partner insists on access to phone, wallet PIN and transaction notifications, then
+  9.0   threatens to cut off household support.
+  9.0   Learning points: The concern may involve digital and economic coercive control. A survivor-centred
+  9.0   plan should consider financial dependence, risk of retaliation and specialist support before changing
+  9.0   access.
+ 11.0 B Case 5 - Child targeted through gaming chat
+  9.0   Situation: A teenager receives threats that private photos will be circulated unless they send more
+  9.0   images.
+  9.0   Learning points: This is an urgent safeguarding concern. Avoid blame or negotiating with the
+  9.0   threatening person. Support the child in accessing trusted safeguarding and appropriate reporting
+  9.0   services; do not circulate images.
+ 15.0 B 17 | Five guided learning activities
+ 11.0 B Activity A - Recognize the behavior
+  9.0   Task: Read the five cases and identify whether harassment, stalking, extortion, impersonation, or
+  9.0   economic control may be present. It is acceptable to identify more than one form.
+  7.0   VUGA NDAKUMVA | GBV CHAPTER 09 | Educational draft 7
+PAGE 8
+  9.0   Facilitator guidance: Possible answer: Case 1 harassment; Case 2 possible stalking/monitoring; Case 3
+  9.0   image-based abuse; Case 4 digital-economic coercion; Case 5 sexual extortion and child safeguarding.
+ 11.0 B Activity B - Safe communication check
+  9.0   Task: Imagine a friend says their partner reads their messages. List two questions you might ask
+  9.0   before sending advice or resources.
+  9.0   Facilitator guidance: Suggested answer: "Is it safe for us to communicate here?" and "Would you
+  9.0   prefer another time or safer channel?" Do not ask for proof or demand disclosure.
+ 11.0 B Activity C - Consent and image sharing
+  9.0   Task: Discuss whether consent to take or privately send a photo also means permission to forward it
+  9.0   to classmates or colleagues.
+  9.0   Facilitator guidance: Suggested answer: No. Consent is specific; sharing with one person is not
+  9.0   agreement for further distribution.
+ 11.0 B Activity D - Institutional response
+  9.0   Task: Imagine a school receives a report of repeated gendered harassment. Identify three supportive
+  9.0   institutional actions.
+  9.0   Facilitator guidance: Suggested answer: confidential intake, protection against retaliation, and referral
+  9.0   to a trained safeguarding focal point; plus appropriate platform/evidence procedures.
+ 11.0 B Activity E - Optional safety reflection
+  9.0   Task: Without writing personal passwords, account names or experiences, identify one trusted
+  9.0   professional or service that could help with digital abuse.
+  9.0   Facilitator guidance: There is no single correct answer. Avoid recording sensitive details in a device or
+  9.0   notebook if it could be accessed by someone else.
+ 15.0 B 18 | Knowledge assessment - 10 questions
+  9.0   1. Can technology-facilitated GBV occur without social media?
+  8.0   Answer: Yes. Calls, shared accounts, location systems and other technologies can be involved.
+  9.0   2. Does agreeing to a private photo mean agreeing to public distribution?
+  8.0   Answer: No. Consent to one use does not authorize another use.
+  9.0   3. Is every disagreement in a group chat automatically GBV?
+  8.0   Answer: No. Context, conduct, and gender-based targeting matter.
+  9.0   4. What should come before changing passwords on a suspected monitored device?
+  8.0   Answer: A safety assessment, including possible retaliation or account alerts.
+  9.0   5. Should a responder request intimate images as proof?
+  8.0   Answer: No. Avoid collecting or spreading unnecessary sensitive material.
+  9.0   6. Can digital threats lead to offline danger?
+  7.0   VUGA NDAKUMVA | GBV CHAPTER 09 | Educational draft 8
+PAGE 9
+  8.0   Answer: Yes. Exposure of location or identity and coercive control can create offline risks.
+  9.0   7. Is a fabricated AI image proof a person engaged in that depicted activity?
+  8.0   Answer: No. Manipulated content is not reliable evidence of actual conduct.
+  9.0   8. Should a child be told to negotiate with an online extortionist?
+  8.0   Answer: No. Escalate via safe child-protection channels.
+  9.0   9. Is reporting or blocking always risk-free?
+  8.0   Answer: No. These may be useful options but could alert an abuser.
+  9.0   10. Who is responsible for digital abuse?
+  8.0   Answer: The person committing it, not the survivor.
+ 15.0 B 19 | Glossary
+  9.0   TFGBV: Technology-facilitated gender-based violence.
+  9.0   Cyberstalking: Repeated unwanted following, contact or monitoring facilitated by technology.
+  9.0   Doxing: Revealing private or identifying information without authorization, often to expose someone
+  9.0   to harm.
+  9.0   Image-based abuse: Non-consensual creation, sharing or threatening to share intimate imagery,
+  9.0   including manipulated images.
+  9.0   Impersonation: Pretending to be another person online to mislead or harm others.
+  9.0   Digital coercive control: Using digital access, communications or monitoring to restrict a person's
+  9.0   freedom.
+  9.0   Safeguarding: Actions and responsibilities intended to prevent and respond to harm, especially
+  9.0   involving children or vulnerable people.
+  9.0   Two-factor authentication: An additional verification step to access an account; useful but must be
+  9.0   deployed safely.
+ 15.0 B 20 | Key lessons and further support
+  9.0   • Digital and offline forms of violence can reinforce each other.
+  9.0   • Privacy, dignity and consent apply to images, messages, account access and location data.
+  9.0   • Avoid blaming someone because they shared a photo, used an app or trusted a partner.
+  9.0   • The safest technical action depends on whether devices or accounts are being monitored.
+  9.0   • Support must be survivor-centred, age-appropriate and mindful of reporting/confidentiality limits.
+  9.0   • Schools, employers and technology platforms share responsibility for prevention and response.
+  7.0   VUGA NDAKUMVA | GBV CHAPTER 09 | Educational draft 9
+PAGE 10
+ 15.0 B References and evidence notes
+  8.0   1. UN Women (2025). FAQs on digital abuse, trolling, stalking and other forms of technology-facilitated violence.
+  8.0   https://unwomen.org.au/faqs-trolling-stalking-doxing-and-other-forms-of-violence-against-women-in-the-digital-age
+  8.0   /
+  8.0   2. UNFPA, UNICEF & Save the Children (2025). Technology-facilitated GBV: Considerations across the life course.
+  8.0   https://www.unfpa.org/resources/technology-facilitated-gender-based-violence-considerations-across-life-course
+  8.0   3. UN Women (2025). Strategy: Preventing and eliminating technology-facilitated violence against women and
+  8.0   girls.
+  8.0   https://unwomen.org.au/publications-and-resources/un-women-strategy-preventing-and-eliminating-technology-fac
+  8.0   ilitated-violence-against-women-and-girls/
+  8.0   4. UNFPA. Making All Spaces Safe; SHIELD risk-aware technology-safety approach.
+  8.0   https://www.unfpa.org/making-all-spaces-safe-global-programme-address-technology-facilitated-gender-based-viol
+  8.0   ence
+  8.0   5. Rwanda Investigation Bureau. Official contact numbers and reporting information (accessed 11 Nov 2026).
+  8.0   https://www.rib.gov.rw/contact-us
+  8.0   6. UNHCR Rwanda. Gender-Based Violence services and referral context (accessed 11 Nov 2026).
+  8.0   https://help.unhcr.org/rwanda/services/sgbv/
+  8.0   7. MIGEPROF Rwanda. GBV prevention and Isange One Stop Centre information (accessed 11 Nov 2026).
+  8.0   https://www.migeprof.gov.rw/family-promotion-and-child-right-protection
+  8.0   8. UNFPA (2025). Resource compendium on technology-facilitated GBV.
+  8.0   https://www.unfpa.org/resources/unfpa-resource-compendium-technology-facilitated-gender-based-violence
+ 11.0 B Publication quality checklist
+  9.0   • GBV and safeguarding professional review, including child-specific language.
+  9.0   • Digital safety review and local referral validation; do not present technology instructions as
+  9.0   universal.
+  9.0   • Rwanda legal and reporting obligations reviewed by qualified local personnel.
+  9.0   • Kinyarwanda and French translation and local cultural review.
+  9.0   • Accessible reading level, screen-reader PDF quality, and updated references checked.
+  7.0   VUGA NDAKUMVA | GBV CHAPTER 09 | Educational draft 10

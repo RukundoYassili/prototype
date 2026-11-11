@@ -1,0 +1,72 @@
+[
+  {
+    "id": "stress-cycle",
+    "title": "Pressure can feed a cycle",
+    "explanation": "The example shows how pressure, limited rest and slower progress can reinforce each other. Practical planning, rest or asking for help may address different parts of that pattern.",
+    "reflection": "Optional reflectionWhere could practical assistance change this fictional cycle?",
+    "scenes": 0
+  },
+  {
+    "id": "stress-influence",
+    "title": "Influence and limits of control",
+    "explanation": "A reachable action can be worthwhile even when the final outcome depends on other people or wider conditions. Recognizing those limits can help identify where outside assistance is needed.",
+    "reflection": "Optional reflectionHow can an achievable action coexist with a problem that needs wider support?",
+    "scenes": 0
+  },
+  {
+    "id": "stress-grounding",
+    "title": "Grounding with choice",
+    "explanation": "The activity offers several ways to bring attention toward the current setting. Choice includes keeping eyes open, avoiding body-focused attention, stopping, or selecting another approach.",
+    "reflection": "Optional reflectionWhat choices keep this exercise voluntary?",
+    "scenes": 0
+  },
+  {
+    "id": "stress-unhooking",
+    "title": "Notice a thought before following it",
+    "explanation": "A noticing phrase creates room to consider the action a thought is encouraging. The next step may be practical help or protection when the concern points to a genuine risk.",
+    "reflection": "Optional reflectionHow does noticing a thought differ from denying a real concern?",
+    "scenes": 0
+  },
+  {
+    "id": "stress-routine",
+    "title": "A routine can stay flexible",
+    "explanation": "The examples are anchors to adapt, not a timetable to complete. A small change that fits a person’s resources may be more realistic than trying to follow every suggested activity.",
+    "reflection": "Optional reflectionWhy might a smaller adjustment be more useful than an ideal routine?",
+    "scenes": 0
+  },
+  {
+    "id": "stress-journal",
+    "title": "Organize a pressure and a possible response",
+    "explanation": "Putting a pressure beside a possible response can help organize what needs attention. The activity can stay entirely unwritten, and a possible response may involve another person or service.",
+    "reflection": "Optional reflectionHow could this exercise be used without writing anything down?",
+    "scenes": 0
+  },
+  {
+    "id": "stress-examination",
+    "title": "Scenario A: examination pressure",
+    "explanation": "Pressure and exhaustion can affect attention. The teacher offers practical planning alongside rest; persistent or severe difficulty needs more than a revision schedule.",
+    "reflection": "Optional reflectionWhat practical help is offered alongside emotional support in this example?",
+    "scenes": 2
+  },
+  {
+    "id": "stress-finances",
+    "title": "Scenario B: financial uncertainty",
+    "explanation": "Income uncertainty is a material problem as well as an emotional burden. The second scene adds companionship and practical planning without claiming that either removes financial insecurity.",
+    "reflection": "Optional reflectionWhy would relaxation alone leave an important part of this situation unaddressed?",
+    "scenes": 2
+  },
+  {
+    "id": "stress-caregiver",
+    "title": "Scenario C: caregiver overload",
+    "explanation": "Sharing tasks can reduce part of the care burden. Sustainable support may also involve scheduled relief, transport and healthcare conversations.",
+    "reflection": "Optional reflectionWhich support changes the workload rather than only asking the caregiver to cope?",
+    "scenes": 2
+  },
+  {
+    "id": "stress-workplace",
+    "title": "Scenario D: conflict at work",
+    "explanation": "The worker is seeking private advice rather than being taught to endure mistreatment. Workplace support and safety depend on the actual circumstances.",
+    "reflection": "Optional reflectionWhy is the safety and fairness of the workplace part of the response?",
+    "scenes": 2
+  }
+]

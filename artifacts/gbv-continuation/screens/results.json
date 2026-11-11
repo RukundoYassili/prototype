@@ -1,0 +1,245 @@
+{
+  "metrics": [
+    {
+      "chapter": "library",
+      "width": 375,
+      "overflow": false,
+      "failedImages": []
+    },
+    {
+      "chapter": 4,
+      "width": 375,
+      "overflow": false,
+      "failedImages": []
+    },
+    {
+      "chapter": 5,
+      "width": 375,
+      "overflow": false,
+      "failedImages": []
+    },
+    {
+      "chapter": 6,
+      "width": 375,
+      "overflow": false,
+      "failedImages": []
+    },
+    {
+      "chapter": 7,
+      "width": 375,
+      "overflow": false,
+      "failedImages": []
+    },
+    {
+      "chapter": 8,
+      "width": 375,
+      "overflow": false,
+      "failedImages": []
+    },
+    {
+      "chapter": 9,
+      "width": 375,
+      "overflow": false,
+      "failedImages": []
+    },
+    {
+      "chapter": 10,
+      "width": 375,
+      "overflow": false,
+      "failedImages": []
+    },
+    {
+      "chapter": "library",
+      "width": 768,
+      "overflow": false,
+      "failedImages": []
+    },
+    {
+      "chapter": 4,
+      "width": 768,
+      "overflow": false,
+      "failedImages": []
+    },
+    {
+      "chapter": 5,
+      "width": 768,
+      "overflow": false,
+      "failedImages": []
+    },
+    {
+      "chapter": 6,
+      "width": 768,
+      "overflow": false,
+      "failedImages": []
+    },
+    {
+      "chapter": 7,
+      "width": 768,
+      "overflow": false,
+      "failedImages": []
+    },
+    {
+      "chapter": 8,
+      "width": 768,
+      "overflow": false,
+      "failedImages": []
+    },
+    {
+      "chapter": 9,
+      "width": 768,
+      "overflow": false,
+      "failedImages": []
+    },
+    {
+      "chapter": 10,
+      "width": 768,
+      "overflow": false,
+      "failedImages": []
+    },
+    {
+      "chapter": "library",
+      "width": 1024,
+      "overflow": false,
+      "failedImages": []
+    },
+    {
+      "chapter": 4,
+      "width": 1024,
+      "overflow": false,
+      "failedImages": []
+    },
+    {
+      "chapter": 5,
+      "width": 1024,
+      "overflow": false,
+      "failedImages": []
+    },
+    {
+      "chapter": 6,
+      "width": 1024,
+      "overflow": false,
+      "failedImages": []
+    },
+    {
+      "chapter": 7,
+      "width": 1024,
+      "overflow": false,
+      "failedImages": []
+    },
+    {
+      "chapter": 8,
+      "width": 1024,
+      "overflow": false,
+      "failedImages": []
+    },
+    {
+      "chapter": 9,
+      "width": 1024,
+      "overflow": false,
+      "failedImages": []
+    },
+    {
+      "chapter": 10,
+      "width": 1024,
+      "overflow": false,
+      "failedImages": []
+    },
+    {
+      "chapter": "library",
+      "width": 1440,
+      "overflow": false,
+      "failedImages": []
+    },
+    {
+      "chapter": 4,
+      "width": 1440,
+      "overflow": false,
+      "failedImages": []
+    },
+    {
+      "chapter": 5,
+      "width": 1440,
+      "overflow": false,
+      "failedImages": []
+    },
+    {
+      "chapter": 6,
+      "width": 1440,
+      "overflow": false,
+      "failedImages": []
+    },
+    {
+      "chapter": 7,
+      "width": 1440,
+      "overflow": false,
+      "failedImages": []
+    },
+    {
+      "chapter": 8,
+      "width": 1440,
+      "overflow": false,
+      "failedImages": []
+    },
+    {
+      "chapter": 9,
+      "width": 1440,
+      "overflow": false,
+      "failedImages": []
+    },
+    {
+      "chapter": 10,
+      "width": 1440,
+      "overflow": false,
+      "failedImages": []
+    },
+    {
+      "chapter": "library",
+      "width": 1920,
+      "overflow": false,
+      "failedImages": []
+    },
+    {
+      "chapter": 4,
+      "width": 1920,
+      "overflow": false,
+      "failedImages": []
+    },
+    {
+      "chapter": 5,
+      "width": 1920,
+      "overflow": false,
+      "failedImages": []
+    },
+    {
+      "chapter": 6,
+      "width": 1920,
+      "overflow": false,
+      "failedImages": []
+    },
+    {
+      "chapter": 7,
+      "width": 1920,
+      "overflow": false,
+      "failedImages": []
+    },
+    {
+      "chapter": 8,
+      "width": 1920,
+      "overflow": false,
+      "failedImages": []
+    },
+    {
+      "chapter": 9,
+      "width": 1920,
+      "overflow": false,
+      "failedImages": []
+    },
+    {
+      "chapter": 10,
+      "width": 1920,
+      "overflow": false,
+      "failedImages": []
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,9 @@
+{
+  "date": "2026-11-11",
+  "scope": "/understand-gbv landing page and chapter library",
+  "build": { "command": "npm.cmd run build", "passed": true, "notes": "TypeScript and Vite passed; existing React Router use-client warnings." },
+  "landingReview": { "command": "node scripts/review-gbv-covers.mjs", "passed": true, "report": "after/report.json", "widths": [320, 375, 680, 768, 1024, 1440, 1920], "anchors": 5, "chapterRoutes": 10, "consoleErrors": 0, "postRequests": 0, "contrastTextNodes": 198, "minimumTextContrast": 4.650368789500458 },
+  "regression": { "command": "npm.cmd test -- tests/gbv-learning.spec.ts tests/gbv-continuation.spec.ts tests/support-polish.spec.ts tests/navigation.spec.ts", "initialPassed": 55, "initialFailed": 2, "initialFailures": "Mobile navigation at 375px and 768px: Blog destination active Knowledge Hub state. These journeys do not visit the GBV page.", "targetedRerunCommand": "npm.cmd test -- tests/navigation.spec.ts --grep 'information pages fit (375|768)px'", "rerunPassed": 2, "rerunFailed": 0, "remainingFailures": 0, "notes": "Intermittent failures retained in record. No unrelated navigation code or tests changed." },
+  "assets": { "originalPngs": 11, "webpVariants": 33, "webpTotalBytes": 1526696, "generator": "Built-in image_gen", "prompts": "briefs.json", "provenance": "../../public/images/learning/gbv-covers/provenance.json" },
+  "limits": ["External referral details and destination availability were not newly verified; existing source-check dates remain unchanged.", "Specialist, safeguarding, legal, clinical, accessibility and Rwanda referral reviews remain required.", "Browser checks do not replace an assistive-technology audit.", "No hosting deployment was performed."]
+}

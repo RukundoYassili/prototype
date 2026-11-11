@@ -1,0 +1,888 @@
+{
+  "number": 1,
+  "slug": "understanding-gender-based-violence",
+  "title": "Understanding Gender-Based Violence",
+  "summary": "Build a foundation in consent, coercive control, survivor-centred support and safer referral.",
+  "timeLabel": "Read at your own pace",
+  "studyTime": "Read at your own pace",
+  "referenceHeading": "Scientific and institutional references",
+  "editorialHeading": "Publication review requirements",
+  "reflectionSection": "",
+  "image": "learning/gbv/gbv-training-opportunity-situation-1280",
+  "position": "50% 40%",
+  "originalFilename": "GBV_Chapter_01.pdf",
+  "version": "1.1",
+  "date": "2026-11-09",
+  "language": "English",
+  "author": "VUGA NDAKUMVA Initiative - educational draft",
+  "pdfUrl": "/learning/gbv/GBV_Chapter_01.pdf",
+  "worksheetUrl": "",
+  "sourcePages": 12,
+  "frontMatter": [
+    "VUGA NDAKUMVA INITIATIVE",
+    "GENDER-BASED VIOLENCE",
+    "EDUCATIONAL CONTENT",
+    "LIBRARY",
+    "CHAPTER 01",
+    "Understanding Gender-Based Violence",
+    "Expanded educational handbook | English | Version 1.1 | 9 November 2026",
+    "For community education, awareness programmes, supportive learning and future reviewed digital content.",
+    "Editorial status: Evidence-informed educational draft. Not yet approved for publication. Requires GBV-specialist, safeguarding, legal, accessibility and Rwanda-localization review.",
+    "Reader safety: This handbook discusses abuse, threats and coercive control without graphic accounts. You may skip any activity. If you are unsafe, prioritize reaching a suitable professional or emergency service; reading a handbook is not a substitute for immediate care.",
+    "How to use this chapter",
+    "This chapter offers foundational education about gender-based violence (GBV). It can be read individually or used by a trained facilitator. It is not a legal opinion, diagnostic tool, investigation protocol, or substitute for medical or specialist GBV services.",
+    "Learning outcomes",
+    "Define GBV and distinguish it from disagreements that are not necessarily gender-based. Recognize physical, sexual, emotional, economic and technology-facilitated patterns of harm. Explain gender-related power, coercion, inequality, stigma and barriers to help-seeking. Respond respectfully to a disclosure without demanding evidence or taking control away from a survivor. Identify safer options for medical care, support and referral in Rwanda.",
+    "A note on language",
+    "This handbook mainly uses survivor, emphasizing dignity and agency; some legal and medical systems use victim. No term should be imposed on a person describing their own experience. Anyone can experience abuse. Women and girls are disproportionately affected by many forms of GBV, and GBV prevention must also consider the needs of men, boys, children, people with disabilities and other groups facing barriers to support. [1,2]"
+  ],
+  "introductionBlocks": [
+    {
+      "type": "heading",
+      "text": "How to use this chapter"
+    },
+    {
+      "type": "paragraph",
+      "text": "This chapter offers foundational education about gender-based violence (GBV). It can be read individually or used by a trained facilitator. It is not a legal opinion, diagnostic tool, investigation protocol, or substitute for medical or specialist GBV services."
+    }
+  ],
+  "safetyNotices": [
+    {
+      "type": "paragraph",
+      "text": "Reader safety: This handbook discusses abuse, threats and coercive control without graphic accounts. You may skip any activity. If you are unsafe, prioritize reaching a suitable professional or emergency service; reading a handbook is not a substitute for immediate care."
+    }
+  ],
+  "afterGoals": [
+    {
+      "type": "heading",
+      "text": "A note on language"
+    },
+    {
+      "type": "paragraph",
+      "text": "This handbook mainly uses survivor, emphasizing dignity and agency; some legal and medical systems use victim. No term should be imposed on a person describing their own experience. Anyone can experience abuse. Women and girls are disproportionately affected by many forms of GBV, and GBV prevention must also consider the needs of men, boys, children, people with disabilities and other groups facing barriers to support. [1,2]"
+    }
+  ],
+  "goalsHeading": "Learning outcomes",
+  "editionText": "Expanded educational handbook | English | Version 1.1 | 9 November 2026",
+  "publicationStatus": "Editorial status: Evidence-informed educational draft. Not yet approved for publication. Requires GBV-specialist, safeguarding, legal, accessibility and Rwanda-localization review.",
+  "endMatterPlacement": "inline",
+  "goals": [
+    "Define GBV and distinguish it from disagreements that are not necessarily gender-based.",
+    "Recognize physical, sexual, emotional, economic and technology-facilitated patterns of harm.",
+    "Explain gender-related power, coercion, inequality, stigma and barriers to help-seeking.",
+    "Respond respectfully to a disclosure without demanding evidence or taking control away from a survivor.",
+    "Identify safer options for medical care, support and referral in Rwanda."
+  ],
+  "goalBlocks": [
+    {
+      "type": "list",
+      "items": [
+        "Define GBV and distinguish it from disagreements that are not necessarily gender-based.",
+        "Recognize physical, sexual, emotional, economic and technology-facilitated patterns of harm.",
+        "Explain gender-related power, coercion, inequality, stigma and barriers to help-seeking.",
+        "Respond respectfully to a disclosure without demanding evidence or taking control away from a survivor.",
+        "Identify safer options for medical care, support and referral in Rwanda."
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "number": "1",
+      "id": "gbv-section-1-1",
+      "title": "What gender-based violence means",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Gender-based violence refers to harmful acts against a person that are connected to socially constructed gender differences, expectations, discrimination or unequal power. These acts can involve force, threats, intimidation, manipulation, coercion and restrictions on freedom. GBV can occur in intimate relationships, households, schools, workplaces, communities, institutions, humanitarian settings and online. [1,2]"
+        },
+        {
+          "type": "paragraph",
+          "text": "The term gender-based matters: it describes the relationship between violence and gender norms or power. Not every instance of interpersonal conflict is GBV. For example, two classmates disagreeing about a group project is not, by itself, GBV. But threatening a person because they reject an assigned gender role, or controlling a partner using gendered expectations of obedience, may be GBV."
+        },
+        {
+          "type": "heading",
+          "text": "Three ideas to remember"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Harm may be visible or invisible. A person may be harmed without having a visible injury.",
+            "Abuse can involve a pattern. Repeated humiliation, isolation and monitoring may produce fear even without an assault.",
+            "Consent matters. A relationship, marriage, previous agreement or gift does not grant unlimited permission to control another person or engage in sexual activity."
+          ]
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "id": "gbv-section-1-2",
+      "title": "Why GBV is a public health and human rights concern",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "GBV can undermine safety, bodily autonomy, health, education, employment, family relationships and participation in community life. The effects may persist after the violence ends. WHO describes violence against women as both a major public health and human rights problem. [1]"
+        },
+        {
+          "type": "paragraph",
+          "text": "WHO estimates published for 2023 indicate that approximately 840 million women and girls worldwide have experienced physical or sexual violence from an intimate partner, or sexual violence by a non-partner, during their lifetime. This statistic describes a specific measured set of violence types; it does not measure every form of GBV or imply that all people share the same risk. [1]"
+        },
+        {
+          "type": "paragraph",
+          "text": "Figures should never be used to predict the experience of a particular person, to discredit a person whose experience differs from the average, or to claim that violence occurs equally in every community."
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "id": "gbv-section-1-3",
+      "title": "What forms can GBV take?",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Physical violence"
+        },
+        {
+          "type": "paragraph",
+          "text": "Physical violence involves actions that inflict or threaten physical harm, such as hitting, pushing, restraining or threatening an assault. Threats can create fear even when no physical injury occurs. A person facing injury or an immediate threat needs safe, timely assistance."
+        },
+        {
+          "type": "heading",
+          "text": "Sexual violence and coercion"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sexual violence involves sexual acts or contact without free agreement, including through force, threats, intimidation, exploitation or inability to consent. Sexual violence can occur within marriage or an intimate partnership. A person may freeze or comply under fear; this does not establish consent. Prompt medical care can address injuries and time-sensitive health needs. [1,3]"
+        },
+        {
+          "type": "heading",
+          "text": "Psychological and emotional abuse"
+        },
+        {
+          "type": "paragraph",
+          "text": "Examples include repeated humiliation, serious threats, intimidation, deliberate isolation, constant surveillance or manipulation that undermines a person's autonomy. One rude remark does not automatically establish a pattern of abuse; context, frequency, intent and impact must be considered. A person does not need to prove a pattern before seeking help."
+        },
+        {
+          "type": "heading",
+          "text": "Economic abuse"
+        },
+        {
+          "type": "paragraph",
+          "text": "Economic abuse occurs when access to income, work, property, essential resources or financial decisions is controlled to restrict another person's independence. Examples include preventing a partner from working or taking earnings through intimidation. Shared budgeting by mutual agreement is different from coercive financial control."
+        },
+        {
+          "type": "heading",
+          "text": "Technology-facilitated abuse"
+        },
+        {
+          "type": "paragraph",
+          "text": "This may include repeated unwanted monitoring, threats to publish private information, tracking without agreement, harassment using digital platforms or using access to a device to control another person. Digital safety choices should be tailored to the situation: abruptly changing passwords or deleting applications can sometimes alert an abusive person and increase risk."
+        },
+        {
+          "type": "heading",
+          "text": "Violence and coercion affecting children"
+        },
+        {
+          "type": "paragraph",
+          "text": "Children and adolescents can experience sexual exploitation, forced relationships, coercive control and other gender-related harm. Involving a trusted qualified child-protection service is essential when a child may be at risk. Adults should not promise unlimited secrecy; reporting duties and safeguarding processes can differ by case and jurisdiction."
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Form",
+            "Illustrative warning sign"
+          ],
+          "rows": [
+            [
+              "Physical",
+              "Threats or acts of physical harm"
+            ],
+            [
+              "Sexual",
+              "Sexual activity obtained through pressure, fear or coercion"
+            ],
+            [
+              "Psychological",
+              "Repeated intimidation, isolation or humiliation"
+            ],
+            [
+              "Economic",
+              "Blocking access to work or essential funds to exert control"
+            ],
+            [
+              "Digital",
+              "Monitoring devices or threatening to share private material"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "id": "gbv-section-1-4",
+      "title": "Gender norms, inequality and unequal power",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Gender norms are social ideas about how people are expected to behave because of gender. Some norms are harmless; others can promote entitlement, silence, inequality or tolerance of abuse. GBV risk can increase where harmful norms are reinforced by institutions, relationships or communities. [1,2]"
+        },
+        {
+          "type": "paragraph",
+          "text": "Power does not come only from physical strength. A person may have control over money, housing, immigration or school status, employment, social reputation, childcare, or access to healthcare. When this power is used to threaten or restrict someone, the affected person may feel that resistance or disclosure is unsafe."
+        },
+        {
+          "type": "paragraph",
+          "text": "Risk factors are not excuses. Alcohol use, financial strain, conflict or trauma history may be associated with violence in some settings, but responsibility for abusive actions belongs to the person who commits them."
+        },
+        {
+          "type": "example",
+          "id": "example-gbv-training-opportunity",
+          "title": "Illustrative example: training opportunity",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "A young woman is offered a vocational training programme. Her partner tells her she may attend only if she provides continuous location information and gives him access to her messages. He threatens to evict her if she refuses. The concern is not the couple discussing practical arrangements; it is the use of threats and surveillance to restrict choice."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "id": "gbv-section-1-5",
+      "title": "Recognizing coercive control",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Coercive control describes behaviors that may accumulate into a system of domination and fear. Examples include isolating a person from support, regulating movement, controlling access to money, intimidating children or pets, and repeatedly checking private communications. Individual signs do not establish a legal finding, but they deserve attention when they create fear or limit freedom."
+        },
+        {
+          "type": "heading",
+          "text": "Control versus care"
+        },
+        {
+          "type": "paragraph",
+          "text": "A caring partner can express concern and discuss safety while respecting decisions. Control is more likely when one person uses fear, punishment, coercion, threats or surveillance to override the other person's choices. A person may experience both affection and abuse in the same relationship; affection does not cancel harmful behavior."
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "id": "gbv-section-1-6",
+      "title": "Effects on health, relationships and opportunity",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "GBV can have physical, sexual and reproductive, emotional, social and economic consequences. Not every survivor experiences all of them, and a person may show few outward signs. The absence of visible distress does not mean nothing happened. [1,3]"
+        },
+        {
+          "type": "heading",
+          "text": "Possible physical and health effects"
+        },
+        {
+          "type": "paragraph",
+          "text": "Injury, pain, sleep disturbance and some sexual or reproductive health concerns may arise. A medical professional can evaluate health needs and discuss options confidentially within applicable limits."
+        },
+        {
+          "type": "heading",
+          "text": "Possible emotional effects"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fear, anxiety, sadness, shame, emotional numbness, confusion, traumatic stress or difficulties trusting others may occur. Responses vary; feeling calm, detached or uncertain does not disprove abuse. Professional mental health support can be useful when difficulties persist or are severe."
+        },
+        {
+          "type": "heading",
+          "text": "Effects on daily life"
+        },
+        {
+          "type": "paragraph",
+          "text": "A survivor may lose income, miss classes, experience disruption to family relationships, avoid community activities, or find it difficult to use online services safely. Some effects are caused by threats or by lack of safe access to resources, not by a lack of resilience."
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "id": "gbv-section-1-7",
+      "title": "Why seeking help can be difficult",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Reasons for delaying disclosure or remaining in a harmful situation may include fear of retaliation, financial dependence, threats involving children, stigma, attachment to the abusive person, uncertain legal outcomes, disability-related barriers, limited transport, fear of not being believed or concern about breaches of privacy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Asking \"Why didn't you leave?\" often shifts attention away from the person causing harm. A more helpful question is \"What would help you feel safer, and what choices are available to you?\""
+        },
+        {
+          "type": "heading",
+          "text": "A note on disclosure"
+        },
+        {
+          "type": "paragraph",
+          "text": "A person may share only part of their experience, change their mind, or choose not to share details. Do not interrogate them, demand evidence, contact the person accused, or make a public disclosure on their behalf. The supporter's role is to listen, offer options and understand the limits of their own expertise."
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "id": "gbv-section-1-8",
+      "title": "Consent, choice and boundaries",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Consent is a free and informed agreement to a specific action. It must not be obtained through threats, pressure, fear or exploitation. Consent can be withdrawn, and agreement to one action is not permission for another. Age, capacity and legal protections also matter, especially for children and people unable to consent."
+        },
+        {
+          "type": "paragraph",
+          "text": "Boundaries can concern physical contact, personal information, money, movement and digital devices. A boundary can be communicated in different ways. Silence or lack of resistance should not be automatically interpreted as agreement, especially when someone feels afraid."
+        },
+        {
+          "type": "heading",
+          "text": "Reflection: respectful vs coercive requests"
+        },
+        {
+          "type": "paragraph",
+          "text": "Respectful: \"I am worried about getting home safely. Would you like us to agree on a check-in?\" Coercive: \"Give me your password or I will punish you and stop paying for your transport.\""
+        },
+        {
+          "type": "paragraph",
+          "text": "The difference includes freedom to decline without retaliation. Context and safety always matter."
+        }
+      ]
+    },
+    {
+      "number": "9",
+      "id": "gbv-section-1-9",
+      "title": "Survivor-centred first-line support",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The survivor-centred approach prioritizes safety, confidentiality (with explained limits), respect and non-discrimination. WHO's clinical handbook describes attention to immediate emotional, physical and safety needs as well as ongoing support. [3,4]"
+        },
+        {
+          "type": "heading",
+          "text": "How to respond to a disclosure"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Listen: give the person time, avoid interruption, and do not demand details.",
+            "Inquire sensitively: ask about immediate needs or worries, not investigative questions.",
+            "Validate: communicate that the person deserves safety and respectful treatment.",
+            "Enhance safety: ask whether it is safe to talk and what support they want now.",
+            "Support: explain appropriate services and offer help reaching them without taking over decisions."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "This is a plain-language outline of the WHO LIVES first-line support approach. It is not a replacement for professional training. [3]"
+        },
+        {
+          "type": "heading",
+          "text": "Helpful words and words to avoid"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "More supportive",
+            "Less supportive"
+          ],
+          "rows": [
+            [
+              "\"Thank you for telling me. What would be useful right now?\"",
+              "\"Why did you stay?\""
+            ],
+            [
+              "\"You can choose how much to share.\"",
+              "\"Tell me exactly what happened, from the start.\""
+            ],
+            [
+              "\"Can we discuss options that feel safe to you?\"",
+              "\"You must report this immediately, whatever you want.\""
+            ],
+            [
+              "\"I will explain what I can keep private and where limits apply.\"",
+              "\"I promise nobody will ever find out.\""
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "number": "10",
+      "id": "gbv-section-1-10",
+      "title": "Safety planning without increasing danger",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Safety planning is an individualized conversation about possible risks, safe contacts and options. There is no one plan that works for everyone, and the person most affected often understands important risks that others cannot see. A trained specialist can help with higher-risk situations. [3,4]"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Check whether the current conversation or device is private enough to discuss sensitive information.",
+            "Identify a trusted person or professional service that the survivor considers safe.",
+            "Discuss whether storing messages, notes or contact details on a shared device could create a risk.",
+            "Avoid confronting an abusive person, arranging mediation, or notifying others without an informed and safety-aware reason.",
+            "Where there is immediate danger, seek emergency help through a suitable local service."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Important: Leaving an abusive relationship, changing device access or making a report can sometimes increase danger. General educational material should not direct everyone to take the same steps. It is safer to connect the person with a trained GBV service when possible."
+        }
+      ]
+    },
+    {
+      "number": "11",
+      "id": "gbv-section-1-11",
+      "title": "Accessing support in Rwanda",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Rwanda's Isange One Stop Centre model coordinates health, psychosocial, legal and other support for people affected by GBV. MIGEPROF describes an integrated package that can include safe shelter where required. [5] UNHCR Rwanda lists the Isange One Stop Centre toll-free contact as 3029 and states that services are available across Rwanda's 30 districts. UNHCR also notes that contacting an Isange Centre may involve reporting to law enforcement. People considering a referral should be informed of this possibility and ask about privacy and reporting procedures. [6]"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Service / official source",
+            "Published contact"
+          ],
+          "rows": [
+            [
+              "Isange One Stop Centre (UNHCR Rwanda)",
+              "3029"
+            ],
+            [
+              "Rwanda Investigation Bureau (MIGEPROF)",
+              "116 / 3512"
+            ],
+            [
+              "Gender Monitoring Office (MIGEPROF)",
+              "5798"
+            ],
+            [
+              "MIGEPROF (MIGEPROF)",
+              "9059"
+            ],
+            [
+              "National Child Development Agency (MIGEPROF)",
+              "711"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Verification note: These contacts are taken from official or UNHCR pages accessed in November"
+        },
+        {
+          "type": "paragraph",
+          "text": "2026. VUGA NDAKUMVA must verify current operations, availability, eligibility and safe referral practices before publication, especially for urgent cases. Do not assume that every facility has identical hours or pathways."
+        },
+        {
+          "type": "heading",
+          "text": "When urgent healthcare matters"
+        },
+        {
+          "type": "paragraph",
+          "text": "After sexual assault, serious injury or a threat to immediate safety, prompt professional medical assessment is important. Some interventions are time-sensitive, and a clinician can explain available choices. The person should not be required to wait for a handbook activity or finish a questionnaire before seeking care. [3]"
+        }
+      ]
+    },
+    {
+      "number": "12",
+      "id": "gbv-section-1-12",
+      "title": "Learning scenarios and guided analysis",
+      "blocks": [
+        {
+          "type": "example",
+          "id": "example-gbv-household-earnings",
+          "title": "Scenario A: Financial control in a household",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "A market trader reports that her partner takes all earnings, refuses to provide money for food, and threatens her when she asks to keep a portion of her income. Recognize: possible economic abuse and intimidation. Support: listen, check whether discussing money is safe, and share confidential support options. Avoid: directing her to confront the partner without safety planning."
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "id": "example-gbv-student-monitoring",
+          "title": "Scenario B: A student and digital monitoring",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "A college student says a dating partner checks their phone daily, sends threats when messages go unanswered, and insists they stop seeing classmates. Recognize: digital monitoring, isolation and possible coercive control. Support: ask about immediate safety and safe ways to access help. Avoid: secretly contacting the partner or assuming password changes are risk-free."
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "id": "example-gbv-volunteer-disclosure",
+          "title": "Scenario C: Disclosure to a community volunteer",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "An adult quietly tells a volunteer about sexual coercion but asks that the story not be shared with family. Recognize: an important request for privacy. Support: explain confidentiality limits before any information is collected; offer healthcare and GBV referral options. Avoid: asking for a detailed account or promising absolute secrecy."
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "id": "example-gbv-child-safeguarding",
+          "title": "Scenario D: A child appears unsafe",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "A teacher learns that an adolescent fears returning to a caregiver who has been threatening them. Recognize: possible child safeguarding risk. Support: follow the organization's approved child protection process and involve trained services. Avoid: informal mediation, independent investigation, or promising secrecy that safeguarding rules cannot honor."
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "id": "example-gbv-friend-listening",
+          "title": "Scenario E: A friend minimizes abuse",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Someone says, \"It was only shouting, not violence,\" but describes repeated threats to harm them if they visit relatives. Recognize: threats and isolation can be serious even without injuries. Support: acknowledge the concern, avoid labeling the person against their wishes, and offer options for safe support."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": "13",
+      "id": "gbv-section-1-13",
+      "title": "Activities for individuals and facilitators",
+      "blocks": [
+        {
+          "type": "subsection",
+          "id": "gbv-1-activity-1",
+          "title": "Activity 1: Recognize warning signs (10 minutes)",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Read Scenario B. Write down three behaviors that may restrict the student's autonomy. Then identify one supportive question that does not assign blame. Possible answer: repeated surveillance, threats and social isolation; \"Are you safe discussing this, and what support would you prefer?\""
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "id": "gbv-1-activity-2",
+          "title": "Activity 2: Myth or fact (10 minutes)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "\"GBV always leaves physical marks.\" Myth: psychological, sexual, economic and digital abuse may leave no visible injury.",
+                "\"A survivor can decide how much to disclose.\" Fact: support should minimize repeated disclosure, subject to clearly explained legal/safeguarding limits.",
+                "\"Conflict or financial pressure makes violence acceptable.\" Myth: no circumstance removes responsibility for abusive behavior.",
+                "\"A referral should consider the survivor's safety and choices.\" Fact: safe referral is part of survivor-centred care."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "id": "gbv-1-activity-3",
+          "title": "Activity 3: Safe response practice (15 minutes)",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "In pairs, one person reads a brief fictional disclosure and the other practices a supportive response. Use only invented examples, never request a participant's personal disclosure. Practice listening, validating, asking permission to discuss options, and explaining privacy limits. Stop immediately if a participant becomes distressed."
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "id": "gbv-1-activity-4",
+          "title": "Activity 4: Service information check (10 minutes)",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Using official sources, identify one safe service in your district and check its operating arrangements. Write only general service details, not a survivor's private information. If a service cannot be verified, mark it as unverified rather than guessing."
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "id": "gbv-1-activity-5",
+          "title": "Activity 5: Personal reflection (optional)",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Think about a belief in your community that may excuse controlling behavior. How might a respectful alternative be expressed? Do not share personal experiences or identifying information to participate. You may skip this activity entirely."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": "14",
+      "id": "gbv-section-1-14",
+      "title": "Knowledge assessment",
+      "blocks": [
+        {
+          "type": "questions",
+          "items": [
+            {
+              "question": "1. Is every disagreement between two people necessarily GBV?",
+              "answer": "No. Gender-linked harm, coercion and power dynamics must be considered.",
+              "answerLabel": "Suggested answer:"
+            },
+            {
+              "question": "2. Can repeated monitoring and threats be harmful without physical assault?",
+              "answer": "Yes. Patterns of coercive control can restrict freedom and create fear.",
+              "answerLabel": "Suggested answer:"
+            },
+            {
+              "question": "3. Does marriage automatically establish consent to sexual activity?",
+              "answer": "No. Consent must be freely given for each activity.",
+              "answerLabel": "Suggested answer:"
+            },
+            {
+              "question": "4. Why might a person delay seeking help?",
+              "answer": "Possible reasons include danger, threats, dependence, stigma, children, or lack of accessible services.",
+              "answerLabel": "Suggested answer:"
+            },
+            {
+              "question": "5. What are two helpful first responses to a disclosure?",
+              "answer": "Listen without judgment and ask about immediate needs and preferred safe options.",
+              "answerLabel": "Suggested answer:"
+            },
+            {
+              "question": "6. Should a volunteer promise total confidentiality?",
+              "answer": "No. Explain confidentiality and its legal or safeguarding limits truthfully.",
+              "answerLabel": "Suggested answer:"
+            },
+            {
+              "question": "7. Should a supporter contact the accused person without a safety assessment?",
+              "answer": "Generally no. Doing so could increase risks or undermine survivor choice.",
+              "answerLabel": "Suggested answer:"
+            },
+            {
+              "question": "8. What is one Rwanda-based referral option?",
+              "answer": "A verified Isange One Stop Centre. Confirm service details and explain any reporting implications.",
+              "answerLabel": "Suggested answer:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": "15",
+      "id": "gbv-section-1-15",
+      "title": "Key messages for the reader",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "GBV is linked to harmful gender-related power, discrimination and coercion, and it is not limited to physical injury.",
+            "Survivors are not responsible for another person's abusive actions.",
+            "Fear, dependence and safety risks can make disclosure and exit difficult.",
+            "A respectful response listens, avoids blame, protects privacy and offers choices.",
+            "Help-seeking and referral should be safe, voluntary where possible and based on verified local information."
+          ]
+        }
+      ]
+    },
+    {
+      "number": "16",
+      "id": "gbv-section-1-16",
+      "title": "Glossary",
+      "blocks": [
+        {
+          "type": "table",
+          "headers": [
+            "Term",
+            "Plain-language meaning"
+          ],
+          "rows": [
+            [
+              "Gender-based violence",
+              "Gender-linked harmful actions, threats or coercion against a person."
+            ],
+            [
+              "Coercion",
+              "Pressure or threats that undermine free choice."
+            ],
+            [
+              "Survivor-centred care",
+              "Support led by the person's dignity, safety, wishes and needs."
+            ],
+            [
+              "Consent",
+              "Freely given and informed agreement to a particular action."
+            ],
+            [
+              "Confidentiality",
+              "Protecting sensitive information, with explained legal/safeguarding limits."
+            ],
+            [
+              "Referral",
+              "Connecting someone with suitable trained services and support."
+            ],
+            [
+              "Coercive control",
+              "Patterns of actions that restrict independence and generate fear."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "number": "17",
+      "id": "gbv-section-1-17",
+      "title": "Scientific and institutional references",
+      "blocks": [
+        {
+          "type": "references",
+          "numbers": [
+            1
+          ],
+          "sourceText": "[1] World Health Organization. (2026, June 18). Violence against women. https://www.who.int/news-room/fact-sheets/detail/violence-against-women"
+        },
+        {
+          "type": "references",
+          "numbers": [
+            2
+          ],
+          "sourceText": "[2] UNHCR Rwanda. Gender-Based Violence: definition, risks and response services. https://help.unhcr.org/rwanda/services/sgbv/"
+        },
+        {
+          "type": "references",
+          "numbers": [
+            3
+          ],
+          "sourceText": "[3] World Health Organization. (2014). Health care for women subjected to intimate partner violence or sexual violence: a clinical handbook (WHO/RHR/14.26). https://www.who.int/publications-detail-redirect/WHO-RHR-14.26"
+        },
+        {
+          "type": "references",
+          "numbers": [
+            4
+          ],
+          "sourceText": "[4] UNFPA. (2019). Inter-Agency Minimum Standards for Gender-Based Violence in Emergencies Programming. https://www.unfpa.org/sites/default/files/pub-pdf/19-200_Minimun_Standards_Report_ENGLISH-Nov.FINAL_.pdf"
+        },
+        {
+          "type": "references",
+          "numbers": [
+            5
+          ],
+          "sourceText": "[5] Ministry of Gender and Family Promotion (MIGEPROF), Rwanda. Directorate General of Family Promotion and Child Protection. https://www.migeprof.gov.rw/family-promotion-and-child-right-protection"
+        },
+        {
+          "type": "references",
+          "numbers": [
+            6
+          ],
+          "sourceText": "[6] UNHCR Rwanda. Gender-Based Violence: Isange One Stop Centres and contact information. https://help.unhcr.org/rwanda/services/sgbv/"
+        },
+        {
+          "type": "references",
+          "numbers": [
+            7
+          ],
+          "sourceText": "[7] UNFPA. (2026, October). Guidance note on safe and ethical management, analysis and sharing of GBV service data. https://www.unfpa.org/publications/guidance-note-safe-and-ethical-management-analysis-and-sharing-gbv-service-data"
+        }
+      ]
+    },
+    {
+      "number": "18",
+      "id": "gbv-section-1-18",
+      "title": "Editorial and publication review record",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Document ID: GBV-01 | Language: English | Revision: 1.1 | Prepared: 9 November 2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "Before publication: obtain review by a Rwanda-informed GBV specialist, safeguarding lead and legal reviewer; verify current hotline and facility information; check accessibility and translation into Kinyarwanda and French; document approval and next review date. [7] Content boundaries: Education only. This document does not provide legal representation, individual medical instructions, evidence collection procedures or case-management services. Avoid collecting identifiable survivor narratives in educational settings."
+        },
+        {
+          "type": "paragraph",
+          "text": "Suggested next chapter: GBV Chapter 02 - Types and Forms of Gender-Based Violence. Expand each form with examples, prevention, safe response and referenced learning activities."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "number": 1,
+      "text": "World Health Organization. (2026, June 18). Violence against women. https://www.who.int/news-room/fact-sheets/detail/violence-against-women",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/violence-against-women"
+    },
+    {
+      "number": 2,
+      "text": "UNHCR Rwanda. Gender-Based Violence: definition, risks and response services. https://help.unhcr.org/rwanda/services/sgbv/",
+      "url": "https://help.unhcr.org/rwanda/services/sgbv/"
+    },
+    {
+      "number": 3,
+      "text": "World Health Organization. (2014). Health care for women subjected to intimate partner violence or sexual violence: a clinical handbook (WHO/RHR/14.26). https://www.who.int/publications-detail-redirect/WHO-RHR-14.26",
+      "url": "https://www.who.int/publications-detail-redirect/WHO-RHR-14.26"
+    },
+    {
+      "number": 4,
+      "text": "UNFPA. (2019). Inter-Agency Minimum Standards for Gender-Based Violence in Emergencies Programming. https://www.unfpa.org/sites/default/files/pub-pdf/19-200_Minimun_Standards_Report_ENGLISH-Nov.FINAL_.pdf",
+      "url": "https://www.unfpa.org/sites/default/files/pub-pdf/19-200_Minimun_Standards_Report_ENGLISH-Nov.FINAL_.pdf"
+    },
+    {
+      "number": 5,
+      "text": "Ministry of Gender and Family Promotion (MIGEPROF), Rwanda. Directorate General of Family Promotion and Child Protection. https://www.migeprof.gov.rw/family-promotion-and-child-right-protection",
+      "url": "https://www.migeprof.gov.rw/family-promotion-and-child-right-protection"
+    },
+    {
+      "number": 6,
+      "text": "UNHCR Rwanda. Gender-Based Violence: Isange One Stop Centres and contact information. https://help.unhcr.org/rwanda/services/sgbv/",
+      "url": "https://help.unhcr.org/rwanda/services/sgbv/"
+    },
+    {
+      "number": 7,
+      "text": "UNFPA. (2026, October). Guidance note on safe and ethical management, analysis and sharing of GBV service data. https://www.unfpa.org/publications/guidance-note-safe-and-ethical-management-analysis-and-sharing-gbv-service-data",
+      "url": "https://www.unfpa.org/publications/guidance-note-safe-and-ethical-management-analysis-and-sharing-gbv-service-data"
+    }
+  ],
+  "referenceNotes": [],
+  "editorialReview": [],
+  "approval": [],
+  "coverBlocks": [
+    {
+      "type": "heading",
+      "text": "VUGA NDAKUMVA INITIATIVE"
+    },
+    {
+      "type": "heading",
+      "text": "GENDER-BASED VIOLENCE"
+    },
+    {
+      "type": "heading",
+      "text": "EDUCATIONAL CONTENT"
+    },
+    {
+      "type": "heading",
+      "text": "LIBRARY"
+    },
+    {
+      "type": "paragraph",
+      "text": "CHAPTER 01"
+    },
+    {
+      "type": "paragraph",
+      "text": "Understanding Gender-Based Violence"
+    },
+    {
+      "type": "paragraph",
+      "text": "Expanded educational handbook | English | Version 1.1 | 9 November 2026"
+    },
+    {
+      "type": "paragraph",
+      "text": "For community education, awareness programmes, supportive learning and future reviewed digital content."
+    },
+    {
+      "type": "paragraph",
+      "text": "Editorial status: Evidence-informed educational draft. Not yet approved for publication. Requires GBV-specialist, safeguarding, legal, accessibility and Rwanda-localization review."
+    }
+  ]
+}

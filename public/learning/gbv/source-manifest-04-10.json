@@ -1,0 +1,82 @@
+{
+  "collection": "gbv-continuation",
+  "sources": [
+    {
+      "chapter": 4,
+      "slug": "understanding-consent-boundaries-and-bodily-autonomy",
+      "title": "Understanding Consent, Boundaries, and Bodily Autonomy",
+      "filename": "VUGA_NDAKUMVA_GBV_Expanded_Chapter_04_Consent_Boundaries_Bodily_Autonomy.pdf",
+      "pdfUrl": "/learning/gbv/VUGA_NDAKUMVA_GBV_Expanded_Chapter_04_Consent_Boundaries_Bodily_Autonomy.pdf",
+      "pages": 9,
+      "sha256": "7bfab745cc05e26615e72dc8c28299308c19f6be5a3bd158d1fb3bae24f02807",
+      "version": "1.1",
+      "editionText": "GBV Educational Content Library • Expanded Chapter 04 • Version 1.1 • November 2026"
+    },
+    {
+      "chapter": 5,
+      "slug": "domestic-violence-and-intimate-partner-violence",
+      "title": "Domestic Violence and Intimate Partner Violence",
+      "filename": "chapter 5 updated.pdf",
+      "pdfUrl": "/learning/gbv/chapter 5 updated.pdf",
+      "pages": 9,
+      "sha256": "14cea4ec556b7c4dd562018159a0069a080aacfdc10b92d47b3bcb090149bfcb",
+      "version": "Updated edition",
+      "editionText": "Updated edition - November 2026 Educational resource | English | For adults, students, educators and community supporters"
+    },
+    {
+      "chapter": 6,
+      "slug": "sexual-violence-harassment-and-exploitation",
+      "title": "Sexual Violence, Harassment, and Exploitation",
+      "filename": "GBV_Chapter_06_Sexual_Violence_Harassment_Exploitation.pdf",
+      "pdfUrl": "/learning/gbv/GBV_Chapter_06_Sexual_Violence_Harassment_Exploitation.pdf",
+      "pages": 9,
+      "sha256": "576d814420ddfb63db407cf298e483f49916df16f2a26266dfba067951cb2394",
+      "version": "1.1",
+      "editionText": "A survivor-centred educational chapter for Rwanda | English edition | Version 1.1 | 11 November 2026"
+    },
+    {
+      "chapter": 7,
+      "slug": "emotional-psychological-and-verbal-abuse",
+      "title": "Emotional, Psychological and Verbal Abuse",
+      "filename": "VUGA_NDAKUMVA_GBV_Chapter_07_Emotional_Psychological_Verbal_Abuse.pdf",
+      "pdfUrl": "/learning/gbv/VUGA_NDAKUMVA_GBV_Chapter_07_Emotional_Psychological_Verbal_Abuse.pdf",
+      "pages": 14,
+      "sha256": "624d5001c9576b22cc7791582d34b8c66702b50782019ff3c9dfc077a52b75a0",
+      "version": "1.1",
+      "editionText": "Version: 1.1 | Language: English | Prepared: 11 November 2026 | Audience: Adults, community educators, and general readers"
+    },
+    {
+      "chapter": 8,
+      "slug": "economic-violence-and-financial-control",
+      "title": "Economic Violence and Financial Control",
+      "filename": "GBV Chapter 8 Modern.pdf",
+      "pdfUrl": "/learning/gbv/GBV Chapter 8 Modern.pdf",
+      "pages": 12,
+      "sha256": "01bef4a456934dfe7397ca6d7ad00f9b7a710250b453b2a37c4bb92f1ff71b78",
+      "version": "2.0",
+      "editionText": "Educational draft | Version 2.0 | November 2026"
+    },
+    {
+      "chapter": 9,
+      "slug": "technology-facilitated-and-online-gender-based-violence",
+      "title": "Technology-Facilitated and Online Gender-Based Violence",
+      "filename": "GBV_Chapter_09_Technology_Facilitated_Online_GBV.pdf",
+      "pdfUrl": "/learning/gbv/GBV_Chapter_09_Technology_Facilitated_Online_GBV.pdf",
+      "pages": 10,
+      "sha256": "a15247a99ab3a590e11814433cf9d58f3ff4f11867e991e7b71f6e244367cdde",
+      "version": "1.0",
+      "editionText": "English | Version 1.0 | 11 November 2026"
+    },
+    {
+      "chapter": 10,
+      "slug": "gender-based-violence-against-children-and-adolescents",
+      "title": "Gender-Based Violence Against Children and Adolescents",
+      "filename": "GBV_Chapter_10_Children_and_Adolescents.pdf",
+      "pdfUrl": "/learning/gbv/GBV_Chapter_10_Children_and_Adolescents.pdf",
+      "pages": 10,
+      "sha256": "a14b34445531fad2a24dca836bbc5a7f14abc94ef456a1ed0b66efc16b5c8e87",
+      "version": "1.0",
+      "editionText": "EDUCATIONAL DRAFT | November 2026 | Version 1.0"
+    }
+  ]
+}

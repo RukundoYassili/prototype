@@ -1,0 +1,467 @@
+{
+  "reviewedAt": "2026-11-11",
+  "generator": "Built-in image_gen",
+  "disclosure": "Illustrative fictional scenes · AI-generated.",
+  "scope": "Ten chapter covers; seven existing covers retained and three new covers generated. Internal chapter lessons and visuals unchanged.",
+  "assets": [
+    {
+      "id": "01-everyday-connections",
+      "slug": "understanding-mental-health-and-wellbeing",
+      "message": "Wellbeing is shaped by daily life, relationships, circumstances and practical support.",
+      "scene": "Background pale mint #edf5ec. A coherent small community courtyard scene with three adults and no children. A young adult Black woman in lavender carrying a closed notebook pauses beside a raised vegetable planter, an older adult man seated nearby comfortably using a manual wheelchair waters one small pot, and another adult woman in teal passes a small watering jug to the central woman. Calm engaged faces, eye contact and everyday mutual help. A modest bench and simple house doorway in background suggest belonging and everyday life; two potted plants suggest daily care, the notebook suggests learning. All three are equal participants. Do not portray the wheelchair user as helpless. Compose as one scene, not a collage or a medical diagram. No counselling circle, no dramatic distress.",
+      "prompt": "Create one finished landscape 3:2 illustration (1536x1024) for a mental-health educational chapter cover, for general adult readers and older adolescents in Rwanda. Image 1 is STYLE REFERENCE ONLY: match its polished flat 2D editorial shapes, brown skin tones, restrained facial details and natural proportions, not its scene or character. Make this a mature publication illustration, warm and respectful, not a children's cartoon. Clean solid color shapes, minimal line accents, no textures or photographic effects. Palette deep purple #392653, lavender #b8a1df, golden yellow #edbb44, teal #245747, mint #cde7d5, soft blue #b6cee7. Black African people in contemporary everyday clothing and simple Rwanda-relevant settings without stereotypes. All characters fictional. Soft expressions appropriate to the scene, no compulsory smiles. Few purposeful objects, generous breathing room, all heads hands and feet fully within frame with 6% safe margins. Background solid very pale lavender #f1edf7, white, or pale mint #edf5ec as specified. Absolutely no text, letters, numbers, icons, symbols floating above heads, labels, diagrams, speech bubbles, watermarks, logos, diagnostic claims, medical props, distress stereotypes, or before/after transformation. Scene will be scaled intact on mobile. The image illustrates one possible everyday situation, never a diagnosis or cure.\nEducational message: Wellbeing is shaped by daily life, relationships, circumstances and practical support.\nScene: Background pale mint #edf5ec. A coherent small community courtyard scene with three adults and no children. A young adult Black woman in lavender carrying a closed notebook pauses beside a raised vegetable planter, an older adult man seated nearby comfortably using a manual wheelchair waters one small pot, and another adult woman in teal passes a small watering jug to the central woman. Calm engaged faces, eye contact and everyday mutual help. A modest bench and simple house doorway in background suggest belonging and everyday life; two potted plants suggest daily care, the notebook suggests learning. All three are equal participants. Do not portray the wheelchair user as helpless. Compose as one scene, not a collage or a medical diagram. No counselling circle, no dramatic distress.",
+      "generatedPath": "C:\\Users\\VUGANDAKUMVA\\.codex\\generated_images\\01a1c90c-3cc3-7773-aa31-a46e68f1cd22\\exec-738e91a0-de5b-4d41-95c4-705161e23f73.png",
+      "original": "artifacts/mental-health-library-refresh/originals/01-everyday-connections.png",
+      "publicBase": "/images/learning/mental-health-covers/01-everyday-connections",
+      "aspectRatio": "3:2",
+      "purpose": "Informative supporting illustration; adjacent text carries essential educational meaning.",
+      "mobile": "Full composition, scaled without cropping.",
+      "review": "Reviewed anatomy, relevant action, non-diagnostic expression and style consistency.",
+      "reused": true,
+      "chapter": 1,
+      "originalWidth": 1536,
+      "originalHeight": 1024,
+      "originalSha256": "0078686f51c9a3044b3f7de86094805b2a810f9e54c49ee1ec092f3f6a855f98",
+      "styleReference": "artifacts/about-refresh/originals/reading-at-your-own-pace.png",
+      "format": "Raster PNG original; responsive raster WebP variants. Not editable vector artwork.",
+      "placement": "Why Mental Health library chapter card only",
+      "crop": "None; object-fit: contain",
+      "variants": [
+        {
+          "path": "/images/learning/mental-health-covers/01-everyday-connections-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 21828,
+          "sha256": "741afbaff151ccddfd57d3766fa692444fe5db4ba4ce4794aae93a92bfd9d126"
+        },
+        {
+          "path": "/images/learning/mental-health-covers/01-everyday-connections-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 50356,
+          "sha256": "12f8f23fa4fe5ec47fcbdd07aa8de0a83f051a2a6dc1e7cfb59a9155b4d70d2e"
+        },
+        {
+          "path": "/images/learning/mental-health-covers/01-everyday-connections-1440.webp",
+          "width": 1440,
+          "height": 960,
+          "bytes": 81374,
+          "sha256": "5bff6e88c549aaee21768370caa0cb3e03c1ba450d63dc0064c38b4cfdfae461"
+        }
+      ]
+    },
+    {
+      "id": "02-emotions-and-choice",
+      "slug": "recognizing-emotions-and-responding-to-them",
+      "message": "Different emotions can be acknowledged while people have space to choose safe responses.",
+      "scene": "Background pale lavender #f1edf7. Three young Black African adults at a quiet open-air study courtyard, in a gentle wide composition with ample space between them. At left, a woman with braided hair in teal looks frustrated but contained, brows slightly drawn, sitting upright with hands resting naturally on knees. Center, a young man in lavender pauses thoughtfully with a closed notebook on his lap, relaxed hands, no clenched fists. At right, a woman in a golden yellow top has a calm attentive expression, seated angled toward the others listening rather than instructing. Expressions distinct and subtle. A low side table with closed books. All full bodies visible, respectful interpersonal space. No exaggerated facial cartoons, no emotion icons, no masks, no traffic-light metaphors, no ranking feelings as good or bad. The scene should convey different emotional experiences and room to pause.",
+      "prompt": "Create one finished landscape 3:2 illustration (1536x1024) for a mental-health educational chapter cover, for general adult readers and older adolescents in Rwanda. Image 1 is STYLE REFERENCE ONLY: match its polished flat 2D editorial shapes, brown skin tones, restrained facial details and natural proportions, not its scene or character. Make this a mature publication illustration, warm and respectful, not a children's cartoon. Clean solid color shapes, minimal line accents, no textures or photographic effects. Palette deep purple #392653, lavender #b8a1df, golden yellow #edbb44, teal #245747, mint #cde7d5, soft blue #b6cee7. Black African people in contemporary everyday clothing and simple Rwanda-relevant settings without stereotypes. All characters fictional. Soft expressions appropriate to the scene, no compulsory smiles. Few purposeful objects, generous breathing room, all heads hands and feet fully within frame with 6% safe margins. Background solid very pale lavender #f1edf7, white, or pale mint #edf5ec as specified. Absolutely no text, letters, numbers, icons, symbols floating above heads, labels, diagrams, speech bubbles, watermarks, logos, diagnostic claims, medical props, distress stereotypes, or before/after transformation. Scene will be scaled intact on mobile. The image illustrates one possible everyday situation, never a diagnosis or cure.\nEducational message: Different emotions can be acknowledged while people have space to choose safe responses.\nScene: Background pale lavender #f1edf7. Three young Black African adults at a quiet open-air study courtyard, in a gentle wide composition with ample space between them. At left, a woman with braided hair in teal looks frustrated but contained, brows slightly drawn, sitting upright with hands resting naturally on knees. Center, a young man in lavender pauses thoughtfully with a closed notebook on his lap, relaxed hands, no clenched fists. At right, a woman in a golden yellow top has a calm attentive expression, seated angled toward the others listening rather than instructing. Expressions distinct and subtle. A low side table with closed books. All full bodies visible, respectful interpersonal space. No exaggerated facial cartoons, no emotion icons, no masks, no traffic-light metaphors, no ranking feelings as good or bad. The scene should convey different emotional experiences and room to pause.",
+      "generatedPath": "C:\\Users\\VUGANDAKUMVA\\.codex\\generated_images\\01a1c90c-3cc3-7773-aa31-a46e68f1cd22\\exec-09a8f0ec-8e10-4f53-9b39-a9334f4c5dfc.png",
+      "original": "artifacts/mental-health-library-refresh/originals/02-emotions-and-choice.png",
+      "publicBase": "/images/learning/mental-health-covers/02-emotions-and-choice",
+      "aspectRatio": "3:2",
+      "purpose": "Informative supporting illustration; adjacent text carries essential educational meaning.",
+      "mobile": "Full composition, scaled without cropping.",
+      "review": "Reviewed anatomy, relevant action, non-diagnostic expression and style consistency.",
+      "reused": true,
+      "chapter": 2,
+      "originalWidth": 1536,
+      "originalHeight": 1024,
+      "originalSha256": "bce05bac651bef97496772b829a4a05feae6d44809ed31a45177138ab30b0f13",
+      "styleReference": "artifacts/about-refresh/originals/reading-at-your-own-pace.png",
+      "format": "Raster PNG original; responsive raster WebP variants. Not editable vector artwork.",
+      "placement": "Why Mental Health library chapter card only",
+      "crop": "None; object-fit: contain",
+      "variants": [
+        {
+          "path": "/images/learning/mental-health-covers/02-emotions-and-choice-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 20580,
+          "sha256": "588fa1a9a67e9fa08da7df5237f9d5de51ccca7d5455923bb8e4ac5991576775"
+        },
+        {
+          "path": "/images/learning/mental-health-covers/02-emotions-and-choice-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 45826,
+          "sha256": "72436b965c42ff671e8a1b2430f21caae60e7d18c9145049778bea2734217f54"
+        },
+        {
+          "path": "/images/learning/mental-health-covers/02-emotions-and-choice-1440.webp",
+          "width": 1440,
+          "height": 960,
+          "bytes": 72870,
+          "sha256": "f5bd3f1e4ae890744429caf9030446f46463abee90138366ac6d6db068f37197"
+        }
+      ]
+    },
+    {
+      "id": "03-demands-and-practical-help",
+      "slug": "understanding-stress-and-healthy-coping-strategies",
+      "message": "Practical pressures call for manageable planning and assistance, not blame or guaranteed relief.",
+      "scene": "Background pale mint #edf5ec. A Black African woman in her thirties with a teal shirt sits at a modest kitchen-work table, tired but focused, looking at an open notebook with blank unmarked pages. A short stack of papers and a grocery bag beside the table suggest competing everyday demands. An adult relative in lavender sits beside her, calmly pointing with one relaxed finger to one blank page as they plan a manageable next task. At the side, a folded cloth and basket of laundry remain unfinished, showing demands have not magically disappeared. Both adults equal collaborators, thoughtful faces, not smiling about everything being fixed. Keep props few and neatly legible, full body natural seated poses, no clocks, checklists with text, stress lightning, or thought clouds.",
+      "prompt": "Create one finished landscape 3:2 illustration (1536x1024) for a mental-health educational chapter cover, for general adult readers and older adolescents in Rwanda. Image 1 is STYLE REFERENCE ONLY: match its polished flat 2D editorial shapes, brown skin tones, restrained facial details and natural proportions, not its scene or character. Make this a mature publication illustration, warm and respectful, not a children's cartoon. Clean solid color shapes, minimal line accents, no textures or photographic effects. Palette deep purple #392653, lavender #b8a1df, golden yellow #edbb44, teal #245747, mint #cde7d5, soft blue #b6cee7. Black African people in contemporary everyday clothing and simple Rwanda-relevant settings without stereotypes. All characters fictional. Soft expressions appropriate to the scene, no compulsory smiles. Few purposeful objects, generous breathing room, all heads hands and feet fully within frame with 6% safe margins. Background solid very pale lavender #f1edf7, white, or pale mint #edf5ec as specified. Absolutely no text, letters, numbers, icons, symbols floating above heads, labels, diagrams, speech bubbles, watermarks, logos, diagnostic claims, medical props, distress stereotypes, or before/after transformation. Scene will be scaled intact on mobile. The image illustrates one possible everyday situation, never a diagnosis or cure.\nEducational message: Practical pressures call for manageable planning and assistance, not blame or guaranteed relief.\nScene: Background pale mint #edf5ec. A Black African woman in her thirties with a teal shirt sits at a modest kitchen-work table, tired but focused, looking at an open notebook with blank unmarked pages. A short stack of papers and a grocery bag beside the table suggest competing everyday demands. An adult relative in lavender sits beside her, calmly pointing with one relaxed finger to one blank page as they plan a manageable next task. At the side, a folded cloth and basket of laundry remain unfinished, showing demands have not magically disappeared. Both adults equal collaborators, thoughtful faces, not smiling about everything being fixed. Keep props few and neatly legible, full body natural seated poses, no clocks, checklists with text, stress lightning, or thought clouds.",
+      "generatedPath": "C:\\Users\\VUGANDAKUMVA\\.codex\\generated_images\\01a1c90c-3cc3-7773-aa31-a46e68f1cd22\\exec-de52aed7-e662-4625-afc0-9dd0f4426e6e.png",
+      "original": "artifacts/mental-health-library-refresh/originals/03-demands-and-practical-help.png",
+      "publicBase": "/images/learning/mental-health-covers/03-demands-and-practical-help",
+      "aspectRatio": "3:2",
+      "purpose": "Informative supporting illustration; adjacent text carries essential educational meaning.",
+      "mobile": "Full composition, scaled without cropping.",
+      "review": "Reviewed anatomy, relevant action, non-diagnostic expression and style consistency.",
+      "reused": true,
+      "chapter": 3,
+      "originalWidth": 1536,
+      "originalHeight": 1024,
+      "originalSha256": "57677087cb40e8c133a92ab15dff1cdaa262f03cbe9b3d85fa366e9d1103ae92",
+      "styleReference": "artifacts/about-refresh/originals/reading-at-your-own-pace.png",
+      "format": "Raster PNG original; responsive raster WebP variants. Not editable vector artwork.",
+      "placement": "Why Mental Health library chapter card only",
+      "crop": "None; object-fit: contain",
+      "variants": [
+        {
+          "path": "/images/learning/mental-health-covers/03-demands-and-practical-help-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 17774,
+          "sha256": "37efc66e520912a387ebc22bc7f9b21bb2d3bbcabf4b9630ef091c9b5f32bd85"
+        },
+        {
+          "path": "/images/learning/mental-health-covers/03-demands-and-practical-help-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 39202,
+          "sha256": "3b2db9d4f02ac36cbdd215ee7b4a63bed270d5be809d616b57a1a3368aa7e456"
+        },
+        {
+          "path": "/images/learning/mental-health-covers/03-demands-and-practical-help-1440.webp",
+          "width": 1440,
+          "height": 960,
+          "bytes": 61382,
+          "sha256": "2f58f7eba0ea5fb073b5776b8444908d383a554e2a871748c043f5a882f5f0ea"
+        }
+      ]
+    },
+    {
+      "id": "04-worry-and-a-calm-companion",
+      "slug": "understanding-anxiety-and-anxiety-disorders",
+      "message": "Everyday worry deserves understanding and respectful support without diagnosing from appearance.",
+      "scene": "Background pale lavender #f1edf7. A young adult Black man in deep purple trousers and soft-blue shirt sits on the left side of a simple bench outside a learning center, holding a closed folder on his lap with both hands. He looks concerned and uncertain, shoulders slightly raised but not distressed or panicking. A trusted young adult woman in a teal jacket sits at a comfortable distance on the right, turning toward him with a quiet listening expression and one open hand resting on her own knee. A simple open courtyard doorway and one plant anchor the ordinary setting. No touching without invitation, no clipboard or professional uniform, no diagnosed labels, no speech bubbles. Full bodies and feet visible, generous calm open space. Scene is a particular waiting moment, not the same home or table setting as other covers.",
+      "prompt": "Create one finished landscape 3:2 illustration (1536x1024) for a mental-health educational chapter cover, for general adult readers and older adolescents in Rwanda. Image 1 is STYLE REFERENCE ONLY: match its polished flat 2D editorial shapes, brown skin tones, restrained facial details and natural proportions, not its scene or character. Make this a mature publication illustration, warm and respectful, not a children's cartoon. Clean solid color shapes, minimal line accents, no textures or photographic effects. Palette deep purple #392653, lavender #b8a1df, golden yellow #edbb44, teal #245747, mint #cde7d5, soft blue #b6cee7. Black African people in contemporary everyday clothing and simple Rwanda-relevant settings without stereotypes. All characters fictional. Soft expressions appropriate to the scene, no compulsory smiles. Few purposeful objects, generous breathing room, all heads hands and feet fully within frame with 6% safe margins. Background solid very pale lavender #f1edf7, white, or pale mint #edf5ec as specified. Absolutely no text, letters, numbers, icons, symbols floating above heads, labels, diagrams, speech bubbles, watermarks, logos, diagnostic claims, medical props, distress stereotypes, or before/after transformation. Scene will be scaled intact on mobile. The image illustrates one possible everyday situation, never a diagnosis or cure.\nEducational message: Everyday worry deserves understanding and respectful support without diagnosing from appearance.\nScene: Background pale lavender #f1edf7. A young adult Black man in deep purple trousers and soft-blue shirt sits on the left side of a simple bench outside a learning center, holding a closed folder on his lap with both hands. He looks concerned and uncertain, shoulders slightly raised but not distressed or panicking. A trusted young adult woman in a teal jacket sits at a comfortable distance on the right, turning toward him with a quiet listening expression and one open hand resting on her own knee. A simple open courtyard doorway and one plant anchor the ordinary setting. No touching without invitation, no clipboard or professional uniform, no diagnosed labels, no speech bubbles. Full bodies and feet visible, generous calm open space. Scene is a particular waiting moment, not the same home or table setting as other covers.",
+      "generatedPath": "C:\\Users\\VUGANDAKUMVA\\.codex\\generated_images\\01a1c90c-3cc3-7773-aa31-a46e68f1cd22\\exec-6aefc97c-dff8-46a8-9087-a14577342217.png",
+      "original": "artifacts/mental-health-library-refresh/originals/04-worry-and-a-calm-companion.png",
+      "publicBase": "/images/learning/mental-health-covers/04-worry-and-a-calm-companion",
+      "aspectRatio": "3:2",
+      "purpose": "Informative supporting illustration; adjacent text carries essential educational meaning.",
+      "mobile": "Full composition, scaled without cropping.",
+      "review": "Reviewed anatomy, relevant action, non-diagnostic expression and style consistency.",
+      "reused": true,
+      "chapter": 4,
+      "originalWidth": 1536,
+      "originalHeight": 1024,
+      "originalSha256": "d7fba3f166ebce1254192aff0fcc89e3346cf13b0452de69c0ddddaf341a7253",
+      "styleReference": "artifacts/about-refresh/originals/reading-at-your-own-pace.png",
+      "format": "Raster PNG original; responsive raster WebP variants. Not editable vector artwork.",
+      "placement": "Why Mental Health library chapter card only",
+      "crop": "None; object-fit: contain",
+      "variants": [
+        {
+          "path": "/images/learning/mental-health-covers/04-worry-and-a-calm-companion-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 15084,
+          "sha256": "41ef79248c658d10e324d09bff89414cd73fec18848ca7bd877be8c08aaa3f01"
+        },
+        {
+          "path": "/images/learning/mental-health-covers/04-worry-and-a-calm-companion-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 33582,
+          "sha256": "6bb2545949b27859039a87e66565a5bcb30bbb550a24b50c1d27b55d8d5c476e"
+        },
+        {
+          "path": "/images/learning/mental-health-covers/04-worry-and-a-calm-companion-1440.webp",
+          "width": 1440,
+          "height": 960,
+          "bytes": 53138,
+          "sha256": "47fcdd06bf12929dba552cf4bbd7992d449b4a56a38eddb831ba929d5a2849e3"
+        }
+      ]
+    },
+    {
+      "id": "05-low-energy-and-quiet-company",
+      "slug": "understanding-depression-and-depressive-disorders",
+      "message": "Quiet presence and small offers of support can respect low energy and individual circumstances.",
+      "scene": "Background pale mint #edf5ec. At home, a Black African adult woman with short natural hair wearing a lavender cardigan sits on a simple sofa with feet resting on the floor, hands relaxed in her lap. Her expression is subdued and tired, looking gently downward, no tears, no smile and no exaggerated slump. A trusted adult woman in teal sits quietly on a separate chair a respectful distance away, angled slightly toward her but not demanding eye contact, hands resting naturally. A side table between them holds an untouched cup of water and a small bowl of food as practical offers, not treatment. One soft-blue window shape and a small folded blanket. Warm pale setting, not a dark room. Show gentle company without touch, forced activity, triumph or an instant recovery.",
+      "prompt": "Create one finished landscape 3:2 illustration (1536x1024) for a mental-health educational chapter cover, for general adult readers and older adolescents in Rwanda. Image 1 is STYLE REFERENCE ONLY: match its polished flat 2D editorial shapes, brown skin tones, restrained facial details and natural proportions, not its scene or character. Make this a mature publication illustration, warm and respectful, not a children's cartoon. Clean solid color shapes, minimal line accents, no textures or photographic effects. Palette deep purple #392653, lavender #b8a1df, golden yellow #edbb44, teal #245747, mint #cde7d5, soft blue #b6cee7. Black African people in contemporary everyday clothing and simple Rwanda-relevant settings without stereotypes. All characters fictional. Soft expressions appropriate to the scene, no compulsory smiles. Few purposeful objects, generous breathing room, all heads hands and feet fully within frame with 6% safe margins. Background solid very pale lavender #f1edf7, white, or pale mint #edf5ec as specified. Absolutely no text, letters, numbers, icons, symbols floating above heads, labels, diagrams, speech bubbles, watermarks, logos, diagnostic claims, medical props, distress stereotypes, or before/after transformation. Scene will be scaled intact on mobile. The image illustrates one possible everyday situation, never a diagnosis or cure.\nEducational message: Quiet presence and small offers of support can respect low energy and individual circumstances.\nScene: Background pale mint #edf5ec. At home, a Black African adult woman with short natural hair wearing a lavender cardigan sits on a simple sofa with feet resting on the floor, hands relaxed in her lap. Her expression is subdued and tired, looking gently downward, no tears, no smile and no exaggerated slump. A trusted adult woman in teal sits quietly on a separate chair a respectful distance away, angled slightly toward her but not demanding eye contact, hands resting naturally. A side table between them holds an untouched cup of water and a small bowl of food as practical offers, not treatment. One soft-blue window shape and a small folded blanket. Warm pale setting, not a dark room. Show gentle company without touch, forced activity, triumph or an instant recovery.",
+      "generatedPath": "C:\\Users\\VUGANDAKUMVA\\.codex\\generated_images\\01a1c90c-3cc3-7773-aa31-a46e68f1cd22\\exec-74297114-aa4f-43de-be54-305f66e8dc40.png",
+      "original": "artifacts/mental-health-library-refresh/originals/05-low-energy-and-quiet-company.png",
+      "publicBase": "/images/learning/mental-health-covers/05-low-energy-and-quiet-company",
+      "aspectRatio": "3:2",
+      "purpose": "Informative supporting illustration; adjacent text carries essential educational meaning.",
+      "mobile": "Full composition, scaled without cropping.",
+      "review": "Reviewed anatomy, relevant action, non-diagnostic expression and style consistency.",
+      "reused": true,
+      "chapter": 5,
+      "originalWidth": 1536,
+      "originalHeight": 1024,
+      "originalSha256": "e4a38a370178f8200dccf5bab27bf818e2cc97fc68ab49a27b612d87480627ee",
+      "styleReference": "artifacts/about-refresh/originals/reading-at-your-own-pace.png",
+      "format": "Raster PNG original; responsive raster WebP variants. Not editable vector artwork.",
+      "placement": "Why Mental Health library chapter card only",
+      "crop": "None; object-fit: contain",
+      "variants": [
+        {
+          "path": "/images/learning/mental-health-covers/05-low-energy-and-quiet-company-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 15230,
+          "sha256": "d874cd5f5f5bb66a25ace514aeb80105eeaca04d7dfb5b721262607b1b19fb5c"
+        },
+        {
+          "path": "/images/learning/mental-health-covers/05-low-energy-and-quiet-company-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 34100,
+          "sha256": "c077a6e69baf613b6228c8c6e821f794a163eef5a3f50b1aff5bb75e7b202e14"
+        },
+        {
+          "path": "/images/learning/mental-health-covers/05-low-energy-and-quiet-company-1440.webp",
+          "width": 1440,
+          "height": 960,
+          "bytes": 53478,
+          "sha256": "3b7c4a7344701fc4724b42315d80fbbe2af4ac69e3a21ccf9954ca2e179ed313"
+        }
+      ]
+    },
+    {
+      "id": "06-space-choice-and-support",
+      "slug": "understanding-trauma-and-post-traumatic-stress",
+      "message": "Safety, choice, personal space and voluntary access to support matter; no pressure to disclose.",
+      "scene": "Background pale lavender #f1edf7. A calm, uncluttered community room with an open doorway to a quiet courtyard. A Black African adult woman in a lavender blouse sits comfortably on one chair near the doorway, one foot slightly forward, alert but calm. Her hands rest on her lap and her posture is self-directed. A trusted adult companion in a teal shirt sits farther away on a second chair, leaving a generous clear gap and an unobstructed path to the doorway. The companion listens with an open relaxed posture, no reaching, no touching. An additional empty chair beside a window suggests the visitor may choose where to sit. One small plant and a glass of water on a low table at the edge; no barriers. The central subject has agency and access to leave. No traumatic incident, no shadows of aggressors, no broken objects, no chains, locks, shields, cages, warning signs, graphic imagery or distressed cowering.",
+      "prompt": "Create one finished landscape 3:2 illustration (1536x1024) for a mental-health educational chapter cover, for general adult readers and older adolescents in Rwanda. Image 1 is STYLE REFERENCE ONLY: match its polished flat 2D editorial shapes, brown skin tones, restrained facial details and natural proportions, not its scene or character. Make this a mature publication illustration, warm and respectful, not a children's cartoon. Clean solid color shapes, minimal line accents, no textures or photographic effects. Palette deep purple #392653, lavender #b8a1df, golden yellow #edbb44, teal #245747, mint #cde7d5, soft blue #b6cee7. Black African people in contemporary everyday clothing and simple Rwanda-relevant settings without stereotypes. All characters fictional. Soft expressions appropriate to the scene, no compulsory smiles. Few purposeful objects, generous breathing room, all heads hands and feet fully within frame with 6% safe margins. Background solid very pale lavender #f1edf7, white, or pale mint #edf5ec as specified. Absolutely no text, letters, numbers, icons, symbols floating above heads, labels, diagrams, speech bubbles, watermarks, logos, diagnostic claims, medical props, distress stereotypes, or before/after transformation. Scene will be scaled intact on mobile. The image illustrates one possible everyday situation, never a diagnosis or cure.\nEducational message: Safety, choice, personal space and voluntary access to support matter; no pressure to disclose.\nScene: Background pale lavender #f1edf7. A calm, uncluttered community room with an open doorway to a quiet courtyard. A Black African adult woman in a lavender blouse sits comfortably on one chair near the doorway, one foot slightly forward, alert but calm. Her hands rest on her lap and her posture is self-directed. A trusted adult companion in a teal shirt sits farther away on a second chair, leaving a generous clear gap and an unobstructed path to the doorway. The companion listens with an open relaxed posture, no reaching, no touching. An additional empty chair beside a window suggests the visitor may choose where to sit. One small plant and a glass of water on a low table at the edge; no barriers. The central subject has agency and access to leave. No traumatic incident, no shadows of aggressors, no broken objects, no chains, locks, shields, cages, warning signs, graphic imagery or distressed cowering.",
+      "generatedPath": "C:\\Users\\VUGANDAKUMVA\\.codex\\generated_images\\01a1c90c-3cc3-7773-aa31-a46e68f1cd22\\exec-2120a5f2-73ff-4df5-8b98-ba9b0c254e82.png",
+      "original": "artifacts/mental-health-library-refresh/originals/06-space-choice-and-support.png",
+      "publicBase": "/images/learning/mental-health-covers/06-space-choice-and-support",
+      "aspectRatio": "3:2",
+      "purpose": "Informative supporting illustration; adjacent text carries essential educational meaning.",
+      "mobile": "Full composition, scaled without cropping.",
+      "review": "Reviewed anatomy, relevant action, non-diagnostic expression and style consistency.",
+      "reused": true,
+      "chapter": 6,
+      "originalWidth": 1536,
+      "originalHeight": 1024,
+      "originalSha256": "2b0389a58dcaf3eea681c331e853fb1cf89158574a11564abc15cf3965780f77",
+      "styleReference": "artifacts/about-refresh/originals/reading-at-your-own-pace.png",
+      "format": "Raster PNG original; responsive raster WebP variants. Not editable vector artwork.",
+      "placement": "Why Mental Health library chapter card only",
+      "crop": "None; object-fit: contain",
+      "variants": [
+        {
+          "path": "/images/learning/mental-health-covers/06-space-choice-and-support-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 14802,
+          "sha256": "198b27e2d28d1a05b1513aef7720e316321ed9b5afa4362b0e8046f554a94c12"
+        },
+        {
+          "path": "/images/learning/mental-health-covers/06-space-choice-and-support-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 33118,
+          "sha256": "0fe932687f07c81b223ae8d61a8d2970d11ee017b34d0e8ca622ce02241f4e4e"
+        },
+        {
+          "path": "/images/learning/mental-health-covers/06-space-choice-and-support-1440.webp",
+          "width": 1440,
+          "height": 960,
+          "bytes": 52348,
+          "sha256": "f0968c635c22a7080fcf115a94aef0b2488e071c8d2a612357636fff0c3346df"
+        }
+      ]
+    },
+    {
+      "id": "07-loss-and-gentle-company",
+      "slug": "understanding-grief-loss-and-emotional-adjustment",
+      "message": "Leaving a familiar place is one form of loss; grief has no compulsory stages or universal timeline.",
+      "scene": "Background pale mint #edf5ec. A Black African adult man in a soft-blue shirt sits on a low bench beside the open doorway of a familiar modest home. Two small unlabelled packed boxes and a suitcase indicate leaving a familiar place and community, a non-death loss. He holds a small framed picture of a simple house and tree on his lap (no portrait, no text), reflecting with a quiet sad, thoughtful expression. An adult woman friend in a lavender top sits at a respectful distance beside him, gently present, with one hand resting on a packed box ready to help carry it when he chooses. No pressure to act. No smiles of resolution, no grave, candles, flowers, funeral symbols, religious symbols, clocks, stages, timelines, arrows or promise to move on. Full figures visible, gentle grounded composition, plenty of open space, no abandonment imagery.",
+      "prompt": "Create one finished landscape 3:2 illustration (1536x1024) for a mental-health educational chapter cover, for general adult readers and older adolescents in Rwanda. Image 1 is STYLE REFERENCE ONLY: match its polished flat 2D editorial shapes, brown skin tones, restrained facial details and natural proportions, not its scene or character. Make this a mature publication illustration, warm and respectful, not a children's cartoon. Clean solid color shapes, minimal line accents, no textures or photographic effects. Palette deep purple #392653, lavender #b8a1df, golden yellow #edbb44, teal #245747, mint #cde7d5, soft blue #b6cee7. Black African people in contemporary everyday clothing and simple Rwanda-relevant settings without stereotypes. All characters fictional. Soft expressions appropriate to the scene, no compulsory smiles. Few purposeful objects, generous breathing room, all heads hands and feet fully within frame with 6% safe margins. Background solid very pale lavender #f1edf7, white, or pale mint #edf5ec as specified. Absolutely no text, letters, numbers, icons, symbols floating above heads, labels, diagrams, speech bubbles, watermarks, logos, diagnostic claims, medical props, distress stereotypes, or before/after transformation. Scene will be scaled intact on mobile. The image illustrates one possible everyday situation, never a diagnosis or cure.\nEducational message: Leaving a familiar place is one form of loss; grief has no compulsory stages or universal timeline.\nScene: Background pale mint #edf5ec. A Black African adult man in a soft-blue shirt sits on a low bench beside the open doorway of a familiar modest home. Two small unlabelled packed boxes and a suitcase indicate leaving a familiar place and community, a non-death loss. He holds a small framed picture of a simple house and tree on his lap (no portrait, no text), reflecting with a quiet sad, thoughtful expression. An adult woman friend in a lavender top sits at a respectful distance beside him, gently present, with one hand resting on a packed box ready to help carry it when he chooses. No pressure to act. No smiles of resolution, no grave, candles, flowers, funeral symbols, religious symbols, clocks, stages, timelines, arrows or promise to move on. Full figures visible, gentle grounded composition, plenty of open space, no abandonment imagery.",
+      "generatedPath": "C:\\Users\\VUGANDAKUMVA\\.codex\\generated_images\\01a1c90c-3cc3-7773-aa31-a46e68f1cd22\\exec-66d0549b-645e-48bc-bd9e-5810755cb1b1.png",
+      "original": "artifacts/mental-health-library-refresh/originals/07-loss-and-gentle-company-v2.png",
+      "refinement": {
+        "prompt": "Edit this chapter-cover illustration with ONE small change: the seated man's facial expression should be quietly reflective and sad, with a relaxed neutral to very slightly downturned mouth, no smile, and gently concerned brows. He is reflecting on leaving a familiar home, not showing resolution or recovery. Avoid exaggerated distress or tears. Preserve everything else exactly: same two characters, faces and hairstyles apart from this expression, skin tones, clothing, pose, picture of a house, suitcase, boxes, setting, palette, flat illustration style, 3:2 framing, and every prop. Do not add any text, icons or other elements.",
+        "previousOriginal": "artifacts/mental-health-library-refresh/originals/07-loss-and-gentle-company.png",
+        "review": "Accepted: neutral, quietly sad expression; pose, props and composition preserved."
+      },
+      "publicBase": "/images/learning/mental-health-covers/07-loss-and-gentle-company",
+      "aspectRatio": "3:2",
+      "purpose": "Informative supporting illustration; adjacent text carries essential educational meaning.",
+      "mobile": "Full composition, scaled without cropping.",
+      "review": "Reviewed anatomy, relevant action, non-diagnostic expression and style consistency.",
+      "reused": true,
+      "chapter": 7,
+      "originalWidth": 1536,
+      "originalHeight": 1024,
+      "originalSha256": "b8f5779983953158ab2154f2001c806ced77f9e878028c1b261fd8ecf9e666ab",
+      "styleReference": "artifacts/about-refresh/originals/reading-at-your-own-pace.png",
+      "format": "Raster PNG original; responsive raster WebP variants. Not editable vector artwork.",
+      "placement": "Why Mental Health library chapter card only",
+      "crop": "None; object-fit: contain",
+      "variants": [
+        {
+          "path": "/images/learning/mental-health-covers/07-loss-and-gentle-company-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 19590,
+          "sha256": "222d3c78c2b4ff01c33da6f7d0019b95deeb7eeb32b673d929c51939e7e8c776"
+        },
+        {
+          "path": "/images/learning/mental-health-covers/07-loss-and-gentle-company-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 43294,
+          "sha256": "3198f6180e737c51c18f1fb8c8fdbdf27cd0d04a9febbaa16a059ab23da4ce2c"
+        },
+        {
+          "path": "/images/learning/mental-health-covers/07-loss-and-gentle-company-1440.webp",
+          "width": 1440,
+          "height": 960,
+          "bytes": 68862,
+          "sha256": "a00dcc10a83d7a474e412dde2ea50f94cb48cdec81404d6b61a6efcd617512b0"
+        }
+      ]
+    },
+    {
+      "id": "08-evening-and-rest",
+      "chapter": 8,
+      "slug": "understanding-sleep-and-mental-wellbeing",
+      "message": "Sleep happens within daily rhythms and real living circumstances; an evening routine is an option, not a guaranteed solution.",
+      "audience": "Adults and older adolescents",
+      "scene": "Background pale lavender #f1edf7. A quiet evening in a modest contemporary home. A young adult Black African woman with short natural hair wearing a lavender long-sleeved top and deep purple loose trousers sits on the side of a neatly made simple bed. She places a closed plain book on a small bedside table beside a soft golden-yellow shaded lamp; a plain phone lies face-down well away from the bed on a small desk with a closed work bag below, suggesting everyday responsibilities. Both feet rest naturally on the floor. She looks thoughtful and winding down, not already asleep or magically serene. A window shows deep soft-blue dusk and a distant rounded hill, with mint curtains partially open. Use a spacious asymmetrical composition: person and bed on left-center, window and simple desk at right. No ticking clocks, sleep charts, medication, supplements, medical devices, caffeine, text, or message of perfect sleep. No forced sleep or distressed pose. Gentle flat color blocks; clear bedding and furniture geometry; modest ordinary room with breathing room.",
+      "prompt": "Use case: illustration-story. Create one finished landscape 3:2 raster illustration (1536 x 1024) for a mental-health chapter cover. The supplied image is STYLE REFERENCE ONLY: match its polished flat 2D editorial shapes, brown skin tones, restrained facial details and natural adult proportions; do not repeat its characters or scene. Palette deep purple #392653, lavender #b8a1df, golden yellow #edbb44, teal #245747, mint #cde7d5, soft blue #b6cee7. Black African people, contemporary everyday clothing, modest Rwanda-relevant settings without stereotypes. Clean solid shapes, restrained details, no photographic textures, no 3D effects. This is a mature educational publication. All people are fictional. Use natural expressions, no compulsory smiles. Purposeful props only. Keep heads, hands and feet fully within the frame and important actions inside 7% safe margins. The image will scale intact on mobile. No text, letters, numbers, labels, speech bubbles, logos, watermark, diagnosis symbols, floating icons or before-and-after transformation. Background as specified.\nEducational message: Sleep happens within daily rhythms and real living circumstances; an evening routine is an option, not a guaranteed solution.\nAudience: Adults and older adolescents.\nScene: Background pale lavender #f1edf7. A quiet evening in a modest contemporary home. A young adult Black African woman with short natural hair wearing a lavender long-sleeved top and deep purple loose trousers sits on the side of a neatly made simple bed. She places a closed plain book on a small bedside table beside a soft golden-yellow shaded lamp; a plain phone lies face-down well away from the bed on a small desk with a closed work bag below, suggesting everyday responsibilities. Both feet rest naturally on the floor. She looks thoughtful and winding down, not already asleep or magically serene. A window shows deep soft-blue dusk and a distant rounded hill, with mint curtains partially open. Use a spacious asymmetrical composition: person and bed on left-center, window and simple desk at right. No ticking clocks, sleep charts, medication, supplements, medical devices, caffeine, text, or message of perfect sleep. No forced sleep or distressed pose. Gentle flat color blocks; clear bedding and furniture geometry; modest ordinary room with breathing room.",
+      "original": "artifacts/mental-health-library-ten/originals/08-evening-and-rest.png",
+      "generatedPath": "C:/Users/VUGANDAKUMVA/.codex/generated_images/01a1ba7b-465d-7752-a789-c3dd761b29b7/exec-58c19625-2f32-4d1c-a493-9238cc3f101d.png",
+      "styleReference": "public/images/learning/mental-health-covers/01-everyday-connections-960.webp",
+      "reused": false,
+      "review": "Reviewed: clear dusk and rest context, neutral expression, complete limbs and ordinary furniture. The scene suggests one optional evening moment, not guaranteed sleep or treatment. Full scene remains visible on mobile.",
+      "originalWidth": 1536,
+      "originalHeight": 1024,
+      "originalSha256": "b20133b047c80b46ed8ff578e079a5d1a3ecd3d7b3bed17b2ea01fdce48b1050",
+      "format": "Raster PNG original; responsive raster WebP variants. Not editable vector artwork.",
+      "placement": "Why Mental Health library chapter card only",
+      "aspectRatio": "3:2",
+      "crop": "None; object-fit: contain",
+      "variants": [
+        {
+          "path": "/images/learning/mental-health-covers/08-evening-and-rest-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 13194,
+          "sha256": "343c4bf936669db68081af57e4a215b993a69d93cca3813983084239e12e4308"
+        },
+        {
+          "path": "/images/learning/mental-health-covers/08-evening-and-rest-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 29496,
+          "sha256": "56d8ba7dac2bd273e10a229e9f4de0fc527ad74477cb763c00810773ccb22c12"
+        },
+        {
+          "path": "/images/learning/mental-health-covers/08-evening-and-rest-1440.webp",
+          "width": 1440,
+          "height": 960,
+          "bytes": 47516,
+          "sha256": "79e61346a145ed8b406d2f99dc8122b42d8a459c531f73a4d1b987f23cc8edd1"
+        }
+      ]
+    },
+    {
+      "id": "09-connection-and-boundaries",
+      "chapter": 9,
+      "slug": "relationships-social-connection-and-mental-wellbeing",
+      "message": "Meaningful connection involves listening, choice and respectful boundaries, not constant closeness or pressure to disclose.",
+      "audience": "Adults and older adolescents",
+      "scene": "Background pale mint #edf5ec. Two Black African young adult friends in a modest community courtyard beside a low garden wall and simple community-building entrance. One woman with short natural hair wears a teal top and deep purple trousers; she is seated on a low bench, calmly speaking with one open relaxed hand. A male friend with short curled hair, wearing a golden-yellow top and purple trousers, sits on a separate stool at a comfortable distance, feet grounded, listening attentively without touching, leaning into her space, or instructing. Keep a broad clearly visible open gap between them and a clear path to leave. One closed notebook on the bench and a single simple potted plant suggest a familiar everyday meeting place. The speaker's expression is thoughtful, the listener's receptive, not exaggerated sadness or compulsory happiness. Composition feels like an ordinary peer conversation, not therapy, romance or a counseling room. Wide balanced framing, full bodies, clean architectural blocks with a soft-blue window. No clasped hands, embrace, heart symbols, chains, diagnostic signs, speech bubbles, text, or portrayal of someone being fixed.",
+      "prompt": "Use case: illustration-story. Create one finished landscape 3:2 raster illustration (1536 x 1024) for a mental-health chapter cover. The supplied image is STYLE REFERENCE ONLY: match its polished flat 2D editorial shapes, brown skin tones, restrained facial details and natural adult proportions; do not repeat its characters or scene. Palette deep purple #392653, lavender #b8a1df, golden yellow #edbb44, teal #245747, mint #cde7d5, soft blue #b6cee7. Black African people, contemporary everyday clothing, modest Rwanda-relevant settings without stereotypes. Clean solid shapes, restrained details, no photographic textures, no 3D effects. This is a mature educational publication. All people are fictional. Use natural expressions, no compulsory smiles. Purposeful props only. Keep heads, hands and feet fully within the frame and important actions inside 7% safe margins. The image will scale intact on mobile. No text, letters, numbers, labels, speech bubbles, logos, watermark, diagnosis symbols, floating icons or before-and-after transformation. Background as specified.\nEducational message: Meaningful connection involves listening, choice and respectful boundaries, not constant closeness or pressure to disclose.\nAudience: Adults and older adolescents.\nScene: Background pale mint #edf5ec. Two Black African young adult friends in a modest community courtyard beside a low garden wall and simple community-building entrance. One woman with short natural hair wears a teal top and deep purple trousers; she is seated on a low bench, calmly speaking with one open relaxed hand. A male friend with short curled hair, wearing a golden-yellow top and purple trousers, sits on a separate stool at a comfortable distance, feet grounded, listening attentively without touching, leaning into her space, or instructing. Keep a broad clearly visible open gap between them and a clear path to leave. One closed notebook on the bench and a single simple potted plant suggest a familiar everyday meeting place. The speaker's expression is thoughtful, the listener's receptive, not exaggerated sadness or compulsory happiness. Composition feels like an ordinary peer conversation, not therapy, romance or a counseling room. Wide balanced framing, full bodies, clean architectural blocks with a soft-blue window. No clasped hands, embrace, heart symbols, chains, diagnostic signs, speech bubbles, text, or portrayal of someone being fixed.",
+      "original": "artifacts/mental-health-library-ten/originals/09-connection-and-boundaries.png",
+      "generatedPath": "C:/Users/VUGANDAKUMVA/.codex/generated_images/01a1ba7b-465d-7752-a789-c3dd761b29b7/exec-6aebe1f4-2a7f-4104-9247-7f24a0852f96.png",
+      "styleReference": "public/images/learning/mental-health-covers/01-everyday-connections-960.webp",
+      "reused": false,
+      "review": "Reviewed: two adult peers, attentive expressions, clear personal space, purposeful open gesture and no intrusive touch. Connection is voluntary, not a claim that every relationship is protective. Full scene remains visible on mobile.",
+      "originalWidth": 1536,
+      "originalHeight": 1024,
+      "originalSha256": "4aa71e23ba73646c51ee7a0ec60b475fba68efb3005ee38a32981cbc36e42f50",
+      "format": "Raster PNG original; responsive raster WebP variants. Not editable vector artwork.",
+      "placement": "Why Mental Health library chapter card only",
+      "aspectRatio": "3:2",
+      "crop": "None; object-fit: contain",
+      "variants": [
+        {
+          "path": "/images/learning/mental-health-covers/09-connection-and-boundaries-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 17852,
+          "sha256": "bf064a7606cf8e02f4bab5696e67e08d6f091d12498c8678b34961f0968fc544"
+        },
+        {
+          "path": "/images/learning/mental-health-covers/09-connection-and-boundaries-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 40174,
+          "sha256": "0cfc488931965ef0db1fff69e31dfea2f74cc3a742503337d8b50e353c5a77aa"
+        },
+        {
+          "path": "/images/learning/mental-health-covers/09-connection-and-boundaries-1440.webp",
+          "width": 1440,
+          "height": 960,
+          "bytes": 63652,
+          "sha256": "12af236b56157d491a081a21e3a41faa12a5ffc4f02152a680e27826a0ac127f"
+        }
+      ]
+    },
+    {
+      "id": "10-young-people-and-trusted-adults",
+      "chapter": 10,
+      "slug": "child-and-adolescent-mental-health",
+      "message": "Children and adolescents have different developmental needs; caring adults provide attentive listening and supportive environments.",
+      "audience": "Caregivers, educators, young readers and general adult readers",
+      "scene": "Background soft pale lavender #f1edf7. A welcoming shaded school or community learning courtyard in Rwanda, one coherent wide scene showing two age-appropriate interactions, exactly four Black African people. Left: a clearly primary-school-aged child, about 8, wearing a golden-yellow T-shirt and blue shorts, sits at a small low table drawing on plain paper; an adult male caregiver in a teal shirt sits beside the table at the child's eye level, listening attentively without correcting, pointing or taking the child's drawing. Right: a clearly adolescent girl about 16 with braided hair, lavender top, deep-purple trousers and a simple backpack beside her, sits on a bench talking with an adult woman educator wearing a soft-blue blouse and teal skirt seated on a separate chair at a respectful distance. Expressions calm, thoughtful and engaged; the adolescent has space to choose whether to talk. One open doorway and a simple mint wall, one plant, no crowded classroom. Distinguish ages through stature and proportions. All four full bodies and clear hands in frame; no decorative extra people. Adults visibly attentive and responsible for support. No bullying, violence, humiliating reenactment, compulsory touch, diagnostic stereotypes, hospital props, speech bubbles, text or forced cheerful transformation.",
+      "prompt": "Use case: illustration-story. Create one finished landscape 3:2 raster illustration (1536 x 1024) for a mental-health chapter cover. The supplied image is STYLE REFERENCE ONLY: match its polished flat 2D editorial shapes, brown skin tones, restrained facial details and natural adult proportions; do not repeat its characters or scene. Palette deep purple #392653, lavender #b8a1df, golden yellow #edbb44, teal #245747, mint #cde7d5, soft blue #b6cee7. Black African people, contemporary everyday clothing, modest Rwanda-relevant settings without stereotypes. Clean solid shapes, restrained details, no photographic textures, no 3D effects. This is a mature educational publication. All people are fictional. Use natural expressions, no compulsory smiles. Purposeful props only. Keep heads, hands and feet fully within the frame and important actions inside 7% safe margins. The image will scale intact on mobile. No text, letters, numbers, labels, speech bubbles, logos, watermark, diagnosis symbols, floating icons or before-and-after transformation. Background as specified.\nEducational message: Children and adolescents have different developmental needs; caring adults provide attentive listening and supportive environments.\nAudience: Caregivers, educators, young readers and general adult readers.\nScene: Background soft pale lavender #f1edf7. A welcoming shaded school or community learning courtyard in Rwanda, one coherent wide scene showing two age-appropriate interactions, exactly four Black African people. Left: a clearly primary-school-aged child, about 8, wearing a golden-yellow T-shirt and blue shorts, sits at a small low table drawing on plain paper; an adult male caregiver in a teal shirt sits beside the table at the child's eye level, listening attentively without correcting, pointing or taking the child's drawing. Right: a clearly adolescent girl about 16 with braided hair, lavender top, deep-purple trousers and a simple backpack beside her, sits on a bench talking with an adult woman educator wearing a soft-blue blouse and teal skirt seated on a separate chair at a respectful distance. Expressions calm, thoughtful and engaged; the adolescent has space to choose whether to talk. One open doorway and a simple mint wall, one plant, no crowded classroom. Distinguish ages through stature and proportions. All four full bodies and clear hands in frame; no decorative extra people. Adults visibly attentive and responsible for support. No bullying, violence, humiliating reenactment, compulsory touch, diagnostic stereotypes, hospital props, speech bubbles, text or forced cheerful transformation.",
+      "original": "artifacts/mental-health-library-ten/originals/10-young-people-and-trusted-adults.png",
+      "generatedPath": "C:/Users/VUGANDAKUMVA/.codex/generated_images/01a1ba7b-465d-7752-a789-c3dd761b29b7/exec-836e64ee-5660-490e-adec-41142d0fc601.png",
+      "styleReference": "public/images/learning/mental-health-covers/01-everyday-connections-960.webp",
+      "reused": false,
+      "review": "Reviewed: a primary-school-aged child, adolescent, caregiver and educator are visually distinct. Adults listen at appropriate levels; both interactions retain personal space. No harm, diagnosis, reenactment or responsibility placed on children. Full scene remains visible on mobile.",
+      "originalWidth": 1536,
+      "originalHeight": 1024,
+      "originalSha256": "96cb25c55474604a2a053a47761b1753ea8fb51ff35f18d4ac57e068dab446ae",
+      "format": "Raster PNG original; responsive raster WebP variants. Not editable vector artwork.",
+      "placement": "Why Mental Health library chapter card only",
+      "aspectRatio": "3:2",
+      "crop": "None; object-fit: contain",
+      "variants": [
+        {
+          "path": "/images/learning/mental-health-covers/10-young-people-and-trusted-adults-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 20984,
+          "sha256": "408e92d822796919cece1847e2335c4708ef064f71f8f9dd2362738de87c5dac"
+        },
+        {
+          "path": "/images/learning/mental-health-covers/10-young-people-and-trusted-adults-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 47624,
+          "sha256": "72bc327472ae0d94af37d72df8276dfbec5b9b032c16ef1177c8a4608bf4079d"
+        },
+        {
+          "path": "/images/learning/mental-health-covers/10-young-people-and-trusted-adults-1440.webp",
+          "width": 1440,
+          "height": 960,
+          "bytes": 76690,
+          "sha256": "d830047ce17bd077854ac4faeea9d371bed06aa2b401a3adcf5d828c66eb141e"
+        }
+      ]
+    }
+  ]
+}

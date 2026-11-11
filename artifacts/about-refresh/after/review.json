@@ -1,0 +1,488 @@
+{
+  "layouts": [
+    {
+      "width": 320,
+      "overflow": false,
+      "h1Count": 1,
+      "images": [
+        {
+          "src": "http://localhost:5173/images/about/listening-together-480.webp",
+          "alt": "Illustration of a Black African child, adults, and an older woman listening to one another in a courtyard.",
+          "loaded": true,
+          "reserved": true,
+          "ratioError": 0,
+          "objectFit": "contain"
+        },
+        {
+          "src": "http://localhost:5173/images/about/reading-at-your-own-pace-480.webp",
+          "alt": "",
+          "loaded": true,
+          "reserved": true,
+          "ratioError": 0,
+          "objectFit": "contain"
+        }
+      ],
+      "headingLevels": [
+        1,
+        2,
+        3,
+        3,
+        3,
+        2,
+        3,
+        3,
+        3,
+        3,
+        2,
+        2
+      ]
+    },
+    {
+      "width": 375,
+      "overflow": false,
+      "h1Count": 1,
+      "images": [
+        {
+          "src": "http://localhost:5173/images/about/listening-together-480.webp",
+          "alt": "Illustration of a Black African child, adults, and an older woman listening to one another in a courtyard.",
+          "loaded": true,
+          "reserved": true,
+          "ratioError": 0.007640111882316392,
+          "objectFit": "contain"
+        },
+        {
+          "src": "http://localhost:5173/images/about/reading-at-your-own-pace-480.webp",
+          "alt": "",
+          "loaded": true,
+          "reserved": true,
+          "ratioError": 0,
+          "objectFit": "contain"
+        }
+      ],
+      "headingLevels": [
+        1,
+        2,
+        3,
+        3,
+        3,
+        2,
+        3,
+        3,
+        3,
+        3,
+        2,
+        2
+      ]
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "h1Count": 1,
+      "images": [
+        {
+          "src": "http://localhost:5173/images/about/listening-together-960.webp",
+          "alt": "Illustration of a Black African child, adults, and an older woman listening to one another in a courtyard.",
+          "loaded": true,
+          "reserved": true,
+          "ratioError": 0.00002862065609976483,
+          "objectFit": "contain"
+        },
+        {
+          "src": "http://localhost:5173/images/about/reading-at-your-own-pace-960.webp",
+          "alt": "",
+          "loaded": true,
+          "reserved": true,
+          "ratioError": 0.0007002801120448154,
+          "objectFit": "contain"
+        }
+      ],
+      "headingLevels": [
+        1,
+        2,
+        3,
+        3,
+        3,
+        2,
+        3,
+        3,
+        3,
+        3,
+        2,
+        2
+      ]
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "h1Count": 1,
+      "images": [
+        {
+          "src": "http://localhost:5173/images/about/listening-together-480.webp",
+          "alt": "Illustration of a Black African child, adults, and an older woman listening to one another in a courtyard.",
+          "loaded": true,
+          "reserved": true,
+          "ratioError": 0.00003424383896244443,
+          "objectFit": "contain"
+        },
+        {
+          "src": "http://localhost:5173/images/about/reading-at-your-own-pace-480.webp",
+          "alt": "",
+          "loaded": true,
+          "reserved": true,
+          "ratioError": 0.0010416666666668295,
+          "objectFit": "contain"
+        }
+      ],
+      "headingLevels": [
+        1,
+        2,
+        3,
+        3,
+        3,
+        2,
+        3,
+        3,
+        3,
+        3,
+        2,
+        2
+      ]
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "h1Count": 1,
+      "images": [
+        {
+          "src": "http://localhost:5173/images/about/listening-together-960.webp",
+          "alt": "Illustration of a Black African child, adults, and an older woman listening to one another in a courtyard.",
+          "loaded": true,
+          "reserved": true,
+          "ratioError": 0.0024630541871921707,
+          "objectFit": "contain"
+        },
+        {
+          "src": "http://localhost:5173/images/about/reading-at-your-own-pace-960.webp",
+          "alt": "",
+          "loaded": true,
+          "reserved": true,
+          "ratioError": 0.0007769665243144708,
+          "objectFit": "contain"
+        }
+      ],
+      "headingLevels": [
+        1,
+        2,
+        3,
+        3,
+        3,
+        2,
+        3,
+        3,
+        3,
+        3,
+        2,
+        2
+      ]
+    },
+    {
+      "width": 1920,
+      "overflow": false,
+      "h1Count": 1,
+      "images": [
+        {
+          "src": "http://localhost:5173/images/about/listening-together-960.webp",
+          "alt": "Illustration of a Black African child, adults, and an older woman listening to one another in a courtyard.",
+          "loaded": true,
+          "reserved": true,
+          "ratioError": 0.0024630541871921707,
+          "objectFit": "contain"
+        },
+        {
+          "src": "http://localhost:5173/images/about/reading-at-your-own-pace-960.webp",
+          "alt": "",
+          "loaded": true,
+          "reserved": true,
+          "ratioError": 0.0007769665243144708,
+          "objectFit": "contain"
+        }
+      ],
+      "headingLevels": [
+        1,
+        2,
+        3,
+        3,
+        3,
+        2,
+        3,
+        3,
+        3,
+        3,
+        2,
+        2
+      ]
+    }
+  ],
+  "interactions": [
+    "Skip to content works at 375px",
+    "Mobile menu opens, indicates About Us, and closes with Escape",
+    "375px: /support via keyboard",
+    "375px: /knowledge-hub via keyboard",
+    "375px: /mental-health via keyboard",
+    "375px: /understand-gbv via keyboard",
+    "375px: /alcohol-and-drugs via keyboard",
+    "375px: /#our-work via keyboard",
+    "375px: /privacy via keyboard",
+    "375px: /support via keyboard",
+    "Skip to content works at 1440px",
+    "1440px: /support via keyboard",
+    "1440px: /knowledge-hub via keyboard",
+    "1440px: /mental-health via keyboard",
+    "1440px: /understand-gbv via keyboard",
+    "1440px: /alcohol-and-drugs via keyboard",
+    "1440px: /#our-work via keyboard",
+    "1440px: /privacy via keyboard",
+    "1440px: /support via keyboard"
+  ],
+  "contrast": [
+    {
+      "text": "ABOUT US",
+      "ratio": 5.09,
+      "required": 4.5
+    },
+    {
+      "text": "Understanding starts with listening.",
+      "ratio": 11.55,
+      "required": 3
+    },
+    {
+      "text": "listening.",
+      "ratio": 6.04,
+      "required": 3
+    },
+    {
+      "text": "Everyone deserves to be heard. We make information about well-bei",
+      "ratio": 6.26,
+      "required": 4.5
+    },
+    {
+      "text": "Find your starting point",
+      "ratio": 8.88,
+      "required": 4.5
+    },
+    {
+      "text": "Explore the Knowledge Hub",
+      "ratio": 8.31,
+      "required": 4.5
+    },
+    {
+      "text": "A little understanding. A stronger connection.",
+      "ratio": 6.04,
+      "required": 4.5
+    },
+    {
+      "text": "OUR PURPOSE",
+      "ratio": 5.87,
+      "required": 4.5
+    },
+    {
+      "text": "Clear information.A place to begin.",
+      "ratio": 11.74,
+      "required": 3
+    },
+    {
+      "text": "Whether you are looking for yourself or someone you care about, t",
+      "ratio": 6.58,
+      "required": 4.5
+    },
+    {
+      "text": "Mental health",
+      "ratio": 10.88,
+      "required": 4.5
+    },
+    {
+      "text": "Understand emotions, everyday challenges, and ways to care for yo",
+      "ratio": 6.1,
+      "required": 4.5
+    },
+    {
+      "text": "Explore this topic",
+      "ratio": 10.88,
+      "required": 4.5
+    },
+    {
+      "text": "Understanding GBV",
+      "ratio": 10.69,
+      "required": 4.5
+    },
+    {
+      "text": "Learn about consent, boundaries, and options for support with gen",
+      "ratio": 5.99,
+      "required": 4.5
+    },
+    {
+      "text": "Explore this topic",
+      "ratio": 10.69,
+      "required": 4.5
+    },
+    {
+      "text": "Alcohol & drugs",
+      "ratio": 10.92,
+      "required": 4.5
+    },
+    {
+      "text": "Explore substance use, its effects, and support pathways without ",
+      "ratio": 6.12,
+      "required": 4.5
+    },
+    {
+      "text": "Explore this topic",
+      "ratio": 10.92,
+      "required": 4.5
+    },
+    {
+      "text": "Explore our areas of focus",
+      "ratio": 9.59,
+      "required": 4.5
+    },
+    {
+      "text": "WHAT GUIDES US",
+      "ratio": 5.87,
+      "required": 4.5
+    },
+    {
+      "text": "People first.Always.",
+      "ratio": 11.74,
+      "required": 3
+    },
+    {
+      "text": "How we talk about support matters. These four values guide the in",
+      "ratio": 6.58,
+      "required": 4.5
+    },
+    {
+      "text": "Dignity & respect",
+      "ratio": 11.74,
+      "required": 4.5
+    },
+    {
+      "text": "Your experiences deserve to be heard without blame, shame, or jud",
+      "ratio": 6.58,
+      "required": 4.5
+    },
+    {
+      "text": "Choice & participation",
+      "ratio": 11.74,
+      "required": 4.5
+    },
+    {
+      "text": "You decide what to explore and which steps to take. You do not ne",
+      "ratio": 6.58,
+      "required": 4.5
+    },
+    {
+      "text": "Inclusion & accessibility",
+      "ratio": 11.74,
+      "required": 4.5
+    },
+    {
+      "text": "We encourage clear information about languages, eligibility, and ",
+      "ratio": 6.58,
+      "required": 4.5
+    },
+    {
+      "text": "Privacy & transparency",
+      "ratio": 11.74,
+      "required": 4.5
+    },
+    {
+      "text": "Understand what information is collected, how contact works, and ",
+      "ratio": 6.58,
+      "required": 4.5
+    },
+    {
+      "text": "AT YOUR OWN PACE",
+      "ratio": 5.28,
+      "required": 4.5
+    },
+    {
+      "text": "Your choicescome first.",
+      "ratio": 10.55,
+      "required": 3
+    },
+    {
+      "text": "You choose where to begin, what to read, and what comes next.",
+      "ratio": 5.92,
+      "required": 4.5
+    },
+    {
+      "text": "Read without an account.",
+      "ratio": 10.55,
+      "required": 4.5
+    },
+    {
+      "text": "You do not need to share your story to explore the information he",
+      "ratio": 5.92,
+      "required": 4.5
+    },
+    {
+      "text": "Ask before sharing.",
+      "ratio": 10.55,
+      "required": 4.5
+    },
+    {
+      "text": "Ask services about privacy, accessibility, costs, and eligibility",
+      "ratio": 5.92,
+      "required": 4.5
+    },
+    {
+      "text": "Understand your privacy.",
+      "ratio": 10.55,
+      "required": 4.5
+    },
+    {
+      "text": "Quick exit leaves this site, but does not erase your browsing his",
+      "ratio": 5.92,
+      "required": 4.5
+    },
+    {
+      "text": "Read our privacy notice",
+      "ratio": 8.62,
+      "required": 4.5
+    },
+    {
+      "text": "A next step that feels right for you.",
+      "ratio": 11.74,
+      "required": 3
+    },
+    {
+      "text": "Keep learning, or explore the support options available to you.",
+      "ratio": 6.58,
+      "required": 4.5
+    },
+    {
+      "text": "Explore support options",
+      "ratio": 8.88,
+      "required": 4.5
+    },
+    {
+      "text": "About this website",
+      "ratio": 6.58,
+      "required": 4.5
+    },
+    {
+      "text": "BetterHelp is a temporary name for this independent website and i",
+      "ratio": 6.58,
+      "required": 4.5
+    }
+  ],
+  "homepageComparison": {
+    "dimensionsMatch": true,
+    "changedChannels": 238299,
+    "significantChangedChannels": 2,
+    "meanChannelDelta": 0.007883073026593499,
+    "totalChannels": 30702240
+  },
+  "errors": [],
+  "status": "passed"
+}

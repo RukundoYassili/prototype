@@ -1,0 +1,875 @@
+{
+  "collection": "gbv",
+  "generatedAt": "2026-11-09",
+  "tool": "built-in image_gen",
+  "disclosure": "Illustrative fictional example. AI-generated.",
+  "approval": "Educational supplements; specialist publication review remains required.",
+  "responsiveCrop": "Original landscape photograph cropped to 4:3 files; CSS uses 3:2 on mobile with per-scene focal positions.",
+  "promptSet": "artifacts/gbv-learning/image-prompts.json",
+  "scenes": [
+    {
+      "id": "gbv-training-opportunity-situation",
+      "prompt": "Use case: photorealistic-natural\nAsset type: GBV educational lesson, fictional illustrative photograph, scene gbv-training-opportunity-situation.\nPrimary request: One respectful, non-graphic everyday photograph in Rwanda. A fictional Black Rwandan woman around 28 with short natural hair, wearing a mustard cardigan over a cream blouse and navy skirt, sits at a small dining table looking thoughtfully at a plain training leaflet. An adult male partner sits across the table, distant neutral body language; depict a constrained conversation about a training opportunity without aggression or blame. Nobody touches or threatens anyone. The leaflet has no readable writing. Ordinary modest contemporary Kigali home, natural window light, realistic texture, candid editorial style, quiet serious mood, medium-wide landscape 4:3 composition, faces and hands visible in central safe crop. No injuries, violence, sexual imagery, dramatic tears, stereotypes, logos, readable text, graphics, collage or watermark. This is fiction, no real survivor likeness or guaranteed outcome.",
+      "source": "artifacts/gbv-learning/originals/gbv-training-opportunity-situation.png",
+      "mode": "built-in image_gen",
+      "reference": null,
+      "originalToolPath": "C:\\Users\\VUGANDAKUMVA\\.codex\\generated_images\\01a1bb11-1484-7d62-aaa1-08852146c61a\\exec-dd70bddd-5160-479d-94c6-3a09226abbc2.png",
+      "sourceSha256": "141c202d7284194dd116665c1da246e8b2ccd5cdb07f71a27c15ce879449ab11",
+      "sourceWidth": 1448,
+      "sourceHeight": 1086,
+      "files": [
+        {
+          "path": "public/images/learning/gbv/gbv-training-opportunity-situation-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 53850,
+          "sha256": "e5f0ba15fd1610accae638398ae6f52276b8ad41983545911d74d01d7bb44cf4"
+        },
+        {
+          "path": "public/images/learning/gbv/gbv-training-opportunity-situation-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 154546,
+          "sha256": "1cb39327f6859130a5e0824abd131c9447beca67a640bdc3c147cbf640f912fd"
+        }
+      ]
+    },
+    {
+      "id": "gbv-training-opportunity-support",
+      "prompt": "Use case: identity-preserve\nAsset type: GBV educational fictional photo, gbv-training-opportunity-support. Input image is fictional character identity reference.\nPrimary request: Create one new landscape 4:3 photograph of the SAME woman from the reference, preserving her face, short natural hair, mustard cardigan and cream blouse. She is now alone with a female adult community training adviser in a quiet accessible office in Kigali, reviewing a plain leaflet together. The adviser listens and offers information without touching or directing her. The woman has a thoughtful neutral expression and remains in control of her choices. A possible supportive step, not guaranteed safety or success. Natural daylight, realistic candid editorial photography, central crop-safe faces and hands. No partner confrontation, violence, injuries, sexual content, readable writing, logos, collage, graphics, watermark, real survivor representation.",
+      "source": "artifacts/gbv-learning/originals/gbv-training-opportunity-support.png",
+      "mode": "built-in image_gen",
+      "reference": "gbv-training-opportunity-situation",
+      "originalToolPath": "C:\\Users\\VUGANDAKUMVA\\.codex\\generated_images\\01a1bb11-1484-7d62-aaa1-08852146c61a\\exec-e8345ea9-c2fb-45e7-af78-5441bb2ab0f3.png",
+      "sourceSha256": "4dfb5a5933daac75419778791496f65747454f527edf4a5fbfe8014255f757bc",
+      "sourceWidth": 1448,
+      "sourceHeight": 1086,
+      "files": [
+        {
+          "path": "public/images/learning/gbv/gbv-training-opportunity-support-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 50344,
+          "sha256": "85a4e931fffba31db7d9ca5ad3268c777fd3d2469619d8e303a4c3db3fd9425b"
+        },
+        {
+          "path": "public/images/learning/gbv/gbv-training-opportunity-support-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 144240,
+          "sha256": "4c693cb33998d192829a8342dcb20b9e7a672ef15d17709b16f712d7b0a4b210"
+        }
+      ]
+    },
+    {
+      "id": "gbv-household-earnings-situation",
+      "prompt": "Use case: photorealistic-natural\nAsset type: GBV educational fictional photograph, gbv-household-earnings-situation.\nPrimary request: One respectful non-graphic everyday photograph in contemporary Rwanda. Fictional Black Rwandan woman around 38, braided bun, muted blue blouse, small silver earrings. At a small produce stall in a Rwandan neighborhood market, pauses thoughtfully over a closed earnings notebook; no confrontation visible.\nStyle: candid editorial photography, natural daylight, realistic skin and textures, serious thoughtful tone without spectacle. Landscape 4:3 medium-wide view, central safe crop for faces and hands. No violence, threats, aggression, injuries, sexual content, visible abuse, dramatic tears, stigmatizing depictions, readable writing, logos, graphics, collage or watermark. No real survivor likeness; fictional educational scene. One image only.",
+      "source": "artifacts/gbv-learning/originals/gbv-household-earnings-situation.png",
+      "mode": "built-in image_gen",
+      "reference": null,
+      "originalToolPath": "C:\\Users\\VUGANDAKUMVA\\.codex\\generated_images\\01a1bb11-1484-7d62-aaa1-08852146c61a\\exec-50adcaaa-799d-4968-b8a5-70cd111e39cf.png",
+      "sourceSha256": "fd963d484b2689e77d45f0bd71874700333bc5468671dd6eee702e52f2a01995",
+      "sourceWidth": 1448,
+      "sourceHeight": 1086,
+      "files": [
+        {
+          "path": "public/images/learning/gbv/gbv-household-earnings-situation-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 67530,
+          "sha256": "a01e181f42e53758ac5ece0ffb5545ac27181c43f7e41fc5bbdca774cd65ccac"
+        },
+        {
+          "path": "public/images/learning/gbv/gbv-household-earnings-situation-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 177822,
+          "sha256": "03d648d19faa35cc5e946d2bbc91d4d03aa57080f18956e6b89317e53138f7e9"
+        }
+      ]
+    },
+    {
+      "id": "gbv-student-monitoring-situation",
+      "prompt": "Use case: photorealistic-natural\nAsset type: GBV educational fictional photograph, gbv-student-monitoring-situation.\nPrimary request: One respectful non-graphic everyday photograph in contemporary Rwanda. Fictional Black Rwandan college student woman aged 21, short natural curls, sage green shirt, navy backpack. Sits on a college courtyard bench looking concerned at a phone with screen turned away, classmates at a respectful distance.\nStyle: candid editorial photography, natural daylight, realistic skin and textures, serious thoughtful tone without spectacle. Landscape 4:3 medium-wide view, central safe crop for faces and hands. No violence, threats, aggression, injuries, sexual content, visible abuse, dramatic tears, stigmatizing depictions, readable writing, logos, graphics, collage or watermark. No real survivor likeness; fictional educational scene. One image only.",
+      "source": "artifacts/gbv-learning/originals/gbv-student-monitoring-situation.png",
+      "mode": "built-in image_gen",
+      "reference": null,
+      "originalToolPath": "C:\\Users\\VUGANDAKUMVA\\.codex\\generated_images\\01a1bb11-1484-7d62-aaa1-08852146c61a\\exec-e7ae4e3f-5624-496c-a749-6e2bf20ed6ad.png",
+      "sourceSha256": "e1a3670fb20cace485ff2095e98d0607be534a43eb687ebb3f907acb03ff7274",
+      "sourceWidth": 1448,
+      "sourceHeight": 1086,
+      "files": [
+        {
+          "path": "public/images/learning/gbv/gbv-student-monitoring-situation-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 62652,
+          "sha256": "fc890ce92ed66c49a2bc783e5808656480b58c95ca4be78950d7185e4a1bd370"
+        },
+        {
+          "path": "public/images/learning/gbv/gbv-student-monitoring-situation-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 163432,
+          "sha256": "678d58e3dfa69e569de830b6bf2e5184e17cd7ef02a86b129b8268e75d6d6ea7"
+        }
+      ]
+    },
+    {
+      "id": "gbv-volunteer-disclosure-situation",
+      "prompt": "Use case: photorealistic-natural\nAsset type: GBV educational fictional photograph, gbv-volunteer-disclosure-situation.\nPrimary request: One respectful non-graphic everyday photograph in contemporary Rwanda. Fictional Black Rwandan adult man around 32, close cropped hair, beige short sleeve shirt. Sits quietly at the edge of a community center waiting area with an adult male volunteer, hesitant thoughtful expression.\nStyle: candid editorial photography, natural daylight, realistic skin and textures, serious thoughtful tone without spectacle. Landscape 4:3 medium-wide view, central safe crop for faces and hands. No violence, threats, aggression, injuries, sexual content, visible abuse, dramatic tears, stigmatizing depictions, readable writing, logos, graphics, collage or watermark. No real survivor likeness; fictional educational scene. One image only.",
+      "source": "artifacts/gbv-learning/originals/gbv-volunteer-disclosure-situation.png",
+      "mode": "built-in image_gen",
+      "reference": null,
+      "originalToolPath": "C:\\Users\\VUGANDAKUMVA\\.codex\\generated_images\\01a1bb11-1484-7d62-aaa1-08852146c61a\\exec-240ab1c1-9a47-46f5-af50-ebc01c2cb7a4.png",
+      "sourceSha256": "ffeecf1a0019f4a1d4c09c5d758bd1c779a49c7b6c51ba001760415edd933a56",
+      "sourceWidth": 1448,
+      "sourceHeight": 1086,
+      "files": [
+        {
+          "path": "public/images/learning/gbv/gbv-volunteer-disclosure-situation-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 50652,
+          "sha256": "4b01e5f1f30e27686908e479d8b9a346a922d39812081fb02a17e3cc9f428edf"
+        },
+        {
+          "path": "public/images/learning/gbv/gbv-volunteer-disclosure-situation-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 137534,
+          "sha256": "06df9311a5a52dc8456721764afe86e8a584179f3b8d7a106ac0a2b8c8abcf2e"
+        }
+      ]
+    },
+    {
+      "id": "gbv-friend-listening-situation",
+      "prompt": "Use case: photorealistic-natural\nAsset type: GBV educational fictional photograph, gbv-friend-listening-situation.\nPrimary request: One respectful non-graphic everyday photograph in contemporary Rwanda. Fictional Black Rwandan woman around 26, chin length twists, rust orange blouse. Sits with a female friend at an outdoor cafe in Kigali, thoughtful guarded conversation, no shouting or threats depicted.\nStyle: candid editorial photography, natural daylight, realistic skin and textures, serious thoughtful tone without spectacle. Landscape 4:3 medium-wide view, central safe crop for faces and hands. No violence, threats, aggression, injuries, sexual content, visible abuse, dramatic tears, stigmatizing depictions, readable writing, logos, graphics, collage or watermark. No real survivor likeness; fictional educational scene. One image only.",
+      "source": "artifacts/gbv-learning/originals/gbv-friend-listening-situation.png",
+      "mode": "built-in image_gen",
+      "reference": null,
+      "originalToolPath": "C:\\Users\\VUGANDAKUMVA\\.codex\\generated_images\\01a1bb11-1484-7d62-aaa1-08852146c61a\\exec-f714b88c-a30f-4c97-a44e-aba3e1c51b01.png",
+      "sourceSha256": "444e0c92e6849ceb7d390dbc0ff04bbdd150002a3fb03fde6f3a41637d0e2169",
+      "sourceWidth": 1448,
+      "sourceHeight": 1086,
+      "files": [
+        {
+          "path": "public/images/learning/gbv/gbv-friend-listening-situation-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 84584,
+          "sha256": "c1830d6f08bb1ee29d14fc4e062fe35b4110dbaf1bcc82e0e79d1cb99a3959d7"
+        },
+        {
+          "path": "public/images/learning/gbv/gbv-friend-listening-situation-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 224634,
+          "sha256": "aa6c61ac56689680cd9bcf0794e0643f478ae915703313bf0b75b5d5db55d3dd"
+        }
+      ]
+    },
+    {
+      "id": "gbv-home-argument-situation",
+      "prompt": "Use case: photorealistic-natural\nAsset type: GBV educational fictional photograph, gbv-home-argument-situation.\nPrimary request: One respectful non-graphic everyday photograph in contemporary Rwanda. Fictional Black Rwandan woman around 30, short natural hair, pale blue blouse, dark trousers. Stands alone thoughtfully near a bright open doorway in a contemporary home, a chair and table behind her, no abusive act or person depicted.\nStyle: candid editorial photography, natural daylight, realistic skin and textures, serious thoughtful tone without spectacle. Landscape 4:3 medium-wide view, central safe crop for faces and hands. No violence, threats, aggression, injuries, sexual content, visible abuse, dramatic tears, stigmatizing depictions, readable writing, logos, graphics, collage or watermark. No real survivor likeness; fictional educational scene. One image only.",
+      "source": "artifacts/gbv-learning/originals/gbv-home-argument-situation.png",
+      "mode": "built-in image_gen",
+      "reference": null,
+      "originalToolPath": "C:\\Users\\VUGANDAKUMVA\\.codex\\generated_images\\01a1bb11-1484-7d62-aaa1-08852146c61a\\exec-78f9e5e1-7ec9-498c-bf6d-da74b7256ab5.png",
+      "sourceSha256": "59cf459863fb992efe309adde80ae1d6ca795a6d769a445768ba78de3459ec10",
+      "sourceWidth": 1448,
+      "sourceHeight": 1086,
+      "files": [
+        {
+          "path": "public/images/learning/gbv/gbv-home-argument-situation-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 36628,
+          "sha256": "0f933428d31dbafc3dfbdb4eb1d4e6c7fe24af79a6a946d8c6df4ba7521c607f"
+        },
+        {
+          "path": "public/images/learning/gbv/gbv-home-argument-situation-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 91506,
+          "sha256": "291bdd590afcd0893280125af3d446a4b0336352999633d9eecaf623c6ac4bc1"
+        }
+      ]
+    },
+    {
+      "id": "gbv-trainee-support-situation",
+      "prompt": "Use case: photorealistic-natural\nAsset type: GBV educational fictional photograph, gbv-trainee-support-situation.\nPrimary request: One respectful non-graphic everyday photograph in contemporary Rwanda. Fictional Black Rwandan female adult trainee aged 23, neat braids tied back, white shirt and olive trousers. Sits thoughtfully at an ordinary workplace desk reviewing a blank folder, supervisor blurred in distant background, no touching or sexual content.\nStyle: candid editorial photography, natural daylight, realistic skin and textures, serious thoughtful tone without spectacle. Landscape 4:3 medium-wide view, central safe crop for faces and hands. No violence, threats, aggression, injuries, sexual content, visible abuse, dramatic tears, stigmatizing depictions, readable writing, logos, graphics, collage or watermark. No real survivor likeness; fictional educational scene. One image only.",
+      "source": "artifacts/gbv-learning/originals/gbv-trainee-support-situation.png",
+      "mode": "built-in image_gen",
+      "reference": null,
+      "originalToolPath": "C:\\Users\\VUGANDAKUMVA\\.codex\\generated_images\\01a1bb11-1484-7d62-aaa1-08852146c61a\\exec-18c1f225-3e5b-4570-a20f-b8f300386eae.png",
+      "sourceSha256": "f005996552fa87bde544b80a566a877f2d732f338f913c4b714fe8c4bb21e441",
+      "sourceWidth": 1448,
+      "sourceHeight": 1086,
+      "files": [
+        {
+          "path": "public/images/learning/gbv/gbv-trainee-support-situation-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 33700,
+          "sha256": "b5eda8e36bba1f0a3f8df00030126a514b78245608614c2fcda59a6845d12aaa"
+        },
+        {
+          "path": "public/images/learning/gbv/gbv-trainee-support-situation-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 77790,
+          "sha256": "216a3e7a85d7d403bacff897448e0980997389eaccceac47991058d5c38243df"
+        }
+      ]
+    },
+    {
+      "id": "gbv-messages-isolation-situation",
+      "prompt": "Use case: photorealistic-natural\nAsset type: GBV educational fictional photograph, gbv-messages-isolation-situation.\nPrimary request: One respectful non-graphic everyday photograph in contemporary Rwanda. Fictional Black Rwandan male university student aged 22, short coiled hair, muted burgundy polo, dark backpack. Sits thoughtfully alone on university steps with phone screen turned away and classmates in background.\nStyle: candid editorial photography, natural daylight, realistic skin and textures, serious thoughtful tone without spectacle. Landscape 4:3 medium-wide view, central safe crop for faces and hands. No violence, threats, aggression, injuries, sexual content, visible abuse, dramatic tears, stigmatizing depictions, readable writing, logos, graphics, collage or watermark. No real survivor likeness; fictional educational scene. One image only.",
+      "source": "artifacts/gbv-learning/originals/gbv-messages-isolation-situation.png",
+      "mode": "built-in image_gen",
+      "reference": null,
+      "originalToolPath": "C:\\Users\\VUGANDAKUMVA\\.codex\\generated_images\\01a1bb11-1484-7d62-aaa1-08852146c61a\\exec-6f284131-d228-4068-9f9a-2dc3986fbd6f.png",
+      "sourceSha256": "6868de5df4c602f2a2ead36df2933b7dbcf823db1eb78856515d2d3f5f3fa0a2",
+      "sourceWidth": 1448,
+      "sourceHeight": 1086,
+      "files": [
+        {
+          "path": "public/images/learning/gbv/gbv-messages-isolation-situation-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 49826,
+          "sha256": "180fcab64b5cd486b6fe054954bbe5f2e28970409a9017ee64ebd9d739701ea6"
+        },
+        {
+          "path": "public/images/learning/gbv/gbv-messages-isolation-situation-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 136556,
+          "sha256": "b080ae535f6a09f821bb05c4d60b59623ef37dbad2354bc1b255e14c2cb0a8e0"
+        }
+      ]
+    },
+    {
+      "id": "gbv-family-shop-situation",
+      "prompt": "Use case: photorealistic-natural\nAsset type: GBV educational fictional photograph, gbv-family-shop-situation.\nPrimary request: One respectful non-graphic everyday photograph in contemporary Rwanda. Fictional Black Rwandan married woman around 36, short twists, teal blouse and charcoal skirt. Works thoughtfully behind a small family grocery counter, closed cash ledger and ordinary products without visible brands, no abusive partner depicted.\nStyle: candid editorial photography, natural daylight, realistic skin and textures, serious thoughtful tone without spectacle. Landscape 4:3 medium-wide view, central safe crop for faces and hands. No violence, threats, aggression, injuries, sexual content, visible abuse, dramatic tears, stigmatizing depictions, readable writing, logos, graphics, collage or watermark. No real survivor likeness; fictional educational scene. One image only.",
+      "source": "artifacts/gbv-learning/originals/gbv-family-shop-situation.png",
+      "mode": "built-in image_gen",
+      "reference": null,
+      "originalToolPath": "C:\\Users\\VUGANDAKUMVA\\.codex\\generated_images\\01a1bb11-1484-7d62-aaa1-08852146c61a\\exec-c004a54a-63fb-4d11-b595-404c84ca1b6c.png",
+      "sourceSha256": "06cda9521d6adf52416e67c96624ae3c28b0121e852c7129c233365f95ae432f",
+      "sourceWidth": 1448,
+      "sourceHeight": 1086,
+      "files": [
+        {
+          "path": "public/images/learning/gbv/gbv-family-shop-situation-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 61272,
+          "sha256": "3705036af9e24fa71f3529a9b92957836cfa7838f420ef21f7cffb5f5426c07e"
+        },
+        {
+          "path": "public/images/learning/gbv/gbv-family-shop-situation-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 151870,
+          "sha256": "834a61b4f50837411d46c92affc64ac87aa09d96b009457be3a0d2307593517e"
+        }
+      ]
+    },
+    {
+      "id": "gbv-online-threats-situation",
+      "prompt": "Use case: photorealistic-natural\nAsset type: GBV educational fictional photograph, gbv-online-threats-situation.\nPrimary request: One respectful non-graphic everyday photograph in contemporary Rwanda. Fictional Black Rwandan woman around 25, natural hair in a puff, lavender shirt and dark trousers. Looks thoughtfully at a phone held away from camera at home, no private photos or readable threats, no distress spectacle.\nStyle: candid editorial photography, natural daylight, realistic skin and textures, serious thoughtful tone without spectacle. Landscape 4:3 medium-wide view, central safe crop for faces and hands. No violence, threats, aggression, injuries, sexual content, visible abuse, dramatic tears, stigmatizing depictions, readable writing, logos, graphics, collage or watermark. No real survivor likeness; fictional educational scene. One image only.",
+      "source": "artifacts/gbv-learning/originals/gbv-online-threats-situation.png",
+      "mode": "built-in image_gen",
+      "reference": null,
+      "originalToolPath": "C:\\Users\\VUGANDAKUMVA\\.codex\\generated_images\\01a1bb11-1484-7d62-aaa1-08852146c61a\\exec-a4cd50be-16a1-4277-ba7a-4cf821d5af27.png",
+      "sourceSha256": "707a778bd34712384dc7a7a03778ac3bc1bdea20fe9c682c2054662c5ffb1456",
+      "sourceWidth": 1448,
+      "sourceHeight": 1086,
+      "files": [
+        {
+          "path": "public/images/learning/gbv/gbv-online-threats-situation-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 50460,
+          "sha256": "2c8c31b83858741dd6b8cadb1c6f290be1c706ffd37c22756315149c51c0f8c4"
+        },
+        {
+          "path": "public/images/learning/gbv/gbv-online-threats-situation-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 137746,
+          "sha256": "c850cef451cd06adbc654a19bb350316b86284ba7134b9eac393cb1455f521b2"
+        }
+      ]
+    },
+    {
+      "id": "gbv-work-transport-situation",
+      "prompt": "Use case: photorealistic-natural\nAsset type: GBV educational fictional photograph, gbv-work-transport-situation.\nPrimary request: One respectful non-graphic everyday photograph in contemporary Rwanda. Fictional Black Rwandan woman around 31, neatly braided hair, beige blouse, navy work bag. Sits at a home table thoughtfully beside a work bag and small closed notebook, preparing for work, no confrontation.\nStyle: candid editorial photography, natural daylight, realistic skin and textures, serious thoughtful tone without spectacle. Landscape 4:3 medium-wide view, central safe crop for faces and hands. No violence, threats, aggression, injuries, sexual content, visible abuse, dramatic tears, stigmatizing depictions, readable writing, logos, graphics, collage or watermark. No real survivor likeness; fictional educational scene. One image only.",
+      "source": "artifacts/gbv-learning/originals/gbv-work-transport-situation.png",
+      "mode": "built-in image_gen",
+      "reference": null,
+      "originalToolPath": "C:\\Users\\VUGANDAKUMVA\\.codex\\generated_images\\01a1bb11-1484-7d62-aaa1-08852146c61a\\exec-e1b7f559-e408-4c11-80f2-85e170b6cfd5.png",
+      "sourceSha256": "1b5b5c9aece30bb1a1877319167dea8bfa0adf66a7006c791377d56e1c6cfe99",
+      "sourceWidth": 1448,
+      "sourceHeight": 1086,
+      "files": [
+        {
+          "path": "public/images/learning/gbv/gbv-work-transport-situation-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 42790,
+          "sha256": "a99c9dbc68e8f0c356e849202c6330cae42ec60b4350f8418fc9b8cf48083b0f"
+        },
+        {
+          "path": "public/images/learning/gbv/gbv-work-transport-situation-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 104142,
+          "sha256": "b33212b6d32cbe31051854ec1ee5a5bf8dd8a9414e0e953e8a10c74cb2a12148"
+        }
+      ]
+    },
+    {
+      "id": "gbv-school-authority-situation",
+      "prompt": "Use case: photorealistic-natural\nAsset type: GBV educational fictional photograph, gbv-school-authority-situation.\nPrimary request: One respectful non-graphic everyday photograph in contemporary Rwanda. Fictional Black Rwandan female adult student aged 19, neat natural hair, plain light blue shirt, dark backpack. Stands thoughtfully outside a campus administrative office, distant adults in corridor, no abuse or private meeting depicted.\nStyle: candid editorial photography, natural daylight, realistic skin and textures, serious thoughtful tone without spectacle. Landscape 4:3 medium-wide view, central safe crop for faces and hands. No violence, threats, aggression, injuries, sexual content, visible abuse, dramatic tears, stigmatizing depictions, readable writing, logos, graphics, collage or watermark. No real survivor likeness; fictional educational scene. One image only.",
+      "source": "artifacts/gbv-learning/originals/gbv-school-authority-situation.png",
+      "mode": "built-in image_gen",
+      "reference": null,
+      "originalToolPath": "C:\\Users\\VUGANDAKUMVA\\.codex\\generated_images\\01a1bb11-1484-7d62-aaa1-08852146c61a\\exec-24d42a54-10c9-45d7-b954-0c3d2d35855f.png",
+      "sourceSha256": "0b12b4714dafb5dfcd8c04402cab26b7a4a096cca9767653ce62eb514ef21053",
+      "sourceWidth": 1448,
+      "sourceHeight": 1086,
+      "files": [
+        {
+          "path": "public/images/learning/gbv/gbv-school-authority-situation-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 37340,
+          "sha256": "995a7420c4c5367f27e9e5a04063035e6eb9c48cb4a4ec85288281d2a68b7314"
+        },
+        {
+          "path": "public/images/learning/gbv/gbv-school-authority-situation-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 100408,
+          "sha256": "ec52eb595100f73f14121d86d424e26aeef3f79c4084216629f450eff324d040"
+        }
+      ]
+    },
+    {
+      "id": "gbv-challenging-norms-situation",
+      "prompt": "Use case: photorealistic-natural\nAsset type: GBV educational fictional photograph, gbv-challenging-norms-situation.\nPrimary request: One respectful non-graphic everyday photograph in contemporary Rwanda. Fictional Black Rwandan young adult man aged 20, short natural hair, forest green shirt, with three peers aged 18 to 23. Listens thoughtfully during a mixed-gender youth club discussion at a Rwandan community center, no slogans or signs.\nStyle: candid editorial photography, natural daylight, realistic skin and textures, serious thoughtful tone without spectacle. Landscape 4:3 medium-wide view, central safe crop for faces and hands. No violence, threats, aggression, injuries, sexual content, visible abuse, dramatic tears, stigmatizing depictions, readable writing, logos, graphics, collage or watermark. No real survivor likeness; fictional educational scene. One image only.",
+      "source": "artifacts/gbv-learning/originals/gbv-challenging-norms-situation.png",
+      "mode": "built-in image_gen",
+      "reference": null,
+      "originalToolPath": "C:\\Users\\VUGANDAKUMVA\\.codex\\generated_images\\01a1bb11-1484-7d62-aaa1-08852146c61a\\exec-284438e4-15cc-4b99-b95e-fa34e6ad407f.png",
+      "sourceSha256": "133dbe7c53f11dd695d7ee0e67128b676fec6a8341aca95adcd673895e4fccdc",
+      "sourceWidth": 1448,
+      "sourceHeight": 1086,
+      "files": [
+        {
+          "path": "public/images/learning/gbv/gbv-challenging-norms-situation-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 48726,
+          "sha256": "ea9572c902eb6f535acbf7b109de4f6eef254d4079e5a07509bc60db94356574"
+        },
+        {
+          "path": "public/images/learning/gbv/gbv-challenging-norms-situation-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 123780,
+          "sha256": "fa68e05fabd6643bd2665b6c4cbdd32d2bf276727b1e120bf5b6d4ad2c61a160"
+        }
+      ]
+    },
+    {
+      "id": "gbv-mediation-pressure-situation",
+      "prompt": "Use case: photorealistic-natural\nAsset type: GBV educational fictional photograph, gbv-mediation-pressure-situation.\nPrimary request: One respectful non-graphic everyday photograph in contemporary Rwanda. Fictional Black Rwandan adult woman around 40, short braids, cream blouse and terracotta cardigan. Sits thoughtfully with a female community volunteer in a simple community office, a second empty chair in distance suggests choices, no partner or confrontation.\nStyle: candid editorial photography, natural daylight, realistic skin and textures, serious thoughtful tone without spectacle. Landscape 4:3 medium-wide view, central safe crop for faces and hands. No violence, threats, aggression, injuries, sexual content, visible abuse, dramatic tears, stigmatizing depictions, readable writing, logos, graphics, collage or watermark. No real survivor likeness; fictional educational scene. One image only.",
+      "source": "artifacts/gbv-learning/originals/gbv-mediation-pressure-situation.png",
+      "mode": "built-in image_gen",
+      "reference": null,
+      "originalToolPath": "C:\\Users\\VUGANDAKUMVA\\.codex\\generated_images\\01a1bb11-1484-7d62-aaa1-08852146c61a\\exec-11b6fe66-1aca-4c87-9633-84d8f393d613.png",
+      "sourceSha256": "126be5182184c557b185cf814edd1b31d76b7c23f42034092c9eb35ca532116d",
+      "sourceWidth": 1448,
+      "sourceHeight": 1086,
+      "files": [
+        {
+          "path": "public/images/learning/gbv/gbv-mediation-pressure-situation-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 52880,
+          "sha256": "2863a5030a3489bc0652a91a83a21d6f509e8d3beb6ceca9eb5b6132fa94cdd0"
+        },
+        {
+          "path": "public/images/learning/gbv/gbv-mediation-pressure-situation-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 145270,
+          "sha256": "f62a4d33eefdcba27b1ffad159d7f2920ee18d43cdf4425c15a1c35586bb0483"
+        }
+      ]
+    },
+    {
+      "id": "gbv-temporary-worker-situation",
+      "prompt": "Use case: photorealistic-natural\nAsset type: GBV educational fictional photograph, gbv-temporary-worker-situation.\nPrimary request: One respectful non-graphic everyday photograph in contemporary Rwanda. Fictional Black Rwandan adult male temporary worker aged 27, close cropped hair, light grey shirt and navy trousers. Sits thoughtfully at a desk in an ordinary small workplace holding a plain contract folder, no coercive contact or readable text.\nStyle: candid editorial photography, natural daylight, realistic skin and textures, serious thoughtful tone without spectacle. Landscape 4:3 medium-wide view, central safe crop for faces and hands. No violence, threats, aggression, injuries, sexual content, visible abuse, dramatic tears, stigmatizing depictions, readable writing, logos, graphics, collage or watermark. No real survivor likeness; fictional educational scene. One image only.",
+      "source": "artifacts/gbv-learning/originals/gbv-temporary-worker-situation.png",
+      "mode": "built-in image_gen",
+      "reference": null,
+      "originalToolPath": "C:\\Users\\VUGANDAKUMVA\\.codex\\generated_images\\01a1bb11-1484-7d62-aaa1-08852146c61a\\exec-0aced6a4-8492-4b97-96f9-aa28185b2676.png",
+      "sourceSha256": "47c72e825cdc762eae0fcc31958d2ca4b2e63c6c9428c923f54e37f54a86b209",
+      "sourceWidth": 1448,
+      "sourceHeight": 1086,
+      "files": [
+        {
+          "path": "public/images/learning/gbv/gbv-temporary-worker-situation-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 42084,
+          "sha256": "6dfea5d4eb35168a2d5f895273b7680bef3f78c125f9a16541c484650e8c0233"
+        },
+        {
+          "path": "public/images/learning/gbv/gbv-temporary-worker-situation-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 119156,
+          "sha256": "46c901947060a3910a6ed1a28fbdea20a45375016b8522590a9b8a6be6c8dbe7"
+        }
+      ]
+    },
+    {
+      "id": "gbv-child-safeguarding-situation",
+      "prompt": "Use case: photorealistic-natural\nAsset type: fictional school wellbeing educational scene, gbv-child-safeguarding-situation.\nOne everyday candid editorial photograph in Rwanda: a fictional Black Rwandan adolescent girl aged 15 with neatly braided hair wearing a plain blue school sweater and navy skirt sits thoughtfully on a bench outside a bright school office. A female adult teacher stands nearby at a respectful distance. A normal safe school day, natural daylight, realistic skin textures, landscape 4:3 medium wide composition. No violence, danger, injuries, sexual themes, distressed expression, physical contact, readable text, logos, graphics, collage, or watermark. This image depicts only an ordinary school setting and does not depict abuse.",
+      "source": "artifacts/gbv-learning/originals/gbv-child-safeguarding-situation.png",
+      "mode": "built-in image_gen",
+      "reference": null,
+      "originalToolPath": "C:\\Users\\VUGANDAKUMVA\\.codex\\generated_images\\01a1bb11-1484-7d62-aaa1-08852146c61a\\exec-2fdc5e06-0b20-43c4-873a-2cb490632990.png",
+      "sourceSha256": "872551fb0b806fab725c63dba11549318ab9734bdbf81c593ce9afec7397dc3b",
+      "sourceWidth": 1448,
+      "sourceHeight": 1086,
+      "files": [
+        {
+          "path": "public/images/learning/gbv/gbv-child-safeguarding-situation-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 51944,
+          "sha256": "9303601c6ffa148e7ae03c0e7543f375816d8e0a1c74c072cd73ddffcb16b6d0"
+        },
+        {
+          "path": "public/images/learning/gbv/gbv-child-safeguarding-situation-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 142900,
+          "sha256": "3649213625588f09c5575ceea38efc523ebf579a44b3a6c8398602b0bbc67d8c"
+        }
+      ]
+    },
+    {
+      "id": "gbv-household-earnings-support",
+      "prompt": "Use case: identity-preserve\nAsset type: GBV educational fictional photograph gbv-household-earnings-support. Reference image is fictional character identity reference.\nCreate ONE new landscape 4:3 photograph of the SAME principal person/people from the reference. Keep their exact face, hairstyle, skin tone and clothing: woman around 38, braided bun, muted blue blouse, small silver earrings. New scene: Sits privately with an adult woman community support worker, listening to options with her notebook closed.\nRespectful non-graphic contemporary Rwanda setting, candid editorial photography, realistic natural daylight and textures, thoughtful tone. Maintain personal choice, no guaranteed safety, recovery or outcome. Central crop-safe faces and hands. No confrontation, violence, threats, injury, sexual content, dramatic tears, forced affection, readable text, logos, graphics, collage, watermark, real survivor likeness or documentary claim.",
+      "source": "artifacts/gbv-learning/originals/gbv-household-earnings-support.png",
+      "mode": "built-in image_gen",
+      "reference": "gbv-household-earnings-situation",
+      "originalToolPath": "C:\\Users\\VUGANDAKUMVA\\.codex\\generated_images\\01a1bb11-1484-7d62-aaa1-08852146c61a\\exec-7c37a319-2ba6-4245-bb6e-30ef79c5c383.png",
+      "sourceSha256": "56304819e34676860f3374bf9f1261876622e95568ddf28b139bf7e6a8d2aa92",
+      "sourceWidth": 1448,
+      "sourceHeight": 1086,
+      "files": [
+        {
+          "path": "public/images/learning/gbv/gbv-household-earnings-support-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 72264,
+          "sha256": "3ffe3e30bd1b32afd57a260a9b8848f6de5966bfef5649de160d4cf65bc1eb5b"
+        },
+        {
+          "path": "public/images/learning/gbv/gbv-household-earnings-support-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 202920,
+          "sha256": "eb8148b8676896dfc4be7a0773ac3d76157b075561a22196c2f80874627b746e"
+        }
+      ]
+    },
+    {
+      "id": "gbv-student-monitoring-support",
+      "prompt": "Use case: identity-preserve\nAsset type: GBV educational fictional photograph gbv-student-monitoring-support. Reference image is fictional character identity reference.\nCreate ONE new landscape 4:3 photograph of the SAME principal person/people from the reference. Keep their exact face, hairstyle, skin tone and clothing: college student woman aged 21, short natural curls, sage green shirt, navy backpack. New scene: Talks privately with an adult female student-support adviser, her phone face down, no advice displayed on screen.\nRespectful non-graphic contemporary Rwanda setting, candid editorial photography, realistic natural daylight and textures, thoughtful tone. Maintain personal choice, no guaranteed safety, recovery or outcome. Central crop-safe faces and hands. No confrontation, violence, threats, injury, sexual content, dramatic tears, forced affection, readable text, logos, graphics, collage, watermark, real survivor likeness or documentary claim.",
+      "source": "artifacts/gbv-learning/originals/gbv-student-monitoring-support.png",
+      "mode": "built-in image_gen",
+      "reference": "gbv-student-monitoring-situation",
+      "originalToolPath": "C:\\Users\\VUGANDAKUMVA\\.codex\\generated_images\\01a1bb11-1484-7d62-aaa1-08852146c61a\\exec-645756ae-4a35-4352-95b5-2791c33dca47.png",
+      "sourceSha256": "afc30d9601f20e7da65babc9e396718cd963b0bc95e2b74284f8e16d7e642957",
+      "sourceWidth": 1448,
+      "sourceHeight": 1086,
+      "files": [
+        {
+          "path": "public/images/learning/gbv/gbv-student-monitoring-support-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 69618,
+          "sha256": "2333ae1b2e14afc8f82bd860b833ab3f61126c0be68955b73efc481b43c1bfb5"
+        },
+        {
+          "path": "public/images/learning/gbv/gbv-student-monitoring-support-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 198056,
+          "sha256": "9750bb9afeb2a32858774266a80d79a46c62b2ffa81573c86881ffbc26c048f9"
+        }
+      ]
+    },
+    {
+      "id": "gbv-volunteer-disclosure-support",
+      "prompt": "Use case: identity-preserve\nAsset type: fictional community support educational photograph gbv-volunteer-disclosure-support.\nCreate a new 4:3 landscape photo using BOTH fictional adult men from the reference. Preserve BOTH men's exact faces, hairstyles, skin tone and clothing: the man on the left with beige short-sleeve shirt and the volunteer on the right with dark navy sleeveless vest over pale blue long-sleeve shirt. Keep only these two adult men. Move them to a quiet private community office with separate chairs. The man in beige speaks thoughtfully; the SAME male volunteer listens with calm open hands, without taking notes or recording. Medium-wide natural editorial photography, realistic daylight and textures in contemporary Rwanda. No other people, no violence, injuries, sexual content, distress spectacle, readable text, logos, collage, watermark or guaranteed recovery. The image is fictional and represents a possible supportive conversation.",
+      "source": "artifacts/gbv-learning/originals/gbv-volunteer-disclosure-support.png",
+      "mode": "built-in image_gen",
+      "reference": "gbv-volunteer-disclosure-situation",
+      "originalToolPath": "C:\\Users\\VUGANDAKUMVA\\.codex\\generated_images\\01a1bb11-1484-7d62-aaa1-08852146c61a\\exec-d505e6ea-d84a-4d2f-a15a-68f36a64e515.png",
+      "sourceSha256": "d34525e4a8d547b0fe7a1d7910d43a5fcab03d96d1b6178d60ac6f6affdcd4cd",
+      "sourceWidth": 1448,
+      "sourceHeight": 1086,
+      "files": [
+        {
+          "path": "public/images/learning/gbv/gbv-volunteer-disclosure-support-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 54096,
+          "sha256": "24d40107eb531479efd879275d49f7410a8ed4669a3292f5b71e6c2e53e9b512"
+        },
+        {
+          "path": "public/images/learning/gbv/gbv-volunteer-disclosure-support-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 147736,
+          "sha256": "bc67f6ccf03a03c1d1577085dbbc98c8faf18065563659c33231d7d784129874"
+        }
+      ]
+    },
+    {
+      "id": "gbv-child-safeguarding-support",
+      "prompt": "Use case: identity-preserve\nAsset type: fictional school wellbeing photograph, gbv-child-safeguarding-support.\nPreserve the same fictional teenage girl, braided hairstyle, blue school sweater and navy skirt from the reference. Preserve the same female adult teacher. Create one new 4:3 landscape photograph: girl and teacher now sit on separate chairs in a bright welcoming school office, the teacher listening calmly at a respectful distance. Another female adult school support worker is present nearby. Ordinary safe school setting, no physical contact, natural daylight, realistic candid editorial photograph. No distress, danger, violence, sexual themes, injuries, readable writing, logos, graphics, collage or watermark.",
+      "source": "artifacts/gbv-learning/originals/gbv-child-safeguarding-support.png",
+      "mode": "built-in image_gen",
+      "reference": "gbv-child-safeguarding-situation",
+      "originalToolPath": "C:\\Users\\VUGANDAKUMVA\\.codex\\generated_images\\01a1bb11-1484-7d62-aaa1-08852146c61a\\exec-b28a3447-b6da-41fa-8cc9-ff5590364ca3.png",
+      "sourceSha256": "2aca40e4251e1dbbaf0da72543427b2d3e33fb0dd2c97f8579bb97e3fdcdafe0",
+      "sourceWidth": 1448,
+      "sourceHeight": 1086,
+      "files": [
+        {
+          "path": "public/images/learning/gbv/gbv-child-safeguarding-support-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 84012,
+          "sha256": "529198011cbcc3a313c16a6767e017b5261d8cc25b2f79ca670ca10b6f3a1403"
+        },
+        {
+          "path": "public/images/learning/gbv/gbv-child-safeguarding-support-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 249776,
+          "sha256": "db7fe4515f82534d050b43fb14ae4dc468b43df5f046322bb27ae2966f3fb0d5"
+        }
+      ]
+    },
+    {
+      "id": "gbv-friend-listening-support",
+      "prompt": "Use case: identity-preserve\nAsset type: GBV educational fictional photograph gbv-friend-listening-support. Reference image is fictional character identity reference.\nCreate ONE new landscape 4:3 photograph of the SAME principal person/people from the reference. Keep their exact face, hairstyle, skin tone and clothing: woman around 26, chin length twists, rust orange blouse. New scene: Same friend now listens attentively with open relaxed body language, phone put away, protagonist remains thoughtful, no hugging or guaranteed recovery.\nRespectful non-graphic contemporary Rwanda setting, candid editorial photography, realistic natural daylight and textures, thoughtful tone. Maintain personal choice, no guaranteed safety, recovery or outcome. Central crop-safe faces and hands. No confrontation, violence, threats, injury, sexual content, dramatic tears, forced affection, readable text, logos, graphics, collage, watermark, real survivor likeness or documentary claim.",
+      "source": "artifacts/gbv-learning/originals/gbv-friend-listening-support.png",
+      "mode": "built-in image_gen",
+      "reference": "gbv-friend-listening-situation",
+      "originalToolPath": "C:\\Users\\VUGANDAKUMVA\\.codex\\generated_images\\01a1bb11-1484-7d62-aaa1-08852146c61a\\exec-8f5a355b-3c73-4a51-a83f-09de5c7ba939.png",
+      "sourceSha256": "263fe51d16a3f320da4078a2c7120e043a96d96c42bdc4ab119e755069baf803",
+      "sourceWidth": 1448,
+      "sourceHeight": 1086,
+      "files": [
+        {
+          "path": "public/images/learning/gbv/gbv-friend-listening-support-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 87170,
+          "sha256": "dba1a181c454f672ca153927ee03d1887d8c2eb33966d5bdad4cb6ff42d291b9"
+        },
+        {
+          "path": "public/images/learning/gbv/gbv-friend-listening-support-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 229658,
+          "sha256": "b3df12b6a1ad6691359dd0ee4e00dc2016f613266ed5b472cc3e6957c1363b2c"
+        }
+      ]
+    },
+    {
+      "id": "gbv-home-argument-support",
+      "prompt": "Use case: identity-preserve\nAsset type: GBV educational fictional photograph gbv-home-argument-support. Reference image is fictional character identity reference.\nCreate ONE new landscape 4:3 photograph of the SAME principal person/people from the reference. Keep their exact face, hairstyle, skin tone and clothing: woman around 30, short natural hair, pale blue blouse, dark trousers. New scene: Sits privately with an adult female professional support worker in a calm modest office, listening and considering options.\nRespectful non-graphic contemporary Rwanda setting, candid editorial photography, realistic natural daylight and textures, thoughtful tone. Maintain personal choice, no guaranteed safety, recovery or outcome. Central crop-safe faces and hands. No confrontation, violence, threats, injury, sexual content, dramatic tears, forced affection, readable text, logos, graphics, collage, watermark, real survivor likeness or documentary claim.",
+      "source": "artifacts/gbv-learning/originals/gbv-home-argument-support.png",
+      "mode": "built-in image_gen",
+      "reference": "gbv-home-argument-situation",
+      "originalToolPath": "C:\\Users\\VUGANDAKUMVA\\.codex\\generated_images\\01a1bb11-1484-7d62-aaa1-08852146c61a\\exec-62603d70-9ca4-4bae-a2dd-cfb9bf8f7477.png",
+      "sourceSha256": "206af62278806c20ca551b507275f64e7f32ff66cc93d72bbe865d950fefd8ca",
+      "sourceWidth": 1448,
+      "sourceHeight": 1086,
+      "files": [
+        {
+          "path": "public/images/learning/gbv/gbv-home-argument-support-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 57892,
+          "sha256": "ff016d08b03a6dfc7a215361c9b195ae17c102b2b46e5b1f997352ed30dfb111"
+        },
+        {
+          "path": "public/images/learning/gbv/gbv-home-argument-support-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 172892,
+          "sha256": "fcf25c1d0f6571ad4812344347bbddbeb9603ff8772cf65f8d3c03ca2938e40a"
+        }
+      ]
+    },
+    {
+      "id": "gbv-trainee-support-support",
+      "prompt": "Use case: identity-preserve\nAsset type: GBV educational fictional photograph gbv-trainee-support-support. Reference image is fictional character identity reference.\nCreate ONE new landscape 4:3 photograph of the SAME principal person/people from the reference. Keep their exact face, hairstyle, skin tone and clothing: female adult trainee aged 23, neat braids tied back, white shirt and olive trousers. New scene: Speaks privately with an independent adult female worker at a community advice office, both seated at equal height, no confrontation or complaint requirement.\nRespectful non-graphic contemporary Rwanda setting, candid editorial photography, realistic natural daylight and textures, thoughtful tone. Maintain personal choice, no guaranteed safety, recovery or outcome. Central crop-safe faces and hands. No confrontation, violence, threats, injury, sexual content, dramatic tears, forced affection, readable text, logos, graphics, collage, watermark, real survivor likeness or documentary claim.",
+      "source": "artifacts/gbv-learning/originals/gbv-trainee-support-support.png",
+      "mode": "built-in image_gen",
+      "reference": "gbv-trainee-support-situation",
+      "originalToolPath": "C:\\Users\\VUGANDAKUMVA\\.codex\\generated_images\\01a1bb11-1484-7d62-aaa1-08852146c61a\\exec-7e8e643d-8221-40b3-9946-3458ac6668b9.png",
+      "sourceSha256": "ab66bb9605b0185bc4357bb6ae3c3cca9ff6e43378b4acf1fc78cfc331b6c45c",
+      "sourceWidth": 1448,
+      "sourceHeight": 1086,
+      "files": [
+        {
+          "path": "public/images/learning/gbv/gbv-trainee-support-support-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 47408,
+          "sha256": "af247371c97167ecaf6a080c5cdbe2a95cf46fcff30543ca579e45dff01eb73a"
+        },
+        {
+          "path": "public/images/learning/gbv/gbv-trainee-support-support-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 126654,
+          "sha256": "22cf8ae92e623546712b49fad85110340bad30c710400f83cf704467bb0d1348"
+        }
+      ]
+    },
+    {
+      "id": "gbv-messages-isolation-support",
+      "prompt": "Use case: identity-preserve\nAsset type: GBV educational fictional photograph gbv-messages-isolation-support. Reference image is fictional character identity reference.\nCreate ONE new landscape 4:3 photograph of the SAME principal person/people from the reference. Keep their exact face, hairstyle, skin tone and clothing: male university student aged 22, short coiled hair, muted burgundy polo, dark backpack. New scene: Speaks quietly with a male student adviser on two chairs in a calm private office, phone put away, discussion of preferred support.\nRespectful non-graphic contemporary Rwanda setting, candid editorial photography, realistic natural daylight and textures, thoughtful tone. Maintain personal choice, no guaranteed safety, recovery or outcome. Central crop-safe faces and hands. No confrontation, violence, threats, injury, sexual content, dramatic tears, forced affection, readable text, logos, graphics, collage, watermark, real survivor likeness or documentary claim.",
+      "source": "artifacts/gbv-learning/originals/gbv-messages-isolation-support.png",
+      "mode": "built-in image_gen",
+      "reference": "gbv-messages-isolation-situation",
+      "originalToolPath": "C:\\Users\\VUGANDAKUMVA\\.codex\\generated_images\\01a1bb11-1484-7d62-aaa1-08852146c61a\\exec-cb4ab6d9-fd27-45f3-8309-68d149f2e3b8.png",
+      "sourceSha256": "819f53c5e59a61f7265f5262467b6c78f016410ab44c86bf7c02cc0766f5d1e2",
+      "sourceWidth": 1448,
+      "sourceHeight": 1086,
+      "files": [
+        {
+          "path": "public/images/learning/gbv/gbv-messages-isolation-support-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 50432,
+          "sha256": "95ff13f46b41ccb69f8248bbbb6a896fb4389b404b4ce13681374df525634190"
+        },
+        {
+          "path": "public/images/learning/gbv/gbv-messages-isolation-support-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 137484,
+          "sha256": "8c3cada31356cb4852d9ceca50d301ccde471a72795c93752f9f100a6aebd3f2"
+        }
+      ]
+    },
+    {
+      "id": "gbv-family-shop-support",
+      "prompt": "Use case: identity-preserve\nAsset type: GBV educational fictional photograph gbv-family-shop-support. Reference image is fictional character identity reference.\nCreate ONE new landscape 4:3 photograph of the SAME principal person/people from the reference. Keep their exact face, hairstyle, skin tone and clothing: married woman around 36, short twists, teal blouse and charcoal skirt. New scene: Meets an adult woman practical-support adviser privately, closed notebook on table, choices discussed without directing departure.\nRespectful non-graphic contemporary Rwanda setting, candid editorial photography, realistic natural daylight and textures, thoughtful tone. Maintain personal choice, no guaranteed safety, recovery or outcome. Central crop-safe faces and hands. No confrontation, violence, threats, injury, sexual content, dramatic tears, forced affection, readable text, logos, graphics, collage, watermark, real survivor likeness or documentary claim.",
+      "source": "artifacts/gbv-learning/originals/gbv-family-shop-support.png",
+      "mode": "built-in image_gen",
+      "reference": "gbv-family-shop-situation",
+      "originalToolPath": "C:\\Users\\VUGANDAKUMVA\\.codex\\generated_images\\01a1bb11-1484-7d62-aaa1-08852146c61a\\exec-d1e2730e-9af9-405b-ab82-6a068ba07129.png",
+      "sourceSha256": "1e2c7d8229a62860daa0cbc23bd49359a8b4628d1c956cf3300cb4e47d062d9d",
+      "sourceWidth": 1448,
+      "sourceHeight": 1086,
+      "files": [
+        {
+          "path": "public/images/learning/gbv/gbv-family-shop-support-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 61854,
+          "sha256": "bebefdb42fa3faa9db09f7c39aa67d42f200da7a0a0faf513401ad0725c210a8"
+        },
+        {
+          "path": "public/images/learning/gbv/gbv-family-shop-support-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 176094,
+          "sha256": "ca46a7d1df8ff4f529b07bc653c26238d9eee771c8143ba934e9aba556de8d38"
+        }
+      ]
+    },
+    {
+      "id": "gbv-online-threats-support",
+      "prompt": "Use case: identity-preserve\nAsset type: GBV educational fictional photograph gbv-online-threats-support. Reference image is fictional character identity reference.\nCreate ONE new landscape 4:3 photograph of the SAME principal person/people from the reference. Keep their exact face, hairstyle, skin tone and clothing: woman around 25, natural hair in a puff, lavender shirt and dark trousers. New scene: Sits in a private advice room with a female specialist, phone face down, discussing safe options, no evidence collection or password change shown.\nRespectful non-graphic contemporary Rwanda setting, candid editorial photography, realistic natural daylight and textures, thoughtful tone. Maintain personal choice, no guaranteed safety, recovery or outcome. Central crop-safe faces and hands. No confrontation, violence, threats, injury, sexual content, dramatic tears, forced affection, readable text, logos, graphics, collage, watermark, real survivor likeness or documentary claim.",
+      "source": "artifacts/gbv-learning/originals/gbv-online-threats-support.png",
+      "mode": "built-in image_gen",
+      "reference": "gbv-online-threats-situation",
+      "originalToolPath": "C:\\Users\\VUGANDAKUMVA\\.codex\\generated_images\\01a1bb11-1484-7d62-aaa1-08852146c61a\\exec-4b175093-3d8c-4d7d-ab19-a1fb109c51f9.png",
+      "sourceSha256": "3e5314782025d63d73e7dd3d141a16487a826164ec8a4f561b01868fa3751265",
+      "sourceWidth": 1448,
+      "sourceHeight": 1086,
+      "files": [
+        {
+          "path": "public/images/learning/gbv/gbv-online-threats-support-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 49640,
+          "sha256": "c7bb27d81483457d03cb9607c85ea5d2db417353117499b54edb79baadd6604c"
+        },
+        {
+          "path": "public/images/learning/gbv/gbv-online-threats-support-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 125746,
+          "sha256": "c4daf7d5440f70b58e9d79f66d120ed3c45bb9dfccf232598184896688330804"
+        }
+      ]
+    },
+    {
+      "id": "gbv-work-transport-support",
+      "prompt": "Use case: identity-preserve\nAsset type: GBV educational fictional photograph gbv-work-transport-support. Reference image is fictional character identity reference.\nCreate ONE new landscape 4:3 photograph of the SAME principal person/people from the reference. Keep their exact face, hairstyle, skin tone and clothing: woman around 31, neatly braided hair, beige blouse, navy work bag. New scene: Discusses practical support privately with an adult female worker in an accessible office, neither handles her phone or money.\nRespectful non-graphic contemporary Rwanda setting, candid editorial photography, realistic natural daylight and textures, thoughtful tone. Maintain personal choice, no guaranteed safety, recovery or outcome. Central crop-safe faces and hands. No confrontation, violence, threats, injury, sexual content, dramatic tears, forced affection, readable text, logos, graphics, collage, watermark, real survivor likeness or documentary claim.",
+      "source": "artifacts/gbv-learning/originals/gbv-work-transport-support.png",
+      "mode": "built-in image_gen",
+      "reference": "gbv-work-transport-situation",
+      "originalToolPath": "C:\\Users\\VUGANDAKUMVA\\.codex\\generated_images\\01a1bb11-1484-7d62-aaa1-08852146c61a\\exec-ff1d04bb-7002-4b98-80ba-1858c09d1b80.png",
+      "sourceSha256": "33bba0afaa625b145c95cd537331673e1015b6fee66a19412ac28964353bbd73",
+      "sourceWidth": 1448,
+      "sourceHeight": 1086,
+      "files": [
+        {
+          "path": "public/images/learning/gbv/gbv-work-transport-support-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 54148,
+          "sha256": "1581de0afd435478f8a7985b557bb61031cacd26d6c379fa7f44f6eea50d23d5"
+        },
+        {
+          "path": "public/images/learning/gbv/gbv-work-transport-support-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 134744,
+          "sha256": "4bc3b4f80aaa1ca9a01a2f99ee74d95183685959bc9b8415c08ad67f6afb667e"
+        }
+      ]
+    },
+    {
+      "id": "gbv-school-authority-support",
+      "prompt": "Use case: identity-preserve\nAsset type: GBV educational fictional photograph gbv-school-authority-support. Reference image is fictional character identity reference.\nCreate ONE new landscape 4:3 photograph of the SAME principal person/people from the reference. Keep their exact face, hairstyle, skin tone and clothing: female adult student aged 19, neat natural hair, plain light blue shirt, dark backpack. New scene: Meets an independent female safeguarding adviser in a welcoming office, safe reporting choices represented by a plain closed folder.\nRespectful non-graphic contemporary Rwanda setting, candid editorial photography, realistic natural daylight and textures, thoughtful tone. Maintain personal choice, no guaranteed safety, recovery or outcome. Central crop-safe faces and hands. No confrontation, violence, threats, injury, sexual content, dramatic tears, forced affection, readable text, logos, graphics, collage, watermark, real survivor likeness or documentary claim.",
+      "source": "artifacts/gbv-learning/originals/gbv-school-authority-support.png",
+      "mode": "built-in image_gen",
+      "reference": "gbv-school-authority-situation",
+      "originalToolPath": "C:\\Users\\VUGANDAKUMVA\\.codex\\generated_images\\01a1bb11-1484-7d62-aaa1-08852146c61a\\exec-c9397cdb-56dd-4d88-88dc-1cee6d252746.png",
+      "sourceSha256": "f0a7fb27aaaec190430232f1c1f8c25d964dea93a0c059d2a2b78673aefdb7f5",
+      "sourceWidth": 1448,
+      "sourceHeight": 1086,
+      "files": [
+        {
+          "path": "public/images/learning/gbv/gbv-school-authority-support-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 52116,
+          "sha256": "e5ef3eaec2030fe7a93dfa7e23b21616a49e2d060bd00317223a0ab59d489583"
+        },
+        {
+          "path": "public/images/learning/gbv/gbv-school-authority-support-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 138562,
+          "sha256": "3b564f5158451393daf9373ccd13e8e007830515e71d8296d4423187e4d1bc62"
+        }
+      ]
+    },
+    {
+      "id": "gbv-challenging-norms-support",
+      "prompt": "Use case: identity-preserve\nAsset type: GBV educational fictional photograph gbv-challenging-norms-support. Reference image is fictional character identity reference.\nCreate ONE new landscape 4:3 photograph of the SAME principal person/people from the reference. Keep their exact face, hairstyle, skin tone and clothing: young adult man aged 20, short natural hair, forest green shirt, with three peers aged 18 to 23. New scene: Same peers discuss respectful relationships around a table, one man gestures with open hands while others listen equally, no personal disclosure, everyday grounded tone.\nRespectful non-graphic contemporary Rwanda setting, candid editorial photography, realistic natural daylight and textures, thoughtful tone. Maintain personal choice, no guaranteed safety, recovery or outcome. Central crop-safe faces and hands. No confrontation, violence, threats, injury, sexual content, dramatic tears, forced affection, readable text, logos, graphics, collage, watermark, real survivor likeness or documentary claim.",
+      "source": "artifacts/gbv-learning/originals/gbv-challenging-norms-support.png",
+      "mode": "built-in image_gen",
+      "reference": "gbv-challenging-norms-situation",
+      "originalToolPath": "C:\\Users\\VUGANDAKUMVA\\.codex\\generated_images\\01a1bb11-1484-7d62-aaa1-08852146c61a\\exec-a02b0ac9-6ffe-4997-9c09-bafe8b9daaaf.png",
+      "sourceSha256": "043c43c4891c81241d376c0738ace58a4e4ee711324f9b1f674f7ffb4d71190c",
+      "sourceWidth": 1448,
+      "sourceHeight": 1086,
+      "files": [
+        {
+          "path": "public/images/learning/gbv/gbv-challenging-norms-support-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 55922,
+          "sha256": "6a81570858f4aa1f2aa5a560b6d5923957a9a2d0aa6f26e539876ee226f0be0e"
+        },
+        {
+          "path": "public/images/learning/gbv/gbv-challenging-norms-support-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 137738,
+          "sha256": "0f841b9b905b91e01e9b1017c3d25b29d888a199ffb4f9d9c0d69cf556453aa5"
+        }
+      ]
+    },
+    {
+      "id": "gbv-mediation-pressure-support",
+      "prompt": "Use case: identity-preserve\nAsset type: GBV educational fictional photograph gbv-mediation-pressure-support. Reference image is fictional character identity reference.\nCreate ONE new landscape 4:3 photograph of the SAME principal person/people from the reference. Keep their exact face, hairstyle, skin tone and clothing: adult woman around 40, short braids, cream blouse and terracotta cardigan. New scene: Same volunteer listens privately and respectfully across a small table, offers a plain closed information folder without commanding, no mediation meeting or reconciliation.\nRespectful non-graphic contemporary Rwanda setting, candid editorial photography, realistic natural daylight and textures, thoughtful tone. Maintain personal choice, no guaranteed safety, recovery or outcome. Central crop-safe faces and hands. No confrontation, violence, threats, injury, sexual content, dramatic tears, forced affection, readable text, logos, graphics, collage, watermark, real survivor likeness or documentary claim.",
+      "source": "artifacts/gbv-learning/originals/gbv-mediation-pressure-support.png",
+      "mode": "built-in image_gen",
+      "reference": "gbv-mediation-pressure-situation",
+      "originalToolPath": "C:\\Users\\VUGANDAKUMVA\\.codex\\generated_images\\01a1bb11-1484-7d62-aaa1-08852146c61a\\exec-6c56352f-aca4-4082-8cf4-1d36859714d5.png",
+      "sourceSha256": "0eaeaae849442be719e950742e774738e9fef03a7a709abea6ffeecf0d0d4ad2",
+      "sourceWidth": 1448,
+      "sourceHeight": 1086,
+      "files": [
+        {
+          "path": "public/images/learning/gbv/gbv-mediation-pressure-support-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 55190,
+          "sha256": "e451dc0a083076f454fc5362a6db51efe52f076d6e06c894c62d029ff1bb9e0c"
+        },
+        {
+          "path": "public/images/learning/gbv/gbv-mediation-pressure-support-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 149176,
+          "sha256": "7c649abca223f7659b9fab1f8cc8cc2b0b3dd07829f9e58bda94efa61de2f4f3"
+        }
+      ]
+    },
+    {
+      "id": "gbv-temporary-worker-support",
+      "prompt": "Use case: identity-preserve\nAsset type: GBV educational fictional photograph gbv-temporary-worker-support. Reference image is fictional character identity reference.\nCreate ONE new landscape 4:3 photograph of the SAME principal person/people from the reference. Keep their exact face, hairstyle, skin tone and clothing: adult male temporary worker aged 27, close cropped hair, light grey shirt and navy trousers. New scene: Speaks privately with an independent male employment support adviser in a modest accessible office, confidential options not guaranteed job protection.\nRespectful non-graphic contemporary Rwanda setting, candid editorial photography, realistic natural daylight and textures, thoughtful tone. Maintain personal choice, no guaranteed safety, recovery or outcome. Central crop-safe faces and hands. No confrontation, violence, threats, injury, sexual content, dramatic tears, forced affection, readable text, logos, graphics, collage, watermark, real survivor likeness or documentary claim.",
+      "source": "artifacts/gbv-learning/originals/gbv-temporary-worker-support.png",
+      "mode": "built-in image_gen",
+      "reference": "gbv-temporary-worker-situation",
+      "originalToolPath": "C:\\Users\\VUGANDAKUMVA\\.codex\\generated_images\\01a1bb11-1484-7d62-aaa1-08852146c61a\\exec-972b8e8e-6542-42b1-9c34-7e0ff891a886.png",
+      "sourceSha256": "60c17b9a3bd5f626c4ae04b91b04474682bca2ecdb36ca67d629d5337e5ad09a",
+      "sourceWidth": 1448,
+      "sourceHeight": 1086,
+      "files": [
+        {
+          "path": "public/images/learning/gbv/gbv-temporary-worker-support-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 50360,
+          "sha256": "c16c05f4e6a069518170617760a0e22f26c8ba158605833ea1da1a7af03f9bde"
+        },
+        {
+          "path": "public/images/learning/gbv/gbv-temporary-worker-support-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 137228,
+          "sha256": "9f37893589ee1d58152186bb17e68d9cbd96119396988ac8875d17834c9cd312"
+        }
+      ]
+    }
+  ]
+}

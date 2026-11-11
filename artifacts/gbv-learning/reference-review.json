@@ -1,0 +1,321 @@
+{
+  "collection": "gbv",
+  "checkedAt": "2026-11-09",
+  "scope": "Link retrieval and comparison of published referral listings only. Original source transcription is unchanged.",
+  "specialistApproval": false,
+  "publicationApproval": false,
+  "operationalTelephoneChecks": false,
+  "references": [
+    {
+      "url": "https://www.who.int/news-room/fact-sheets/detail/violence-against-women",
+      "sourceEntries": [
+        {
+          "chapter": 1,
+          "reference": 1
+        },
+        {
+          "chapter": 3,
+          "reference": 1
+        }
+      ],
+      "checkedAt": "2026-11-09",
+      "method": "Web retrieval of the source URL",
+      "status": "retrieved",
+      "note": "WHO fact sheet retrieved, dated 18 June 2026. The printed 840 million statistic and its defined violence measures match the retrieved page; it is not an individual risk prediction."
+    },
+    {
+      "url": "https://help.unhcr.org/rwanda/services/sgbv/",
+      "sourceEntries": [
+        {
+          "chapter": 1,
+          "reference": 2
+        },
+        {
+          "chapter": 1,
+          "reference": 6
+        },
+        {
+          "chapter": 2,
+          "reference": 12
+        }
+      ],
+      "checkedAt": "2026-11-09",
+      "method": "Web retrieval of the source URL",
+      "status": "retrieved",
+      "note": "UNHCR Rwanda lists Isange 3029, access in all 30 districts and possible reporting to law enforcement. A web listing does not verify live telephone operation or a specific facility."
+    },
+    {
+      "url": "https://www.who.int/publications-detail-redirect/WHO-RHR-14.26",
+      "sourceEntries": [
+        {
+          "chapter": 1,
+          "reference": 3
+        }
+      ],
+      "checkedAt": "2026-11-09",
+      "method": "Web retrieval of the source URL",
+      "status": "retrieved",
+      "note": "Official publication or institutional page retrieved. Availability is not specialist validation of the chapter."
+    },
+    {
+      "url": "https://www.unfpa.org/sites/default/files/pub-pdf/19-200_Minimun_Standards_Report_ENGLISH-Nov.FINAL_.pdf",
+      "sourceEntries": [
+        {
+          "chapter": 1,
+          "reference": 4
+        }
+      ],
+      "checkedAt": "2026-11-09",
+      "method": "Web retrieval of the source URL",
+      "status": "retrieved",
+      "note": "Official publication or institutional page retrieved. Availability is not specialist validation of the chapter."
+    },
+    {
+      "url": "https://www.migeprof.gov.rw/family-promotion-and-child-right-protection",
+      "sourceEntries": [
+        {
+          "chapter": 1,
+          "reference": 5
+        },
+        {
+          "chapter": 2,
+          "reference": 11
+        }
+      ],
+      "checkedAt": "2026-11-09",
+      "method": "Web retrieval of the source URL",
+      "status": "retrieved",
+      "note": "MIGEPROF lists RIB 116 / 3512, GMO 5798, MIGEPROF 9059 and NCDA 711. Hours, eligibility, response and referral procedures were not operationally tested."
+    },
+    {
+      "url": "https://www.unfpa.org/publications/guidance-note-safe-and-ethical-management-analysis-and-sharing-gbv-service-data",
+      "sourceEntries": [
+        {
+          "chapter": 1,
+          "reference": 7
+        }
+      ],
+      "checkedAt": "2026-11-09",
+      "method": "Web retrieval of the source URL",
+      "status": "retrieved",
+      "note": "UNFPA publication page retrieved; publication date displayed as Oct 2026. Safe data handling guidance does not constitute approval of this implementation."
+    },
+    {
+      "url": "https://www.who.int/en/news-room/fact-sheets/detail/violence-against-women",
+      "sourceEntries": [
+        {
+          "chapter": 2,
+          "reference": 1
+        }
+      ],
+      "checkedAt": "2026-11-09",
+      "method": "Web retrieval of the source URL",
+      "status": "retrieved",
+      "note": "WHO fact sheet retrieved, dated 18 June 2026. The printed 840 million statistic and its defined violence measures match the retrieved page; it is not an individual risk prediction."
+    },
+    {
+      "url": "https://unwomen.org.au/types-of-violence-against-women-and-girls/",
+      "sourceEntries": [
+        {
+          "chapter": 2,
+          "reference": 2
+        },
+        {
+          "chapter": 2,
+          "reference": 5
+        }
+      ],
+      "checkedAt": "2026-11-09",
+      "method": "Web retrieval of the source URL",
+      "status": "retrieved",
+      "note": "Official publication or institutional page retrieved. Availability is not specialist validation of the chapter."
+    },
+    {
+      "url": "https://unwomen.org.nz/types-of-violence-against-women-and-girls",
+      "sourceEntries": [
+        {
+          "chapter": 2,
+          "reference": 3
+        }
+      ],
+      "checkedAt": "2026-11-09",
+      "method": "Web retrieval of the source URL",
+      "status": "verification-needed",
+      "note": "The URL returned a JavaScript application shell; substantive content could not be verified by this retrieval. Recheck manually before publication."
+    },
+    {
+      "url": "https://www.un.org/en/node/71778",
+      "sourceEntries": [
+        {
+          "chapter": 2,
+          "reference": 4
+        }
+      ],
+      "checkedAt": "2026-11-09",
+      "method": "Web retrieval of the source URL",
+      "status": "verification-needed",
+      "note": "Web retrieval returned 403 Forbidden. This does not establish that the source is unavailable to all readers. Recheck manually before publication."
+    },
+    {
+      "url": "https://eige.europa.eu/gender-based-violence/what-is-gender-based-violence",
+      "sourceEntries": [
+        {
+          "chapter": 2,
+          "reference": 6
+        }
+      ],
+      "checkedAt": "2026-11-09",
+      "method": "Web retrieval of the source URL",
+      "status": "retrieved",
+      "note": "Official publication or institutional page retrieved. Availability is not specialist validation of the chapter."
+    },
+    {
+      "url": "https://www.who.int/publications/i/item/9789240001411",
+      "sourceEntries": [
+        {
+          "chapter": 2,
+          "reference": 7
+        }
+      ],
+      "checkedAt": "2026-11-09",
+      "method": "Web retrieval of the source URL",
+      "status": "retrieved",
+      "note": "Official publication or institutional page retrieved. Availability is not specialist validation of the chapter."
+    },
+    {
+      "url": "https://www.cdc.gov/hivnexus/hcp/pep/",
+      "sourceEntries": [
+        {
+          "chapter": 2,
+          "reference": 8
+        }
+      ],
+      "checkedAt": "2026-11-09",
+      "method": "Web retrieval of the source URL",
+      "status": "retrieved",
+      "note": "CDC provider guidance retrieved, dated 7 October 2026; assessment and PEP timing are for clinical review, not personalized advice from this website."
+    },
+    {
+      "url": "https://www.worldbank.org/en/programs/violence-against-women-and-girls/terminology",
+      "sourceEntries": [
+        {
+          "chapter": 2,
+          "reference": 9
+        }
+      ],
+      "checkedAt": "2026-11-09",
+      "method": "Web retrieval of the source URL",
+      "status": "retrieved",
+      "note": "Official publication or institutional page retrieved. Availability is not specialist validation of the chapter."
+    },
+    {
+      "url": "https://apps.who.int/iris/handle/10665/136101",
+      "sourceEntries": [
+        {
+          "chapter": 2,
+          "reference": 10
+        }
+      ],
+      "checkedAt": "2026-11-09",
+      "method": "Web retrieval of the source URL",
+      "status": "verification-needed",
+      "note": "Web retrieval returned 403 Forbidden. This does not establish that the source is unavailable to all readers. Recheck manually before publication.",
+      "alternativeOfficialUrl": "https://www.who.int/publications-detail-redirect/WHO-RHR-14.26"
+    },
+    {
+      "url": "https://www.who.int/publications/i/item/9789240117020",
+      "sourceEntries": [
+        {
+          "chapter": 3,
+          "reference": 2
+        }
+      ],
+      "checkedAt": "2026-11-09",
+      "method": "Web retrieval of the source URL",
+      "status": "retrieved",
+      "note": "WHO second edition of RESPECT retrieved, dated 19 November 2025, with seven complementary prevention strategies."
+    },
+    {
+      "url": "https://www.migeprof.gov.rw/fileadmin/user_upload/Migeprof/Publications/Guidelines/01_National_Transformative_Strategy_Engaging_Men_and_Boys_for_Gender_Equality_Promotion_.pdf",
+      "sourceEntries": [
+        {
+          "chapter": 3,
+          "reference": 3
+        }
+      ],
+      "checkedAt": "2026-11-09",
+      "method": "Web retrieval of the source URL",
+      "status": "retrieved",
+      "note": "Official publication or institutional page retrieved. Availability is not specialist validation of the chapter."
+    },
+    {
+      "url": "https://cdn.who.int/media/docs/default-source/documents/social-determinants-of-health/who_2022_plv_strategy_2022-2026_finalfile.pdf",
+      "sourceEntries": [
+        {
+          "chapter": 3,
+          "reference": 4
+        }
+      ],
+      "checkedAt": "2026-11-09",
+      "method": "Web retrieval of the source URL",
+      "status": "retrieved",
+      "note": "Official publication or institutional page retrieved. Availability is not specialist validation of the chapter."
+    },
+    {
+      "url": "https://www.unwomen.org/sites/default/files/2023-10/handbook-on-multisectoral-national-action-plans-to-prevent-violence-against-women-and-girls-en.pdf",
+      "sourceEntries": [
+        {
+          "chapter": 3,
+          "reference": 5
+        }
+      ],
+      "checkedAt": "2026-11-09",
+      "method": "Web retrieval of the source URL",
+      "status": "verification-needed",
+      "note": "Web retrieval returned 403 Forbidden. This does not establish that the source is unavailable to all readers. Recheck manually before publication."
+    },
+    {
+      "url": "https://www.migeprof.gov.rw/fileadmin/user_upload/Migeprof/Publications/Guidelines/National_Policy_against_Gender-Based_Violence-2011.pdf",
+      "sourceEntries": [
+        {
+          "chapter": 3,
+          "reference": 6
+        }
+      ],
+      "checkedAt": "2026-11-09",
+      "method": "Web retrieval of the source URL",
+      "status": "retrieved",
+      "note": "The July 2011 historical policy PDF was retrieved. Current operational/legal requirements remain unverified and require a Rwanda-qualified reviewer."
+    }
+  ],
+  "referrals": [
+    {
+      "service": "Isange One Stop Centres",
+      "numbers": [
+        "3029"
+      ],
+      "source": "https://help.unhcr.org/rwanda/services/sgbv/",
+      "publishedListingConfirmed": true,
+      "caution": "The published page notes that approaching Isange may result in reporting to law enforcement. Confirm privacy, reporting, eligibility and access with a qualified local service."
+    },
+    {
+      "service": "RIB / GMO / MIGEPROF / NCDA",
+      "numbers": [
+        "116",
+        "3512",
+        "5798",
+        "9059",
+        "711"
+      ],
+      "source": "https://www.migeprof.gov.rw/family-promotion-and-child-right-protection",
+      "publishedListingConfirmed": true,
+      "caution": "Only the published listing was checked. No calls, case referrals or operating-hour checks were made."
+    }
+  ],
+  "flags": [
+    "Three source URLs returned 403 and one provided a JavaScript-only shell; retain the original citations and require a manual recheck.",
+    "The 2011 national policy is historical. Its continued hosting is not proof of current legal or operational requirements.",
+    "Telephone listing verification does not establish availability, confidentiality, safety, eligibility or a legal outcome.",
+    "Publication, clinical, GBV-specialist, safeguarding, legal, accessibility, translation and Rwanda-localization approvals remain outstanding."
+  ]
+}

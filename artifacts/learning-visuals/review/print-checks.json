@@ -1,0 +1,248 @@
+[
+  {
+    "chapter": 1,
+    "pages": 17,
+    "expectedTextBlocks": 44,
+    "missing": [],
+    "splitVisuals": [],
+    "pageChecks": [
+      {
+        "page": 1,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1379
+      },
+      {
+        "page": 2,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1988
+      },
+      {
+        "page": 3,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 2151
+      },
+      {
+        "page": 4,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1232
+      },
+      {
+        "page": 5,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 811
+      },
+      {
+        "page": 6,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 945
+      },
+      {
+        "page": 7,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1315
+      },
+      {
+        "page": 8,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1782
+      },
+      {
+        "page": 9,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1576
+      },
+      {
+        "page": 10,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1555
+      },
+      {
+        "page": 11,
+        "images": 2,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1004
+      },
+      {
+        "page": 12,
+        "images": 2,
+        "charactersOutsidePage": 0,
+        "textCharacters": 956
+      },
+      {
+        "page": 13,
+        "images": 2,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1216
+      },
+      {
+        "page": 14,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1475
+      },
+      {
+        "page": 15,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1489
+      },
+      {
+        "page": 16,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1574
+      },
+      {
+        "page": 17,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 164
+      }
+    ]
+  },
+  {
+    "chapter": 2,
+    "pages": 21,
+    "expectedTextBlocks": 98,
+    "missing": [],
+    "splitVisuals": [],
+    "pageChecks": [
+      {
+        "page": 1,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1352
+      },
+      {
+        "page": 2,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1892
+      },
+      {
+        "page": 3,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1654
+      },
+      {
+        "page": 4,
+        "images": 2,
+        "charactersOutsidePage": 0,
+        "textCharacters": 654
+      },
+      {
+        "page": 5,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 702
+      },
+      {
+        "page": 6,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 912
+      },
+      {
+        "page": 7,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 939
+      },
+      {
+        "page": 8,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 2195
+      },
+      {
+        "page": 9,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1350
+      },
+      {
+        "page": 10,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1471
+      },
+      {
+        "page": 11,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1293
+      },
+      {
+        "page": 12,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1444
+      },
+      {
+        "page": 13,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 859
+      },
+      {
+        "page": 14,
+        "images": 2,
+        "charactersOutsidePage": 0,
+        "textCharacters": 898
+      },
+      {
+        "page": 15,
+        "images": 2,
+        "charactersOutsidePage": 0,
+        "textCharacters": 932
+      },
+      {
+        "page": 16,
+        "images": 2,
+        "charactersOutsidePage": 0,
+        "textCharacters": 909
+      },
+      {
+        "page": 17,
+        "images": 2,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1215
+      },
+      {
+        "page": 18,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1812
+      },
+      {
+        "page": 19,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1423
+      },
+      {
+        "page": 20,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1388
+      },
+      {
+        "page": 21,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1253
+      }
+    ]
+  }
+]

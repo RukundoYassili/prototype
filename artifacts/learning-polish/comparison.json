@@ -1,0 +1,79 @@
+{
+  "library": [
+    {
+      "width": 375,
+      "before": 1655.953125,
+      "after": 1100.34375
+    },
+    {
+      "width": 768,
+      "before": 1053.421875,
+      "after": 819.859375
+    },
+    {
+      "width": 1024,
+      "before": 1003.984375,
+      "after": 781.765625
+    },
+    {
+      "width": 1440,
+      "before": 1002.390625,
+      "after": 759.78125
+    },
+    {
+      "width": 1920,
+      "before": 1002.390625,
+      "after": 759.78125
+    }
+  ],
+  "stories": [
+    {
+      "id": "exam-pressure",
+      "before": 1092.203125,
+      "after": 936.796875,
+      "reductionPercent": 14.2
+    },
+    {
+      "id": "unemployment",
+      "before": 1117.390625,
+      "after": 936.796875,
+      "reductionPercent": 16.2
+    },
+    {
+      "id": "caregiving",
+      "before": 1089.890625,
+      "after": 961.984375,
+      "reductionPercent": 11.7
+    },
+    {
+      "id": "work-meeting",
+      "before": 1089.890625,
+      "after": 1002.484375,
+      "reductionPercent": 8.0
+    },
+    {
+      "id": "results",
+      "before": 1140.78125,
+      "after": 985.375,
+      "reductionPercent": 13.6
+    },
+    {
+      "id": "caregiver-exhaustion",
+      "before": 1117.390625,
+      "after": 961.984375,
+      "reductionPercent": 13.9
+    },
+    {
+      "id": "moving",
+      "before": 1117.390625,
+      "after": 961.984375,
+      "reductionPercent": 13.9
+    },
+    {
+      "id": "conflict-safety",
+      "before": 1142.578125,
+      "after": 987.171875,
+      "reductionPercent": 13.6
+    }
+  ]
+}

@@ -1,0 +1,1293 @@
+{
+  "scope": "Why Mental Health chapter library only",
+  "date": "2026-11-11",
+  "chapterCount": 10,
+  "sectionCount": 210,
+  "protectedFiles": 372,
+  "changedProtectedFiles": [
+    "src/learning/gbv/chapter-01.css"
+  ],
+  "concurrentChanges": [
+    "src/learning/gbv/chapter-01.css"
+  ],
+  "mobileHero": {
+    "beforeHeight": 817,
+    "afterHeight": 698,
+    "reduction": 119
+  },
+  "layouts": [
+    {
+      "width": 375,
+      "overflow": false,
+      "images": [
+        {
+          "loaded": true,
+          "aspectRatio": 1.5024630541871922,
+          "fit": "contain",
+          "transform": "none",
+          "transition": "0s",
+          "reserved": true
+        },
+        {
+          "loaded": true,
+          "aspectRatio": 1.5024630541871922,
+          "fit": "contain",
+          "transform": "none",
+          "transition": "0s",
+          "reserved": true
+        },
+        {
+          "loaded": true,
+          "aspectRatio": 1.5024630541871922,
+          "fit": "contain",
+          "transform": "none",
+          "transition": "0s",
+          "reserved": true
+        },
+        {
+          "loaded": true,
+          "aspectRatio": 1.5024630541871922,
+          "fit": "contain",
+          "transform": "none",
+          "transition": "0s",
+          "reserved": true
+        },
+        {
+          "loaded": true,
+          "aspectRatio": 1.5024630541871922,
+          "fit": "contain",
+          "transform": "none",
+          "transition": "0s",
+          "reserved": true
+        },
+        {
+          "loaded": true,
+          "aspectRatio": 1.5024630541871922,
+          "fit": "contain",
+          "transform": "none",
+          "transition": "0s",
+          "reserved": true
+        },
+        {
+          "loaded": true,
+          "aspectRatio": 1.5024630541871922,
+          "fit": "contain",
+          "transform": "none",
+          "transition": "0s",
+          "reserved": true
+        },
+        {
+          "loaded": true,
+          "aspectRatio": 1.5024630541871922,
+          "fit": "contain",
+          "transform": "none",
+          "transition": "0s",
+          "reserved": true
+        },
+        {
+          "loaded": true,
+          "aspectRatio": 1.5024630541871922,
+          "fit": "contain",
+          "transform": "none",
+          "transition": "0s",
+          "reserved": true
+        },
+        {
+          "loaded": true,
+          "aspectRatio": 1.5024630541871922,
+          "fit": "contain",
+          "transform": "none",
+          "transition": "0s",
+          "reserved": true
+        }
+      ],
+      "cards": [
+        {
+          "top": 2367.328125,
+          "bottom": 3094.03125,
+          "actionTop": 3013.03125
+        },
+        {
+          "top": 3120.03125,
+          "bottom": 3846.734375,
+          "actionTop": 3765.734375
+        },
+        {
+          "top": 3872.734375,
+          "bottom": 4571.6875,
+          "actionTop": 4490.6875
+        },
+        {
+          "top": 4597.6875,
+          "bottom": 5296.640625,
+          "actionTop": 5215.640625
+        },
+        {
+          "top": 5322.640625,
+          "bottom": 6052.59375,
+          "actionTop": 5971.59375
+        },
+        {
+          "top": 6078.59375,
+          "bottom": 6808.546875,
+          "actionTop": 6727.546875
+        },
+        {
+          "top": 6834.546875,
+          "bottom": 7564.5,
+          "actionTop": 7483.5
+        },
+        {
+          "top": 7590.5,
+          "bottom": 8289.453125,
+          "actionTop": 8208.453125
+        },
+        {
+          "top": 8315.453125,
+          "bottom": 9045.40625,
+          "actionTop": 8964.40625
+        },
+        {
+          "top": 9071.40625,
+          "bottom": 9770.359375,
+          "actionTop": 9689.359375
+        }
+      ],
+      "errors": []
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "images": [
+        {
+          "loaded": true,
+          "aspectRatio": 1.5,
+          "fit": "contain",
+          "transform": "none",
+          "transition": "0s",
+          "reserved": true
+        },
+        {
+          "loaded": true,
+          "aspectRatio": 1.5,
+          "fit": "contain",
+          "transform": "none",
+          "transition": "0s",
+          "reserved": true
+        },
+        {
+          "loaded": true,
+          "aspectRatio": 1.5,
+          "fit": "contain",
+          "transform": "none",
+          "transition": "0s",
+          "reserved": true
+        },
+        {
+          "loaded": true,
+          "aspectRatio": 1.5,
+          "fit": "contain",
+          "transform": "none",
+          "transition": "0s",
+          "reserved": true
+        },
+        {
+          "loaded": true,
+          "aspectRatio": 1.5,
+          "fit": "contain",
+          "transform": "none",
+          "transition": "0s",
+          "reserved": true
+        },
+        {
+          "loaded": true,
+          "aspectRatio": 1.5,
+          "fit": "contain",
+          "transform": "none",
+          "transition": "0s",
+          "reserved": true
+        },
+        {
+          "loaded": true,
+          "aspectRatio": 1.5,
+          "fit": "contain",
+          "transform": "none",
+          "transition": "0s",
+          "reserved": true
+        },
+        {
+          "loaded": true,
+          "aspectRatio": 1.5,
+          "fit": "contain",
+          "transform": "none",
+          "transition": "0s",
+          "reserved": true
+        },
+        {
+          "loaded": true,
+          "aspectRatio": 1.5,
+          "fit": "contain",
+          "transform": "none",
+          "transition": "0s",
+          "reserved": true
+        },
+        {
+          "loaded": true,
+          "aspectRatio": 1.5,
+          "fit": "contain",
+          "transform": "none",
+          "transition": "0s",
+          "reserved": true
+        }
+      ],
+      "cards": [
+        {
+          "top": 2013.9375,
+          "bottom": 2745.3125,
+          "actionTop": 2666.3125
+        },
+        {
+          "top": 2013.9375,
+          "bottom": 2745.3125,
+          "actionTop": 2666.3125
+        },
+        {
+          "top": 2765.3125,
+          "bottom": 3468.9375,
+          "actionTop": 3389.9375
+        },
+        {
+          "top": 2765.3125,
+          "bottom": 3468.9375,
+          "actionTop": 3389.9375
+        },
+        {
+          "top": 3488.9375,
+          "bottom": 4192.5625,
+          "actionTop": 4113.5625
+        },
+        {
+          "top": 3488.9375,
+          "bottom": 4192.5625,
+          "actionTop": 4113.5625
+        },
+        {
+          "top": 4212.5625,
+          "bottom": 4916.1875,
+          "actionTop": 4837.1875
+        },
+        {
+          "top": 4212.5625,
+          "bottom": 4916.1875,
+          "actionTop": 4837.1875
+        },
+        {
+          "top": 4936.1875,
+          "bottom": 5670.8125,
+          "actionTop": 5591.8125
+        },
+        {
+          "top": 4936.1875,
+          "bottom": 5670.8125,
+          "actionTop": 5591.8125
+        }
+      ],
+      "errors": []
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "images": [
+        {
+          "loaded": true,
+          "aspectRatio": 1.5017301038062283,
+          "fit": "contain",
+          "transform": "none",
+          "transition": "0s",
+          "reserved": true
+        },
+        {
+          "loaded": true,
+          "aspectRatio": 1.5017301038062283,
+          "fit": "contain",
+          "transform": "none",
+          "transition": "0s",
+          "reserved": true
+        },
+        {
+          "loaded": true,
+          "aspectRatio": 1.5017301038062283,
+          "fit": "contain",
+          "transform": "none",
+          "transition": "0s",
+          "reserved": true
+        },
+        {
+          "loaded": true,
+          "aspectRatio": 1.5017301038062283,
+          "fit": "contain",
+          "transform": "none",
+          "transition": "0s",
+          "reserved": true
+        },
+        {
+          "loaded": true,
+          "aspectRatio": 1.5017301038062283,
+          "fit": "contain",
+          "transform": "none",
+          "transition": "0s",
+          "reserved": true
+        },
+        {
+          "loaded": true,
+          "aspectRatio": 1.5017301038062283,
+          "fit": "contain",
+          "transform": "none",
+          "transition": "0s",
+          "reserved": true
+        },
+        {
+          "loaded": true,
+          "aspectRatio": 1.5017301038062283,
+          "fit": "contain",
+          "transform": "none",
+          "transition": "0s",
+          "reserved": true
+        },
+        {
+          "loaded": true,
+          "aspectRatio": 1.5017301038062283,
+          "fit": "contain",
+          "transform": "none",
+          "transition": "0s",
+          "reserved": true
+        },
+        {
+          "loaded": true,
+          "aspectRatio": 1.5017301038062283,
+          "fit": "contain",
+          "transform": "none",
+          "transition": "0s",
+          "reserved": true
+        },
+        {
+          "loaded": true,
+          "aspectRatio": 1.5017301038062283,
+          "fit": "contain",
+          "transform": "none",
+          "transition": "0s",
+          "reserved": true
+        }
+      ],
+      "cards": [
+        {
+          "top": 1530.09375,
+          "bottom": 2316.546875,
+          "actionTop": 2235.546875
+        },
+        {
+          "top": 1530.09375,
+          "bottom": 2316.546875,
+          "actionTop": 2235.546875
+        },
+        {
+          "top": 2344.546875,
+          "bottom": 3103.25,
+          "actionTop": 3022.25
+        },
+        {
+          "top": 2344.546875,
+          "bottom": 3103.25,
+          "actionTop": 3022.25
+        },
+        {
+          "top": 3131.25,
+          "bottom": 3889.953125,
+          "actionTop": 3808.953125
+        },
+        {
+          "top": 3131.25,
+          "bottom": 3889.953125,
+          "actionTop": 3808.953125
+        },
+        {
+          "top": 3917.953125,
+          "bottom": 4676.65625,
+          "actionTop": 4595.65625
+        },
+        {
+          "top": 3917.953125,
+          "bottom": 4676.65625,
+          "actionTop": 4595.65625
+        },
+        {
+          "top": 4704.65625,
+          "bottom": 5463.359375,
+          "actionTop": 5382.359375
+        },
+        {
+          "top": 4704.65625,
+          "bottom": 5463.359375,
+          "actionTop": 5382.359375
+        }
+      ],
+      "errors": []
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "images": [
+        {
+          "loaded": true,
+          "aspectRatio": 1.5012345679012347,
+          "fit": "contain",
+          "transform": "none",
+          "transition": "0s",
+          "reserved": true
+        },
+        {
+          "loaded": true,
+          "aspectRatio": 1.5012345679012347,
+          "fit": "contain",
+          "transform": "none",
+          "transition": "0s",
+          "reserved": true
+        },
+        {
+          "loaded": true,
+          "aspectRatio": 1.5012345679012347,
+          "fit": "contain",
+          "transform": "none",
+          "transition": "0s",
+          "reserved": true
+        },
+        {
+          "loaded": true,
+          "aspectRatio": 1.5012345679012347,
+          "fit": "contain",
+          "transform": "none",
+          "transition": "0s",
+          "reserved": true
+        },
+        {
+          "loaded": true,
+          "aspectRatio": 1.5012345679012347,
+          "fit": "contain",
+          "transform": "none",
+          "transition": "0s",
+          "reserved": true
+        },
+        {
+          "loaded": true,
+          "aspectRatio": 1.5012345679012347,
+          "fit": "contain",
+          "transform": "none",
+          "transition": "0s",
+          "reserved": true
+        },
+        {
+          "loaded": true,
+          "aspectRatio": 1.5012345679012347,
+          "fit": "contain",
+          "transform": "none",
+          "transition": "0s",
+          "reserved": true
+        },
+        {
+          "loaded": true,
+          "aspectRatio": 1.5012345679012347,
+          "fit": "contain",
+          "transform": "none",
+          "transition": "0s",
+          "reserved": true
+        },
+        {
+          "loaded": true,
+          "aspectRatio": 1.5012345679012347,
+          "fit": "contain",
+          "transform": "none",
+          "transition": "0s",
+          "reserved": true
+        },
+        {
+          "loaded": true,
+          "aspectRatio": 1.5012345679012347,
+          "fit": "contain",
+          "transform": "none",
+          "transition": "0s",
+          "reserved": true
+        }
+      ],
+      "cards": [
+        {
+          "top": 1639.59375,
+          "bottom": 2509.453125,
+          "actionTop": 2424.453125
+        },
+        {
+          "top": 1639.59375,
+          "bottom": 2509.453125,
+          "actionTop": 2424.453125
+        },
+        {
+          "top": 2537.453125,
+          "bottom": 3407.3125,
+          "actionTop": 3322.3125
+        },
+        {
+          "top": 2537.453125,
+          "bottom": 3407.3125,
+          "actionTop": 3322.3125
+        },
+        {
+          "top": 3435.3125,
+          "bottom": 4305.171875,
+          "actionTop": 4220.171875
+        },
+        {
+          "top": 3435.3125,
+          "bottom": 4305.171875,
+          "actionTop": 4220.171875
+        },
+        {
+          "top": 4333.171875,
+          "bottom": 5203.03125,
+          "actionTop": 5118.03125
+        },
+        {
+          "top": 4333.171875,
+          "bottom": 5203.03125,
+          "actionTop": 5118.03125
+        },
+        {
+          "top": 5231.03125,
+          "bottom": 6100.890625,
+          "actionTop": 6015.890625
+        },
+        {
+          "top": 5231.03125,
+          "bottom": 6100.890625,
+          "actionTop": 6015.890625
+        }
+      ],
+      "errors": []
+    },
+    {
+      "width": 1920,
+      "overflow": false,
+      "images": [
+        {
+          "loaded": true,
+          "aspectRatio": 1.5012345679012347,
+          "fit": "contain",
+          "transform": "none",
+          "transition": "0s",
+          "reserved": true
+        },
+        {
+          "loaded": true,
+          "aspectRatio": 1.5012345679012347,
+          "fit": "contain",
+          "transform": "none",
+          "transition": "0s",
+          "reserved": true
+        },
+        {
+          "loaded": true,
+          "aspectRatio": 1.5012345679012347,
+          "fit": "contain",
+          "transform": "none",
+          "transition": "0s",
+          "reserved": true
+        },
+        {
+          "loaded": true,
+          "aspectRatio": 1.5012345679012347,
+          "fit": "contain",
+          "transform": "none",
+          "transition": "0s",
+          "reserved": true
+        },
+        {
+          "loaded": true,
+          "aspectRatio": 1.5012345679012347,
+          "fit": "contain",
+          "transform": "none",
+          "transition": "0s",
+          "reserved": true
+        },
+        {
+          "loaded": true,
+          "aspectRatio": 1.5012345679012347,
+          "fit": "contain",
+          "transform": "none",
+          "transition": "0s",
+          "reserved": true
+        },
+        {
+          "loaded": true,
+          "aspectRatio": 1.5012345679012347,
+          "fit": "contain",
+          "transform": "none",
+          "transition": "0s",
+          "reserved": true
+        },
+        {
+          "loaded": true,
+          "aspectRatio": 1.5012345679012347,
+          "fit": "contain",
+          "transform": "none",
+          "transition": "0s",
+          "reserved": true
+        },
+        {
+          "loaded": true,
+          "aspectRatio": 1.5012345679012347,
+          "fit": "contain",
+          "transform": "none",
+          "transition": "0s",
+          "reserved": true
+        },
+        {
+          "loaded": true,
+          "aspectRatio": 1.5012345679012347,
+          "fit": "contain",
+          "transform": "none",
+          "transition": "0s",
+          "reserved": true
+        }
+      ],
+      "cards": [
+        {
+          "top": 1642.78125,
+          "bottom": 2542.859375,
+          "actionTop": 2457.859375
+        },
+        {
+          "top": 1642.78125,
+          "bottom": 2542.859375,
+          "actionTop": 2457.859375
+        },
+        {
+          "top": 2570.859375,
+          "bottom": 3470.9375,
+          "actionTop": 3385.9375
+        },
+        {
+          "top": 2570.859375,
+          "bottom": 3470.9375,
+          "actionTop": 3385.9375
+        },
+        {
+          "top": 3498.9375,
+          "bottom": 4399.015625,
+          "actionTop": 4314.015625
+        },
+        {
+          "top": 3498.9375,
+          "bottom": 4399.015625,
+          "actionTop": 4314.015625
+        },
+        {
+          "top": 4427.015625,
+          "bottom": 5327.09375,
+          "actionTop": 5242.09375
+        },
+        {
+          "top": 4427.015625,
+          "bottom": 5327.09375,
+          "actionTop": 5242.09375
+        },
+        {
+          "top": 5355.09375,
+          "bottom": 6255.171875,
+          "actionTop": 6170.171875
+        },
+        {
+          "top": 5355.09375,
+          "bottom": 6255.171875,
+          "actionTop": 6170.171875
+        }
+      ],
+      "errors": []
+    }
+  ],
+  "contrast": [
+    {
+      "text": "A little understanding.A meaningful step forward.",
+      "ratio": 11.97,
+      "minimum": 3,
+      "passes": true
+    },
+    {
+      "text": "Explore mental health through detailed lessons, visual examples, and optional reflection. ",
+      "ratio": 5.92,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "Make room to learn, at your own pace.",
+      "ratio": 5.92,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "New to mental health? Begin here.",
+      "ratio": 10.18,
+      "minimum": 3,
+      "passes": true
+    },
+    {
+      "text": "Build a foundation with Chapter 01, or choose any topic below. There is no required order ",
+      "ratio": 5.7,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "The supplied chapters have not been clinically reviewed or approved for public release. Th",
+      "ratio": 6.4,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "Take your next stepin understanding.",
+      "ratio": 11.74,
+      "minimum": 3,
+      "passes": true
+    },
+    {
+      "text": "Read each chapter in full, explore its examples, and return to the sections that matter to",
+      "ratio": 6.58,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "Explore the library",
+      "ratio": 10.91,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "10 of 10 chapters",
+      "ratio": 6.11,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "Illustrative fictional scenes · AI-generated. The covers introduce ideas, not diagnoses or",
+      "ratio": 6.58,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "CHAPTER 01",
+      "ratio": 11.55,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "15 sections",
+      "ratio": 6.33,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "English · Educational draft",
+      "ratio": 6.33,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "Understanding Mental Health and Wellbeing",
+      "ratio": 13.32,
+      "minimum": 3,
+      "passes": true
+    },
+    {
+      "text": "Explore what mental health means, what shapes wellbeing, and the ways people can care for ",
+      "ratio": 6.58,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "25-35 minutes, with optional reflection",
+      "ratio": 6.58,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "Visual examples · Optional reflection",
+      "ratio": 6.91,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "Read the full chapter",
+      "ratio": 7.79,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "CHAPTER 02",
+      "ratio": 11.55,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "18 sections",
+      "ratio": 6.33,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "English · Educational draft",
+      "ratio": 6.33,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "Recognizing Emotions and Responding to Them",
+      "ratio": 13.32,
+      "minimum": 3,
+      "passes": true
+    },
+    {
+      "text": "Learn about emotional experiences, practical responses, safe communication, and when addit",
+      "ratio": 6.58,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "35-50 minutes plus optional exercises",
+      "ratio": 6.58,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "Visual examples · Optional reflection",
+      "ratio": 6.91,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "Read the full chapter",
+      "ratio": 7.79,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "CHAPTER 03",
+      "ratio": 11.55,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "19 sections",
+      "ratio": 6.33,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "English · Educational draft",
+      "ratio": 6.33,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "Understanding Stress and Healthy Coping Strategies",
+      "ratio": 13.32,
+      "minimum": 3,
+      "passes": true
+    },
+    {
+      "text": "Explore stress, practical pressures, flexible coping, and when additional support matters.",
+      "ratio": 6.58,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "18 minutes, plus optional reflection",
+      "ratio": 6.58,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "Visual examples · Optional reflection",
+      "ratio": 6.91,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "Read the full chapter",
+      "ratio": 7.79,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "CHAPTER 04",
+      "ratio": 11.55,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "23 sections",
+      "ratio": 6.33,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "English · Educational draft",
+      "ratio": 6.33,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "Understanding Anxiety and Anxiety Disorders",
+      "ratio": 13.32,
+      "minimum": 3,
+      "passes": true
+    },
+    {
+      "text": "Understand everyday anxiety, anxiety disorders, supportive responses, and professional car",
+      "ratio": 6.58,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "20 minutes, plus optional reflection",
+      "ratio": 6.58,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "Visual examples · Optional reflection",
+      "ratio": 6.91,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "Read the full chapter",
+      "ratio": 7.79,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "CHAPTER 05",
+      "ratio": 11.55,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "22 sections",
+      "ratio": 6.33,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "English · Educational draft",
+      "ratio": 6.33,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "Understanding Depression and Depressive Disorders",
+      "ratio": 13.32,
+      "minimum": 3,
+      "passes": true
+    },
+    {
+      "text": "Learn about depression, compassionate support, treatment, and small steps that respect ind",
+      "ratio": 6.58,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "20 minutes, plus optional reflection",
+      "ratio": 6.58,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "Visual examples · Optional reflection",
+      "ratio": 6.91,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "Read the full chapter",
+      "ratio": 7.79,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "CHAPTER 06",
+      "ratio": 11.55,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "31 sections",
+      "ratio": 6.33,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "English · Educational draft",
+      "ratio": 6.33,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "Understanding Trauma and Post-Traumatic Stress",
+      "ratio": 13.32,
+      "minimum": 3,
+      "passes": true
+    },
+    {
+      "text": "Explore trauma responses, safety, voluntary coping, and pathways to appropriate profession",
+      "ratio": 6.58,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "20 minutes, plus optional reflection",
+      "ratio": 6.58,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "Visual examples · Optional reflection",
+      "ratio": 6.91,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "Read the full chapter",
+      "ratio": 7.79,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "CHAPTER 07",
+      "ratio": 11.55,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "20 sections",
+      "ratio": 6.33,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "English · Educational draft",
+      "ratio": 6.33,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "Understanding Grief, Loss, and Emotional Adjustment",
+      "ratio": 13.32,
+      "minimum": 3,
+      "passes": true
+    },
+    {
+      "text": "Understand different losses, changing grief experiences, practical support, and when asses",
+      "ratio": 6.58,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "20 minutes, plus optional reflection",
+      "ratio": 6.58,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "Visual examples · Optional reflection",
+      "ratio": 6.91,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "Read the full chapter",
+      "ratio": 7.79,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "CHAPTER 08",
+      "ratio": 11.55,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "21 sections",
+      "ratio": 6.33,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "English · Educational draft",
+      "ratio": 6.33,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "Understanding Sleep and Mental Wellbeing",
+      "ratio": 13.32,
+      "minimum": 3,
+      "passes": true
+    },
+    {
+      "text": "Explore sleep rhythms, common sleep difficulties, realistic routines, and when professiona",
+      "ratio": 6.58,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "Read at your own pace",
+      "ratio": 6.58,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "Detailed examples · Optional reflection",
+      "ratio": 6.91,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "Read the full chapter",
+      "ratio": 7.79,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "CHAPTER 09",
+      "ratio": 11.55,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "21 sections",
+      "ratio": 6.33,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "English · Educational draft",
+      "ratio": 6.33,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "Relationships, Social Connection, and Mental Wellbeing",
+      "ratio": 13.32,
+      "minimum": 3,
+      "passes": true
+    },
+    {
+      "text": "Understand connection, loneliness, respectful boundaries, communication, and safe ways to ",
+      "ratio": 6.58,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "Read at your own pace",
+      "ratio": 6.58,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "Detailed examples · Optional reflection",
+      "ratio": 6.91,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "Read the full chapter",
+      "ratio": 7.79,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "CHAPTER 10",
+      "ratio": 11.55,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "20 sections",
+      "ratio": 6.33,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "English · Educational draft",
+      "ratio": 6.33,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "Child and Adolescent Mental Health",
+      "ratio": 13.32,
+      "minimum": 3,
+      "passes": true
+    },
+    {
+      "text": "Learn about development, supportive families and schools, bullying, safeguarding, and age-",
+      "ratio": 6.58,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "Read at your own pace",
+      "ratio": 6.58,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "Detailed examples · Optional reflection",
+      "ratio": 6.91,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "Read the full chapter",
+      "ratio": 7.79,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "Keep learning, at your own pace.",
+      "ratio": 9.81,
+      "minimum": 3,
+      "passes": true
+    },
+    {
+      "text": "More Mental Health chapters are on the way. Return to a useful idea, revisit a visual exam",
+      "ratio": 7.14,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "The chapters include their original references and source notes. Additional background is ",
+      "ratio": 4.93,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "text": "Information is one place to begin.",
+      "ratio": 10.61,
+      "minimum": 3,
+      "passes": true
+    },
+    {
+      "text": "When you want to explore support, find a pathway that makes sense for your circumstances.",
+      "ratio": 4.78,
+      "minimum": 4.5,
+      "passes": true
+    }
+  ]
+}

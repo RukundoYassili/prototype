@@ -1,0 +1,74 @@
+{
+  "checkedAt": "2026-11-11",
+  "scope": "Selected official-source checks for supplied Mental Health Chapters 8–10. This is not an exhaustive bibliography audit, clinical approval, safeguarding approval, or confirmation of service availability. Source text and original downloads remain unchanged.",
+  "checks": [
+    {
+      "chapter": 8,
+      "reference": "1",
+      "url": "https://www.cdc.gov/sleep/about/",
+      "result": "Retrieved. The age ranges and sleep amounts in the source table match the CDC guidance. The source's additional commonly 7–9 hours phrase for adults is not part of this CDC table."
+    },
+    {
+      "chapter": 8,
+      "reference": "7",
+      "url": "https://www.nhlbi.nih.gov/health/insomnia/treatment",
+      "result": "Retrieved. Describes CBT-I as the usual first treatment option for long-term insomnia and discusses medication and supplement limitations."
+    },
+    {
+      "chapter": 8,
+      "reference": "8",
+      "url": "https://www.nccih.nih.gov/health/providers/digest/psychological-and-physical-approaches-for-sleep-disorders-science",
+      "result": "Retrieved. March 2024 review includes the strong recommendation for multicomponent CBT-I in adults."
+    },
+    {
+      "chapter": 9,
+      "reference": "1",
+      "url": "https://www.who.int/news-room/questions-and-answers/item/social-connection",
+      "result": "Retrieved. The 30 June 2025 page distinguishes social connection, isolation, and loneliness, and describes structure, function, and quality."
+    },
+    {
+      "chapter": 9,
+      "reference": "2",
+      "url": "https://www.who.int/publications/i/item/978240112360/",
+      "result": "Retrieved. The title and publication date correspond to the WHO Commission on Social Connection report. The linked full report was not clinically audited."
+    },
+    {
+      "chapter": 10,
+      "reference": "R1",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/adolescent-mental-health",
+      "result": "Retrieved. The September 2025 page supports the source's explicitly global one-in-seven estimate for ages 10–19. This is not Rwanda prevalence."
+    },
+    {
+      "chapter": 10,
+      "reference": "R2",
+      "url": "https://www.cdc.gov/children-mental-health/about/",
+      "result": "Retrieved. The May 2026 overview discusses development, supportive environments, and professional assessment. US-specific crisis contacts on the external page have not been presented as Rwanda services."
+    },
+    {
+      "chapter": 10,
+      "reference": "R4",
+      "url": "https://www.unesco.org/en/articles/teaching-care-practical-guide-teachers-support-mental-health-and-well-being-schools",
+      "result": "Retrieved. The official page confirms the 2026 UNESCO/UNICEF/WHO guide and its school support scope."
+    },
+    {
+      "chapter": 10,
+      "reference": "R5",
+      "url": "https://www.gov.rw/emergency",
+      "result": "Retrieved. The directory lists 112 as Emergency, 912 as Ambulance, and 116 as Child Help Line. These are the source's general emergency/child-protection contacts, not a verified specialist suicide helpline. Availability and service suitability were not established."
+    },
+    {
+      "chapter": 10,
+      "reference": "R7",
+      "url": "https://www.kmentalhealth.gov.rw/services",
+      "result": "Retrieved. The official Ministry of Health site lists child and adolescent mental health services and +250793902059/+250736440666. Hours, eligibility, referral requirements, and live staffing were not confirmed."
+    }
+  ],
+  "sourceDiscrepancies": [
+    {
+      "chapter": 8,
+      "location": "Learning goals and chapter map, source page 2",
+      "note": "The printed chapter map's ranges do not precisely match the detailed section numbering: main scenarios are in section 13; activities are in sections 14–16; references are unnumbered after section 19. The original map is retained unchanged, while the reader contents link to the actual headings. An editorial correction should be made in the source document before publication."
+    }
+  ],
+  "remainingReview": "The other bibliography entries, clinical interpretations, local pathways, safeguarding/legal requirements, translations, accessibility, and publication status still require the reviews described in the source documents. No publication checklist has been marked complete."
+}

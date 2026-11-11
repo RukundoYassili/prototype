@@ -1,0 +1,46 @@
+[
+  {
+    "path": "src/learning/LearningPages.tsx",
+    "sha256": "6ebc9156f823e01947ab7be12805c43127eb83d41005f499c57542784c41f92f"
+  },
+  {
+    "path": "src/learning/LearningVisuals.tsx",
+    "sha256": "49fb85fc1f7a6dbd3743df9a9939f14b8c64d58ba2c16962ed3fd253b29ed34c"
+  },
+  {
+    "path": "src/learning/library.tsx",
+    "sha256": "52515c8ed8842de2e26aaec5230cc7b0a9230aa808759ec5f9923d6d4e26e600"
+  },
+  {
+    "path": "src/learning/visual-types.ts",
+    "sha256": "8df3a89793c8914bd307e9043e4fc4a0c7b825f6695a1d067ba49e87eb39a09f"
+  },
+  {
+    "path": "src/learning/gbv/GbvPages.tsx",
+    "sha256": "700963da175605c33e3b7f8b6e50c7e72d0470e6c3f72904d42b9cb1b5ded663"
+  },
+  {
+    "path": "src/learning/gbv/visuals.ts",
+    "sha256": "b34561b091409af218e3e2d8b1a6e1f88f31903a30ce718758047cc88e621147"
+  },
+  {
+    "path": "src/learning/gbv/chapters.generated.ts",
+    "sha256": "2c0813dff1a6696feca6e3e27dca8e7e2806ae968c1783f4becb542ff983e6de"
+  },
+  {
+    "path": "src/learning/gbv/chapters-04-10.generated.ts",
+    "sha256": "4ea40389db3e1c375f9c7050c846f3cb20332d1f72d16bd8e54121590d15a19e"
+  },
+  {
+    "path": "src/learning/mental-health.css",
+    "sha256": "aff37280ba5a54e18d0459478a4a282d71eb92bf5c928fe056a96765c590504d"
+  },
+  {
+    "path": "src/learning/learning-visuals.css",
+    "sha256": "3d514bd55608d80c342ec807517e3c211de0c749993134e1f3c1eba7f26fcea5"
+  },
+  {
+    "path": "src/learning/gbv/gbv.css",
+    "sha256": "4d0776cdc19ad826b21a7c958a0b6880e9aa2b744e34e734f8d9c2a790f51b1e"
+  }
+]

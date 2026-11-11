@@ -1,0 +1,44 @@
+[
+  {
+    "id": "mental-health-influences",
+    "title": "A person within their circumstances",
+    "explanation": "These influences interact. A person may need practical assistance, protection, healthcare, or changes in their surroundings as well as emotional support.",
+    "reflection": "Optional reflectionWhich influences in this diagram require support beyond an individual’s own effort?",
+    "scenes": 0
+  },
+  {
+    "id": "pressures-and-support",
+    "title": "Notice the pressure. Consider the support.",
+    "explanation": "Risk and protective factors do not determine an individual outcome. Institutions and communities help create many protective conditions.",
+    "reflection": "Optional reflectionHow might a community or institution help create one of these protective conditions?",
+    "scenes": 0
+  },
+  {
+    "id": "respectful-listening",
+    "title": "Offer care without taking away choice",
+    "explanation": "Care does not require having all the answers or asking someone to disclose painful events. Support can include quiet company and help finding appropriate services.",
+    "reflection": "Optional reflectionHow does asking permission give the other person more choice?",
+    "scenes": 0
+  },
+  {
+    "id": "exam-pressure",
+    "title": "Example A: A learner under examination pressure.",
+    "explanation": "This example connects emotional support with practical planning. A study conversation is one possible step, not a guarantee that distress will end. Persistent or worsening difficulty may need further help.",
+    "reflection": "Optional reflectionWhat makes the educator’s response supportive rather than blaming?",
+    "scenes": 2
+  },
+  {
+    "id": "unemployment",
+    "title": "Example B: A young adult facing unemployment.",
+    "explanation": "Emotional connection and practical assistance can both be relevant. Unemployment is not evidence of insufficient positivity, and encouragement alone cannot remove structural barriers.",
+    "reflection": "Optional reflectionWhich part of this response offers practical help as well as connection?",
+    "scenes": 2
+  },
+  {
+    "id": "caregiving",
+    "title": "Example C: An adult managing family responsibilities.",
+    "explanation": "The response changes the workload rather than asking the caregiver simply to cope better. Shared tasks are one possibility; accessible practical and health support may still be necessary.",
+    "reflection": "Optional reflectionHow does sharing a task differ from telling someone to be more positive?",
+    "scenes": 2
+  }
+]

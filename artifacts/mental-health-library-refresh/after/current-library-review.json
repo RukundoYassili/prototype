@@ -1,0 +1,51 @@
+{
+  "status": "passed",
+  "scope": "Seven cover integration after concurrent addition of Chapters 08–10",
+  "layouts": [
+    {
+      "width": 375,
+      "overflow": false,
+      "cards": 10,
+      "allImagesLoaded": true,
+      "sourceNote": "Educational drafts · November 2026The supplied chapters have not been clinically reviewed or approved for public release. They provide educational information rather than diagnosis or individual treatment."
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "cards": 10,
+      "allImagesLoaded": true,
+      "sourceNote": "Educational drafts · November 2026The supplied chapters have not been clinically reviewed or approved for public release. They provide educational information rather than diagnosis or individual treatment."
+    }
+  ],
+  "links": [
+    {
+      "chapter": 1,
+      "keyboardNavigation": "passed"
+    },
+    {
+      "chapter": 2,
+      "keyboardNavigation": "passed"
+    },
+    {
+      "chapter": 3,
+      "keyboardNavigation": "passed"
+    },
+    {
+      "chapter": 4,
+      "keyboardNavigation": "passed"
+    },
+    {
+      "chapter": 5,
+      "keyboardNavigation": "passed"
+    },
+    {
+      "chapter": 6,
+      "keyboardNavigation": "passed"
+    },
+    {
+      "chapter": 7,
+      "keyboardNavigation": "passed"
+    }
+  ],
+  "errors": []
+}

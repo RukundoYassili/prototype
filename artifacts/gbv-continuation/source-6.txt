@@ -1,0 +1,301 @@
+PAGE 1
+  8.0   VUGA NDAKUMVA INITIATIVE
+ 12.0   GBV EDUCATIONAL CONTENT LIBRARY
+ 14.0 B CHAPTER 06
+ 23.0 B Sexual Violence, Harassment, and
+ 23.0 B Exploitation
+ 12.0   A survivor-centred educational chapter for Rwanda | English edition | Version
+ 12.0   1.1 | 11 November 2026
+  9.1   Editorial status: Evidence-informed educational draft; not a clinical, forensic, safeguarding, or legal
+  9.1   protocol. GBV specialist, clinical, child-protection, legal and language reviews are required before
+  9.1   publication. All scenarios are fictional.
+ 14.0 B How to use this chapter
+  9.1   This chapter is written for adults, educators, community members, and service navigators. It explains
+  9.1   forms of sexual violence and exploitation, what makes consent meaningful, how to respond safely, and
+  9.1   where to seek support. Readers may skip examples or activities if they feel uncomfortable. No one
+  9.1   needs to share personal experiences to complete the chapter.
+  9.1   Learning outcomes: After reading, a learner should be able to recognize coercion and abuse of
+  9.1   authority; explain sexual harassment and exploitation; identify safer first responses; understand
+  9.1   time-sensitive healthcare; and describe Rwanda-based support options.
+ 14.0 B 1. Understanding sexual violence
+  9.1   Sexual violence refers to sexual acts, attempted sexual acts, or other sexual conduct carried out without
+  9.1   valid consent, including through force, threats, intimidation, coercion, exploitation of vulnerability, or
+  9.1   abuse of power. It can happen between strangers, acquaintances, relatives, colleagues, partners, or
+  9.1   spouses. It may occur in person or through technology. Sexual violence is never justified by a person’s
+  9.1   clothing, relationship history, social status, or previous consent. [1, 2]
+  9.1   Sexual violence is not limited to physically violent assault. It may involve unwanted sexual touching,
+  9.1   forced or coerced sexual activity, attempted sexual assault, sexual exploitation, or non-consensual
+  9.1   creation or sharing of sexual images. The exact legal definitions and offences differ by jurisdiction and
+  9.1   must be checked against Rwandan law when legal information is published.
+  7.0   VUGA NDAKUMVA | GBV Educational Content Library | Draft for specialist review 1
+PAGE 2
+ 14.0 B 2. Consent: what makes agreement meaningful?
+  9.1   Consent is a freely given, informed, specific and ongoing agreement to a particular activity. Someone
+  9.1   may change their mind. Being married, dating, accepting a gift, going to someone’s room, or agreeing
+  9.1   to one activity does not imply agreement to another. Silence, freezing, or absence of physical resistance
+  9.1   is not by itself consent. [1, 2]
+ 10.5 B When agreement is not freely given
+  9.0   • A threat is made: for example, a supervisor suggests a student will fail an assessment unless they
+  9.0   accept a sexual demand.
+  9.0   • Someone is unable to make an informed decision, for example due to unconsciousness or
+  9.0   incapacitation.
+  9.0   • A person agrees because they fear injury, humiliation, losing a job, housing, essential support, or
+  9.0   another serious consequence.
+  9.0   • A power imbalance is exploited: an authority figure controls grades, employment, aid, healthcare, or
+  9.0   access to services.
+  9.1   The age and capacity of a child require separate safeguarding and legal rules. A child’s apparent
+  9.1   agreement does not remove the need for child protection and legal assessment.
+ 14.0 B 3. Sexual harassment
+  9.1   Sexual harassment includes unwelcome sexual comments, requests, messages, gestures, images,
+  9.1   touching, or other sexual conduct that violates dignity or creates an intimidating, hostile, humiliating, or
+  9.1   offensive environment. It can occur in schools, workplaces, public transport, markets, health facilities,
+  9.1   community organizations, or online spaces.
+ 10.5 B Two recurring patterns
+  9.1   Pressure linked to rewards or penalties: A person with authority requests sexual contact in exchange for
+  9.1   a grade, placement, promotion, contract, or service. Hostile environment: Repeated sexual jokes,
+  9.1   unwanted advances or degrading conduct make studying or working unsafe. A single serious incident
+  9.1   can also warrant attention.
+  9.1   Examples: A lecturer repeatedly sends sexual messages to a student after being asked to stop; a
+  9.1   manager threatens to reduce shifts following a rejected advance; commuters make unwanted sexual
+  9.1   contact on a bus. The person experiencing harassment is not responsible for managing the offender’s
+  9.1   behavior.
+ 14.0 B 4. Sexual exploitation and abuse of authority
+  9.1   Sexual exploitation involves abusing a position of vulnerability, differential power, or trust for sexual
+  9.1   purposes, including situations in which a person seeks sexual access or advantage by controlling
+  9.1   something the other person needs. A person may appear to agree while facing severe inequality in
+  9.1   available choices. [3]
+  7.0   VUGA NDAKUMVA | GBV Educational Content Library | Draft for specialist review 2
+PAGE 3
+  9.1   An aid worker who conditions assistance on sexual acts, a recruiter who demands sexual favors for
+  9.1   employment, or a caretaker who uses dependence to pressure someone are illustrative forms of
+  9.1   exploitation. Such conduct may also breach safeguarding obligations, professional ethics, and criminal
+  9.1   law.
+ 10.5 B Why power matters
+  9.1   Power can come from grades, money, employment, legal or immigration status, access to food and
+  9.1   shelter, professional authority, social influence, physical strength, or control over confidential
+  9.1   information. Ethical organizations must define prohibitions, reporting routes, retaliation protections, and
+  9.1   independent responses instead of leaving an affected person to negotiate with the person holding
+  9.1   power.
+ 14.0 B 5. Sexual coercion and intimidation
+  9.1   Coercion is pressure that undermines a person’s freedom to choose. It can include threats of violence,
+  9.1   blackmail, threats to disclose intimate images, persistent pressure after refusal, threats to withdraw
+  9.1   financial support, manipulation of dependency, or abuse of institutional authority. Coercion can occur
+  9.1   without visible injury.
+  9.1   A healthy boundary is respected without argument, retaliation, or punishment. Repeated requests after
+  9.1   a refusal, monitoring a person’s movements, or threatening their reputation should be treated as
+  9.1   concerning behavior rather than romantic persistence.
+ 14.0 B 6. Technology-facilitated sexual harm
+  9.1   Sexual harassment and coercion may occur through messaging, social networks, devices, and digital
+  9.1   services. Examples include unsolicited sexual messages, demands for intimate photos, threats to
+  9.1   publish images, sharing private sexual images without consent, impersonation, location-based stalking,
+  9.1   or harassment across multiple accounts.
+  9.1   A person can consent to taking a photograph without consenting to its publication. Consent to share one
+  9.1   message or image does not authorize redistribution. People experiencing digital abuse may need a
+  9.1   tailored safety plan, especially if an offender can access their device or accounts.
+ 10.5 B Safer first considerations
+  9.0   • If safe, use a device or account the offender cannot access when seeking support.
+  9.0   • Avoid confronting the person or changing settings abruptly if those actions could increase danger.
+  9.0   • If safe and desired, preserve relevant messages or links without redistributing intimate content. For
+  9.0   content involving children, seek qualified reporting guidance and do not save or share illegal imagery.
+  9.0   • Ask a trusted specialist or relevant authority about privacy, reporting, and evidence options.
+  7.0   VUGA NDAKUMVA | GBV Educational Content Library | Draft for specialist review 3
+PAGE 4
+ 14.0 B 7. Effects on wellbeing and daily life
+  9.1   Responses to sexual violence differ. Some survivors feel fear, anger, shame, sadness, numbness, or
+  9.1   confusion; others may initially show little visible distress. Possible effects include injury, sexually
+  9.1   transmitted infections, unintended pregnancy, sleep problems, traumatic stress, difficulty
+  9.1   concentrating, withdrawal, and disruptions to education, work, and relationships. These are possible
+  9.1   outcomes, not inevitable outcomes or criteria for believing someone.
+  9.1   People may delay disclosing because of fear, dependence, stigma, threats, family pressure, lack of safe
+  9.1   services, or uncertainty about confidentiality. A delayed disclosure or fragmented memory does not
+  9.1   prove an account false. Support should not depend on whether someone reports to police.
+ 14.0 B 8. Responding to a disclosure: first-line support
+  9.1   The WHO clinical handbook emphasizes attention to immediate emotional needs, physical needs,
+  9.1   ongoing safety, and longer-term support. The LIVES approach summarizes listening, inquiring about
+  9.1   needs and concerns, validating, enhancing safety, and supporting access to services. These are
+  9.1   principles for trained responders and should not be confused with conducting an investigation. [1]
+ 10.5 B Supportive words and actions
+  9.0   • Listen without interruption, interrogation, disbelief, or blame. A person is entitled to pause or stop.
+  9.0   • Acknowledge the experience: “Thank you for telling me. You deserve to be safe.”
+  9.0   • Ask about immediate needs: “Are you safe right now? Would you like help finding medical care or
+  9.0   another support service?”
+  9.0   • Explain any limits to confidentiality before collecting sensitive details, especially when a child is
+  9.0   involved.
+  9.0   • Offer choices. Do not pressure someone to reconcile, confront the offender, make a public disclosure,
+  9.0   or take a specific legal step.
+ 10.5 B Avoid these responses
+  9.1   Do not ask why the survivor was in a location, why they did not fight, or why they waited to disclose. Do
+  9.1   not request a repeated account merely to satisfy curiosity, offer guarantees about outcomes, or promise
+  9.1   absolute secrecy. Do not mediate between survivor and alleged offender as a substitute for protection
+  9.1   and professional response.
+ 14.0 B 9. Urgent healthcare after sexual assault
+  9.1   Time matters: If sexual assault was recent, seek medical care as soon as safely possible, ideally
+  9.1   immediately. HIV post-exposure prophylaxis (PEP), when clinically indicated, should start as soon as
+  9.1   possible and no later than 72 hours after a potential exposure. Emergency contraception may also
+  9.1   be time-sensitive; a clinician should advise on available methods and their effective windows. Even
+  9.1   after these windows, medical care and support remain important. [4, 5]
+  7.0   VUGA NDAKUMVA | GBV Educational Content Library | Draft for specialist review 4
+PAGE 5
+  9.1   Healthcare assessment may include treatment of injuries, assessment for HIV PEP, prevention or testing
+  9.1   for sexually transmitted infections, emergency contraception where appropriate, other reproductive
+  9.1   healthcare, psychological first-line support, and discussion of forensic documentation. The survivor
+  9.1   should receive information and be asked for consent to examinations and procedures, subject to
+  9.1   applicable safeguarding and legal requirements. [1, 4]
+  9.1   Do not delay medical care because you are unsure whether to report to police, or because clothing was
+  9.1   changed or washing has occurred. Evidence options can be discussed by trained local providers. If
+  9.1   someone is bleeding heavily, has severe injuries, is unconscious, or faces imminent danger, emergency
+  9.1   care is the priority.
+ 14.0 B 10. Safeguarding children and other vulnerable people
+  9.1   Children require an age-appropriate, trained response that prioritizes protection, avoids suggestive
+  9.1   questioning, and follows applicable mandatory reporting, consent, and guardian rules. An accompanying
+  9.1   adult is not always a safe guardian. Avoid asking the child to repeat a detailed account; record only
+  9.1   essential facts according to authorized procedures and refer promptly to designated protection
+  9.1   professionals.
+  9.1   People with disabilities, displaced persons, people dependent on caregivers, and others facing barriers
+  9.1   may need accessible communication, interpreters, safe transport, or independent advocacy. Never
+  9.1   assume that a survivor cannot make decisions merely because they need support.
+ 14.0 B 11. Rwanda: care and referral pathways
+  9.1   Rwanda’s Isange One Stop Centres provide integrated services for GBV survivors, bringing together
+  9.1   healthcare, psychosocial support, investigation and legal pathways. Government sources describe
+  9.1   services as free and available through the national network. [6, 7]
+ 10.5 B Published contacts (verify before public deployment)
+  9.0   • Isange One Stop Centre: 3029 (listed by RIB and UNHCR Rwanda).
+  9.0   • Rwanda Investigation Bureau: 3512 for domestic/GBV reporting; 116 for child abuse; 166 for
+  9.0   emergencies or crime information (RIB contact page).
+  9.0   • Other GBV referral information: MIGEPROF lists 9059 and Gender Monitoring Office 5798.
+  9.1   Important: UNHCR Rwanda notes that approaching an Isange Centre may lead to a report to law
+  9.1   enforcement. Service users should ask how information will be shared and what confidentiality or
+  9.1   child-protection obligations apply. Do not promise that a particular referral is anonymous or will avoid
+  9.1   police involvement. [6, 7, 8]
+ 14.0 B 12. Prevention in schools, workplaces, and institutions
+  9.1   Preventing sexual harassment and exploitation requires clear rules and accountable systems, not only
+  9.1   individual awareness. Educational institutions and employers should prohibit sexual demands linked to
+  9.1   grades, placement, aid, recruitment, or promotion; train staff; provide confidential and accessible
+  9.1   reporting channels; protect complainants and witnesses from retaliation; and arrange independent,
+  9.1   timely, fair responses.
+  7.0   VUGA NDAKUMVA | GBV Educational Content Library | Draft for specialist review 5
+PAGE 6
+  9.1   A safe learning environment includes respectful boundaries, transparent assessment procedures,
+  9.1   safeguarding responsibilities, and accessible support for students. A workplace should establish clear
+  9.1   behavioral expectations and make reporting possible without forcing disclosure to the alleged offender’s
+  9.1   supervisor.
+ 14.0 B 13. Fictional learning scenarios
+ 10.5 B Scenario A: University placement
+  9.1   A supervisor privately suggests an internship evaluation will improve if a student agrees to a sexual
+  9.1   relationship. The student feels unable to refuse because graduation depends on the placement.
+  9.1   Analysis: This is an abuse-of-authority concern. A trustworthy institutional reporting channel, protection
+  9.1   from retaliation, and independent support are important; the student should not be expected to
+  9.1   negotiate with the supervisor.
+ 10.5 B Scenario B: Workplace messages
+  9.1   A colleague sends repeated sexual messages after being asked to stop. A team leader dismisses the
+  9.1   situation as a joke. Analysis: Unwelcome sexual communication can constitute harassment. Institutional
+  9.1   responsibility includes safe reporting and proportionate responses.
+ 10.5 B Scenario C: Digital blackmail
+  9.1   A former partner threatens to send an intimate image to a family group unless the person agrees to
+  9.1   meet. Analysis: Threats to distribute images are coercive and can heighten risk. The person may need
+  9.1   digital safety support and confidential professional advice rather than being told to confront the former
+  9.1   partner.
+ 10.5 B Scenario D: Recent assault
+  9.1   An adult tells a trusted friend that they were sexually assaulted the previous evening but do not want to
+  9.1   report the incident yet. Analysis: The friend can explain that medical assessment is time-sensitive, offer
+  9.1   to help reach an Isange Centre or hospital, and avoid pressuring the person into disclosure.
+  9.1   Reporting-related confidentiality limits should be explained accurately by providers.
+ 10.5 B Scenario E: Child safeguarding
+  9.1   A pupil says an adult at school has repeatedly requested sexual contact and threatened punishment if
+  9.1   they tell anyone. Analysis: The priority is immediate protection and referral to trained child-protection
+  9.1   responders. Adults should avoid investigating independently or promising secrecy.
+ 14.0 B 14. Guided educational activities
+ 10.5 B Activity 1: Recognize the power imbalance
+  9.1   In pairs or individually, identify who controls a resource in Scenario A, what consequence is being
+  9.1   threatened, and why an apparent “yes” may not represent freely given consent. Suggested response:
+  9.1   The supervisor controls evaluation; the student risks an educational penalty; this undermines free
+  9.1   choice.
+  7.0   VUGA NDAKUMVA | GBV Educational Content Library | Draft for specialist review 6
+PAGE 7
+ 10.5 B Activity 2: Practice supportive language
+  9.1   Rewrite “Why did you go there?” as a survivor-centred question. Suggested response: “What would help
+  9.1   you feel safer right now?” Do not ask the learner to reveal personal experiences.
+ 10.5 B Activity 3: Choose a safer digital response
+  9.1   For Scenario C, describe two considerations before changing device settings or messaging the
+  9.1   threatening person. Suggested response: Evaluate whether the person monitors the device, and identify
+  9.1   a safer device or professional support contact.
+ 10.5 B Activity 4: Sort urgent and non-urgent needs
+  9.1   Classify the following: severe injury; a need for HIV exposure assessment after yesterday’s assault; a
+  9.1   request for information about school policy. Suggested response: Injury and recent exposure warrant
+  9.1   urgent healthcare; the policy question needs a safe institutional information channel.
+ 10.5 B Activity 5: Map a referral without assumptions
+  9.1   Using Rwanda’s publicly listed contacts, outline a referral that offers choice and explains possible
+  9.1   information-sharing. Suggested response: Ask whether the person is safe and wants medical/support
+  9.1   options, share the Isange contact 3029, explain that providers can clarify reporting obligations, and
+  9.1   support safe access without making confidentiality promises.
+ 14.0 B 15. Knowledge assessment with answer explanations
+ 10.5 B 1. Does a previous agreement imply consent to future sexual activity?
+  9.1   Answer: No. Consent is specific and ongoing.
+ 10.5 B 2. Can a threat to fail a student undermine consent?
+  9.1   Answer: Yes. It exploits unequal power and threatens a serious consequence.
+ 10.5 B 3. Is sexual harassment limited to physical contact?
+  9.1   Answer: No. Unwelcome sexual messages, comments and other conduct can constitute harassment.
+ 10.5 B 4. Can sharing an intimate image without permission cause sexual harm?
+  9.1   Answer: Yes. Image-based abuse violates privacy and can involve coercion.
+ 10.5 B 5. Should a friend demand a detailed account from a survivor?
+  9.1   Answer: No. Listen, validate, and offer options without interrogation.
+ 10.5 B 6. What is the critical HIV PEP window?
+  9.1   Answer: As soon as possible, ideally within 24 hours and no later than 72 hours after potential exposure,
+  9.1   based on clinical assessment.
+  7.0   VUGA NDAKUMVA | GBV Educational Content Library | Draft for specialist review 7
+PAGE 8
+ 10.5 B 7. Does seeking help always guarantee no police reporting?
+  9.1   Answer: No. Applicable law and service processes may create reporting or information-sharing
+  9.1   obligations.
+ 10.5 B 8. Is medical care worthwhile after 72 hours?
+  9.1   Answer: Yes. Injury care, STI assessment, reproductive care and emotional support may still be needed.
+ 10.5 B 9. Should teachers privately investigate suspected child sexual abuse?
+  9.1   Answer: No. Follow approved safeguarding pathways and avoid repeated questioning.
+ 10.5 B 10. What should institutions provide?
+  9.1   Answer: Clear prevention policy, accessible reporting, retaliation protections and independent action.
+ 14.0 B 16. Key terms
+  9.1   Consent: Freely given, informed and specific agreement that can be withdrawn.
+  9.1   Sexual coercion: Pressure, threats or exploitation that undermines a free choice.
+  9.1   Sexual harassment: Unwelcome sexual conduct that violates dignity or creates an intimidating or
+  9.1   offensive environment.
+  9.1   Sexual exploitation: Abuse of vulnerability, power or trust for sexual purposes.
+  9.1   Safeguarding: Policies and actions intended to prevent and respond to harm, especially involving
+  9.1   children and vulnerable people.
+  9.1   PEP: Time-sensitive antiretroviral medication used after a possible HIV exposure when clinically
+  9.1   indicated.
+  9.1   Survivor-centred support: Support grounded in dignity, safety, privacy, informed choice and appropriate
+  9.1   services.
+  9.1   Forensic documentation: Professional medical and evidentiary records collected under applicable
+  9.1   procedures and consent requirements.
+ 14.0 B 17. References and further reading
+  8.0   [1] World Health Organization. Health care for women subjected to intimate partner violence or sexual violence: a
+  8.0   clinical handbook (2014). https://www.who.int/publications-detail-redirect/WHO-RHR-14.26
+  8.0   [2] World Health Organization. Responding to intimate partner violence and sexual violence against women: WHO
+  8.0   clinical and policy guidelines (2013). https://www.who.int/publications/i/item/9789241548595
+  8.0   [3] UNHCR. Sexual exploitation and abuse prevention: definitions and safeguarding resources.
+  8.0   https://www.unhcr.org/what-we-do/how-we-work/tackling-sexual-exploitation-abuse-and-harassment
+  8.0   [4] World Health Organization. Guidelines for HIV post-exposure prophylaxis (2024).
+  8.0   https://www.who.int/publications/i/item/9789240095137
+  8.0   [5] Rwanda Ministry of Health. Guidelines for HIV Prevention, Treatment and Care (2022), sexual assault section. https
+  8.0   ://files-hivpreventioncoalition.unaids.org/gpc/attachments/final-guidelines-for-hiv-prevention-treatment-and-care-in-rw
+  7.0   VUGA NDAKUMVA | GBV Educational Content Library | Draft for specialist review 8
+PAGE 9
+  8.0   anda-2022-c.pdf
+  8.0   [6] Rwanda Investigation Bureau. Official contact numbers. https://www.rib.gov.rw/contact-us
+  8.0   [7] Ministry of Gender and Family Promotion. Family promotion and child rights protection / Isange One Stop Centres.
+  8.0   https://www.migeprof.gov.rw/family-promotion-and-child-right-protection
+  8.0   [8] UNHCR Rwanda. Gender-based violence services and Isange referral information.
+  8.0   https://help.unhcr.org/rwanda/services/sgbv/
+  8.0   [9] Rwanda Gender Monitoring Office. Annual Report 2024-2025 (Isange service monitoring).
+  8.0   https://www.gmo.gov.rw/fileadmin/user_upload/GMO/Publications/Annual_Reports/ANNUAL_REPORT_2024-2025.pdf
+ 14.0 B 18. Publication and specialist review checklist
+  9.0   • Clinical lead confirms urgent healthcare and medication timing language.
+  9.0   • GBV/safeguarding specialist reviews all cases, consent language and first-response principles.
+  9.0   • Rwandan legal reviewer checks reporting obligations, child protection, and legal terminology.
+  9.0   • Referral owner tests every published telephone number and confirms service availability.
+  9.0   • Kinyarwanda and French reviewers verify meaning with local survivors’ safety considerations.
+  9.0   • Accessibility review checks plain-language readability and screen-reader compatibility.
+  9.0   • Content owner records approval, version, next review date, and any corrections.
+  9.1   End of Chapter 06. This educational material does not replace clinical care, survivor advocacy,
+  9.1   emergency services or legal advice.
+  7.0   VUGA NDAKUMVA | GBV Educational Content Library | Draft for specialist review 9

@@ -1,0 +1,749 @@
+[
+  {
+    "chapter": 3,
+    "pages": 23,
+    "expectedTextBlocks": 77,
+    "expectedSourceBlocks": 216,
+    "missingSource": [],
+    "missing": [],
+    "splitVisuals": [],
+    "tablesChecked": 7,
+    "orphanedTableHeaders": [],
+    "questionPairsChecked": 5,
+    "splitQuestions": [],
+    "pageChecks": [
+      {
+        "page": 1,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1538
+      },
+      {
+        "page": 2,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 2390
+      },
+      {
+        "page": 3,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1596
+      },
+      {
+        "page": 4,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 581
+      },
+      {
+        "page": 5,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1025
+      },
+      {
+        "page": 6,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1984
+      },
+      {
+        "page": 7,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1080
+      },
+      {
+        "page": 8,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1968
+      },
+      {
+        "page": 9,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 757
+      },
+      {
+        "page": 10,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1194
+      },
+      {
+        "page": 11,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1292
+      },
+      {
+        "page": 12,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 901
+      },
+      {
+        "page": 13,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1002
+      },
+      {
+        "page": 14,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1223
+      },
+      {
+        "page": 15,
+        "images": 2,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1125
+      },
+      {
+        "page": 16,
+        "images": 2,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1053
+      },
+      {
+        "page": 17,
+        "images": 2,
+        "charactersOutsidePage": 0,
+        "textCharacters": 901
+      },
+      {
+        "page": 18,
+        "images": 2,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1255
+      },
+      {
+        "page": 19,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 2300
+      },
+      {
+        "page": 20,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1296
+      },
+      {
+        "page": 21,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1125
+      },
+      {
+        "page": 22,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1167
+      },
+      {
+        "page": 23,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 945
+      }
+    ]
+  },
+  {
+    "chapter": 4,
+    "pages": 25,
+    "expectedTextBlocks": 81,
+    "expectedSourceBlocks": 209,
+    "missingSource": [],
+    "missing": [],
+    "splitVisuals": [],
+    "tablesChecked": 6,
+    "orphanedTableHeaders": [],
+    "questionPairsChecked": 0,
+    "splitQuestions": [],
+    "pageChecks": [
+      {
+        "page": 1,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1494
+      },
+      {
+        "page": 2,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1526
+      },
+      {
+        "page": 3,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1923
+      },
+      {
+        "page": 4,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 615
+      },
+      {
+        "page": 5,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1204
+      },
+      {
+        "page": 6,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 2151
+      },
+      {
+        "page": 7,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 2138
+      },
+      {
+        "page": 8,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1513
+      },
+      {
+        "page": 9,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1217
+      },
+      {
+        "page": 10,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 525
+      },
+      {
+        "page": 11,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1213
+      },
+      {
+        "page": 12,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1195
+      },
+      {
+        "page": 13,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 620
+      },
+      {
+        "page": 14,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1143
+      },
+      {
+        "page": 15,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 994
+      },
+      {
+        "page": 16,
+        "images": 2,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1004
+      },
+      {
+        "page": 17,
+        "images": 2,
+        "charactersOutsidePage": 0,
+        "textCharacters": 952
+      },
+      {
+        "page": 18,
+        "images": 2,
+        "charactersOutsidePage": 0,
+        "textCharacters": 941
+      },
+      {
+        "page": 19,
+        "images": 2,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1218
+      },
+      {
+        "page": 20,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 2159
+      },
+      {
+        "page": 21,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1031
+      },
+      {
+        "page": 22,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1414
+      },
+      {
+        "page": 23,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1455
+      },
+      {
+        "page": 24,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1442
+      },
+      {
+        "page": 25,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 372
+      }
+    ]
+  },
+  {
+    "chapter": 5,
+    "pages": 20,
+    "expectedTextBlocks": 64,
+    "expectedSourceBlocks": 156,
+    "missingSource": [],
+    "missing": [],
+    "splitVisuals": [],
+    "tablesChecked": 0,
+    "orphanedTableHeaders": [],
+    "questionPairsChecked": 0,
+    "splitQuestions": [],
+    "pageChecks": [
+      {
+        "page": 1,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1487
+      },
+      {
+        "page": 2,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 2357
+      },
+      {
+        "page": 3,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1717
+      },
+      {
+        "page": 4,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 2524
+      },
+      {
+        "page": 5,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1304
+      },
+      {
+        "page": 6,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 2237
+      },
+      {
+        "page": 7,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1167
+      },
+      {
+        "page": 8,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 2084
+      },
+      {
+        "page": 9,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1103
+      },
+      {
+        "page": 10,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 749
+      },
+      {
+        "page": 11,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1095
+      },
+      {
+        "page": 12,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 2407
+      },
+      {
+        "page": 13,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 808
+      },
+      {
+        "page": 14,
+        "images": 2,
+        "charactersOutsidePage": 0,
+        "textCharacters": 965
+      },
+      {
+        "page": 15,
+        "images": 2,
+        "charactersOutsidePage": 0,
+        "textCharacters": 899
+      },
+      {
+        "page": 16,
+        "images": 2,
+        "charactersOutsidePage": 0,
+        "textCharacters": 881
+      },
+      {
+        "page": 17,
+        "images": 2,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1157
+      },
+      {
+        "page": 18,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1293
+      },
+      {
+        "page": 19,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1304
+      },
+      {
+        "page": 20,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1402
+      }
+    ]
+  },
+  {
+    "chapter": 6,
+    "pages": 22,
+    "expectedTextBlocks": 71,
+    "expectedSourceBlocks": 173,
+    "missingSource": [],
+    "missing": [],
+    "splitVisuals": [],
+    "tablesChecked": 4,
+    "orphanedTableHeaders": [],
+    "questionPairsChecked": 0,
+    "splitQuestions": [],
+    "pageChecks": [
+      {
+        "page": 1,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1450
+      },
+      {
+        "page": 2,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 2058
+      },
+      {
+        "page": 3,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 708
+      },
+      {
+        "page": 4,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1186
+      },
+      {
+        "page": 5,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 2150
+      },
+      {
+        "page": 6,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 2234
+      },
+      {
+        "page": 7,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1362
+      },
+      {
+        "page": 8,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1232
+      },
+      {
+        "page": 9,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1565
+      },
+      {
+        "page": 10,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1097
+      },
+      {
+        "page": 11,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1412
+      },
+      {
+        "page": 12,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1333
+      },
+      {
+        "page": 13,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 2111
+      },
+      {
+        "page": 14,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1819
+      },
+      {
+        "page": 15,
+        "images": 2,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1060
+      },
+      {
+        "page": 16,
+        "images": 2,
+        "charactersOutsidePage": 0,
+        "textCharacters": 967
+      },
+      {
+        "page": 17,
+        "images": 2,
+        "charactersOutsidePage": 0,
+        "textCharacters": 970
+      },
+      {
+        "page": 18,
+        "images": 2,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1169
+      },
+      {
+        "page": 19,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1106
+      },
+      {
+        "page": 20,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 762
+      },
+      {
+        "page": 21,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1199
+      },
+      {
+        "page": 22,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1591
+      }
+    ]
+  },
+  {
+    "chapter": 7,
+    "pages": 22,
+    "expectedTextBlocks": 91,
+    "expectedSourceBlocks": 143,
+    "missingSource": [],
+    "missing": [],
+    "splitVisuals": [],
+    "tablesChecked": 0,
+    "orphanedTableHeaders": [],
+    "questionPairsChecked": 5,
+    "splitQuestions": [],
+    "pageChecks": [
+      {
+        "page": 1,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1550
+      },
+      {
+        "page": 2,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 2064
+      },
+      {
+        "page": 3,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1431
+      },
+      {
+        "page": 4,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1892
+      },
+      {
+        "page": 5,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1365
+      },
+      {
+        "page": 6,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 2124
+      },
+      {
+        "page": 7,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 2170
+      },
+      {
+        "page": 8,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 2169
+      },
+      {
+        "page": 9,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1198
+      },
+      {
+        "page": 10,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1339
+      },
+      {
+        "page": 11,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1225
+      },
+      {
+        "page": 12,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1140
+      },
+      {
+        "page": 13,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1319
+      },
+      {
+        "page": 14,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 772
+      },
+      {
+        "page": 15,
+        "images": 2,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1323
+      },
+      {
+        "page": 16,
+        "images": 2,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1034
+      },
+      {
+        "page": 17,
+        "images": 2,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1116
+      },
+      {
+        "page": 18,
+        "images": 2,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1121
+      },
+      {
+        "page": 19,
+        "images": 2,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1052
+      },
+      {
+        "page": 20,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1340
+      },
+      {
+        "page": 21,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1287
+      },
+      {
+        "page": 22,
+        "images": 0,
+        "charactersOutsidePage": 0,
+        "textCharacters": 1310
+      }
+    ]
+  }
+]

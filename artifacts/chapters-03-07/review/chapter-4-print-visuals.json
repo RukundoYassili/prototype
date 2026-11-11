@@ -1,0 +1,72 @@
+[
+  {
+    "id": "anxiety-experiences",
+    "title": "Thoughts, body, actions and impact",
+    "explanation": "Looking at thoughts, sensations, actions and daily impact together gives a fuller picture than a single symptom. A professional assessment also considers health, circumstances and alternative explanations.",
+    "reflection": "Optional reflectionWhy should a physical sensation not automatically be attributed to anxiety?",
+    "scenes": 0
+  },
+  {
+    "id": "anxiety-avoidance",
+    "title": "Brief relief can leave a fear untested",
+    "explanation": "Temporary relief can reinforce avoidance of a feared but safe situation. Actual threats require protection; any work on anxiety-maintaining avoidance needs appropriate support and collaboration.",
+    "reflection": "Optional reflectionWhy is checking actual safety essential before discussing avoidance?",
+    "scenes": 0
+  },
+  {
+    "id": "anxiety-grounding",
+    "title": "Bring attention toward the present",
+    "explanation": "Different forms of attention suit different people. External objects or a supportive conversation may be preferable when noticing internal sensations increases discomfort.",
+    "reflection": "Optional reflectionWhat could someone choose if body-focused attention feels uncomfortable?",
+    "scenes": 0
+  },
+  {
+    "id": "anxiety-predictions",
+    "title": "Question a prediction without forcing optimism",
+    "explanation": "Considering evidence and another explanation can soften an absolute prediction while still acknowledging the difficulty. The goal is a realistic next action rather than a guaranteed outcome.",
+    "reflection": "Optional reflectionHow does a balanced alternative differ from promising everything will be fine?",
+    "scenes": 0
+  },
+  {
+    "id": "anxiety-uncertainty",
+    "title": "Make room for an unanswered question",
+    "explanation": "The applicant balances necessary communication with returning to another activity. The example explores a manageable boundary while accepting that an immediate answer may be unavailable.",
+    "reflection": "Optional reflectionWhich practical needs should be considered before changing a checking habit?",
+    "scenes": 0
+  },
+  {
+    "id": "anxiety-routines",
+    "title": "Support wellbeing within real constraints",
+    "explanation": "A wellbeing choice should fit health, ability and living conditions. Difficulty following a routine may signal practical constraints or a need for support rather than a lack of effort.",
+    "reflection": "Optional reflectionWhy should wellbeing guidance consider housing and working hours?",
+    "scenes": 0
+  },
+  {
+    "id": "anxiety-examination",
+    "title": "Scenario A — Examination worry",
+    "explanation": "The response combines preparation, rest and a trusted conversation. Repeated avoidance or substantial interference with education deserves assessment rather than simply more effort.",
+    "reflection": "Optional reflectionWhen does repeated examination difficulty warrant more than ordinary preparation?",
+    "scenes": 2
+  },
+  {
+    "id": "anxiety-speaking",
+    "title": "Scenario B — Fear of speaking at work",
+    "explanation": "The conversation makes space to discuss avoidance and its impact. Professional treatment, if appropriate, is collaborative; it does not mean colleagues should force public speaking.",
+    "reflection": "Optional reflectionHow does an invitation to seek support differ from forced exposure?",
+    "scenes": 2
+  },
+  {
+    "id": "anxiety-travel",
+    "title": "Scenario C — Panic-like sensations while traveling",
+    "explanation": "The key action is medical assessment for new, intense symptoms. A later clinician may consider anxiety, but companions should not assume that anxiety explains the episode.",
+    "reflection": "Optional reflectionWhy should the companions avoid deciding that these symptoms are just anxiety?",
+    "scenes": 2
+  },
+  {
+    "id": "anxiety-finances",
+    "title": "Scenario D — Worry during financial insecurity",
+    "explanation": "Real household costs deserve practical help. Emotional support and care can accompany financial or social assistance without blaming the caregiver.",
+    "reflection": "Optional reflectionHow can support acknowledge both genuine costs and the impact of worry?",
+    "scenes": 2
+  }
+]

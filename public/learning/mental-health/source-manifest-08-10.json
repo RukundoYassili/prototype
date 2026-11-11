@@ -1,0 +1,35 @@
+{
+  "collection": "mental-health-08-10",
+  "sources": [
+    {
+      "chapter": 8,
+      "slug": "understanding-sleep-and-mental-wellbeing",
+      "title": "Understanding Sleep and Mental Wellbeing",
+      "filename": "Mental_Health_Chapter_08_Sleep_and_Wellbeing.pdf",
+      "pdfUrl": "/learning/mental-health/Mental_Health_Chapter_08_Sleep_and_Wellbeing.pdf",
+      "pages": 11,
+      "sha256": "aba9b9ff5de090def8c5b212dce2872b3658a8436284dfce6bdde5254dd44429",
+      "editionText": "Edition 1.0 | 11 November 2026 | English"
+    },
+    {
+      "chapter": 9,
+      "slug": "relationships-social-connection-and-mental-wellbeing",
+      "title": "Relationships, Social Connection, and Mental Wellbeing",
+      "filename": "Mental_Health_Chapter_09_Relationships_and_Social_Wellbeing.pdf",
+      "pdfUrl": "/learning/mental-health/Mental_Health_Chapter_09_Relationships_and_Social_Wellbeing.pdf",
+      "pages": 10,
+      "sha256": "3418ee41302a2042ac0f629411b772227618975454c2b645e59440592fd69d64",
+      "editionText": "Version 1.0 | 11 November 2026 | English"
+    },
+    {
+      "chapter": 10,
+      "slug": "child-and-adolescent-mental-health",
+      "title": "Child and Adolescent Mental Health",
+      "filename": "Mental_Health_Chapter_10_Child_and_Adolescent_Mental_Health.pdf",
+      "pdfUrl": "/learning/mental-health/Mental_Health_Chapter_10_Child_and_Adolescent_Mental_Health.pdf",
+      "pages": 10,
+      "sha256": "0e70c381a1cf44712021fb11157b2e43b2126c7a8aa66211d59ca6ecd6dbb90a",
+      "editionText": "Educational draft — version 1.0 | 11 November 2026"
+    }
+  ]
+}

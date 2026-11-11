@@ -1,0 +1,125 @@
+{
+  "metrics": [
+    {
+      "route": "/understand-gbv",
+      "width": 375,
+      "overflow": false,
+      "failedImages": 0
+    },
+    {
+      "route": "/why-mental-health",
+      "width": 375,
+      "overflow": false,
+      "failedImages": 0
+    },
+    {
+      "route": "/why-mental-health/understanding-mental-health-and-wellbeing",
+      "width": 375,
+      "overflow": false,
+      "failedImages": 0
+    },
+    {
+      "route": "/why-mental-health/recognizing-emotions-and-responding-to-them",
+      "width": 375,
+      "overflow": false,
+      "failedImages": 0
+    },
+    {
+      "route": "/understand-gbv",
+      "width": 768,
+      "overflow": false,
+      "failedImages": 0
+    },
+    {
+      "route": "/why-mental-health",
+      "width": 768,
+      "overflow": false,
+      "failedImages": 0
+    },
+    {
+      "route": "/why-mental-health/understanding-mental-health-and-wellbeing",
+      "width": 768,
+      "overflow": false,
+      "failedImages": 0
+    },
+    {
+      "route": "/why-mental-health/recognizing-emotions-and-responding-to-them",
+      "width": 768,
+      "overflow": false,
+      "failedImages": 0
+    },
+    {
+      "route": "/understand-gbv",
+      "width": 1024,
+      "overflow": false,
+      "failedImages": 0
+    },
+    {
+      "route": "/why-mental-health",
+      "width": 1024,
+      "overflow": false,
+      "failedImages": 0
+    },
+    {
+      "route": "/why-mental-health/understanding-mental-health-and-wellbeing",
+      "width": 1024,
+      "overflow": false,
+      "failedImages": 0
+    },
+    {
+      "route": "/why-mental-health/recognizing-emotions-and-responding-to-them",
+      "width": 1024,
+      "overflow": false,
+      "failedImages": 0
+    },
+    {
+      "route": "/understand-gbv",
+      "width": 1440,
+      "overflow": false,
+      "failedImages": 0
+    },
+    {
+      "route": "/why-mental-health",
+      "width": 1440,
+      "overflow": false,
+      "failedImages": 0
+    },
+    {
+      "route": "/why-mental-health/understanding-mental-health-and-wellbeing",
+      "width": 1440,
+      "overflow": false,
+      "failedImages": 0
+    },
+    {
+      "route": "/why-mental-health/recognizing-emotions-and-responding-to-them",
+      "width": 1440,
+      "overflow": false,
+      "failedImages": 0
+    },
+    {
+      "route": "/understand-gbv",
+      "width": 1920,
+      "overflow": false,
+      "failedImages": 0
+    },
+    {
+      "route": "/why-mental-health",
+      "width": 1920,
+      "overflow": false,
+      "failedImages": 0
+    },
+    {
+      "route": "/why-mental-health/understanding-mental-health-and-wellbeing",
+      "width": 1920,
+      "overflow": false,
+      "failedImages": 0
+    },
+    {
+      "route": "/why-mental-health/recognizing-emotions-and-responding-to-them",
+      "width": 1920,
+      "overflow": false,
+      "failedImages": 0
+    }
+  ],
+  "errors": []
+}

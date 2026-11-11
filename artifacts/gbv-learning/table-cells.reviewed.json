@@ -1,0 +1,383 @@
+{
+  "reviewedAt": "2026-11-09",
+  "scope": "All 12 tables, 160 header/body cells checked against rendered source pages; transcription review only, not specialist approval.",
+  "chapters": [
+    {
+      "chapter": 1,
+      "tables": [
+        {
+          "type": "table",
+          "headers": [
+            "Form",
+            "Illustrative warning sign"
+          ],
+          "rows": [
+            [
+              "Physical",
+              "Threats or acts of physical harm"
+            ],
+            [
+              "Sexual",
+              "Sexual activity obtained through pressure, fear or coercion"
+            ],
+            [
+              "Psychological",
+              "Repeated intimidation, isolation or humiliation"
+            ],
+            [
+              "Economic",
+              "Blocking access to work or essential funds to exert control"
+            ],
+            [
+              "Digital",
+              "Monitoring devices or threatening to share private material"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "headers": [
+            "More supportive",
+            "Less supportive"
+          ],
+          "rows": [
+            [
+              "\"Thank you for telling me. What would be useful right now?\"",
+              "\"Why did you stay?\""
+            ],
+            [
+              "\"You can choose how much to share.\"",
+              "\"Tell me exactly what happened, from the start.\""
+            ],
+            [
+              "\"Can we discuss options that feel safe to you?\"",
+              "\"You must report this immediately, whatever you want.\""
+            ],
+            [
+              "\"I will explain what I can keep private and where limits apply.\"",
+              "\"I promise nobody will ever find out.\""
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Service / official source",
+            "Published contact"
+          ],
+          "rows": [
+            [
+              "Isange One Stop Centre (UNHCR Rwanda)",
+              "3029"
+            ],
+            [
+              "Rwanda Investigation Bureau (MIGEPROF)",
+              "116 / 3512"
+            ],
+            [
+              "Gender Monitoring Office (MIGEPROF)",
+              "5798"
+            ],
+            [
+              "MIGEPROF (MIGEPROF)",
+              "9059"
+            ],
+            [
+              "National Child Development Agency (MIGEPROF)",
+              "711"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Term",
+            "Plain-language meaning"
+          ],
+          "rows": [
+            [
+              "Gender-based violence",
+              "Gender-linked harmful actions, threats or coercion against a person."
+            ],
+            [
+              "Coercion",
+              "Pressure or threats that undermine free choice."
+            ],
+            [
+              "Survivor-centred care",
+              "Support led by the person's dignity, safety, wishes and needs."
+            ],
+            [
+              "Consent",
+              "Freely given and informed agreement to a particular action."
+            ],
+            [
+              "Confidentiality",
+              "Protecting sensitive information, with explained legal/safeguarding limits."
+            ],
+            [
+              "Referral",
+              "Connecting someone with suitable trained services and support."
+            ],
+            [
+              "Coercive control",
+              "Patterns of actions that restrict independence and generate fear."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "tables": [
+        {
+          "type": "table",
+          "headers": [
+            "Setting",
+            "Examples of potential GBV",
+            "Important consideration"
+          ],
+          "rows": [
+            [
+              "Intimate relationships",
+              "Physical assault; sexual coercion; controlling behavior",
+              "A former partner may also pose risks"
+            ],
+            [
+              "Family or household",
+              "Violence linked to gender roles; restrictions on autonomy",
+              "Not all family conflict is GBV"
+            ],
+            [
+              "School or university",
+              "Sexual pressure linked to grades; harassment; stalking",
+              "Safeguarding and independent reporting matter"
+            ],
+            [
+              "Workplace",
+              "Sexual harassment; retaliation after refusal",
+              "Employment power differences can increase vulnerability"
+            ],
+            [
+              "Community/public spaces",
+              "Threats; harassment; targeted assaults",
+              "Access to safe transport and support matters"
+            ],
+            [
+              "Digital spaces",
+              "Threats; non-consensual images; surveillance",
+              "The abuser may monitor the same device"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Principle",
+            "What supportive behavior can sound like"
+          ],
+          "rows": [
+            [
+              "Listen",
+              "\"You can share only what you want to share.\""
+            ],
+            [
+              "Inquire",
+              "\"What would be most useful or safest for you right now?\""
+            ],
+            [
+              "Validate",
+              "\"What happened is not something you deserved.\""
+            ],
+            [
+              "Enhance safety",
+              "\"Would it help to discuss a safe person or place with a trained worker?\""
+            ],
+            [
+              "Support",
+              "\"I can help you find available services if you want.\""
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Service",
+            "Published contact",
+            "Important note"
+          ],
+          "rows": [
+            [
+              "Isange One Stop Centres",
+              "3029",
+              "UNHCR Rwanda listing; ask about access and reporting implications"
+            ],
+            [
+              "Rwanda Investigation Bureau",
+              "116 / 3512",
+              "MIGEPROF listing"
+            ],
+            [
+              "Gender Monitoring Office",
+              "5798",
+              "MIGEPROF listing"
+            ],
+            [
+              "MIGEPROF",
+              "9059",
+              "MIGEPROF listing"
+            ],
+            [
+              "Child protection (NCDA)",
+              "711",
+              "MIGEPROF listing"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Term",
+            "Plain-language explanation"
+          ],
+          "rows": [
+            [
+              "Coercion",
+              "Pressure or threats used to make someone do something against their free choice"
+            ],
+            [
+              "Consent",
+              "A freely given, specific and changeable agreement"
+            ],
+            [
+              "Survivor-centred",
+              "An approach prioritizing dignity, safety, informed choice and respectful support"
+            ],
+            [
+              "Economic abuse",
+              "Use of financial or material control to cause harm or reduce independence"
+            ],
+            [
+              "Digital abuse",
+              "Harm or coercion carried out or amplified through technology"
+            ],
+            [
+              "Intimate partner violence",
+              "Abusive behavior by a current or former partner"
+            ],
+            [
+              "Safeguarding",
+              "Steps to prevent and respond to harm, particularly involving children or vulnerable people"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "tables": [
+        {
+          "type": "table",
+          "headers": [
+            "Concept",
+            "Meaning and example"
+          ],
+          "rows": [
+            [
+              "Root or structural driver",
+              "A broad, persistent condition that supports GBV, such as norms accepting control of women or unequal access to decision-making."
+            ],
+            [
+              "Risk factor",
+              "A circumstance statistically associated with greater likelihood of violence, such as prior exposure to family violence; not a prediction about one person."
+            ],
+            [
+              "Protective factor",
+              "A condition that may reduce risk, such as equitable relationships, accessible survivor services, or effective institutional accountability."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Harmful message",
+            "Healthier principle"
+          ],
+          "rows": [
+            [
+              "\"A partner must obey without question.\"",
+              "Adults have equal dignity and may express disagreement without fear."
+            ],
+            [
+              "\"Real men must control the household.\"",
+              "Responsibility and care do not require coercion or domination."
+            ],
+            [
+              "\"Family matters should never be discussed outside.\"",
+              "Privacy matters, but seeking safe support for violence is legitimate."
+            ],
+            [
+              "\"If someone stays, the abuse cannot be serious.\"",
+              "Leaving may create danger or involve housing, childcare, and financial barriers."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Level",
+            "Examples of concerns",
+            "Possible protective response"
+          ],
+          "rows": [
+            [
+              "Individual",
+              "Attitudes condoning abuse; prior exposure to violence; harmful alcohol use in some contexts.",
+              "Nonviolent conflict skills, respectful gender education, accessible support."
+            ],
+            [
+              "Relationship",
+              "Controlling behavior, extreme power imbalance, threats, isolation.",
+              "Equitable decision-making and intervention addressing perpetration."
+            ],
+            [
+              "Community",
+              "Harassment tolerated at school or work; barriers to reporting; unsafe public spaces.",
+              "Safe complaint channels, bystander responsibility, trained staff."
+            ],
+            [
+              "Societal",
+              "Discriminatory practices, weak enforcement, norms accepting GBV.",
+              "Equality policies, accountable institutions, long-term norm change."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Risk factor (association)",
+            "Warning sign (behavior to take seriously)"
+          ],
+          "rows": [
+            [
+              "Prior exposure to violence in childhood.",
+              "A partner repeatedly threatens harm if someone talks to friends."
+            ],
+            [
+              "Economic insecurity.",
+              "A partner confiscates wages or blocks access to essential money."
+            ],
+            [
+              "Harmful norms supporting dominance.",
+              "A supervisor demands sexual favors in exchange for a grade or job."
+            ],
+            [
+              "Weak reporting systems.",
+              "Staff dismiss a disclosure or warn the survivor not to complain."
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

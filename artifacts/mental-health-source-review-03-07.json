@@ -1,0 +1,952 @@
+[
+  {
+    "chapter": 3,
+    "originalFilename": "VUGA_NDAKUMVA_Mental_Health_Expanded_Chapter_03_Stress.pdf",
+    "file": "public/learning/mental-health/chapter-03-stress.pdf",
+    "pages": 10,
+    "sha256": "fdf1612bf8e2c07ab326a7668e7c0f3378afaada442c6f058bc3fc3f70494d91",
+    "sections": [
+      {
+        "section": "1",
+        "id": "section-3-1",
+        "sourceWords": 272,
+        "matchingWords": 272,
+        "complete": true
+      },
+      {
+        "section": "2",
+        "id": "section-3-2",
+        "sourceWords": 152,
+        "matchingWords": 152,
+        "complete": true
+      },
+      {
+        "section": "3",
+        "id": "section-3-3",
+        "sourceWords": 191,
+        "matchingWords": 191,
+        "complete": true
+      },
+      {
+        "section": "4",
+        "id": "section-3-4",
+        "sourceWords": 133,
+        "matchingWords": 133,
+        "complete": true
+      },
+      {
+        "section": "5",
+        "id": "section-3-5",
+        "sourceWords": 114,
+        "matchingWords": 114,
+        "complete": true
+      },
+      {
+        "section": "6",
+        "id": "section-3-6",
+        "sourceWords": 160,
+        "matchingWords": 160,
+        "complete": true
+      },
+      {
+        "section": "7",
+        "id": "section-3-7",
+        "sourceWords": 220,
+        "matchingWords": 220,
+        "complete": true
+      },
+      {
+        "section": "8",
+        "id": "section-3-8",
+        "sourceWords": 198,
+        "matchingWords": 198,
+        "complete": true
+      },
+      {
+        "section": "9",
+        "id": "section-3-9",
+        "sourceWords": 148,
+        "matchingWords": 148,
+        "complete": true
+      },
+      {
+        "section": "10",
+        "id": "section-3-10",
+        "sourceWords": 143,
+        "matchingWords": 143,
+        "complete": true
+      },
+      {
+        "section": "11",
+        "id": "section-3-11",
+        "sourceWords": 113,
+        "matchingWords": 113,
+        "complete": true
+      },
+      {
+        "section": "12",
+        "id": "section-3-12",
+        "sourceWords": 242,
+        "matchingWords": 242,
+        "complete": true
+      },
+      {
+        "section": "13",
+        "id": "section-3-13",
+        "sourceWords": 137,
+        "matchingWords": 137,
+        "complete": true
+      },
+      {
+        "section": "14",
+        "id": "section-3-14",
+        "sourceWords": 152,
+        "matchingWords": 152,
+        "complete": true
+      },
+      {
+        "section": "15",
+        "id": "section-3-15",
+        "sourceWords": 140,
+        "matchingWords": 140,
+        "complete": true
+      },
+      {
+        "section": "16",
+        "id": "section-3-16",
+        "sourceWords": 177,
+        "matchingWords": 177,
+        "complete": true
+      },
+      {
+        "section": "17",
+        "id": "section-3-17",
+        "sourceWords": 163,
+        "matchingWords": 163,
+        "complete": true
+      },
+      {
+        "section": "18",
+        "id": "section-3-18",
+        "sourceWords": 127,
+        "matchingWords": 127,
+        "complete": true
+      },
+      {
+        "section": "References and editorial note",
+        "id": "section-3-references",
+        "sourceWords": 169,
+        "matchingWords": 169,
+        "complete": true
+      }
+    ],
+    "frontMatterWords": 141,
+    "goals": 5,
+    "tables": 7,
+    "examples": 4,
+    "normalizations": [
+      "PDF line wrapping and bullet glyphs normalized",
+      "Running page footers excluded",
+      "Repeated headers on the split seven-day table merged",
+      "Original section labels retained separately from stable IDs"
+    ],
+    "independentBodyAudit": {
+      "complete": true,
+      "sourceWords": 3151,
+      "matchingWords": 3151
+    },
+    "independentFrontMatterAudit": {
+      "complete": true,
+      "sourceWords": 207,
+      "matchingWords": 207
+    }
+  },
+  {
+    "chapter": 4,
+    "originalFilename": "VUGA_NDAKUMVA_Mental_Health_Expanded_Chapter_04_Anxiety.pdf",
+    "file": "public/learning/mental-health/chapter-04-anxiety.pdf",
+    "pages": 11,
+    "sha256": "5002ebeba9d7c8fc86cfe237f22ee6cca22cd998281b0afc65be9af24f9d882f",
+    "sections": [
+      {
+        "section": "04.1",
+        "id": "section-4-1",
+        "sourceWords": 232,
+        "matchingWords": 232,
+        "complete": true
+      },
+      {
+        "section": "04.2",
+        "id": "section-4-2",
+        "sourceWords": 144,
+        "matchingWords": 144,
+        "complete": true
+      },
+      {
+        "section": "04.3",
+        "id": "section-4-3",
+        "sourceWords": 215,
+        "matchingWords": 215,
+        "complete": true
+      },
+      {
+        "section": "04.4",
+        "id": "section-4-4",
+        "sourceWords": 90,
+        "matchingWords": 90,
+        "complete": true
+      },
+      {
+        "section": "04.5",
+        "id": "section-4-5",
+        "sourceWords": 108,
+        "matchingWords": 108,
+        "complete": true
+      },
+      {
+        "section": "04.6",
+        "id": "section-4-6",
+        "sourceWords": 215,
+        "matchingWords": 215,
+        "complete": true
+      },
+      {
+        "section": "04.7",
+        "id": "section-4-7",
+        "sourceWords": 89,
+        "matchingWords": 89,
+        "complete": true
+      },
+      {
+        "section": "04.8",
+        "id": "section-4-8",
+        "sourceWords": 94,
+        "matchingWords": 94,
+        "complete": true
+      },
+      {
+        "section": "04.9",
+        "id": "section-4-9",
+        "sourceWords": 93,
+        "matchingWords": 93,
+        "complete": true
+      },
+      {
+        "section": "04.10",
+        "id": "section-4-10",
+        "sourceWords": 87,
+        "matchingWords": 87,
+        "complete": true
+      },
+      {
+        "section": "04.11",
+        "id": "section-4-11",
+        "sourceWords": 139,
+        "matchingWords": 139,
+        "complete": true
+      },
+      {
+        "section": "04.12",
+        "id": "section-4-12",
+        "sourceWords": 151,
+        "matchingWords": 151,
+        "complete": true
+      },
+      {
+        "section": "04.13",
+        "id": "section-4-13",
+        "sourceWords": 132,
+        "matchingWords": 132,
+        "complete": true
+      },
+      {
+        "section": "04.14",
+        "id": "section-4-14",
+        "sourceWords": 99,
+        "matchingWords": 99,
+        "complete": true
+      },
+      {
+        "section": "04.15",
+        "id": "section-4-15",
+        "sourceWords": 79,
+        "matchingWords": 79,
+        "complete": true
+      },
+      {
+        "section": "04.16",
+        "id": "section-4-16",
+        "sourceWords": 208,
+        "matchingWords": 208,
+        "complete": true
+      },
+      {
+        "section": "04.17",
+        "id": "section-4-17",
+        "sourceWords": 228,
+        "matchingWords": 228,
+        "complete": true
+      },
+      {
+        "section": "04.18",
+        "id": "section-4-18",
+        "sourceWords": 119,
+        "matchingWords": 119,
+        "complete": true
+      },
+      {
+        "section": "04.19",
+        "id": "section-4-19",
+        "sourceWords": 147,
+        "matchingWords": 147,
+        "complete": true
+      },
+      {
+        "section": "04.20",
+        "id": "section-4-20",
+        "sourceWords": 135,
+        "matchingWords": 135,
+        "complete": true
+      },
+      {
+        "section": "04.21",
+        "id": "section-4-21",
+        "sourceWords": 184,
+        "matchingWords": 184,
+        "complete": true
+      },
+      {
+        "section": "04.22",
+        "id": "section-4-22",
+        "sourceWords": 104,
+        "matchingWords": 104,
+        "complete": true
+      },
+      {
+        "section": "04.23",
+        "id": "section-4-23",
+        "sourceWords": 246,
+        "matchingWords": 246,
+        "complete": true
+      }
+    ],
+    "frontMatterWords": 72,
+    "goals": 6,
+    "tables": 6,
+    "examples": 4,
+    "normalizations": [
+      "PDF line wrapping and bullet glyphs normalized",
+      "Running page footers excluded",
+      "Repeated headers on the split seven-day table merged",
+      "Original section labels retained separately from stable IDs"
+    ],
+    "independentBodyAudit": {
+      "complete": true,
+      "sourceWords": 3338,
+      "matchingWords": 3338
+    },
+    "independentFrontMatterAudit": {
+      "complete": true,
+      "sourceWords": 134,
+      "matchingWords": 134
+    }
+  },
+  {
+    "chapter": 5,
+    "originalFilename": "VUGA_NDAKUMVA_Mental_Health_Expanded_Chapter_05_Depression.pdf",
+    "file": "public/learning/mental-health/chapter-05-depression.pdf",
+    "pages": 9,
+    "sha256": "5e469929374748c781f200f7720cf866fe566a28fc0983f329678f144f77870e",
+    "sections": [
+      {
+        "section": "01",
+        "id": "section-5-1",
+        "sourceWords": 157,
+        "matchingWords": 157,
+        "complete": true
+      },
+      {
+        "section": "02",
+        "id": "section-5-2",
+        "sourceWords": 148,
+        "matchingWords": 148,
+        "complete": true
+      },
+      {
+        "section": "03",
+        "id": "section-5-3",
+        "sourceWords": 143,
+        "matchingWords": 143,
+        "complete": true
+      },
+      {
+        "section": "04",
+        "id": "section-5-4",
+        "sourceWords": 87,
+        "matchingWords": 87,
+        "complete": true
+      },
+      {
+        "section": "05",
+        "id": "section-5-5",
+        "sourceWords": 209,
+        "matchingWords": 209,
+        "complete": true
+      },
+      {
+        "section": "06",
+        "id": "section-5-6",
+        "sourceWords": 105,
+        "matchingWords": 105,
+        "complete": true
+      },
+      {
+        "section": "07",
+        "id": "section-5-7",
+        "sourceWords": 91,
+        "matchingWords": 91,
+        "complete": true
+      },
+      {
+        "section": "08",
+        "id": "section-5-8",
+        "sourceWords": 120,
+        "matchingWords": 120,
+        "complete": true
+      },
+      {
+        "section": "09",
+        "id": "section-5-9",
+        "sourceWords": 198,
+        "matchingWords": 198,
+        "complete": true
+      },
+      {
+        "section": "10",
+        "id": "section-5-10",
+        "sourceWords": 96,
+        "matchingWords": 96,
+        "complete": true
+      },
+      {
+        "section": "11",
+        "id": "section-5-11",
+        "sourceWords": 98,
+        "matchingWords": 98,
+        "complete": true
+      },
+      {
+        "section": "12",
+        "id": "section-5-12",
+        "sourceWords": 170,
+        "matchingWords": 170,
+        "complete": true
+      },
+      {
+        "section": "13",
+        "id": "section-5-13",
+        "sourceWords": 122,
+        "matchingWords": 122,
+        "complete": true
+      },
+      {
+        "section": "14",
+        "id": "section-5-14",
+        "sourceWords": 113,
+        "matchingWords": 113,
+        "complete": true
+      },
+      {
+        "section": "15",
+        "id": "section-5-15",
+        "sourceWords": 98,
+        "matchingWords": 98,
+        "complete": true
+      },
+      {
+        "section": "16",
+        "id": "section-5-16",
+        "sourceWords": 197,
+        "matchingWords": 197,
+        "complete": true
+      },
+      {
+        "section": "17",
+        "id": "section-5-17",
+        "sourceWords": 129,
+        "matchingWords": 129,
+        "complete": true
+      },
+      {
+        "section": "18",
+        "id": "section-5-18",
+        "sourceWords": 173,
+        "matchingWords": 173,
+        "complete": true
+      },
+      {
+        "section": "19",
+        "id": "section-5-19",
+        "sourceWords": 136,
+        "matchingWords": 136,
+        "complete": true
+      },
+      {
+        "section": "20",
+        "id": "section-5-20",
+        "sourceWords": 194,
+        "matchingWords": 194,
+        "complete": true
+      },
+      {
+        "section": "21",
+        "id": "section-5-21",
+        "sourceWords": 115,
+        "matchingWords": 115,
+        "complete": true
+      },
+      {
+        "section": "References and source notes",
+        "id": "section-5-references",
+        "sourceWords": 180,
+        "matchingWords": 180,
+        "complete": true
+      }
+    ],
+    "frontMatterWords": 132,
+    "goals": 6,
+    "tables": 0,
+    "examples": 4,
+    "normalizations": [
+      "PDF line wrapping and bullet glyphs normalized",
+      "Running page footers excluded",
+      "Repeated headers on the split seven-day table merged",
+      "Original section labels retained separately from stable IDs"
+    ],
+    "independentBodyAudit": {
+      "complete": true,
+      "sourceWords": 3079,
+      "matchingWords": 3079
+    },
+    "independentFrontMatterAudit": {
+      "complete": true,
+      "sourceWords": 204,
+      "matchingWords": 204
+    }
+  },
+  {
+    "chapter": 6,
+    "originalFilename": "VUGA_NDAKUMVA_Mental_Health_Expanded_Chapter_06_Trauma_PTSD.pdf",
+    "file": "public/learning/mental-health/chapter-06-trauma-ptsd.pdf",
+    "pages": 11,
+    "sha256": "c93cfd35de5730a632e544ab98cce1f069ef7d36005602db349a5f805e6dba09",
+    "sections": [
+      {
+        "section": "1",
+        "id": "section-6-1",
+        "sourceWords": 154,
+        "matchingWords": 154,
+        "complete": true
+      },
+      {
+        "section": "2",
+        "id": "section-6-2",
+        "sourceWords": 106,
+        "matchingWords": 106,
+        "complete": true
+      },
+      {
+        "section": "3",
+        "id": "section-6-3",
+        "sourceWords": 101,
+        "matchingWords": 101,
+        "complete": true
+      },
+      {
+        "section": "4",
+        "id": "section-6-4",
+        "sourceWords": 125,
+        "matchingWords": 125,
+        "complete": true
+      },
+      {
+        "section": "5",
+        "id": "section-6-5",
+        "sourceWords": 109,
+        "matchingWords": 109,
+        "complete": true
+      },
+      {
+        "section": "6",
+        "id": "section-6-6",
+        "sourceWords": 97,
+        "matchingWords": 97,
+        "complete": true
+      },
+      {
+        "section": "7",
+        "id": "section-6-7",
+        "sourceWords": 94,
+        "matchingWords": 94,
+        "complete": true
+      },
+      {
+        "section": "8",
+        "id": "section-6-8",
+        "sourceWords": 82,
+        "matchingWords": 82,
+        "complete": true
+      },
+      {
+        "section": "9",
+        "id": "section-6-9",
+        "sourceWords": 102,
+        "matchingWords": 102,
+        "complete": true
+      },
+      {
+        "section": "10",
+        "id": "section-6-10",
+        "sourceWords": 103,
+        "matchingWords": 103,
+        "complete": true
+      },
+      {
+        "section": "11",
+        "id": "section-6-11",
+        "sourceWords": 89,
+        "matchingWords": 89,
+        "complete": true
+      },
+      {
+        "section": "12",
+        "id": "section-6-12",
+        "sourceWords": 111,
+        "matchingWords": 111,
+        "complete": true
+      },
+      {
+        "section": "13",
+        "id": "section-6-13",
+        "sourceWords": 93,
+        "matchingWords": 93,
+        "complete": true
+      },
+      {
+        "section": "14",
+        "id": "section-6-14",
+        "sourceWords": 89,
+        "matchingWords": 89,
+        "complete": true
+      },
+      {
+        "section": "15",
+        "id": "section-6-15",
+        "sourceWords": 109,
+        "matchingWords": 109,
+        "complete": true
+      },
+      {
+        "section": "16",
+        "id": "section-6-16",
+        "sourceWords": 100,
+        "matchingWords": 100,
+        "complete": true
+      },
+      {
+        "section": "17",
+        "id": "section-6-17",
+        "sourceWords": 100,
+        "matchingWords": 100,
+        "complete": true
+      },
+      {
+        "section": "18",
+        "id": "section-6-18",
+        "sourceWords": 84,
+        "matchingWords": 84,
+        "complete": true
+      },
+      {
+        "section": "19",
+        "id": "section-6-19",
+        "sourceWords": 111,
+        "matchingWords": 111,
+        "complete": true
+      },
+      {
+        "section": "20",
+        "id": "section-6-20",
+        "sourceWords": 91,
+        "matchingWords": 91,
+        "complete": true
+      },
+      {
+        "section": "21",
+        "id": "section-6-21",
+        "sourceWords": 105,
+        "matchingWords": 105,
+        "complete": true
+      },
+      {
+        "section": "22",
+        "id": "section-6-22",
+        "sourceWords": 128,
+        "matchingWords": 128,
+        "complete": true
+      },
+      {
+        "section": "23",
+        "id": "section-6-23",
+        "sourceWords": 105,
+        "matchingWords": 105,
+        "complete": true
+      },
+      {
+        "section": "24",
+        "id": "section-6-24",
+        "sourceWords": 236,
+        "matchingWords": 236,
+        "complete": true
+      },
+      {
+        "section": "25",
+        "id": "section-6-25",
+        "sourceWords": 93,
+        "matchingWords": 93,
+        "complete": true
+      },
+      {
+        "section": "26",
+        "id": "section-6-26",
+        "sourceWords": 125,
+        "matchingWords": 125,
+        "complete": true
+      },
+      {
+        "section": "27",
+        "id": "section-6-27",
+        "sourceWords": 106,
+        "matchingWords": 106,
+        "complete": true
+      },
+      {
+        "section": "28",
+        "id": "section-6-28",
+        "sourceWords": 101,
+        "matchingWords": 101,
+        "complete": true
+      },
+      {
+        "section": "29",
+        "id": "section-6-29",
+        "sourceWords": 71,
+        "matchingWords": 71,
+        "complete": true
+      },
+      {
+        "section": "30",
+        "id": "section-6-30",
+        "sourceWords": 111,
+        "matchingWords": 111,
+        "complete": true
+      },
+      {
+        "section": "31",
+        "id": "section-6-31",
+        "sourceWords": 90,
+        "matchingWords": 90,
+        "complete": true
+      }
+    ],
+    "frontMatterWords": 77,
+    "goals": 5,
+    "tables": 4,
+    "examples": 4,
+    "normalizations": [
+      "PDF line wrapping and bullet glyphs normalized",
+      "Running page footers excluded",
+      "Repeated headers on the split seven-day table merged",
+      "Original section labels retained separately from stable IDs"
+    ],
+    "independentBodyAudit": {
+      "complete": true,
+      "sourceWords": 3321,
+      "matchingWords": 3321
+    },
+    "independentFrontMatterAudit": {
+      "complete": true,
+      "sourceWords": 152,
+      "matchingWords": 152
+    }
+  },
+  {
+    "chapter": 7,
+    "originalFilename": "VUGA_NDAKUMVA_Mental_Health_Expanded_Chapter_07_Grief_Loss.pdf",
+    "file": "public/learning/mental-health/chapter-07-grief-loss.pdf",
+    "pages": 9,
+    "sha256": "0e05520e2887624b35401d771b3d7a534645ce2b91ba32fa67063d335e18d0cb",
+    "sections": [
+      {
+        "section": "07.1",
+        "id": "section-7-1",
+        "sourceWords": 133,
+        "matchingWords": 133,
+        "complete": true
+      },
+      {
+        "section": "07.2",
+        "id": "section-7-2",
+        "sourceWords": 159,
+        "matchingWords": 159,
+        "complete": true
+      },
+      {
+        "section": "07.3",
+        "id": "section-7-3",
+        "sourceWords": 95,
+        "matchingWords": 95,
+        "complete": true
+      },
+      {
+        "section": "07.4",
+        "id": "section-7-4",
+        "sourceWords": 105,
+        "matchingWords": 105,
+        "complete": true
+      },
+      {
+        "section": "07.5",
+        "id": "section-7-5",
+        "sourceWords": 82,
+        "matchingWords": 82,
+        "complete": true
+      },
+      {
+        "section": "07.6",
+        "id": "section-7-6",
+        "sourceWords": 104,
+        "matchingWords": 104,
+        "complete": true
+      },
+      {
+        "section": "07.7",
+        "id": "section-7-7",
+        "sourceWords": 106,
+        "matchingWords": 106,
+        "complete": true
+      },
+      {
+        "section": "07.8",
+        "id": "section-7-8",
+        "sourceWords": 181,
+        "matchingWords": 181,
+        "complete": true
+      },
+      {
+        "section": "07.9",
+        "id": "section-7-9",
+        "sourceWords": 106,
+        "matchingWords": 106,
+        "complete": true
+      },
+      {
+        "section": "07.10",
+        "id": "section-7-10",
+        "sourceWords": 104,
+        "matchingWords": 104,
+        "complete": true
+      },
+      {
+        "section": "07.11",
+        "id": "section-7-11",
+        "sourceWords": 90,
+        "matchingWords": 90,
+        "complete": true
+      },
+      {
+        "section": "07.12",
+        "id": "section-7-12",
+        "sourceWords": 147,
+        "matchingWords": 147,
+        "complete": true
+      },
+      {
+        "section": "07.13",
+        "id": "section-7-13",
+        "sourceWords": 103,
+        "matchingWords": 103,
+        "complete": true
+      },
+      {
+        "section": "07.14",
+        "id": "section-7-14",
+        "sourceWords": 96,
+        "matchingWords": 96,
+        "complete": true
+      },
+      {
+        "section": "07.15",
+        "id": "section-7-15",
+        "sourceWords": 113,
+        "matchingWords": 113,
+        "complete": true
+      },
+      {
+        "section": "07.16",
+        "id": "section-7-16",
+        "sourceWords": 116,
+        "matchingWords": 116,
+        "complete": true
+      },
+      {
+        "section": "Part IV",
+        "id": "section-7-part-iv",
+        "sourceWords": 430,
+        "matchingWords": 430,
+        "complete": true
+      },
+      {
+        "section": "Part V",
+        "id": "section-7-part-v",
+        "sourceWords": 383,
+        "matchingWords": 383,
+        "complete": true
+      },
+      {
+        "section": "Part VI",
+        "id": "section-7-part-vi",
+        "sourceWords": 294,
+        "matchingWords": 294,
+        "complete": true
+      },
+      {
+        "section": "Part VII",
+        "id": "section-7-part-vii",
+        "sourceWords": 251,
+        "matchingWords": 251,
+        "complete": true
+      }
+    ],
+    "frontMatterWords": 83,
+    "goals": 5,
+    "tables": 0,
+    "examples": 5,
+    "normalizations": [
+      "PDF line wrapping and bullet glyphs normalized",
+      "Running page footers excluded",
+      "Repeated headers on the split seven-day table merged",
+      "Original section labels retained separately from stable IDs"
+    ],
+    "independentBodyAudit": {
+      "complete": true,
+      "sourceWords": 3198,
+      "matchingWords": 3198
+    },
+    "independentFrontMatterAudit": {
+      "complete": true,
+      "sourceWords": 143,
+      "matchingWords": 143
+    }
+  }
+]

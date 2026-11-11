@@ -1,0 +1,86 @@
+[
+  {
+    "id": "work-meeting",
+    "title": "An uncertain work meeting",
+    "explanation": "The meeting request has not changed, but its interpretation can influence feelings and actions. Gathering facts does not require pretending that everything is positive or ignoring a genuine problem.",
+    "reflection": "Optional reflectionWhat is known about the meeting, and what is an interpretation?",
+    "scenes": 2
+  },
+  {
+    "id": "emotion-connections",
+    "title": "One event, several connected experiences",
+    "explanation": "A first emotion is not always chosen. Gathering facts can help someone consider a next action without denying nervousness or a genuine problem.",
+    "reflection": "Optional reflectionWhich part is an observable event, and which part is an interpretation?",
+    "scenes": 0
+  },
+  {
+    "id": "emotional-check-in",
+    "title": "A five-part check-in, at your own pace",
+    "explanation": "Naming is about awareness, not eliminating emotions. Writing, talking, drawing, movement, or quiet time may suit different people.",
+    "reflection": "Optional reflectionHow does allowing “not sure” make this practice more flexible?",
+    "scenes": 0
+  },
+  {
+    "id": "grounding",
+    "title": "Reconnect with the present",
+    "explanation": "This is a choice, not an exercise to complete perfectly. Another supportive action or help may be more appropriate if grounding feels uncomfortable.",
+    "reflection": "Optional reflectionWhat could someone choose if focusing on their body feels uncomfortable?",
+    "scenes": 0
+  },
+  {
+    "id": "allowing-feelings",
+    "title": "Notice a feeling without having to obey it",
+    "explanation": "Acknowledging a feeling does not require investigating it deeply, surrendering to an urge, or forcing the feeling to disappear.",
+    "reflection": "Optional reflectionWhat is the difference between noticing a feeling and acting on every urge?",
+    "scenes": 0
+  },
+  {
+    "id": "self-kindness",
+    "title": "From a harsh label to a constructive response",
+    "explanation": "A balanced response can acknowledge a specific difficulty and leave room for learning, repair, or support.",
+    "reflection": "Optional reflectionWhich response names a specific difficulty without turning it into a label for the whole person?",
+    "scenes": 0
+  },
+  {
+    "id": "safe-conversation",
+    "title": "Describe. Express. Ask.",
+    "explanation": "The pattern describes the speaker’s experience without asserting that the other person intended harm. Sharing feelings remains a choice.",
+    "reflection": "Optional reflectionWhy does the safety of the situation matter more than using a particular phrase?",
+    "scenes": 0
+  },
+  {
+    "id": "pause-before-acting",
+    "title": "Make room for a safer next action",
+    "explanation": "Pausing is not the same as delaying protection. The next step depends on the actual situation, not simply the strength of an emotion.",
+    "reflection": "Optional reflectionWhen would taking immediate safety action matter more than pausing for an exercise?",
+    "scenes": 0
+  },
+  {
+    "id": "results",
+    "title": "Example 1: A learner receives disappointing results.",
+    "explanation": "The goal is to reduce self-blame and find a way forward, not to force happiness or claim that one conversation changes the results.",
+    "reflection": "Optional reflectionWhich response could acknowledge disappointment without labeling the learner a failure?",
+    "scenes": 2
+  },
+  {
+    "id": "caregiver-exhaustion",
+    "title": "Example 2: A caregiver feels angry and exhausted.",
+    "explanation": "Irritation can be considered alongside the person’s workload and need for rest. If nobody can share the task, advice to remain patient does not replace practical support.",
+    "reflection": "Optional reflectionWhat need might be overlooked if the caregiver is only told to stay calm?",
+    "scenes": 2
+  },
+  {
+    "id": "moving",
+    "title": "Example 3: A young adult feels isolated.",
+    "explanation": "Connection can begin with a small, chosen step; the move and loneliness are not instantly resolved. Persistent withdrawal or low mood may call for professional support.",
+    "reflection": "Optional reflectionWhy does it matter that the next step fits the person’s own preferences?",
+    "scenes": 2
+  },
+  {
+    "id": "conflict-safety",
+    "title": "Example 4: A person feels frightened after a conflict.",
+    "explanation": "The pictures do not establish that a person is safe. Emotional coping is not a substitute for protection, and no one needs to confront an unsafe person to practise a communication skill.",
+    "reflection": "Optional reflectionWhy should physical safety be considered before suggesting an emotional exercise?",
+    "scenes": 2
+  }
+]

@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-11",
+  "page": "/about",
+  "status": "Implemented and visually verified locally; not published.",
+  "audience": "Visitors learning for themselves or someone they care about, including families and supporters.",
+  "audit": [
+    { "step": 1, "surface": "Desktop About Us", "before": "Working links and no overflow; repeated purpose copy and a generic stock photo.", "after": "Clear introduction, topic routes, values, choices and next step; verified at 1024, 1440 and 1920px." },
+    { "step": 2, "surface": "Mobile and tablet About Us", "before": "No overflow; narrow two-column value descriptions.", "after": "Full uncropped illustrations, stacked values and readable single-column content; verified at 320, 375 and 768px." },
+    { "step": 3, "surface": "Navigation and shared homepage", "after": "All About links work by keyboard at desktop/mobile; menu, skip link and hash focus work. Homepage comparison unchanged apart from negligible rendering noise." }
+  ],
+  "sourceChanges": [
+    "src/support/SupportPages.tsx: import and delegate only the About page, passing the existing Values component unchanged",
+    "src/support/AboutPage.tsx: new page composition and improved English copy",
+    "src/support/about.css: all additions scoped beneath .about-page",
+    "src/support/aboutIllustrations.tsx: typed catalog and responsive image component",
+    "public/images/about/: six optimized WebP variants for two illustrations",
+    "scripts/prepare-about-illustrations.mjs: regenerate variants from retained PNGs",
+    "scripts/review-about.mjs: repeatable screenshots, contrast, layout, keyboard and homepage comparison"
+  ],
+  "content": "Removed repeated mission language, introduced direct learning paths, preserved the four existing values and both original destinations, clarified privacy choices and retained temporary-brand/service-limit notices. No fabricated history, team, partners, credentials or outcomes.",
+  "illustrations": {
+    "generator": "Built-in image_gen",
+    "briefsAndExactPrompts": "artifacts/about-refresh/illustration-briefs.json",
+    "originals": "artifacts/about-refresh/originals/",
+    "optimizedAssets": "public/images/about/",
+    "format": "Raster PNG originals and WebP delivery assets, not editable SVG",
+    "loading": "Eager high-priority informative hero; lazy decorative reader; intrinsic dimensions and 480/960/1440px srcset variants",
+    "review": "Checked contextual relevance, anatomy, character proportions, palette and full-scene mobile framing before integration."
+  },
+  "checks": {
+    "npm.cmd run build": "PASS: TypeScript and Vite production build. Initial transient missing GBV generated-catalog error cleared once that unrelated generated file became available; final build passed.",
+    "prettier": "PASS: check on all five new source/tooling files.",
+    "node scripts/review-about.mjs": "PASS: six widths, no overflow, two healthy undistorted images with dimensions, heading order, 19 keyboard/menu/hash checks, no browser console/page errors, homepage visual regression within negligible rendering tolerance.",
+    "textContrast": "PASS: minimum 5.09:1 across text in the redesigned page. Does not constitute a comprehensive accessibility certification.",
+    "npm.cmd test -- tests/public-pages.spec.ts tests/navigation.spec.ts tests/landing.spec.ts": "28 PASS, 1 FAIL. tests/landing.spec.ts:138 times out at line 145 looking for the former exact 'Urgent help' header link. The pre-existing shared header instead has a telephone link labelled 'Rwanda Urgent help: 112'. Header and test not modified in this task.",
+    "lint": "No lint script is configured in package.json.",
+    "inAppBrowser": "Unavailable; visual review used the project's existing installed Microsoft Edge/Playwright tooling.",
+    "scope": "Compared SupportPages.tsx with retained pre-edit copy: only About integration changed. Shared components, routes and unrelated source files preserved. No dependency added."
+  },
+  "screenshots": {
+    "before": "artifacts/about-refresh/before/",
+    "after": "artifacts/about-refresh/after/",
+    "reviewData": "artifacts/about-refresh/after/review.json"
+  },
+  "nextPage": {
+    "reuse": "Shared Values and existing support-button/support-text-link styles; AboutIllustration demonstrates typed asset references, responsive sizing and loading priorities.",
+    "design": "Retain DM Sans and green actions; use purple/lavender for introductions and mint for autonomy/choice sections. Keep section text as HTML. Scale full illustration scenes on mobile. Keep new page styling scoped.",
+    "outstandingFacts": "Confirm final public organization name before replacing temporary BetterHelp branding across the site. No verified team, founding history, qualifications or partnerships supplied. No reference illustrations were attached; the written brief and project tokens guided this page.",
+    "unrelatedIssue": "Reconcile the urgent-help regression test with the current shared header in a separate scoped change."
+  }
+}

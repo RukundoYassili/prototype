@@ -1,0 +1,66 @@
+[
+  {
+    "Path": "C:\\Users\\VUGANDAKUMVA\\Desktop\\vugandakumva\\src\\learning\\catalog.ts",
+    "Hash": "A07FABFB1828C777215B897AF6A2F99DF996B6235FA9504965633962658E4CC5"
+  },
+  {
+    "Path": "C:\\Users\\VUGANDAKUMVA\\Desktop\\vugandakumva\\src\\learning\\chapter-catalog-03-07.generated.ts",
+    "Hash": "3494E8F728BFF3FD987A61FB9E8C0924BE0928A1F0817DECD795167E6A60DAF1"
+  },
+  {
+    "Path": "C:\\Users\\VUGANDAKUMVA\\Desktop\\vugandakumva\\src\\learning\\chapter-catalog.generated.ts",
+    "Hash": "F536B9A83BDA9A807469FACDBBC4C901492A460FBF6FC1117B3FA4F80E6026FD"
+  },
+  {
+    "Path": "C:\\Users\\VUGANDAKUMVA\\Desktop\\vugandakumva\\src\\learning\\chapters-03-07.generated.ts",
+    "Hash": "8827D5F29B62074D1A2CB734BFC1940C1DE25A2B5282F63276981FA4FC3C0D47"
+  },
+  {
+    "Path": "C:\\Users\\VUGANDAKUMVA\\Desktop\\vugandakumva\\src\\learning\\chapters.generated.ts",
+    "Hash": "7052500DF55B6C5E7941B6FA0B625D4AE4274F1E01E249B915A2D7C6E1CF3FC7"
+  },
+  {
+    "Path": "C:\\Users\\VUGANDAKUMVA\\Desktop\\vugandakumva\\src\\learning\\chapters.ts",
+    "Hash": "C7C4D56A8EA159521AE7A0B9A605DCF00C709331175CA2B367547EF842E3841F"
+  },
+  {
+    "Path": "C:\\Users\\VUGANDAKUMVA\\Desktop\\vugandakumva\\src\\learning\\learning-visuals.css",
+    "Hash": "3D514BD55608D80C342EC807517E3C211DE0C749993134E1F3C1EBA7F26FCEA5"
+  },
+  {
+    "Path": "C:\\Users\\VUGANDAKUMVA\\Desktop\\vugandakumva\\src\\learning\\LearningPages.tsx",
+    "Hash": "F4B81C61E2FA16DF968F911CA5B1B1DF4B69B7A215BA292ED189F070AF5677FB"
+  },
+  {
+    "Path": "C:\\Users\\VUGANDAKUMVA\\Desktop\\vugandakumva\\src\\learning\\LearningVisuals.tsx",
+    "Hash": "49FB85FC1F7A6DBD3743DF9A9939F14B8C64D58BA2C16962ED3FD253B29ED34C"
+  },
+  {
+    "Path": "C:\\Users\\VUGANDAKUMVA\\Desktop\\vugandakumva\\src\\learning\\library.tsx",
+    "Hash": "52515C8ED8842DE2E26AAEC5230CC7B0A9230AA808759EC5F9923D6D4E26E600"
+  },
+  {
+    "Path": "C:\\Users\\VUGANDAKUMVA\\Desktop\\vugandakumva\\src\\learning\\mental-health.css",
+    "Hash": "2C6A1FC22434FF75297DB6B97412D38E206F42F5B8483AB7087DF24E0E6AB69F"
+  },
+  {
+    "Path": "C:\\Users\\VUGANDAKUMVA\\Desktop\\vugandakumva\\src\\learning\\MentalHealthPages.tsx",
+    "Hash": "7A50424A10B5AAB83399B612FB2FDD5761880EB373380314A10AD063975CA458"
+  },
+  {
+    "Path": "C:\\Users\\VUGANDAKUMVA\\Desktop\\vugandakumva\\src\\learning\\types.ts",
+    "Hash": "E2EBE634DF06027947C140E8D7E178A052AB381667703C6E2ECC59D759B2D4B6"
+  },
+  {
+    "Path": "C:\\Users\\VUGANDAKUMVA\\Desktop\\vugandakumva\\src\\learning\\visual-types.ts",
+    "Hash": "8DF3A89793C8914BD307E9043E4FC4A0C7B825F6695A1D067BA49E87EB39A09F"
+  },
+  {
+    "Path": "C:\\Users\\VUGANDAKUMVA\\Desktop\\vugandakumva\\src\\learning\\visuals-03-07.ts",
+    "Hash": "2502FC2142D85F1D203B0003F032402434362F274F08546CEA25D1A2840962D3"
+  },
+  {
+    "Path": "C:\\Users\\VUGANDAKUMVA\\Desktop\\vugandakumva\\src\\learning\\visuals.ts",
+    "Hash": "9A5FB41DAFB45528592301F702ADB5B4CDE53D385BA8B0055564933EA97B3403"
+  }
+]

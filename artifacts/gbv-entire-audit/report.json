@@ -1,0 +1,757 @@
+{
+  "pages": [
+    {
+      "chapter": 0,
+      "width": 1440,
+      "title": "You deserve safety and respect.",
+      "overflow": false,
+      "bodyHeight": 8566,
+      "images": [
+        {
+          "alt": "Illustration of two Black African adults seated in their own space in a courtyard, one holding her notebook and the other listening, with a reader further away.",
+          "broken": false,
+          "src": "/images/learning/gbv-covers/hero-dignity-and-space-960.webp"
+        },
+        {
+          "alt": "Illustration of an adult considering learning materials while a companion leaves the choices in her hands.",
+          "broken": false,
+          "src": "/images/learning/gbv-covers/01-choice-and-connection-960.webp"
+        },
+        {
+          "alt": "Illustration connecting a home, conversation shapes, financial papers and a phone around one person, reflecting different areas of everyday life.",
+          "broken": false,
+          "src": "/images/learning/gbv-covers/02-connected-forms-960.webp"
+        },
+        {
+          "alt": "Illustration of community members discussing a model with unequal routes to a shared doorway, a metaphor for access to opportunities.",
+          "broken": false,
+          "src": "/images/learning/gbv-covers/03-opportunity-and-responsibility-960.webp"
+        },
+        {
+          "alt": "Illustration of a young adult expressing a preference while another listens and respects their personal space.",
+          "broken": false,
+          "src": "/images/learning/gbv-covers/04-space-and-consent-960.webp"
+        },
+        {
+          "alt": "Illustration of an adult man speaking privately with a woman who listens at equal level, without taking over.",
+          "broken": false,
+          "src": "/images/learning/gbv-covers/05-private-support-960.webp"
+        },
+        {
+          "alt": "Illustration of a fully clothed adult considering information with an attentive healthcare professional in a consultation room.",
+          "broken": false,
+          "src": "/images/learning/gbv-covers/06-care-and-dignity-960.webp"
+        },
+        {
+          "alt": "Illustration of a woman speaking with an attentive friend, with abstract conversation shapes in the background.",
+          "broken": false,
+          "src": "/images/learning/gbv-covers/07-heard-and-respected-960.webp"
+        },
+        {
+          "alt": "Illustration of a trader reviewing her own ledger, documents, money pouch and phone while a supporter listens nearby.",
+          "broken": false,
+          "src": "/images/learning/gbv-covers/08-resources-and-choice-960.webp"
+        },
+        {
+          "alt": "Illustration of a young adult discussing options with a trusted person while a phone and closed laptop remain unused.",
+          "broken": false,
+          "src": "/images/learning/gbv-covers/09-digital-options-960.webp"
+        },
+        {
+          "alt": "Illustration of an adolescent speaking with a trusted adult seated at the same eye level, with space between them.",
+          "broken": false,
+          "src": "/images/learning/gbv-covers/10-listening-to-young-people-960.webp"
+        },
+        {
+          "alt": "Illustration of a woman speaking with an attentive friend, with abstract conversation shapes in the background.",
+          "broken": false,
+          "src": "/images/learning/gbv-covers/07-heard-and-respected-960.webp"
+        }
+      ],
+      "sections": 0,
+      "forms": 0
+    },
+    {
+      "chapter": 1,
+      "width": 1440,
+      "title": "Understanding Gender-Based Violence",
+      "overflow": false,
+      "bodyHeight": 25438,
+      "images": [
+        {
+          "alt": "Fictional illustration of two adults exploring learning materials together, with space to choose where to begin.",
+          "broken": false,
+          "src": "/images/learning/gbv/chapter-01/gbv-foundations-header-1280.webp"
+        },
+        {
+          "alt": "Fictional illustration of a young woman in a mustard cardigan considering a training leaflet in a quiet training room, with a phone face down nearby.",
+          "broken": false,
+          "src": "/images/learning/gbv/chapter-01/gbv-training-opportunity-situation-1280.webp"
+        },
+        {
+          "alt": "Fictional illustration of the same woman, in the same room with her leaflet and bag, considering information with a training adviser at a respectful distance.",
+          "broken": false,
+          "src": "/images/learning/gbv/chapter-01/gbv-training-opportunity-support-1280.webp"
+        },
+        {
+          "alt": "Fictional illustration of a market trader in a blue blouse pausing over a closed earnings notebook in a quiet room beside her produce stall.",
+          "broken": false,
+          "src": "/images/learning/gbv/chapter-01/gbv-household-earnings-situation-1280.webp"
+        },
+        {
+          "alt": "Fictional illustration of the same trader and notebook in the same room, with a support worker listening without taking over her decisions.",
+          "broken": false,
+          "src": "/images/learning/gbv/chapter-01/gbv-household-earnings-support-1280.webp"
+        },
+        {
+          "alt": "Fictional illustration of a college student in a sage shirt looking concerned at her phone in a quiet campus room, with her navy backpack nearby.",
+          "broken": false,
+          "src": "/images/learning/gbv/chapter-01/gbv-student-monitoring-situation-1280.webp"
+        },
+        {
+          "alt": "Fictional illustration of the same student in the same room with an adviser, her phone put away while they discuss the support she prefers.",
+          "broken": false,
+          "src": "/images/learning/gbv/chapter-01/gbv-student-monitoring-support-1280.webp"
+        },
+        {
+          "alt": "Fictional illustration of a man in a beige shirt beginning a conversation with a volunteer in a quiet community room, without notes or recording devices.",
+          "broken": false,
+          "src": "/images/learning/gbv/chapter-01/gbv-volunteer-disclosure-situation-1280.webp"
+        },
+        {
+          "alt": "Fictional illustration of the same man and volunteer in the same room, with the volunteer listening and explaining options while leaving personal space.",
+          "broken": false,
+          "src": "/images/learning/gbv/chapter-01/gbv-volunteer-disclosure-support-1280.webp"
+        },
+        {
+          "alt": "Fictional illustration of an adolescent in a blue school sweater talking with a teacher in a school welfare room; no abuse is depicted.",
+          "broken": false,
+          "src": "/images/learning/gbv/chapter-01/gbv-child-safeguarding-situation-1280.webp"
+        },
+        {
+          "alt": "Fictional illustration of the same adolescent and teacher in the same room, joined by a safeguarding worker who sits at a respectful distance.",
+          "broken": false,
+          "src": "/images/learning/gbv/chapter-01/gbv-child-safeguarding-support-1280.webp"
+        },
+        {
+          "alt": "Fictional illustration of a woman in a rust blouse speaking with a friend at a quiet cafe table, while the friend is briefly distracted by a phone.",
+          "broken": false,
+          "src": "/images/learning/gbv/chapter-01/gbv-friend-listening-situation-1280.webp"
+        },
+        {
+          "alt": "Fictional illustration of the same women at the same cafe table, with the phone put away and the friend listening attentively; the speaker remains thoughtful.",
+          "broken": false,
+          "src": "/images/learning/gbv/chapter-01/gbv-friend-listening-support-1280.webp"
+        }
+      ],
+      "goalsY": 1623.53125,
+      "sections": 20,
+      "forms": 0
+    },
+    {
+      "chapter": 2,
+      "width": 1440,
+      "title": "Types and Forms of Gender-Based Violence",
+      "overflow": false,
+      "bodyHeight": 21430,
+      "images": [
+        {
+          "alt": "Fictional woman around 30, short natural hair, pale blue blouse, dark trousers. Stands alone thoughtfully near a bright open doorway in a contemporary home, a chair and table behind her, no abusive act or person depicted.",
+          "broken": false,
+          "src": "/images/learning/gbv/gbv-home-argument-situation-1280.webp"
+        },
+        {
+          "alt": "The same fictional woman around 30, short natural hair, pale blue blouse, dark trousers. Sits privately with an adult female professional support worker in a calm modest office, listening and considering options.",
+          "broken": false,
+          "src": "/images/learning/gbv/gbv-home-argument-support-1280.webp"
+        },
+        {
+          "alt": "Fictional female adult trainee aged 23, neat braids tied back, white shirt and olive trousers. Sits thoughtfully at an ordinary workplace desk reviewing a blank folder, supervisor blurred in distant background, no touching or sexual content.",
+          "broken": false,
+          "src": "/images/learning/gbv/gbv-trainee-support-situation-1280.webp"
+        },
+        {
+          "alt": "The same fictional female adult trainee aged 23, neat braids tied back, white shirt and olive trousers. Speaks privately with an independent adult female worker at a community advice office, both seated at equal height, no confrontation or complaint requirement.",
+          "broken": false,
+          "src": "/images/learning/gbv/gbv-trainee-support-support-1280.webp"
+        },
+        {
+          "alt": "Fictional male university student aged 22, short coiled hair, muted burgundy polo, dark backpack. Sits thoughtfully alone on university steps with phone screen turned away and classmates in background.",
+          "broken": false,
+          "src": "/images/learning/gbv/gbv-messages-isolation-situation-1280.webp"
+        },
+        {
+          "alt": "The same fictional male university student aged 22, short coiled hair, muted burgundy polo, dark backpack. Speaks quietly with a male student adviser on two chairs in a calm private office, phone put away, discussion of preferred support.",
+          "broken": false,
+          "src": "/images/learning/gbv/gbv-messages-isolation-support-1280.webp"
+        },
+        {
+          "alt": "Fictional married woman around 36, short twists, teal blouse and charcoal skirt. Works thoughtfully behind a small family grocery counter, closed cash ledger and ordinary products without visible brands, no abusive partner depicted.",
+          "broken": false,
+          "src": "/images/learning/gbv/gbv-family-shop-situation-1280.webp"
+        },
+        {
+          "alt": "The same fictional married woman around 36, short twists, teal blouse and charcoal skirt. Meets an adult woman practical-support adviser privately, closed notebook on table, choices discussed without directing departure.",
+          "broken": false,
+          "src": "/images/learning/gbv/gbv-family-shop-support-1280.webp"
+        },
+        {
+          "alt": "Fictional woman around 25, natural hair in a puff, lavender shirt and dark trousers. Looks thoughtfully at a phone held away from camera at home, no private photos or readable threats, no distress spectacle.",
+          "broken": false,
+          "src": "/images/learning/gbv/gbv-online-threats-situation-1280.webp"
+        },
+        {
+          "alt": "The same fictional woman around 25, natural hair in a puff, lavender shirt and dark trousers. Sits in a private advice room with a female specialist, phone face down, discussing safe options, no evidence collection or password change shown.",
+          "broken": false,
+          "src": "/images/learning/gbv/gbv-online-threats-support-1280.webp"
+        }
+      ],
+      "goalsY": 1333.140625,
+      "sections": 21,
+      "forms": 0
+    },
+    {
+      "chapter": 3,
+      "width": 1440,
+      "title": "Root Causes, Risk Factors, and Gender Inequality",
+      "overflow": false,
+      "bodyHeight": 23045,
+      "images": [
+        {
+          "alt": "Fictional woman around 31, neatly braided hair, beige blouse, navy work bag. Sits at a home table thoughtfully beside a work bag and small closed notebook, preparing for work, no confrontation.",
+          "broken": false,
+          "src": "/images/learning/gbv/gbv-work-transport-situation-1280.webp"
+        },
+        {
+          "alt": "The same fictional woman around 31, neatly braided hair, beige blouse, navy work bag. Discusses practical support privately with an adult female worker in an accessible office, neither handles her phone or money.",
+          "broken": false,
+          "src": "/images/learning/gbv/gbv-work-transport-support-1280.webp"
+        },
+        {
+          "alt": "Fictional female adult student aged 19, neat natural hair, plain light blue shirt, dark backpack. Stands thoughtfully outside a campus administrative office, distant adults in corridor, no abuse or private meeting depicted.",
+          "broken": false,
+          "src": "/images/learning/gbv/gbv-school-authority-situation-1280.webp"
+        },
+        {
+          "alt": "The same fictional female adult student aged 19, neat natural hair, plain light blue shirt, dark backpack. Meets an independent female safeguarding adviser in a welcoming office, safe reporting choices represented by a plain closed folder.",
+          "broken": false,
+          "src": "/images/learning/gbv/gbv-school-authority-support-1280.webp"
+        },
+        {
+          "alt": "Fictional young adult man aged 20, short natural hair, forest green shirt, with three peers aged 18 to 23. Listens thoughtfully during a mixed-gender youth club discussion at a Rwandan community center, no slogans or signs.",
+          "broken": false,
+          "src": "/images/learning/gbv/gbv-challenging-norms-situation-1280.webp"
+        },
+        {
+          "alt": "The same fictional young adult man aged 20, short natural hair, forest green shirt, with three peers aged 18 to 23. Same peers discuss respectful relationships around a table, one man gestures with open hands while others listen equally, no personal disclosure, everyday grounded tone.",
+          "broken": false,
+          "src": "/images/learning/gbv/gbv-challenging-norms-support-1280.webp"
+        },
+        {
+          "alt": "Fictional adult woman around 40, short braids, cream blouse and terracotta cardigan. Sits thoughtfully with a female community volunteer in a simple community office, a second empty chair in distance suggests choices, no partner or confrontation.",
+          "broken": false,
+          "src": "/images/learning/gbv/gbv-mediation-pressure-situation-1280.webp"
+        },
+        {
+          "alt": "The same fictional adult woman around 40, short braids, cream blouse and terracotta cardigan. Same volunteer listens privately and respectfully across a small table, offers a plain closed information folder without commanding, no mediation meeting or reconciliation.",
+          "broken": false,
+          "src": "/images/learning/gbv/gbv-mediation-pressure-support-1280.webp"
+        },
+        {
+          "alt": "Fictional adult male temporary worker aged 27, close cropped hair, light grey shirt and navy trousers. Sits thoughtfully at a desk in an ordinary small workplace holding a plain contract folder, no coercive contact or readable text.",
+          "broken": false,
+          "src": "/images/learning/gbv/gbv-temporary-worker-situation-1280.webp"
+        },
+        {
+          "alt": "The same fictional adult male temporary worker aged 27, close cropped hair, light grey shirt and navy trousers. Speaks privately with an independent male employment support adviser in a modest accessible office, confidential options not guaranteed job protection.",
+          "broken": false,
+          "src": "/images/learning/gbv/gbv-temporary-worker-support-1280.webp"
+        }
+      ],
+      "goalsY": 1281.375,
+      "sections": 22,
+      "forms": 0
+    },
+    {
+      "chapter": 4,
+      "width": 1440,
+      "title": "Understanding Consent, Boundaries, and Bodily Autonomy",
+      "overflow": false,
+      "bodyHeight": 14594,
+      "images": [],
+      "goalsY": 1085.8125,
+      "sections": 19,
+      "forms": 0
+    },
+    {
+      "chapter": 5,
+      "width": 1440,
+      "title": "Domestic Violence and Intimate Partner Violence",
+      "overflow": false,
+      "bodyHeight": 15681,
+      "images": [],
+      "goalsY": 1255.953125,
+      "sections": 19,
+      "forms": 0
+    },
+    {
+      "chapter": 6,
+      "width": 1440,
+      "title": "Sexual Violence, Harassment, and Exploitation",
+      "overflow": false,
+      "bodyHeight": 14908,
+      "images": [],
+      "goalsY": 1292.375,
+      "sections": 20,
+      "forms": 0
+    },
+    {
+      "chapter": 7,
+      "width": 1440,
+      "title": "Emotional, Psychological and Verbal Abuse",
+      "overflow": false,
+      "bodyHeight": 16658,
+      "images": [],
+      "goalsY": 1362.625,
+      "sections": 25,
+      "forms": 0
+    },
+    {
+      "chapter": 8,
+      "width": 1440,
+      "title": "Economic Violence and Financial Control",
+      "overflow": false,
+      "bodyHeight": 14942,
+      "images": [],
+      "goalsY": 1388.6875,
+      "sections": 20,
+      "forms": 0
+    },
+    {
+      "chapter": 9,
+      "width": 1440,
+      "title": "Technology-Facilitated and Online Gender-Based Violence",
+      "overflow": false,
+      "bodyHeight": 16059,
+      "images": [],
+      "goalsY": 1106,
+      "sections": 23,
+      "forms": 0
+    },
+    {
+      "chapter": 10,
+      "width": 1440,
+      "title": "Gender-Based Violence Against Children and Adolescents",
+      "overflow": false,
+      "bodyHeight": 15194,
+      "images": [],
+      "goalsY": 1391.46875,
+      "sections": 23,
+      "forms": 0
+    },
+    {
+      "chapter": 0,
+      "width": 375,
+      "title": "You deserve safety and respect.",
+      "overflow": false,
+      "bodyHeight": 14743,
+      "images": [
+        {
+          "alt": "Illustration of two Black African adults seated in their own space in a courtyard, one holding her notebook and the other listening, with a reader further away.",
+          "broken": false,
+          "src": "/images/learning/gbv-covers/hero-dignity-and-space-960.webp"
+        },
+        {
+          "alt": "Illustration of an adult considering learning materials while a companion leaves the choices in her hands.",
+          "broken": false,
+          "src": "/images/learning/gbv-covers/01-choice-and-connection-960.webp"
+        },
+        {
+          "alt": "Illustration connecting a home, conversation shapes, financial papers and a phone around one person, reflecting different areas of everyday life.",
+          "broken": false,
+          "src": "/images/learning/gbv-covers/02-connected-forms-960.webp"
+        },
+        {
+          "alt": "Illustration of community members discussing a model with unequal routes to a shared doorway, a metaphor for access to opportunities.",
+          "broken": false,
+          "src": "/images/learning/gbv-covers/03-opportunity-and-responsibility-960.webp"
+        },
+        {
+          "alt": "Illustration of a young adult expressing a preference while another listens and respects their personal space.",
+          "broken": false,
+          "src": "/images/learning/gbv-covers/04-space-and-consent-960.webp"
+        },
+        {
+          "alt": "Illustration of an adult man speaking privately with a woman who listens at equal level, without taking over.",
+          "broken": false,
+          "src": "/images/learning/gbv-covers/05-private-support-960.webp"
+        },
+        {
+          "alt": "Illustration of a fully clothed adult considering information with an attentive healthcare professional in a consultation room.",
+          "broken": false,
+          "src": "/images/learning/gbv-covers/06-care-and-dignity-960.webp"
+        },
+        {
+          "alt": "Illustration of a woman speaking with an attentive friend, with abstract conversation shapes in the background.",
+          "broken": false,
+          "src": "/images/learning/gbv-covers/07-heard-and-respected-960.webp"
+        },
+        {
+          "alt": "Illustration of a trader reviewing her own ledger, documents, money pouch and phone while a supporter listens nearby.",
+          "broken": false,
+          "src": "/images/learning/gbv-covers/08-resources-and-choice-960.webp"
+        },
+        {
+          "alt": "Illustration of a young adult discussing options with a trusted person while a phone and closed laptop remain unused.",
+          "broken": false,
+          "src": "/images/learning/gbv-covers/09-digital-options-960.webp"
+        },
+        {
+          "alt": "Illustration of an adolescent speaking with a trusted adult seated at the same eye level, with space between them.",
+          "broken": false,
+          "src": "/images/learning/gbv-covers/10-listening-to-young-people-960.webp"
+        },
+        {
+          "alt": "Illustration of a woman speaking with an attentive friend, with abstract conversation shapes in the background.",
+          "broken": false,
+          "src": "/images/learning/gbv-covers/07-heard-and-respected-960.webp"
+        }
+      ],
+      "sections": 0,
+      "forms": 0
+    },
+    {
+      "chapter": 1,
+      "width": 375,
+      "title": "Understanding Gender-Based Violence",
+      "overflow": false,
+      "bodyHeight": 41252,
+      "images": [
+        {
+          "alt": "Fictional illustration of two adults exploring learning materials together, with space to choose where to begin.",
+          "broken": false,
+          "src": "/images/learning/gbv/chapter-01/gbv-foundations-header-1280.webp"
+        },
+        {
+          "alt": "Fictional illustration of a young woman in a mustard cardigan considering a training leaflet in a quiet training room, with a phone face down nearby.",
+          "broken": false,
+          "src": "/images/learning/gbv/chapter-01/gbv-training-opportunity-situation-1280.webp"
+        },
+        {
+          "alt": "Fictional illustration of the same woman, in the same room with her leaflet and bag, considering information with a training adviser at a respectful distance.",
+          "broken": false,
+          "src": "/images/learning/gbv/chapter-01/gbv-training-opportunity-support-1280.webp"
+        },
+        {
+          "alt": "Fictional illustration of a market trader in a blue blouse pausing over a closed earnings notebook in a quiet room beside her produce stall.",
+          "broken": false,
+          "src": "/images/learning/gbv/chapter-01/gbv-household-earnings-situation-1280.webp"
+        },
+        {
+          "alt": "Fictional illustration of the same trader and notebook in the same room, with a support worker listening without taking over her decisions.",
+          "broken": false,
+          "src": "/images/learning/gbv/chapter-01/gbv-household-earnings-support-1280.webp"
+        },
+        {
+          "alt": "Fictional illustration of a college student in a sage shirt looking concerned at her phone in a quiet campus room, with her navy backpack nearby.",
+          "broken": false,
+          "src": "/images/learning/gbv/chapter-01/gbv-student-monitoring-situation-1280.webp"
+        },
+        {
+          "alt": "Fictional illustration of the same student in the same room with an adviser, her phone put away while they discuss the support she prefers.",
+          "broken": false,
+          "src": "/images/learning/gbv/chapter-01/gbv-student-monitoring-support-1280.webp"
+        },
+        {
+          "alt": "Fictional illustration of a man in a beige shirt beginning a conversation with a volunteer in a quiet community room, without notes or recording devices.",
+          "broken": false,
+          "src": "/images/learning/gbv/chapter-01/gbv-volunteer-disclosure-situation-1280.webp"
+        },
+        {
+          "alt": "Fictional illustration of the same man and volunteer in the same room, with the volunteer listening and explaining options while leaving personal space.",
+          "broken": false,
+          "src": "/images/learning/gbv/chapter-01/gbv-volunteer-disclosure-support-1280.webp"
+        },
+        {
+          "alt": "Fictional illustration of an adolescent in a blue school sweater talking with a teacher in a school welfare room; no abuse is depicted.",
+          "broken": false,
+          "src": "/images/learning/gbv/chapter-01/gbv-child-safeguarding-situation-1280.webp"
+        },
+        {
+          "alt": "Fictional illustration of the same adolescent and teacher in the same room, joined by a safeguarding worker who sits at a respectful distance.",
+          "broken": false,
+          "src": "/images/learning/gbv/chapter-01/gbv-child-safeguarding-support-1280.webp"
+        },
+        {
+          "alt": "Fictional illustration of a woman in a rust blouse speaking with a friend at a quiet cafe table, while the friend is briefly distracted by a phone.",
+          "broken": false,
+          "src": "/images/learning/gbv/chapter-01/gbv-friend-listening-situation-1280.webp"
+        },
+        {
+          "alt": "Fictional illustration of the same women at the same cafe table, with the phone put away and the friend listening attentively; the speaker remains thoughtful.",
+          "broken": false,
+          "src": "/images/learning/gbv/chapter-01/gbv-friend-listening-support-1280.webp"
+        }
+      ],
+      "goalsY": 2536.8125,
+      "sections": 20,
+      "forms": 0
+    },
+    {
+      "chapter": 2,
+      "width": 375,
+      "title": "Types and Forms of Gender-Based Violence",
+      "overflow": false,
+      "bodyHeight": 33044,
+      "images": [
+        {
+          "alt": "Fictional woman around 30, short natural hair, pale blue blouse, dark trousers. Stands alone thoughtfully near a bright open doorway in a contemporary home, a chair and table behind her, no abusive act or person depicted.",
+          "broken": false,
+          "src": "/images/learning/gbv/gbv-home-argument-situation-1280.webp"
+        },
+        {
+          "alt": "The same fictional woman around 30, short natural hair, pale blue blouse, dark trousers. Sits privately with an adult female professional support worker in a calm modest office, listening and considering options.",
+          "broken": false,
+          "src": "/images/learning/gbv/gbv-home-argument-support-1280.webp"
+        },
+        {
+          "alt": "Fictional female adult trainee aged 23, neat braids tied back, white shirt and olive trousers. Sits thoughtfully at an ordinary workplace desk reviewing a blank folder, supervisor blurred in distant background, no touching or sexual content.",
+          "broken": false,
+          "src": "/images/learning/gbv/gbv-trainee-support-situation-1280.webp"
+        },
+        {
+          "alt": "The same fictional female adult trainee aged 23, neat braids tied back, white shirt and olive trousers. Speaks privately with an independent adult female worker at a community advice office, both seated at equal height, no confrontation or complaint requirement.",
+          "broken": false,
+          "src": "/images/learning/gbv/gbv-trainee-support-support-1280.webp"
+        },
+        {
+          "alt": "Fictional male university student aged 22, short coiled hair, muted burgundy polo, dark backpack. Sits thoughtfully alone on university steps with phone screen turned away and classmates in background.",
+          "broken": false,
+          "src": "/images/learning/gbv/gbv-messages-isolation-situation-1280.webp"
+        },
+        {
+          "alt": "The same fictional male university student aged 22, short coiled hair, muted burgundy polo, dark backpack. Speaks quietly with a male student adviser on two chairs in a calm private office, phone put away, discussion of preferred support.",
+          "broken": false,
+          "src": "/images/learning/gbv/gbv-messages-isolation-support-1280.webp"
+        },
+        {
+          "alt": "Fictional married woman around 36, short twists, teal blouse and charcoal skirt. Works thoughtfully behind a small family grocery counter, closed cash ledger and ordinary products without visible brands, no abusive partner depicted.",
+          "broken": false,
+          "src": "/images/learning/gbv/gbv-family-shop-situation-1280.webp"
+        },
+        {
+          "alt": "The same fictional married woman around 36, short twists, teal blouse and charcoal skirt. Meets an adult woman practical-support adviser privately, closed notebook on table, choices discussed without directing departure.",
+          "broken": false,
+          "src": "/images/learning/gbv/gbv-family-shop-support-1280.webp"
+        },
+        {
+          "alt": "Fictional woman around 25, natural hair in a puff, lavender shirt and dark trousers. Looks thoughtfully at a phone held away from camera at home, no private photos or readable threats, no distress spectacle.",
+          "broken": false,
+          "src": "/images/learning/gbv/gbv-online-threats-situation-1280.webp"
+        },
+        {
+          "alt": "The same fictional woman around 25, natural hair in a puff, lavender shirt and dark trousers. Sits in a private advice room with a female specialist, phone face down, discussing safe options, no evidence collection or password change shown.",
+          "broken": false,
+          "src": "/images/learning/gbv/gbv-online-threats-support-1280.webp"
+        }
+      ],
+      "goalsY": 1882.828125,
+      "sections": 21,
+      "forms": 0
+    },
+    {
+      "chapter": 3,
+      "width": 375,
+      "title": "Root Causes, Risk Factors, and Gender Inequality",
+      "overflow": false,
+      "bodyHeight": 36584,
+      "images": [
+        {
+          "alt": "Fictional woman around 31, neatly braided hair, beige blouse, navy work bag. Sits at a home table thoughtfully beside a work bag and small closed notebook, preparing for work, no confrontation.",
+          "broken": false,
+          "src": "/images/learning/gbv/gbv-work-transport-situation-1280.webp"
+        },
+        {
+          "alt": "The same fictional woman around 31, neatly braided hair, beige blouse, navy work bag. Discusses practical support privately with an adult female worker in an accessible office, neither handles her phone or money.",
+          "broken": false,
+          "src": "/images/learning/gbv/gbv-work-transport-support-1280.webp"
+        },
+        {
+          "alt": "Fictional female adult student aged 19, neat natural hair, plain light blue shirt, dark backpack. Stands thoughtfully outside a campus administrative office, distant adults in corridor, no abuse or private meeting depicted.",
+          "broken": false,
+          "src": "/images/learning/gbv/gbv-school-authority-situation-1280.webp"
+        },
+        {
+          "alt": "The same fictional female adult student aged 19, neat natural hair, plain light blue shirt, dark backpack. Meets an independent female safeguarding adviser in a welcoming office, safe reporting choices represented by a plain closed folder.",
+          "broken": false,
+          "src": "/images/learning/gbv/gbv-school-authority-support-1280.webp"
+        },
+        {
+          "alt": "Fictional young adult man aged 20, short natural hair, forest green shirt, with three peers aged 18 to 23. Listens thoughtfully during a mixed-gender youth club discussion at a Rwandan community center, no slogans or signs.",
+          "broken": false,
+          "src": "/images/learning/gbv/gbv-challenging-norms-situation-1280.webp"
+        },
+        {
+          "alt": "The same fictional young adult man aged 20, short natural hair, forest green shirt, with three peers aged 18 to 23. Same peers discuss respectful relationships around a table, one man gestures with open hands while others listen equally, no personal disclosure, everyday grounded tone.",
+          "broken": false,
+          "src": "/images/learning/gbv/gbv-challenging-norms-support-1280.webp"
+        },
+        {
+          "alt": "Fictional adult woman around 40, short braids, cream blouse and terracotta cardigan. Sits thoughtfully with a female community volunteer in a simple community office, a second empty chair in distance suggests choices, no partner or confrontation.",
+          "broken": false,
+          "src": "/images/learning/gbv/gbv-mediation-pressure-situation-1280.webp"
+        },
+        {
+          "alt": "The same fictional adult woman around 40, short braids, cream blouse and terracotta cardigan. Same volunteer listens privately and respectfully across a small table, offers a plain closed information folder without commanding, no mediation meeting or reconciliation.",
+          "broken": false,
+          "src": "/images/learning/gbv/gbv-mediation-pressure-support-1280.webp"
+        },
+        {
+          "alt": "Fictional adult male temporary worker aged 27, close cropped hair, light grey shirt and navy trousers. Sits thoughtfully at a desk in an ordinary small workplace holding a plain contract folder, no coercive contact or readable text.",
+          "broken": false,
+          "src": "/images/learning/gbv/gbv-temporary-worker-situation-1280.webp"
+        },
+        {
+          "alt": "The same fictional adult male temporary worker aged 27, close cropped hair, light grey shirt and navy trousers. Speaks privately with an independent male employment support adviser in a modest accessible office, confidential options not guaranteed job protection.",
+          "broken": false,
+          "src": "/images/learning/gbv/gbv-temporary-worker-support-1280.webp"
+        }
+      ],
+      "goalsY": 1916.578125,
+      "sections": 22,
+      "forms": 0
+    },
+    {
+      "chapter": 4,
+      "width": 375,
+      "title": "Understanding Consent, Boundaries, and Bodily Autonomy",
+      "overflow": false,
+      "bodyHeight": 24455,
+      "images": [],
+      "goalsY": 1454.453125,
+      "sections": 19,
+      "forms": 0
+    },
+    {
+      "chapter": 5,
+      "width": 375,
+      "title": "Domestic Violence and Intimate Partner Violence",
+      "overflow": false,
+      "bodyHeight": 25215,
+      "images": [],
+      "goalsY": 1681.359375,
+      "sections": 19,
+      "forms": 0
+    },
+    {
+      "chapter": 6,
+      "width": 375,
+      "title": "Sexual Violence, Harassment, and Exploitation",
+      "overflow": false,
+      "bodyHeight": 24951,
+      "images": [],
+      "goalsY": 1804.734375,
+      "sections": 20,
+      "forms": 0
+    },
+    {
+      "chapter": 7,
+      "width": 375,
+      "title": "Emotional, Psychological and Verbal Abuse",
+      "overflow": false,
+      "bodyHeight": 27215,
+      "images": [],
+      "goalsY": 1900.734375,
+      "sections": 25,
+      "forms": 0
+    },
+    {
+      "chapter": 8,
+      "width": 375,
+      "title": "Economic Violence and Financial Control",
+      "overflow": false,
+      "bodyHeight": 24431,
+      "images": [],
+      "goalsY": 1817.890625,
+      "sections": 20,
+      "forms": 0
+    },
+    {
+      "chapter": 9,
+      "width": 375,
+      "title": "Technology-Facilitated and Online Gender-Based Violence",
+      "overflow": false,
+      "bodyHeight": 26640,
+      "images": [],
+      "goalsY": 1503.234375,
+      "sections": 23,
+      "forms": 0
+    },
+    {
+      "chapter": 10,
+      "width": 375,
+      "title": "Gender-Based Violence Against Children and Adolescents",
+      "overflow": false,
+      "bodyHeight": 24598,
+      "images": [],
+      "goalsY": 1963.484375,
+      "sections": 23,
+      "forms": 0
+    }
+  ],
+  "errors": [],
+  "captures": [
+    "00-top-1440",
+    "00-gbv-chapters-1440",
+    "00-understanding-1440",
+    "00-support-options-1440",
+    "00-official-resources-1440",
+    "00-for-supporters-1440",
+    "01-top-1440",
+    "01-body-1440",
+    "02-top-1440",
+    "02-body-1440",
+    "03-top-1440",
+    "03-body-1440",
+    "04-top-1440",
+    "04-body-1440",
+    "05-top-1440",
+    "05-body-1440",
+    "06-top-1440",
+    "06-body-1440",
+    "07-top-1440",
+    "07-body-1440",
+    "08-top-1440",
+    "08-body-1440",
+    "09-top-1440",
+    "09-body-1440",
+    "10-top-1440",
+    "10-body-1440",
+    "00-top-375",
+    "00-gbv-chapters-375",
+    "00-understanding-375",
+    "00-support-options-375",
+    "00-official-resources-375",
+    "00-for-supporters-375",
+    "01-top-375",
+    "01-body-375",
+    "02-top-375",
+    "02-body-375",
+    "03-top-375",
+    "03-body-375",
+    "04-top-375",
+    "04-body-375",
+    "05-top-375",
+    "05-body-375",
+    "06-top-375",
+    "06-body-375",
+    "07-top-375",
+    "07-body-375",
+    "08-top-375",
+    "08-body-375",
+    "09-top-375",
+    "09-body-375",
+    "10-top-375",
+    "10-body-375"
+  ]
+}

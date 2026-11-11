@@ -1,0 +1,2751 @@
+[
+  {
+    "page": 1,
+    "width": 595.28,
+    "height": 841.89,
+    "lines": [
+      {
+        "text": "VUGA NDAKUMVA | MENTAL HEALTH CONTENT LIBRARY",
+        "x0": 61.0,
+        "top": 126.40234399999997,
+        "x1": 374.78906300000006,
+        "bottom": 136.40234399999997,
+        "size": 10.0,
+        "bold": 1.0
+      },
+      {
+        "text": "CHAPTER 10",
+        "x0": 61.0,
+        "top": 171.48632880000002,
+        "x1": 248.7211936,
+        "bottom": 198.48632880000002,
+        "size": 27.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Child and Adolescent",
+        "x0": 61.0,
+        "top": 207.48632880000002,
+        "x1": 382.29735939999995,
+        "bottom": 234.48632880000002,
+        "size": 27.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Mental Health",
+        "x0": 61.0,
+        "top": 243.48632880000002,
+        "x1": 275.6948254,
+        "bottom": 270.4863288,
+        "size": 27.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Understanding development, recognizing distress, building supportive families",
+        "x0": 61.0,
+        "top": 295.8828128,
+        "x1": 534.2799975999999,
+        "bottom": 307.8828128,
+        "size": 12.0,
+        "bold": 0.0
+      },
+      {
+        "text": "and schools, responding to bullying, and finding appropriate care.",
+        "x0": 61.0,
+        "top": 315.8828128,
+        "x1": 457.5332031999999,
+        "bottom": 327.8828128,
+        "size": 12.0,
+        "bold": 0.0
+      },
+      {
+        "text": "Educational draft — version 1.0 | 11 November 2026",
+        "x0": 61.0,
+        "top": 383.30625024,
+        "x1": 314.67344128,
+        "bottom": 392.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "For caregivers, young people, educators, community workers, and readers seeking accurate introductory",
+        "x0": 61.0,
+        "top": 407.96992208,
+        "x1": 493.9624058799999,
+        "bottom": 416.16992208,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "information. Not a diagnosis or a substitute for clinical assessment.",
+        "x0": 61.0,
+        "top": 420.96992208,
+        "x1": 338.03828166,
+        "bottom": 429.16992208,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "Safety and safeguarding: If a child is in immediate danger, seriously injured, or at imminent risk",
+        "x0": 70.64,
+        "top": 478.25820336,
+        "x1": 523.6988894800004,
+        "bottom": 487.65820335999996,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "of self-harm, seek urgent local emergency help. In Rwanda, the government lists 112 for",
+        "x0": 70.64,
+        "top": 494.25820336,
+        "x1": 489.47242728000015,
+        "bottom": 503.65820335999996,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "emergency help, 912 for ambulance, and 116 for the child helpline. Verify current availability",
+        "x0": 70.64,
+        "top": 510.25820336,
+        "x1": 511.32008306000034,
+        "bottom": 519.65820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "and follow local child-protection procedures. [R5]",
+        "x0": 70.64,
+        "top": 526.2582033599999,
+        "x1": 302.6611898199999,
+        "bottom": 535.65820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA · Mental Health Library · Educational draft Chapter 10 · 1",
+        "x0": 55.0,
+        "top": 807.03980488,
+        "x1": 540.2800155599999,
+        "bottom": 814.73980488,
+        "size": 7.7,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 2,
+    "width": 595.28,
+    "height": 841.89,
+    "lines": [
+      {
+        "text": "Learning goals and how to use this chapter",
+        "x0": 61.0,
+        "top": 65.84375039999998,
+        "x1": 452.46874560000003,
+        "bottom": 81.84375039999998,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "• Understand how mental wellbeing develops from childhood through adolescence.",
+        "x0": 68.0,
+        "top": 97.23417991999997,
+        "x1": 457.21045166000005,
+        "bottom": 106.53417991999993,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "• Recognize broad groups of mental health challenges without using symptom lists as diagnoses.",
+        "x0": 68.0,
+        "top": 117.23417991999997,
+        "x1": 522.81450329,
+        "bottom": 126.53417991999993,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "• Identify school, family, social and online pressures alongside protective relationships.",
+        "x0": 68.0,
+        "top": 137.23417991999997,
+        "x1": 475.4017594399999,
+        "bottom": 146.53417991999993,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "• Practice safe, age-appropriate conversation and coping skills.",
+        "x0": 68.0,
+        "top": 157.23417991999997,
+        "x1": 363.53383852999985,
+        "bottom": 166.53417991999993,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "• Know when routine support is insufficient and how to seek professional or urgent help.",
+        "x0": 68.0,
+        "top": 177.23417991999997,
+        "x1": 480.6829625299999,
+        "bottom": 186.53417991999993,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "This chapter uses fictional Rwanda-relevant scenarios. They are illustrations, not reports of real",
+        "x0": 61.0,
+        "top": 197.30625024000005,
+        "x1": 521.2187516799997,
+        "bottom": 206.90625024000008,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "children. Caregivers and educators should adapt activities to a child’s developmental level,",
+        "x0": 61.0,
+        "top": 213.30625024000005,
+        "x1": 500.8984384,
+        "bottom": 222.90625024000008,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "disability, language, privacy needs and preferences. Avoid forcing disclosures.",
+        "x0": 61.0,
+        "top": 229.30625024000005,
+        "x1": 438.86875167999995,
+        "bottom": 238.90625024000008,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "1. What does child and adolescent mental health",
+        "x0": 61.0,
+        "top": 265.8437504,
+        "x1": 503.32811200000003,
+        "bottom": 281.8437504,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "mean?",
+        "x0": 61.0,
+        "top": 288.8437504,
+        "x1": 119.9921856,
+        "bottom": 304.8437504,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Child mental health includes emotional wellbeing, developing skills to manage feelings, building",
+        "x0": 61.0,
+        "top": 320.30625024000005,
+        "x1": 524.35,
+        "bottom": 329.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "friendships, learning, and participating in family and school life. Having good mental health does",
+        "x0": 61.0,
+        "top": 336.30625024,
+        "x1": 527.3546886399998,
+        "bottom": 345.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "not mean a child is calm or happy every day. Children may feel frustrated, frightened, angry, or",
+        "x0": 61.0,
+        "top": 352.30625024,
+        "x1": 523.07031712,
+        "bottom": 361.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "sad while still growing in healthy ways. [R1, R2]",
+        "x0": 61.0,
+        "top": 368.30625024,
+        "x1": 291.33437536,
+        "bottom": 377.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "Adolescence commonly refers to ages 10–19. It brings rapid physical, cognitive and social",
+        "x0": 61.0,
+        "top": 393.30625024,
+        "x1": 494.25625216000003,
+        "bottom": 402.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "changes. Young people increasingly seek autonomy, explore identity, become sensitive to peer",
+        "x0": 61.0,
+        "top": 409.30625024,
+        "x1": 520.8062531199998,
+        "bottom": 418.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "relationships and manage growing responsibilities. These changes are important, but they do not",
+        "x0": 61.0,
+        "top": 425.30625024,
+        "x1": 530.5703132799999,
+        "bottom": 434.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "always happen at the same speed. [R1]",
+        "x0": 61.0,
+        "top": 441.30625024,
+        "x1": 252.28750240000002,
+        "bottom": 450.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "The World Health Organization estimated in 2025 that approximately one in seven adolescents",
+        "x0": 61.0,
+        "top": 466.30625024,
+        "x1": 519.77500192,
+        "bottom": 475.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "aged 10–19 lives with a mental health condition worldwide. This is a global estimate—not a",
+        "x0": 61.0,
+        "top": 482.30625024,
+        "x1": 501.4328127999999,
+        "bottom": 491.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "Rwanda-specific prevalence figure—and shows why accessible, non-stigmatizing support matters.",
+        "x0": 61.0,
+        "top": 498.30625024,
+        "x1": 532.97968864,
+        "bottom": 507.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "[R1]",
+        "x0": 61.0,
+        "top": 514.30625024,
+        "x1": 81.26874976,
+        "bottom": 523.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "2. Emotional development across life stages",
+        "x0": 61.0,
+        "top": 550.8437504,
+        "x1": 461.3203008000001,
+        "bottom": 566.8437504,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Younger children often communicate distress through behaviour, play, sleep, appetite or physical",
+        "x0": 61.0,
+        "top": 582.30625024,
+        "x1": 531.5218767999997,
+        "bottom": 591.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "complaints before they can describe complex feelings. They need adults who help name",
+        "x0": 61.0,
+        "top": 598.30625024,
+        "x1": 487.37969152,
+        "bottom": 607.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "emotions, keep predictable routines and model calm responses. This does not mean every",
+        "x0": 61.0,
+        "top": 614.30625024,
+        "x1": 497.84687776000004,
+        "bottom": 623.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "tantrum or fear is a mental illness.",
+        "x0": 61.0,
+        "top": 630.30625024,
+        "x1": 227.37812607999996,
+        "bottom": 639.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "School-age children usually develop more complex friendships and a growing sense of fairness,",
+        "x0": 61.0,
+        "top": 655.30625024,
+        "x1": 521.3406284800001,
+        "bottom": 664.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "achievement and belonging. Academic pressure, conflicts, exclusion, family changes and",
+        "x0": 61.0,
+        "top": 671.30625024,
+        "x1": 490.97969248000015,
+        "bottom": 680.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "difficulties with learning can affect mood and confidence. Adults can support them by listening",
+        "x0": 61.0,
+        "top": 687.30625024,
+        "x1": 517.71718912,
+        "bottom": 696.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "and responding with consistent, fair boundaries.",
+        "x0": 61.0,
+        "top": 703.30625024,
+        "x1": 293.57031327999994,
+        "bottom": 712.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "Adolescents may want privacy, independence and greater control over decisions. Respectful",
+        "x0": 61.0,
+        "top": 728.30625024,
+        "x1": 507.32500288,
+        "bottom": 737.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "family relationships balance this growing autonomy with appropriate safeguarding. A change in",
+        "x0": 61.0,
+        "top": 744.30625024,
+        "x1": 521.69218912,
+        "bottom": 753.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "interests or desire for time alone can be normal; a persistent decline in functioning or safety",
+        "x0": 61.0,
+        "top": 760.30625024,
+        "x1": 506.61719008000017,
+        "bottom": 769.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA · Mental Health Library · Educational draft Chapter 10 · 2",
+        "x0": 55.0,
+        "top": 807.03980488,
+        "x1": 540.2800155599999,
+        "bottom": 814.73980488,
+        "size": 7.7,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 3,
+    "width": 595.28,
+    "height": 841.89,
+    "lines": [
+      {
+        "text": "requires attention. [R1, R2]",
+        "x0": 61.0,
+        "top": 64.30625024000005,
+        "x1": 192.64843743999998,
+        "bottom": 73.90625024000008,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "Life stage Developmental needs Helpful adult response",
+        "x0": 71.0,
+        "top": 98.04199240000003,
+        "x1": 444.0026856,
+        "bottom": 106.54199240000003,
+        "size": 8.5,
+        "bold": 0.0
+      },
+      {
+        "text": "Early childhood Co-regulation, stable relationships, Name feelings; create safety and routines",
+        "x0": 71.0,
+        "top": 129.04199240000003,
+        "x1": 527.03955365,
+        "bottom": 137.54199240000003,
+        "size": 8.5,
+        "bold": 0.0
+      },
+      {
+        "text": "play",
+        "x0": 171.0,
+        "top": 142.04199240000003,
+        "x1": 188.99609375,
+        "bottom": 150.54199240000003,
+        "size": 8.5,
+        "bold": 0.0
+      },
+      {
+        "text": "School-age Peer belonging, learning, mastery Notice school pressures; encourage skills",
+        "x0": 71.0,
+        "top": 173.04199240000003,
+        "x1": 523.66528485,
+        "bottom": 181.54199240000003,
+        "size": 8.5,
+        "bold": 0.0
+      },
+      {
+        "text": "Adolescence Autonomy, identity, connectedness Listen privately; negotiate safe boundaries",
+        "x0": 71.0,
+        "top": 204.04199240000003,
+        "x1": 530.61718835,
+        "bottom": 212.54199240000003,
+        "size": 8.5,
+        "bold": 0.0
+      },
+      {
+        "text": "3. Risk and protective factors",
+        "x0": 61.0,
+        "top": 259.8437504,
+        "x1": 328.13280800000007,
+        "bottom": 275.8437504,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "A child’s mental health is shaped by interacting biological, psychological and social factors. Family",
+        "x0": 61.0,
+        "top": 291.30625024000005,
+        "x1": 534.2800039599999,
+        "bottom": 300.9062502400001,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "instability, discrimination, food insecurity, chronic illness, harmful punishment, abuse, bullying,",
+        "x0": 61.0,
+        "top": 307.30625024000005,
+        "x1": 519.8312512000001,
+        "bottom": 316.9062502400001,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "isolation or major loss can increase risk. These experiences do not guarantee a disorder, and no",
+        "x0": 61.0,
+        "top": 323.30625024000005,
+        "x1": 524.3500038399999,
+        "bottom": 332.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "single factor explains an individual child’s difficulties. [R1, R3]",
+        "x0": 61.0,
+        "top": 339.30625024,
+        "x1": 360.0484374399998,
+        "bottom": 348.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "Protective factors include caring, dependable adults; safe learning environments; accessible",
+        "x0": 61.0,
+        "top": 364.30625024,
+        "x1": 506.1812531200003,
+        "bottom": 373.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "healthcare; friends and community support; opportunities for play and activity; respectful",
+        "x0": 61.0,
+        "top": 380.30625024,
+        "x1": 493.57656448,
+        "bottom": 389.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "discipline; and skills such as problem-solving and emotional regulation. Protection is a shared",
+        "x0": 61.0,
+        "top": 396.30625024,
+        "x1": 511.9703123199999,
+        "bottom": 405.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "responsibility, not a task for the child alone. [R3, R4]",
+        "x0": 61.0,
+        "top": 412.30625024,
+        "x1": 314.75312512,
+        "bottom": 421.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "4. Common mental health challenges",
+        "x0": 61.0,
+        "top": 448.8437504,
+        "x1": 396.0703024,
+        "bottom": 464.8437504,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Anxiety and fear: Children may experience persistent worries, fear of separation, social situations",
+        "x0": 61.0,
+        "top": 480.30625024,
+        "x1": 531.8921910399998,
+        "bottom": 489.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "or particular events. When fear is intense, prolonged, and interferes with attendance, sleep,",
+        "x0": 61.0,
+        "top": 496.30625024,
+        "x1": 504.81250336000005,
+        "bottom": 505.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "relationships or daily activities, assessment may help.",
+        "x0": 61.0,
+        "top": 512.30625024,
+        "x1": 321.7140630399999,
+        "bottom": 521.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "Depression and low mood: Signs may include sustained sadness or irritability, reduced interest,",
+        "x0": 61.0,
+        "top": 537.30625024,
+        "x1": 522.15625024,
+        "bottom": 546.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "hopelessness, withdrawal or changes in energy and sleep. Irritability in adolescents can be",
+        "x0": 61.0,
+        "top": 553.30625024,
+        "x1": 499.13594079999996,
+        "bottom": 562.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "prominent; it should not simply be dismissed as “bad behaviour.”",
+        "x0": 61.0,
+        "top": 569.30625024,
+        "x1": 376.84843744,
+        "bottom": 578.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "Attention, behaviour and learning: Persistent attention difficulties, impulsivity, aggression, or",
+        "x0": 61.0,
+        "top": 594.30625024,
+        "x1": 509.87031135999996,
+        "bottom": 603.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "school struggles can have different explanations, including neurodevelopmental needs, learning",
+        "x0": 61.0,
+        "top": 610.30625024,
+        "x1": 525.24062944,
+        "bottom": 619.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "barriers, stress, trauma or sleep problems. Effective responses begin with careful assessment, not",
+        "x0": 61.0,
+        "top": 626.30625024,
+        "x1": 534.2800081600001,
+        "bottom": 635.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "punishment.",
+        "x0": 61.0,
+        "top": 642.30625024,
+        "x1": 121.1734384,
+        "bottom": 651.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "Trauma, eating concerns and substance use: Some young people experience distress after",
+        "x0": 61.0,
+        "top": 667.30625024,
+        "x1": 499.08906784000004,
+        "bottom": 676.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "frightening events, changes in eating or body image, or harmful use of substances. Each deserves",
+        "x0": 61.0,
+        "top": 683.30625024,
+        "x1": 534.2800048800003,
+        "bottom": 692.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "sensitive, age-appropriate support and clinical evaluation when needed. [R1, R2]",
+        "x0": 61.0,
+        "top": 699.30625024,
+        "x1": 451.3656265599999,
+        "bottom": 708.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA · Mental Health Library · Educational draft Chapter 10 · 3",
+        "x0": 55.0,
+        "top": 807.03980488,
+        "x1": 540.2800155599999,
+        "bottom": 814.73980488,
+        "size": 7.7,
+        "bold": 0.0
+      }
+    ],
+    "tables": [
+      {
+        "bbox": [
+          61.0,
+          87.0,
+          546.0,
+          224.0
+        ],
+        "rows": [
+          [
+            "Life stage Developmental needs Helpful adult response"
+          ],
+          [
+            "Early childhood Co-regulation, stable relationships, Name feelings; create safety and routines\nplay"
+          ],
+          [
+            "School-age Peer belonging, learning, mastery Notice school pressures; encourage skills"
+          ],
+          [
+            "Adolescence Autonomy, identity, connectedness Listen privately; negotiate safe boundaries"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "width": 595.28,
+    "height": 841.89,
+    "lines": [
+      {
+        "text": "5. What is a warning sign rather than a normal",
+        "x0": 61.0,
+        "top": 65.84375039999998,
+        "x1": 484.39061440000006,
+        "bottom": 81.84375039999998,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "phase?",
+        "x0": 61.0,
+        "top": 88.84375039999998,
+        "x1": 124.29687519999999,
+        "bottom": 104.84375039999998,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "A single bad day, argument or lower grade usually does not establish a mental health condition.",
+        "x0": 61.0,
+        "top": 120.30625024000005,
+        "x1": 524.74375168,
+        "bottom": 129.90625024000008,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "Pay attention to duration, intensity, change from the child’s usual behaviour, distress and impact",
+        "x0": 61.0,
+        "top": 136.30625024000005,
+        "x1": 529.52500192,
+        "bottom": 145.90625024000008,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "on daily life. Persistent school refusal, marked withdrawal, severe sleep changes, repeated",
+        "x0": 61.0,
+        "top": 152.30625024000005,
+        "x1": 499.0093782400001,
+        "bottom": 161.90625024000008,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "unexplained physical complaints, loss of enjoyable activities or significant impairment merit a",
+        "x0": 61.0,
+        "top": 168.30625024000005,
+        "x1": 513.25468768,
+        "bottom": 177.90625024000008,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "supportive conversation and possible assessment.",
+        "x0": 61.0,
+        "top": 184.30625024000005,
+        "x1": 303.68125119999996,
+        "bottom": 193.90625024000008,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "Watch urgently for expressed wishes to die, suicidal behaviour, self-injury, extreme confusion,",
+        "x0": 61.0,
+        "top": 209.30625024000005,
+        "x1": 515.9593782400001,
+        "bottom": 218.90625024000008,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "psychotic symptoms, immediate danger, severe inability to care for basic needs, or signs of",
+        "x0": 61.0,
+        "top": 225.30625024000005,
+        "x1": 503.47656351999996,
+        "bottom": 234.90625024000008,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "abuse. Never wait for a routine appointment if danger appears imminent. [R1, R2]",
+        "x0": 61.0,
+        "top": 241.30625024000005,
+        "x1": 457.2906275199999,
+        "bottom": 250.90625024000008,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "Do not label or diagnose: “This child has depression” or “This teenager has ADHD” should not",
+        "x0": 70.64,
+        "top": 278.2582033599999,
+        "x1": 513.6884375000001,
+        "bottom": 287.65820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "follow from a web checklist. Document observations without judgement and consult an",
+        "x0": 70.64,
+        "top": 294.2582033599999,
+        "x1": 481.6513302400001,
+        "bottom": 303.65820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "appropriately qualified clinician.",
+        "x0": 70.64,
+        "top": 310.2582033599999,
+        "x1": 221.79732321999998,
+        "bottom": 319.65820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "6. School experience and mental wellbeing",
+        "x0": 61.0,
+        "top": 369.8437504,
+        "x1": 449.07811999999996,
+        "bottom": 385.8437504,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "School can be a powerful place of belonging, but also a source of distress. Examinations,",
+        "x0": 61.0,
+        "top": 401.30625024,
+        "x1": 489.30625216000004,
+        "bottom": 410.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "performance expectations, classroom humiliation, learning differences, peer exclusion and",
+        "x0": 61.0,
+        "top": 417.30625024,
+        "x1": 498.8312540800002,
+        "bottom": 426.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "disciplinary practices can influence emotions and participation. Educators can improve wellbeing",
+        "x0": 61.0,
+        "top": 433.30625024,
+        "x1": 528.3625004799999,
+        "bottom": 442.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "by building predictable routines, demonstrating fairness, welcoming differences and providing",
+        "x0": 61.0,
+        "top": 449.30625024,
+        "x1": 515.3921872000001,
+        "bottom": 458.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "ways to ask for help.",
+        "x0": 61.0,
+        "top": 465.30625024,
+        "x1": 160.70781376,
+        "bottom": 474.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "When a learner struggles, private and respectful inquiry is preferable to public embarrassment.",
+        "x0": 61.0,
+        "top": 490.30625024,
+        "x1": 521.36875168,
+        "bottom": 499.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "Teachers should record observable changes, involve safeguarding or student-support staff",
+        "x0": 61.0,
+        "top": 506.30625024,
+        "x1": 497.54687776,
+        "bottom": 515.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "according to school procedures, work with caregivers where safe and appropriate, and help",
+        "x0": 61.0,
+        "top": 522.30625024,
+        "x1": 502.2671900799999,
+        "bottom": 531.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "families access professional assessment when indicated. [R4]",
+        "x0": 61.0,
+        "top": 538.30625024,
+        "x1": 358.14531519999986,
+        "bottom": 547.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "7. Bullying, exclusion and cyberbullying",
+        "x0": 61.0,
+        "top": 574.8437504,
+        "x1": 421.1249968,
+        "bottom": 590.8437504,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Bullying generally involves repeated aggression and a power imbalance; it may involve physical",
+        "x0": 61.0,
+        "top": 606.30625024,
+        "x1": 524.52812896,
+        "bottom": 615.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "acts, insults, humiliation, exclusion, threats or online abuse. Even a single serious incident can",
+        "x0": 61.0,
+        "top": 622.30625024,
+        "x1": 516.8968787200001,
+        "bottom": 631.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "require protection. Adults should take reports seriously, make a proportionate safety plan, avoid",
+        "x0": 61.0,
+        "top": 638.30625024,
+        "x1": 525.9296876799998,
+        "bottom": 647.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "blaming the affected child, and investigate according to safeguarding procedures.",
+        "x0": 61.0,
+        "top": 654.30625024,
+        "x1": 457.10781376,
+        "bottom": 663.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "Online spaces may expose young people to harassment, unwanted sharing of private information,",
+        "x0": 61.0,
+        "top": 679.30625024,
+        "x1": 534.2800038400001,
+        "bottom": 688.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "image-based abuse or coercion. Do not require a child to confront an aggressor. Before blocking",
+        "x0": 61.0,
+        "top": 695.30625024,
+        "x1": 525.6296895999999,
+        "bottom": 704.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "accounts, collecting screenshots or altering devices, consider whether a harmful person monitors",
+        "x0": 61.0,
+        "top": 711.30625024,
+        "x1": 530.5562531200001,
+        "bottom": 720.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "the child’s device and whether a safer adult or professional should assist. [R1, R4]",
+        "x0": 61.0,
+        "top": 727.30625024,
+        "x1": 457.37031519999994,
+        "bottom": 736.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA · Mental Health Library · Educational draft Chapter 10 · 4",
+        "x0": 55.0,
+        "top": 807.03980488,
+        "x1": 540.2800155599999,
+        "bottom": 814.73980488,
+        "size": 7.7,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 5,
+    "width": 595.28,
+    "height": 841.89,
+    "lines": [
+      {
+        "text": "8. Supportive parenting and caregiving",
+        "x0": 61.0,
+        "top": 65.84375039999998,
+        "x1": 416.32812479999996,
+        "bottom": 81.84375039999998,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Children benefit from warmth and consistent boundaries. Caregivers can listen first, acknowledge",
+        "x0": 61.0,
+        "top": 97.30625024000005,
+        "x1": 532.20625312,
+        "bottom": 106.90625024000008,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "feelings, explain expectations without threats, offer manageable choices and repair relationships",
+        "x0": 61.0,
+        "top": 113.30625024000005,
+        "x1": 529.1218777600001,
+        "bottom": 122.90625024000008,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "after conflict. “You seem quieter recently; would you like to tell me what has been difficult?” is",
+        "x0": 61.0,
+        "top": 129.30625024000005,
+        "x1": 517.71718912,
+        "bottom": 138.90625024000008,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "more inviting than an accusation.",
+        "x0": 61.0,
+        "top": 145.30625024000005,
+        "x1": 222.62500192,
+        "bottom": 154.90625024000008,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "Caregivers should avoid calling children weak, lazy or attention-seeking because of emotional",
+        "x0": 61.0,
+        "top": 170.30625024000005,
+        "x1": 513.6671900800001,
+        "bottom": 179.90625024000008,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "difficulties. Encourage regular sleep opportunities, balanced meals where possible, play,",
+        "x0": 61.0,
+        "top": 186.30625024000005,
+        "x1": 487.38906304000005,
+        "bottom": 195.90625024000008,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "movement, trusted friendships and reasonable schedules without making lifestyle changes the",
+        "x0": 61.0,
+        "top": 202.30625024000005,
+        "x1": 518.7578166400001,
+        "bottom": 211.90625024000008,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "only response to a serious problem.",
+        "x0": 61.0,
+        "top": 218.30625024000005,
+        "x1": 233.36406304,
+        "bottom": 227.90625024000008,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "If a parent or caregiver is the source of harm, the child needs an alternative safe adult and the",
+        "x0": 61.0,
+        "top": 243.30625024000005,
+        "x1": 518.05000576,
+        "bottom": 252.90625024000008,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "appropriate safeguarding route—not forced family reconciliation. [R3, R4]",
+        "x0": 61.0,
+        "top": 259.30625024000005,
+        "x1": 416.4249999999998,
+        "bottom": 268.9062502400001,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "9. Communication that helps young people speak",
+        "x0": 61.0,
+        "top": 295.8437504,
+        "x1": 507.96874080000003,
+        "bottom": 311.8437504,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Choose a private, calm time. Use open questions, listen without interrupting and reflect what you",
+        "x0": 61.0,
+        "top": 327.30625024000005,
+        "x1": 530.7953142399999,
+        "bottom": 336.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "hear. The goal is not to extract a complete story immediately. Ask what feels safest or most",
+        "x0": 61.0,
+        "top": 343.30625024,
+        "x1": 504.62031327999995,
+        "bottom": 352.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "helpful right now. A child can decline to answer an optional educational question, and a",
+        "x0": 61.0,
+        "top": 359.30625024,
+        "x1": 483.06719008,
+        "bottom": 368.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "teenager’s privacy deserves respect within child-protection responsibilities.",
+        "x0": 61.0,
+        "top": 375.30625024,
+        "x1": 425.110936,
+        "bottom": 384.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "Adults should explain confidentiality honestly: they will respect privacy as much as possible, but",
+        "x0": 61.0,
+        "top": 400.30625024,
+        "x1": 525.6765635200001,
+        "bottom": 409.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "may need to involve safeguarding or emergency services if someone is in danger or law requires",
+        "x0": 61.0,
+        "top": 416.30625024,
+        "x1": 528.6062550400001,
+        "bottom": 425.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "action. Do not promise to keep abuse or immediate danger secret. [R4, R6]",
+        "x0": 61.0,
+        "top": 432.30625024,
+        "x1": 424.4921881599999,
+        "bottom": 441.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "10. Helping a young person experiencing distress",
+        "x0": 61.0,
+        "top": 468.8437504,
+        "x1": 509.63281120000005,
+        "bottom": 484.8437504,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "First check immediate safety and basic needs. Offer calm company and validate feelings without",
+        "x0": 61.0,
+        "top": 500.30625024,
+        "x1": 527.9078166400001,
+        "bottom": 509.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "assuming a diagnosis. Ask whether they would prefer a different trusted adult, school staff",
+        "x0": 61.0,
+        "top": 516.30625024,
+        "x1": 498.2968777599999,
+        "bottom": 525.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "member or health professional. Make a small plan together: who to contact, a suitable time and",
+        "x0": 61.0,
+        "top": 532.30625024,
+        "x1": 523.478128,
+        "bottom": 541.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "place, and how to manage school or home demands while support is arranged.",
+        "x0": 61.0,
+        "top": 548.30625024,
+        "x1": 442.028128,
+        "bottom": 557.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "When a child discloses violence or exploitation, do not question them repeatedly, demand",
+        "x0": 61.0,
+        "top": 573.30625024,
+        "x1": 495.79375071999993,
+        "bottom": 582.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "evidence, suggest blame or confront the suspected person. Follow child safeguarding procedures",
+        "x0": 61.0,
+        "top": 589.30625024,
+        "x1": 530.4296896,
+        "bottom": 598.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "and involve trained professionals. The child’s safety and developmental needs take priority. [R4,",
+        "x0": 61.0,
+        "top": 605.30625024,
+        "x1": 526.6421900799998,
+        "bottom": 614.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "R6]",
+        "x0": 61.0,
+        "top": 621.30625024,
+        "x1": 77.52343744,
+        "bottom": 630.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "11. Mental health in digitally connected lives",
+        "x0": 61.0,
+        "top": 657.8437504,
+        "x1": 468.3359328,
+        "bottom": 673.8437504,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Digital experiences can support friendship, learning and peer connection, but may also involve",
+        "x0": 61.0,
+        "top": 689.30625024,
+        "x1": 518.24687776,
+        "bottom": 698.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "social comparison, disrupted sleep, unwanted contact, harassment or exposure to distressing",
+        "x0": 61.0,
+        "top": 705.30625024,
+        "x1": 512.08281376,
+        "bottom": 714.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "content. Ask what the young person experiences online instead of assuming all screen time has",
+        "x0": 61.0,
+        "top": 721.30625024,
+        "x1": 523.1968806400001,
+        "bottom": 730.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "the same effects.",
+        "x0": 61.0,
+        "top": 737.30625024,
+        "x1": 144.66718912000002,
+        "bottom": 746.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA · Mental Health Library · Educational draft Chapter 10 · 5",
+        "x0": 55.0,
+        "top": 807.03980488,
+        "x1": 540.2800155599999,
+        "bottom": 814.73980488,
+        "size": 7.7,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 6,
+    "width": 595.28,
+    "height": 841.89,
+    "lines": [
+      {
+        "text": "Agree on age-appropriate privacy, bedtime and safety practices. Adults should model respectful",
+        "x0": 61.0,
+        "top": 64.30625024000005,
+        "x1": 524.9593743999999,
+        "bottom": 73.90625024000008,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "online behaviour and avoid secretive surveillance when a collaborative, safer approach is",
+        "x0": 61.0,
+        "top": 80.30625024000005,
+        "x1": 492.1281299199999,
+        "bottom": 89.90625024000008,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "possible. If there is a credible threat, exploitation or urgent safety risk, safeguarding needs may",
+        "x0": 61.0,
+        "top": 96.30625024000005,
+        "x1": 523.9000019200001,
+        "bottom": 105.90625024000008,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "override ordinary privacy expectations.",
+        "x0": 61.0,
+        "top": 112.30625024000005,
+        "x1": 250.53906303999997,
+        "bottom": 121.90625024000008,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "12. Supporting diverse needs and inclusion",
+        "x0": 61.0,
+        "top": 148.84375039999998,
+        "x1": 452.69531040000004,
+        "bottom": 164.84375039999998,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Children with disabilities, neurodevelopmental differences, chronic illnesses, learning difficulties,",
+        "x0": 61.0,
+        "top": 180.30625024000005,
+        "x1": 527.5468758400003,
+        "bottom": 189.90625024000008,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "displacement histories or experiences of discrimination may face additional barriers to care. Avoid",
+        "x0": 61.0,
+        "top": 196.30625024000005,
+        "x1": 534.27999856,
+        "bottom": 205.90625024000008,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "assuming that all distress reflects an existing diagnosis or disability.",
+        "x0": 61.0,
+        "top": 212.30625024000005,
+        "x1": 389.8328108799999,
+        "bottom": 221.90625024000008,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "Adapt communication by offering simple language, visual supports, extra response time, private",
+        "x0": 61.0,
+        "top": 237.30625024000005,
+        "x1": 526.3234383999998,
+        "bottom": 246.90625024000008,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "alternatives to public sharing, and an accessible route to care. Ask families and young people",
+        "x0": 61.0,
+        "top": 253.30625024000005,
+        "x1": 512.2703151999999,
+        "bottom": 262.9062502400001,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "what accommodations work for them. [R1, R2]",
+        "x0": 61.0,
+        "top": 269.30625024000005,
+        "x1": 285.83593888,
+        "bottom": 278.9062502400001,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "13. Evidence-based care and professional",
+        "x0": 61.0,
+        "top": 305.8437504,
+        "x1": 437.2265632,
+        "bottom": 321.8437504,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "assessment",
+        "x0": 61.0,
+        "top": 328.8437504,
+        "x1": 167.30468320000003,
+        "bottom": 344.8437504,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "A clinician may speak with the child, caregivers and relevant educators, with appropriate privacy",
+        "x0": 61.0,
+        "top": 360.30625024,
+        "x1": 528.68125216,
+        "bottom": 369.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "and consent procedures, to understand symptoms, context, functioning, medical history and",
+        "x0": 61.0,
+        "top": 376.30625024,
+        "x1": 507.94375263999996,
+        "bottom": 385.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "safety concerns. Care may involve psychological interventions, family support, school",
+        "x0": 61.0,
+        "top": 392.30625024,
+        "x1": 474.44219103999995,
+        "bottom": 401.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "adjustments, targeted services or medication when clinically indicated.",
+        "x0": 61.0,
+        "top": 408.30625024,
+        "x1": 404.10625024,
+        "bottom": 417.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "WHO recommends evidence-informed psychosocial interventions that build social-emotional skills",
+        "x0": 61.0,
+        "top": 433.30625024,
+        "x1": 533.14843744,
+        "bottom": 442.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "and prevent mental health problems among adolescents. These are not substitutes for clinical",
+        "x0": 61.0,
+        "top": 449.30625024,
+        "x1": 515.5843772800001,
+        "bottom": 458.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "treatment when a condition requires it. Do not recommend medicines, stop existing treatment or",
+        "x0": 61.0,
+        "top": 465.30625024,
+        "x1": 529.84843744,
+        "bottom": 474.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "conduct trauma-processing therapies through self-help content. [R3]",
+        "x0": 61.0,
+        "top": 481.30625024,
+        "x1": 392.51875071999984,
+        "bottom": 490.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "14. When and how to seek help in Rwanda",
+        "x0": 61.0,
+        "top": 517.8437504,
+        "x1": 444.09374399999996,
+        "bottom": 533.8437504,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "For non-emergency concerns, start with a qualified health professional, appropriate local health",
+        "x0": 61.0,
+        "top": 549.30625024,
+        "x1": 522.8546895999999,
+        "bottom": 558.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "centre or hospital, and ask about child or adolescent mental health referral options. The Ministry",
+        "x0": 61.0,
+        "top": 565.30625024,
+        "x1": 526.7734393600001,
+        "bottom": 574.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "of Health’s Kigali Mental Health Referral Centre publicly lists child and adolescent services; its",
+        "x0": 61.0,
+        "top": 581.30625024,
+        "x1": 514.2015625600001,
+        "bottom": 590.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "published contact numbers are +250 793 902 059 and +250 736 440 666. Check current hours,",
+        "x0": 61.0,
+        "top": 597.30625024,
+        "x1": 525.9671987199998,
+        "bottom": 606.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "service eligibility and referral arrangements before relying on them. [R7]",
+        "x0": 61.0,
+        "top": 613.30625024,
+        "x1": 412.42656351999983,
+        "bottom": 622.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "For immediate danger or imminent self-harm risk, seek urgent medical or emergency assistance.",
+        "x0": 61.0,
+        "top": 638.30625024,
+        "x1": 529.76406592,
+        "bottom": 647.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "Rwanda’s government emergency directory lists 112 for emergency assistance, 912 for",
+        "x0": 61.0,
+        "top": 654.30625024,
+        "x1": 483.86406784,
+        "bottom": 663.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "ambulance and 116 for its child helpline. These are published numbers, not a guarantee that each",
+        "x0": 61.0,
+        "top": 670.30625024,
+        "x1": 534.2800134400001,
+        "bottom": 679.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "line is staffed or suitable for every case at every moment. [R5]",
+        "x0": 61.0,
+        "top": 686.30625024,
+        "x1": 363.6671900799999,
+        "bottom": 695.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA · Mental Health Library · Educational draft Chapter 10 · 6",
+        "x0": 55.0,
+        "top": 807.03980488,
+        "x1": 540.2800155599999,
+        "bottom": 814.73980488,
+        "size": 7.7,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 7,
+    "width": 595.28,
+    "height": 841.89,
+    "lines": [
+      {
+        "text": "Five Rwanda-relevant fictional learning scenarios",
+        "x0": 61.0,
+        "top": 65.84375039999998,
+        "x1": 508.9062496,
+        "bottom": 81.84375039999998,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "A. Examination pressure",
+        "x0": 61.0,
+        "top": 100.7146487199999,
+        "x1": 216.99848428,
+        "bottom": 112.01464871999997,
+        "size": 11.3,
+        "bold": 1.0
+      },
+      {
+        "text": "Situation: A 15-year-old in secondary school has trouble sleeping before national examinations,",
+        "x0": 61.0,
+        "top": 123.30625024000005,
+        "x1": 521.3593772800001,
+        "bottom": 132.90625024000008,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "avoids friends and fears disappointing family.",
+        "x0": 61.0,
+        "top": 139.30625024000005,
+        "x1": 280.46406304,
+        "bottom": 148.90625024000008,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "Supportive response: A trusted teacher listens privately and checks functioning and safety.",
+        "x0": 61.0,
+        "top": 164.30625024000005,
+        "x1": 501.05781568000015,
+        "bottom": 173.90625024000008,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "Caregivers reduce shaming and help organize realistic preparation and support. If distress",
+        "x0": 61.0,
+        "top": 180.30625024000005,
+        "x1": 496.4781260799999,
+        "bottom": 189.90625024000008,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "persists or worsens, arrange professional assessment.",
+        "x0": 61.0,
+        "top": 196.30625024000005,
+        "x1": 322.25312703999987,
+        "bottom": 205.90625024000008,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "B. Younger child withdrawing",
+        "x0": 61.0,
+        "top": 225.7146487199999,
+        "x1": 249.13837706999996,
+        "bottom": 237.01464871999997,
+        "size": 11.3,
+        "bold": 1.0
+      },
+      {
+        "text": "Situation: A 9-year-old stops joining games after a family move and becomes unusually tearful at",
+        "x0": 61.0,
+        "top": 248.30625024000005,
+        "x1": 529.7921900800002,
+        "bottom": 257.9062502400001,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "school.",
+        "x0": 61.0,
+        "top": 264.30625024000005,
+        "x1": 94.82968767999999,
+        "bottom": 273.9062502400001,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "Supportive response: Adults ask gently about the transition, restore predictable routines, help",
+        "x0": 61.0,
+        "top": 289.30625024000005,
+        "x1": 514.65624928,
+        "bottom": 298.9062502400001,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "build connections and monitor whether symptoms persist or impair daily life.",
+        "x0": 61.0,
+        "top": 305.30625024000005,
+        "x1": 431.77656159999987,
+        "bottom": 314.9062502400001,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "C. Bullying and school avoidance",
+        "x0": 61.0,
+        "top": 334.71464872,
+        "x1": 270.47485062000004,
+        "bottom": 346.01464872,
+        "size": 11.3,
+        "bold": 1.0
+      },
+      {
+        "text": "Situation: A 13-year-old repeatedly avoids school after peers mock their speech in class and",
+        "x0": 61.0,
+        "top": 357.30625024,
+        "x1": 505.45468960000017,
+        "bottom": 366.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "online.",
+        "x0": 61.0,
+        "top": 373.30625024,
+        "x1": 93.33437536,
+        "bottom": 382.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "Supportive response: School staff address the bullying under safeguarding procedures; the child",
+        "x0": 61.0,
+        "top": 398.30625024,
+        "x1": 525.9625024000002,
+        "bottom": 407.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "is not required to confront peers. Adults plan safety and supportive educational adjustments.",
+        "x0": 61.0,
+        "top": 414.30625024,
+        "x1": 510.0156256,
+        "bottom": 423.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "D. Online distress",
+        "x0": 61.0,
+        "top": 443.71464872,
+        "x1": 174.42485175000002,
+        "bottom": 455.01464872,
+        "size": 11.3,
+        "bold": 1.0
+      },
+      {
+        "text": "Situation: A 16-year-old has become anxious after receiving threatening messages through a",
+        "x0": 61.0,
+        "top": 466.30625024,
+        "x1": 510.3531289600001,
+        "bottom": 475.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "shared phone.",
+        "x0": 61.0,
+        "top": 482.30625024,
+        "x1": 130.06093888,
+        "bottom": 491.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "Supportive response: A trusted adult checks whether the phone is monitored, considers safe",
+        "x0": 61.0,
+        "top": 507.30625024,
+        "x1": 507.2453152,
+        "bottom": 516.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "documentation and reporting, and helps the teenager access appropriate support without",
+        "x0": 61.0,
+        "top": 523.30625024,
+        "x1": 494.2187507199999,
+        "bottom": 532.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "blaming them.",
+        "x0": 61.0,
+        "top": 539.30625024,
+        "x1": 131.05,
+        "bottom": 548.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "E. Caregiver concern about mood",
+        "x0": 61.0,
+        "top": 568.71464872,
+        "x1": 273.26674614,
+        "bottom": 580.01464872,
+        "size": 11.3,
+        "bold": 1.0
+      },
+      {
+        "text": "Situation: A caregiver notices their 17-year-old has lost interest in football and frequently says",
+        "x0": 61.0,
+        "top": 591.30625024,
+        "x1": 516.2125004799999,
+        "bottom": 600.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "they feel hopeless.",
+        "x0": 61.0,
+        "top": 607.30625024,
+        "x1": 151.98437632,
+        "bottom": 616.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "Supportive response: The caregiver listens, asks directly and calmly about safety, and arranges",
+        "x0": 61.0,
+        "top": 632.30625024,
+        "x1": 522.3906284799999,
+        "bottom": 641.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "professional assessment promptly. If there is immediate danger, seek urgent help.",
+        "x0": 61.0,
+        "top": 648.30625024,
+        "x1": 459.51250239999996,
+        "bottom": 657.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "Five practical learning activities",
+        "x0": 61.0,
+        "top": 684.8437504,
+        "x1": 351.50780799999995,
+        "bottom": 700.8437504,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "1. Feelings vocabulary (children)",
+        "x0": 61.0,
+        "top": 719.71464872,
+        "x1": 270.82246009000005,
+        "bottom": 731.01464872,
+        "size": 11.3,
+        "bold": 1.0
+      },
+      {
+        "text": "How to practice: Invite the child to choose words or drawings describing a feeling from today. Ask",
+        "x0": 61.0,
+        "top": 742.30625024,
+        "x1": 532.24843744,
+        "bottom": 751.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "what helped and whether they want to share more. Do not score feelings as right or wrong.",
+        "x0": 61.0,
+        "top": 758.30625024,
+        "x1": 502.23437823999984,
+        "bottom": 767.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA · Mental Health Library · Educational draft Chapter 10 · 7",
+        "x0": 55.0,
+        "top": 807.03980488,
+        "x1": 540.2800155599999,
+        "bottom": 814.73980488,
+        "size": 7.7,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 8,
+    "width": 595.28,
+    "height": 841.89,
+    "lines": [
+      {
+        "text": "Safety note: Optional; no forced disclosure or public sharing.",
+        "x0": 61.0,
+        "top": 63.96992208000006,
+        "x1": 310.6555673800001,
+        "bottom": 72.16992207999999,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "2. Circle of trusted support (ages 8+)",
+        "x0": 61.0,
+        "top": 90.7146487199999,
+        "x1": 299.76215333000005,
+        "bottom": 102.01464871999997,
+        "size": 11.3,
+        "bold": 1.0
+      },
+      {
+        "text": "How to practice: On paper, write or draw up to three people or services the learner could",
+        "x0": 61.0,
+        "top": 113.30625024000005,
+        "x1": 490.07031328000005,
+        "bottom": 122.90625024000008,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "approach if worried. Include a backup if the first person is unavailable.",
+        "x0": 61.0,
+        "top": 129.30625024000005,
+        "x1": 400.5953152000001,
+        "bottom": 138.90625024000008,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "Safety note: Do not list a person who may be unsafe; respect a child who cannot name anyone and help identify",
+        "x0": 61.0,
+        "top": 153.96992208000006,
+        "x1": 523.8876039599999,
+        "bottom": 162.16992208,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "safe services.",
+        "x0": 61.0,
+        "top": 166.96992208000006,
+        "x1": 117.08671998,
+        "bottom": 175.16992208,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "3. Stress-to-action map (adolescents)",
+        "x0": 61.0,
+        "top": 193.7146487199999,
+        "x1": 301.22982671,
+        "bottom": 205.01464871999997,
+        "size": 11.3,
+        "bold": 1.0
+      },
+      {
+        "text": "How to practice: Make two columns: “What is worrying me?” and “One safe, manageable next",
+        "x0": 61.0,
+        "top": 216.30625024000005,
+        "x1": 515.3781299200001,
+        "bottom": 225.90625024000008,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "action.” Choose only one low-risk next step.",
+        "x0": 61.0,
+        "top": 232.30625024000005,
+        "x1": 272.78125119999993,
+        "bottom": 241.90625024000008,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "Safety note: Do not use this exercise to solve situations of abuse through self-reliance.",
+        "x0": 61.0,
+        "top": 256.96992208000006,
+        "x1": 418.51279547999997,
+        "bottom": 265.16992208,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "4. Caregiver listening practice",
+        "x0": 61.0,
+        "top": 283.7146487199999,
+        "x1": 253.88901233000004,
+        "bottom": 295.01464871999997,
+        "size": 11.3,
+        "bold": 1.0
+      },
+      {
+        "text": "How to practice: One adult rehearses a supportive opening sentence, one open-ended question,",
+        "x0": 61.0,
+        "top": 306.30625024000005,
+        "x1": 524.5515664000001,
+        "bottom": 315.9062502400001,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "and one nonjudgmental reflection. Then switch roles.",
+        "x0": 61.0,
+        "top": 322.30625024000005,
+        "x1": 317.42968959999996,
+        "bottom": 331.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "Safety note: Do not dramatize an actual child’s confidential disclosure.",
+        "x0": 61.0,
+        "top": 346.96992208,
+        "x1": 352.14003978000005,
+        "bottom": 355.16992208,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "5. School inclusion checklist",
+        "x0": 61.0,
+        "top": 373.71464872,
+        "x1": 240.67440926000003,
+        "bottom": 385.01464872,
+        "size": 11.3,
+        "bold": 1.0
+      },
+      {
+        "text": "How to practice: Educators review one classroom practice: participation options, respectful",
+        "x0": 61.0,
+        "top": 396.30625024,
+        "x1": 499.99374879999993,
+        "bottom": 405.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "correction, anti-bullying responses, and referral routes. Identify a realistic improvement.",
+        "x0": 61.0,
+        "top": 412.30625024,
+        "x1": 486.9250009599999,
+        "bottom": 421.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "Safety note: Follow school safeguarding policies; record no identifying child details in training materials.",
+        "x0": 61.0,
+        "top": 436.96992208,
+        "x1": 489.71425729999993,
+        "bottom": 445.16992208,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "Knowledge check: questions and explained answers",
+        "x0": 61.0,
+        "top": 470.8437504,
+        "x1": 531.4999968000001,
+        "bottom": 486.8437504,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "1. Does every emotional change in adolescence indicate a disorder?",
+        "x0": 61.0,
+        "top": 505.71464872,
+        "x1": 494.9023392299999,
+        "bottom": 517.01464872,
+        "size": 11.3,
+        "bold": 1.0
+      },
+      {
+        "text": "Answer: No. Consider persistence, severity, changes from usual behaviour and effects on",
+        "x0": 61.0,
+        "top": 528.30625024,
+        "x1": 491.21406880000006,
+        "bottom": 537.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "everyday functioning.",
+        "x0": 61.0,
+        "top": 544.30625024,
+        "x1": 165.94375168000002,
+        "bottom": 553.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "2. What is a protective factor?",
+        "x0": 61.0,
+        "top": 573.71464872,
+        "x1": 254.61180892000002,
+        "bottom": 585.01464872,
+        "size": 11.3,
+        "bold": 1.0
+      },
+      {
+        "text": "Answer: A condition that supports wellbeing, such as a dependable adult, safer school or",
+        "x0": 61.0,
+        "top": 596.30625024,
+        "x1": 488.76250143999994,
+        "bottom": 605.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "accessible care.",
+        "x0": 61.0,
+        "top": 612.30625024,
+        "x1": 137.80000096,
+        "bottom": 621.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "3. Should a teacher publicly challenge a distressed learner to explain?",
+        "x0": 61.0,
+        "top": 641.71464872,
+        "x1": 510.57777945999976,
+        "bottom": 653.01464872,
+        "size": 11.3,
+        "bold": 1.0
+      },
+      {
+        "text": "Answer: No. Provide a private, respectful opportunity and follow safeguarding procedures.",
+        "x0": 61.0,
+        "top": 664.30625024,
+        "x1": 495.67656351999995,
+        "bottom": 673.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "4. Can bullying affect school attendance and mental health?",
+        "x0": 61.0,
+        "top": 693.71464872,
+        "x1": 445.5420848999999,
+        "bottom": 705.01464872,
+        "size": 11.3,
+        "bold": 1.0
+      },
+      {
+        "text": "Answer: Yes. Safety and support matter, and repeated power-imbalanced aggression requires",
+        "x0": 61.0,
+        "top": 716.30625024,
+        "x1": 513.9343763200001,
+        "bottom": 725.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "attention.",
+        "x0": 61.0,
+        "top": 732.30625024,
+        "x1": 107.8421872,
+        "bottom": 741.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA · Mental Health Library · Educational draft Chapter 10 · 8",
+        "x0": 55.0,
+        "top": 807.03980488,
+        "x1": 540.2800155599999,
+        "bottom": 814.73980488,
+        "size": 7.7,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 9,
+    "width": 595.28,
+    "height": 841.89,
+    "lines": [
+      {
+        "text": "5. Is a symptom checklist enough to diagnose ADHD or depression?",
+        "x0": 61.0,
+        "top": 64.7146487199999,
+        "x1": 492.1932026499998,
+        "bottom": 76.01464871999997,
+        "size": 11.3,
+        "bold": 1.0
+      },
+      {
+        "text": "Answer: No. Assessment considers context, history, functioning and alternative explanations.",
+        "x0": 61.0,
+        "top": 87.30625024000005,
+        "x1": 510.99062848000005,
+        "bottom": 96.90625024000008,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "6. What should adults say about confidentiality?",
+        "x0": 61.0,
+        "top": 116.7146487199999,
+        "x1": 370.29886755999996,
+        "bottom": 128.01464871999997,
+        "size": 11.3,
+        "bold": 1.0
+      },
+      {
+        "text": "Answer: Explain privacy respectfully and clarify safeguarding and safety-related limits.",
+        "x0": 61.0,
+        "top": 139.30625024000005,
+        "x1": 478.96562656,
+        "bottom": 148.90625024000008,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "7. Should survivors be forced to repeat traumatic disclosures?",
+        "x0": 61.0,
+        "top": 168.7146487199999,
+        "x1": 459.55673135999996,
+        "bottom": 180.01464871999997,
+        "size": 11.3,
+        "bold": 1.0
+      },
+      {
+        "text": "Answer: No. Listen calmly, avoid unnecessary questioning and connect to trained support.",
+        "x0": 61.0,
+        "top": 191.30625024000005,
+        "x1": 496.21562847999985,
+        "bottom": 200.90625024000008,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "8. Can all sleep and mood difficulties be managed only with routines?",
+        "x0": 61.0,
+        "top": 220.7146487199999,
+        "x1": 505.99266547,
+        "bottom": 232.01464871999997,
+        "size": 11.3,
+        "bold": 1.0
+      },
+      {
+        "text": "Answer: No. Persistent or severe problems may require professional assessment and treatment.",
+        "x0": 61.0,
+        "top": 243.30625024000005,
+        "x1": 524.42969056,
+        "bottom": 252.90625024000008,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "9. What makes digital-safety decisions complicated?",
+        "x0": 61.0,
+        "top": 272.7146487199999,
+        "x1": 396.44114749,
+        "bottom": 284.01464871999997,
+        "size": 11.3,
+        "bold": 1.0
+      },
+      {
+        "text": "Answer: Monitoring by a harmful person can make blocking or changing settings risky.",
+        "x0": 61.0,
+        "top": 295.30625024000005,
+        "x1": 478.0515663999999,
+        "bottom": 304.9062502400001,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "10. What happens if there is immediate risk of self-harm?",
+        "x0": 61.0,
+        "top": 324.71464872,
+        "x1": 429.52454846999996,
+        "bottom": 336.01464872,
+        "size": 11.3,
+        "bold": 1.0
+      },
+      {
+        "text": "Answer: Seek urgent local emergency or medical support; do not rely on an ordinary",
+        "x0": 61.0,
+        "top": 347.30625024,
+        "x1": 468.8828156799997,
+        "bottom": 356.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "appointment.",
+        "x0": 61.0,
+        "top": 363.30625024,
+        "x1": 125.6171872,
+        "bottom": 372.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "Short glossary",
+        "x0": 61.0,
+        "top": 399.8437504,
+        "x1": 192.10937280000002,
+        "bottom": 415.8437504,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Mental wellbeing: The emotional, psychological and social functioning that supports daily life.",
+        "x0": 61.0,
+        "top": 431.30625024,
+        "x1": 511.95625024000003,
+        "bottom": 440.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "Co-regulation: An adult helping a child manage overwhelming emotions through calm, attuned",
+        "x0": 61.0,
+        "top": 456.30625024,
+        "x1": 517.80625216,
+        "bottom": 465.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "support.",
+        "x0": 61.0,
+        "top": 472.30625024,
+        "x1": 100.90937439999999,
+        "bottom": 481.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "Protective factor: A condition or resource associated with safer development and resilience.",
+        "x0": 61.0,
+        "top": 497.30625024,
+        "x1": 503.5281260800001,
+        "bottom": 506.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "Bullying: Repeated aggression involving a power imbalance.",
+        "x0": 61.0,
+        "top": 522.30625024,
+        "x1": 351.77031424000006,
+        "bottom": 531.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "Safeguarding: Actions to protect children from harm and respond appropriately to safety",
+        "x0": 61.0,
+        "top": 547.30625024,
+        "x1": 488.8703123199998,
+        "bottom": 556.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "concerns.",
+        "x0": 61.0,
+        "top": 563.30625024,
+        "x1": 107.50468864,
+        "bottom": 572.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "Psychosocial intervention: Structured support addressing thoughts, behaviour, relationships or",
+        "x0": 61.0,
+        "top": 588.30625024,
+        "x1": 517.28125024,
+        "bottom": 597.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "social circumstances.",
+        "x0": 61.0,
+        "top": 604.30625024,
+        "x1": 163.9984384,
+        "bottom": 613.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "Referral: Connecting someone to a service qualified to assess or provide needed support.",
+        "x0": 61.0,
+        "top": 629.30625024,
+        "x1": 492.4609398399999,
+        "bottom": 638.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "References and evidence register",
+        "x0": 61.0,
+        "top": 665.8437504,
+        "x1": 364.71875360000007,
+        "bottom": 681.8437504,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "[R1] World Health Organization (2025). Mental health of adolescents.",
+        "x0": 61.0,
+        "top": 696.9699220800001,
+        "x1": 345.8939464399999,
+        "bottom": 705.16992208,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "https://www.who.int/news-room/fact-sheets/detail/adolescent-mental-health",
+        "x0": 61.0,
+        "top": 709.9699220800001,
+        "x1": 374.07744319999995,
+        "bottom": 718.16992208,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "[R2] Centers for Disease Control and Prevention (2026). About Children’s Mental Health.",
+        "x0": 61.0,
+        "top": 729.96992208,
+        "x1": 424.4545917399999,
+        "bottom": 738.16992208,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "https://www.cdc.gov/children-mental-health/about/",
+        "x0": 61.0,
+        "top": 742.96992208,
+        "x1": 270.67256008,
+        "bottom": 751.16992208,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA · Mental Health Library · Educational draft Chapter 10 · 9",
+        "x0": 55.0,
+        "top": 807.03980488,
+        "x1": 540.2800155599999,
+        "bottom": 814.73980488,
+        "size": 7.7,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 10,
+    "width": 595.28,
+    "height": 841.89,
+    "lines": [
+      {
+        "text": "[R3] World Health Organization (2020). Guidelines on mental health promotive and preventive interventions for",
+        "x0": 61.0,
+        "top": 63.96992208000006,
+        "x1": 520.59238394,
+        "bottom": 72.16992207999999,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "adolescents: helping adolescents thrive.",
+        "x0": 61.0,
+        "top": 76.96992208000006,
+        "x1": 226.71367290000003,
+        "bottom": 85.16992207999999,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "https://www.who.int/publications/i/item/9789240011854",
+        "x0": 61.0,
+        "top": 89.96992208000006,
+        "x1": 292.6900430600001,
+        "bottom": 98.16992207999999,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "[R4] UNESCO, UNICEF and WHO (2026). Teaching with care: a practical guide for teachers to support mental health",
+        "x0": 61.0,
+        "top": 109.96992208000006,
+        "x1": 534.2799980399998,
+        "bottom": 118.16992207999999,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "and well-being in schools.",
+        "x0": 61.0,
+        "top": 122.96992208000006,
+        "x1": 167.0875,
+        "bottom": 131.16992208,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "https://www.unesco.org/en/articles/teaching-care-practical-guide-teachers-support-mental-health-and-well-being-s",
+        "x0": 61.0,
+        "top": 135.96992208000006,
+        "x1": 532.39589772,
+        "bottom": 144.16992208,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "chools",
+        "x0": 61.0,
+        "top": 148.96992208000006,
+        "x1": 87.28964853999999,
+        "bottom": 157.16992208,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "[R5] Government of Rwanda. Emergency numbers directory (accessed November 2026).",
+        "x0": 61.0,
+        "top": 168.96992208000006,
+        "x1": 426.36445702000003,
+        "bottom": 177.16992208,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "https://www.gov.rw/emergency",
+        "x0": 61.0,
+        "top": 181.96992208000006,
+        "x1": 189.8977557,
+        "bottom": 190.16992208,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "[R6] UNICEF (2022). Helping Adolescents Thrive: Facilitator Guide.",
+        "x0": 61.0,
+        "top": 201.96992208000006,
+        "x1": 333.77812417999996,
+        "bottom": 210.16992208,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "https://www.unicef.org/adolescentmentalhealthhub/documents/helping-adolescents-thrive-facilitator-guide",
+        "x0": 61.0,
+        "top": 214.96992208000006,
+        "x1": 500.7850600799999,
+        "bottom": 223.16992208,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "[R7] Kigali Mental Health Referral Centre, Rwanda Ministry of Health. Services and contact information (accessed",
+        "x0": 61.0,
+        "top": 234.96992208000006,
+        "x1": 527.0066428799998,
+        "bottom": 243.16992208,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "November 2026).",
+        "x0": 61.0,
+        "top": 247.96992208000006,
+        "x1": 132.93818507999998,
+        "bottom": 256.16992208,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "https://www.kmentalhealth.gov.rw/services",
+        "x0": 61.0,
+        "top": 260.96992208000006,
+        "x1": 239.3459984,
+        "bottom": 269.16992208,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "Editorial and publication safeguards",
+        "x0": 61.0,
+        "top": 294.8437504,
+        "x1": 389.2187456000001,
+        "bottom": 310.8437504,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "This chapter is an original, educational synthesis of the references above. It is not yet approved",
+        "x0": 61.0,
+        "top": 326.30625024000005,
+        "x1": 522.9625033599999,
+        "bottom": 335.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "for public distribution. Before publication, obtain review from a qualified child/adolescent mental",
+        "x0": 61.0,
+        "top": 342.30625024,
+        "x1": 526.55781184,
+        "bottom": 351.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "health professional and child safeguarding specialist; verify Rwanda-specific contact details and",
+        "x0": 61.0,
+        "top": 358.30625024,
+        "x1": 523.8484393600002,
+        "bottom": 367.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "legal requirements; validate any Kinyarwanda or French translation; and ensure accessible",
+        "x0": 61.0,
+        "top": 374.30625024,
+        "x1": 499.34219296000026,
+        "bottom": 383.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "formatting. Review clinical guidance and referral information periodically.",
+        "x0": 61.0,
+        "top": 390.30625024,
+        "x1": 415.88125023999993,
+        "bottom": 399.90625024,
+        "size": 9.6,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA · Mental Health Library · Educational draft Chapter 10 · 10",
+        "x0": 55.0,
+        "top": 807.03980488,
+        "x1": 540.27999041,
+        "bottom": 814.73980488,
+        "size": 7.7,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  }
+]

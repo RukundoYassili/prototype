@@ -1,0 +1,131 @@
+[
+  {
+    "number": 1,
+    "slug": "understanding-mental-health-and-wellbeing",
+    "title": "Understanding Mental Health and Wellbeing",
+    "summary": "Explore what mental health means, what shapes wellbeing, and the ways people can care for themselves and support others.",
+    "studyTime": "25-35 minutes, with optional reflection",
+    "language": "English master draft",
+    "version": "1.1",
+    "sections": 15,
+    "image": "mental-health-group",
+    "goals": [
+      "Explain mental health in plain language and recognize that it is more than the absence of illness.",
+      "Describe how feelings, thoughts, relationships, body, circumstances and community influence wellbeing.",
+      "Differentiate common emotional experiences, psychological distress and possible mental health conditions without self-diagnosing.",
+      "Recognize barriers, protective influences, stigma and situations where professional support is useful.",
+      "Identify one realistic action to care for mental wellbeing while recognizing problems that require external support."
+    ]
+  },
+  {
+    "number": 2,
+    "slug": "recognizing-emotions-and-responding-to-them",
+    "title": "Recognizing Emotions and Responding to Them",
+    "summary": "Learn about emotional experiences, practical responses, safe communication, and when additional support may be useful.",
+    "studyTime": "35-50 minutes plus optional exercises",
+    "language": "English master draft",
+    "version": "1.1",
+    "sections": 18,
+    "image": "mental-health-listening",
+    "goals": [
+      "Identify common emotions and explain how emotions, thoughts, physical sensations and actions interact.",
+      "Recognize that emotions have useful information but do not always represent facts or instructions.",
+      "Practise naming feelings and choosing safe responses to them.",
+      "Distinguish emotional expression from harmful behavior, suppression and avoidance.",
+      "Apply simple grounding, self-kindness and communication skills without treating them as a replacement for healthcare.",
+      "Recognize when emotional difficulties warrant routine or urgent professional assistance."
+    ]
+  },
+  {
+    "number": 3,
+    "slug": "understanding-stress-and-healthy-coping-strategies",
+    "title": "Understanding Stress and Healthy Coping Strategies",
+    "summary": "Explore stress, practical pressures, flexible coping, and when additional support matters.",
+    "studyTime": "18 minutes, plus optional reflection",
+    "language": "English master draft",
+    "version": "1.1",
+    "sections": 19,
+    "image": "mental-health-learning",
+    "goals": [
+      "Explain how a stress response differs from a stressor, and why stress does not always signal illness.",
+      "Identify emotional, physical, cognitive, behavioral, and social changes that may accompany stress.",
+      "Distinguish manageable short-term stress from prolonged distress that deserves extra support.",
+      "Apply several flexible coping skills without blaming oneself for difficult circumstances.",
+      "Recognize warning signs indicating the need for professional or urgent medical support."
+    ]
+  },
+  {
+    "number": 4,
+    "slug": "understanding-anxiety-and-anxiety-disorders",
+    "title": "Understanding Anxiety and Anxiety Disorders",
+    "summary": "Understand everyday anxiety, anxiety disorders, supportive responses, and professional care.",
+    "studyTime": "20 minutes, plus optional reflection",
+    "language": "English master draft",
+    "version": "1.1",
+    "sections": 23,
+    "image": "mental-health-listening",
+    "goals": [
+      "Explain anxiety and why it can be protective in some situations.",
+      "Recognize emotional, thinking, physical and behavioral signs of anxiety without self-diagnosing.",
+      "Describe major anxiety disorders and distinguish a panic attack from panic disorder.",
+      "Practice optional coping skills while understanding their limitations.",
+      "Recognize when professional or emergency assessment is appropriate.",
+      "Support someone experiencing anxiety with respect and without judgment."
+    ]
+  },
+  {
+    "number": 5,
+    "slug": "understanding-depression-and-depressive-disorders",
+    "title": "Understanding Depression and Depressive Disorders",
+    "summary": "Learn about depression, compassionate support, treatment, and small steps that respect individual circumstances.",
+    "studyTime": "20 minutes, plus optional reflection",
+    "language": "English master draft",
+    "version": "1.1",
+    "sections": 22,
+    "image": "mental-health-counseling",
+    "goals": [
+      "Explain the difference between ordinary sadness, grief and a depressive disorder.",
+      "Recognize emotional, cognitive, physical, behavioral and safety-related warning signs.",
+      "Understand major depressive disorder and other relevant depressive presentations without self-diagnosing.",
+      "Identify evidence-based professional treatments and the supportive role of self-care.",
+      "Practice low-pressure strategies that support daily functioning and help-seeking.",
+      "Respond compassionately and safely when someone may be depressed or at risk of suicide."
+    ]
+  },
+  {
+    "number": 6,
+    "slug": "understanding-trauma-and-post-traumatic-stress",
+    "title": "Understanding Trauma and Post-Traumatic Stress",
+    "summary": "Explore trauma responses, safety, voluntary coping, and pathways to appropriate professional support.",
+    "studyTime": "20 minutes, plus optional reflection",
+    "language": "English master draft",
+    "version": "1.1",
+    "sections": 31,
+    "image": "mental-health-connection",
+    "goals": [
+      "Explain trauma, common stress reactions, acute stress disorder and post-traumatic stress disorder (PTSD) in plain language.",
+      "Recognize the core symptom patterns of PTSD without assuming that symptoms confirm a diagnosis.",
+      "Identify practical, low-intensity coping options and the limits of self-help.",
+      "Describe evidence-based treatment and understand when and how to seek professional or emergency support.",
+      "Respond to a person affected by trauma respectfully, without pressuring them to disclose their experiences."
+    ]
+  },
+  {
+    "number": 7,
+    "slug": "understanding-grief-loss-and-emotional-adjustment",
+    "title": "Understanding Grief, Loss, and Emotional Adjustment",
+    "summary": "Understand different losses, changing grief experiences, practical support, and when assessment may help.",
+    "studyTime": "20 minutes, plus optional reflection",
+    "language": "English master draft",
+    "version": "1.1",
+    "sections": 20,
+    "image": "mental-health-group",
+    "goals": [
+      "Describe grief, bereavement, mourning, and emotional adjustment in plain language.",
+      "Recognize emotional, physical, cognitive, social, and practical responses to loss.",
+      "Understand why grieving does not follow a fixed set of stages or a universal timetable.",
+      "Identify compassionate coping methods, helpful support, and ways to assist another person.",
+      "Distinguish ordinary grief from situations needing assessment, including prolonged grief disorder."
+    ]
+  }
+]

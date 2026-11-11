@@ -1,0 +1,125 @@
+{
+  "metrics": [
+    {
+      "route": "/understand-gbv",
+      "width": 375,
+      "overflow": false,
+      "failedImages": 0
+    },
+    {
+      "route": "/understand-gbv/understanding-gender-based-violence",
+      "width": 375,
+      "overflow": false,
+      "failedImages": 0
+    },
+    {
+      "route": "/understand-gbv/types-and-forms-of-gender-based-violence",
+      "width": 375,
+      "overflow": false,
+      "failedImages": 0
+    },
+    {
+      "route": "/understand-gbv/root-causes-risk-factors-and-gender-inequality",
+      "width": 375,
+      "overflow": false,
+      "failedImages": 0
+    },
+    {
+      "route": "/understand-gbv",
+      "width": 768,
+      "overflow": false,
+      "failedImages": 0
+    },
+    {
+      "route": "/understand-gbv/understanding-gender-based-violence",
+      "width": 768,
+      "overflow": false,
+      "failedImages": 0
+    },
+    {
+      "route": "/understand-gbv/types-and-forms-of-gender-based-violence",
+      "width": 768,
+      "overflow": false,
+      "failedImages": 0
+    },
+    {
+      "route": "/understand-gbv/root-causes-risk-factors-and-gender-inequality",
+      "width": 768,
+      "overflow": false,
+      "failedImages": 0
+    },
+    {
+      "route": "/understand-gbv",
+      "width": 1024,
+      "overflow": false,
+      "failedImages": 0
+    },
+    {
+      "route": "/understand-gbv/understanding-gender-based-violence",
+      "width": 1024,
+      "overflow": false,
+      "failedImages": 0
+    },
+    {
+      "route": "/understand-gbv/types-and-forms-of-gender-based-violence",
+      "width": 1024,
+      "overflow": false,
+      "failedImages": 0
+    },
+    {
+      "route": "/understand-gbv/root-causes-risk-factors-and-gender-inequality",
+      "width": 1024,
+      "overflow": false,
+      "failedImages": 0
+    },
+    {
+      "route": "/understand-gbv",
+      "width": 1440,
+      "overflow": false,
+      "failedImages": 0
+    },
+    {
+      "route": "/understand-gbv/understanding-gender-based-violence",
+      "width": 1440,
+      "overflow": false,
+      "failedImages": 0
+    },
+    {
+      "route": "/understand-gbv/types-and-forms-of-gender-based-violence",
+      "width": 1440,
+      "overflow": false,
+      "failedImages": 0
+    },
+    {
+      "route": "/understand-gbv/root-causes-risk-factors-and-gender-inequality",
+      "width": 1440,
+      "overflow": false,
+      "failedImages": 0
+    },
+    {
+      "route": "/understand-gbv",
+      "width": 1920,
+      "overflow": false,
+      "failedImages": 0
+    },
+    {
+      "route": "/understand-gbv/understanding-gender-based-violence",
+      "width": 1920,
+      "overflow": false,
+      "failedImages": 0
+    },
+    {
+      "route": "/understand-gbv/types-and-forms-of-gender-based-violence",
+      "width": 1920,
+      "overflow": false,
+      "failedImages": 0
+    },
+    {
+      "route": "/understand-gbv/root-causes-risk-factors-and-gender-inequality",
+      "width": 1920,
+      "overflow": false,
+      "failedImages": 0
+    }
+  ],
+  "errors": []
+}

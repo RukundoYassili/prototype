@@ -1,0 +1,2830 @@
+[
+  {
+    "page": 1,
+    "width": 595.2756,
+    "height": 841.8898,
+    "lines": [
+      {
+        "text": "VUGA NDAKUMVA INITIATIVE",
+        "x0": 68.3622,
+        "top": 73.11877520000007,
+        "x1": 184.20985439999998,
+        "bottom": 81.11877520000007,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "GENDER-BASED VIOLENCE",
+        "x0": 68.3622,
+        "top": 120.07971280000004,
+        "x1": 228.80360280000002,
+        "bottom": 132.07971280000004,
+        "size": 12.0,
+        "bold": 0.0
+      },
+      {
+        "text": "EDUCATIONAL CONTENT LIBRARY",
+        "x0": 68.3622,
+        "top": 139.07971280000004,
+        "x1": 271.06141679999996,
+        "bottom": 151.07971280000004,
+        "size": 12.0,
+        "bold": 0.0
+      },
+      {
+        "text": "CHAPTER 10",
+        "x0": 68.3622,
+        "top": 176.20276,
+        "x1": 242.17811999999998,
+        "bottom": 201.20276,
+        "size": 25.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Gender-Based Violence Against",
+        "x0": 68.3622,
+        "top": 208.20276,
+        "x1": 511.7581975000001,
+        "bottom": 233.20276,
+        "size": 25.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Children and Adolescents",
+        "x0": 68.3622,
+        "top": 240.20276,
+        "x1": 427.8226475,
+        "bottom": 265.20276,
+        "size": 25.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Child protection, safe disclosure, prevention, survivor-centred responses",
+        "x0": 68.3622,
+        "top": 284.07971280000004,
+        "x1": 505.57704480000007,
+        "bottom": 296.07971280000004,
+        "size": 12.0,
+        "bold": 0.0
+      },
+      {
+        "text": "and pathways to help in Rwanda",
+        "x0": 68.3622,
+        "top": 303.07971280000004,
+        "x1": 264.8211864,
+        "bottom": 315.07971280000004,
+        "size": 12.0,
+        "bold": 0.0
+      },
+      {
+        "text": "EDUCATIONAL DRAFT | November 2026 | Version 1.0",
+        "x0": 76.77953,
+        "top": 347.40705648,
+        "x1": 348.29183439999986,
+        "bottom": 356.60705648000004,
+        "size": 9.2,
+        "bold": 1.0
+      },
+      {
+        "text": "For general learning and trained community educators. Not a clinical, forensic or",
+        "x0": 76.77953,
+        "top": 363.40705648,
+        "x1": 498.50608652000005,
+        "bottom": 372.60705648000004,
+        "size": 9.2,
+        "bold": 1.0
+      },
+      {
+        "text": "legal protocol. Specialist review is required before publication.",
+        "x0": 76.77953,
+        "top": 379.40705648,
+        "x1": 404.8260091999998,
+        "bottom": 388.60705648000004,
+        "size": 9.2,
+        "bold": 1.0
+      },
+      {
+        "text": "Who this chapter is for: Parents and caregivers, adolescents, educators, community workers, health",
+        "x0": 68.3622,
+        "top": 410.38303304000004,
+        "x1": 524.7840786400003,
+        "bottom": 419.48303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "and social-service personnel, and people designing safe child-protection learning resources.",
+        "x0": 68.3622,
+        "top": 425.88303304000004,
+        "x1": 488.91727949,
+        "bottom": 434.98303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "How to use: Read the lessons in order. Case studies are fictional and non-graphic. Facilitators should",
+        "x0": 68.3622,
+        "top": 449.38303304000004,
+        "x1": 526.9133882900001,
+        "bottom": 458.48303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "never invite children to disclose personal abuse in a public classroom or group exercise.",
+        "x0": 68.3622,
+        "top": 464.88303304000004,
+        "x1": 471.13051231000003,
+        "bottom": 473.98303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "Immediate concern: If a child may be in danger, prioritize immediate protection and contact",
+        "x0": 68.3622,
+        "top": 488.38303304000004,
+        "x1": 489.3527281400001,
+        "bottom": 497.48303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "appropriate local emergency, child-protection or healthcare services. Do not wait to finish this",
+        "x0": 68.3622,
+        "top": 503.88303304000004,
+        "x1": 498.43939664000015,
+        "bottom": 512.98303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "chapter.",
+        "x0": 68.3622,
+        "top": 519.3830330400001,
+        "x1": 106.28627254999999,
+        "bottom": 528.48303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA | GBV Content Library | Chapter 10 1",
+        "x0": 62.3622,
+        "top": 794.0517508,
+        "x1": 532.9134134999999,
+        "bottom": 801.0517508,
+        "size": 7.0,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 2,
+    "width": 595.2756,
+    "height": 841.8898,
+    "lines": [
+      {
+        "text": "Learning outcomes",
+        "x0": 68.3622,
+        "top": 74.56018160000008,
+        "x1": 219.3680564,
+        "bottom": 88.56018160000008,
+        "size": 14.0,
+        "bold": 1.0
+      },
+      {
+        "text": "• Explain child- and adolescent-related gender-based violence without blaming children.",
+        "x0": 73.3622,
+        "top": 103.35900960000004,
+        "x1": 472.6624928000001,
+        "bottom": 112.35900960000004,
+        "size": 9.0,
+        "bold": 0.0
+      },
+      {
+        "text": "• Recognize common forms and warning signs while understanding that signs alone do not prove",
+        "x0": 73.3622,
+        "top": 123.35900960000004,
+        "x1": 513.7074176000001,
+        "bottom": 132.35900960000004,
+        "size": 9.0,
+        "bold": 0.0
+      },
+      {
+        "text": "abuse.",
+        "x0": 83.3622,
+        "top": 138.35900960000004,
+        "x1": 113.3812437,
+        "bottom": 147.35900960000004,
+        "size": 9.0,
+        "bold": 0.0
+      },
+      {
+        "text": "• Describe age-appropriate body safety, boundaries, and the limits of apparent consent where",
+        "x0": 73.3622,
+        "top": 158.35900960000004,
+        "x1": 500.48427200000003,
+        "bottom": 167.35900960000004,
+        "size": 9.0,
+        "bold": 0.0
+      },
+      {
+        "text": "power or age prevents meaningful agreement.",
+        "x0": 83.3622,
+        "top": 173.35900960000004,
+        "x1": 294.405171,
+        "bottom": 182.35900960000004,
+        "size": 9.0,
+        "bold": 0.0
+      },
+      {
+        "text": "• Respond to a disclosure without interrogation, leading questions or promises of absolute secrecy.",
+        "x0": 73.3622,
+        "top": 193.35900960000004,
+        "x1": 522.3338798,
+        "bottom": 202.35900960000004,
+        "size": 9.0,
+        "bold": 0.0
+      },
+      {
+        "text": "• Identify time-sensitive healthcare needs and safe, Rwanda-relevant referral options.",
+        "x0": 73.3622,
+        "top": 213.35900960000004,
+        "x1": 462.24306320000017,
+        "bottom": 222.35900960000004,
+        "size": 9.0,
+        "bold": 0.0
+      },
+      {
+        "text": "• Apply prevention principles across households, schools, community services and digital spaces.",
+        "x0": 73.3622,
+        "top": 233.35900960000004,
+        "x1": 513.9139594999999,
+        "bottom": 242.35900960000004,
+        "size": 9.0,
+        "bold": 0.0
+      },
+      {
+        "text": "01 | Understanding violence against children and",
+        "x0": 68.3622,
+        "top": 266.5601816000001,
+        "x1": 457.19715980000007,
+        "bottom": 280.5601816000001,
+        "size": 14.0,
+        "bold": 1.0
+      },
+      {
+        "text": "adolescents",
+        "x0": 68.3622,
+        "top": 287.5601816000001,
+        "x1": 162.8621986,
+        "bottom": 301.5601816000001,
+        "size": 14.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Gender-based violence (GBV) includes harmful acts rooted in gender-related power differences,",
+        "x0": 68.3622,
+        "top": 316.3830330400001,
+        "x1": 506.04642971000004,
+        "bottom": 325.48303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "discrimination, or expectations. Children and adolescents can experience sexual abuse,",
+        "x0": 68.3622,
+        "top": 331.88303304000004,
+        "x1": 469.19765320000005,
+        "bottom": 340.98303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "harassment, exploitation, forced or coerced relationships, emotional intimidation, and violence in",
+        "x0": 68.3622,
+        "top": 347.38303304000004,
+        "x1": 513.2091243400004,
+        "bottom": 356.48303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "the home, school or digital environment. Other forms of violence against children may not be",
+        "x0": 68.3622,
+        "top": 362.88303304000004,
+        "x1": 495.3512652300001,
+        "bottom": 371.98303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "gender-based; nevertheless, all children need protection.",
+        "x0": 68.3622,
+        "top": 378.38303304000004,
+        "x1": 330.09384199000004,
+        "bottom": 387.48303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "The term child generally refers to a person below 18 years in international child-rights frameworks.",
+        "x0": 68.3622,
+        "top": 401.88303304000004,
+        "x1": 521.7537058400002,
+        "bottom": 410.98303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "Adolescence overlaps with childhood; young people have developing decision-making abilities and",
+        "x0": 68.3622,
+        "top": 417.38303304000004,
+        "x1": 519.0788027000002,
+        "bottom": 426.48303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "increasing autonomy, while adults and institutions retain responsibilities to protect them. Protective",
+        "x0": 68.3622,
+        "top": 432.88303304000004,
+        "x1": 525.4861236200002,
+        "bottom": 441.98303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "responses should respect a young person’s dignity, voice, development and safety.",
+        "x0": 68.3622,
+        "top": 448.38303304000004,
+        "x1": 449.71796479000017,
+        "bottom": 457.48303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "GBV can affect girls and boys, including children with disabilities and children who are socially",
+        "x0": 68.3622,
+        "top": 471.88303304000004,
+        "x1": 498.9414973300001,
+        "bottom": 480.98303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "excluded. Girls may face distinctive gendered risks, but no child should be overlooked because of",
+        "x0": 68.3622,
+        "top": 487.38303304000004,
+        "x1": 514.5332471400001,
+        "bottom": 496.48303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "sex, gender, background, disability or perceived identity.",
+        "x0": 68.3622,
+        "top": 502.88303304000004,
+        "x1": 329.2673754400001,
+        "bottom": 511.98303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA | GBV Content Library | Chapter 10 2",
+        "x0": 62.3622,
+        "top": 794.0517508,
+        "x1": 532.9134134999999,
+        "bottom": 801.0517508,
+        "size": 7.0,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 3,
+    "width": 595.2756,
+    "height": 841.8898,
+    "lines": [
+      {
+        "text": "02 | What forms of GBV can affect children?",
+        "x0": 68.3622,
+        "top": 74.56018160000008,
+        "x1": 413.9393382,
+        "bottom": 88.56018160000008,
+        "size": 14.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Form Explanation and example",
+        "x0": 76.3622,
+        "top": 110.11877520000007,
+        "x1": 410.8031008,
+        "bottom": 118.11877520000007,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "Sexual abuse or exploitation An adult or other person uses coercion, manipulation",
+        "x0": 76.3622,
+        "top": 136.11877520000007,
+        "x1": 522.0218512,
+        "bottom": 144.11877520000007,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "or a position of power to involve a child in sexual",
+        "x0": 308.8031,
+        "top": 149.11877520000007,
+        "x1": 505.482788,
+        "bottom": 157.11877520000007,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "activity; exchange of school benefits or gifts for sexual",
+        "x0": 308.8031,
+        "top": 162.11877520000007,
+        "x1": 528.0786944,
+        "bottom": 170.11877520000007,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "access.",
+        "x0": 308.8031,
+        "top": 175.11877520000007,
+        "x1": 338.3031008,
+        "bottom": 183.11877520000007,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "Sexual harassment Unwelcome sexual comments, sexualized messages,",
+        "x0": 76.3622,
+        "top": 201.11877520000007,
+        "x1": 521.4398216000001,
+        "bottom": 209.11877520000007,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "unwanted touching or intimidation at school or",
+        "x0": 308.8031,
+        "top": 214.11877520000007,
+        "x1": 496.8226312,
+        "bottom": 222.11877520000007,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "elsewhere.",
+        "x0": 308.8031,
+        "top": 227.11877520000007,
+        "x1": 352.32653839999995,
+        "bottom": 235.11877520000007,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "Forced or coerced union Pressuring a child into a marriage or relationship they",
+        "x0": 76.3622,
+        "top": 253.11877520000007,
+        "x1": 525.0140376,
+        "bottom": 261.1187752000001,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "cannot freely choose.",
+        "x0": 308.8031,
+        "top": 266.1187752000001,
+        "x1": 395.1585704,
+        "bottom": 274.1187752000001,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "Psychological abuse Gendered humiliation, threats, isolation or coercive",
+        "x0": 76.3622,
+        "top": 292.1187752000001,
+        "x1": 515.2366936,
+        "bottom": 300.1187752000001,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "control that undermines safety and confidence.",
+        "x0": 308.8031,
+        "top": 305.1187752000001,
+        "x1": 499.3421648,
+        "bottom": 313.1187752000001,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "Technology-facilitated abuse Sexual extortion, grooming, threats to share private",
+        "x0": 76.3622,
+        "top": 331.1187752,
+        "x1": 517.9906000000001,
+        "bottom": 339.1187752,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "images, unwanted sexual messages or persistent",
+        "x0": 308.8031,
+        "top": 344.1187752,
+        "x1": 507.3773208,
+        "bottom": 352.1187752,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "tracking.",
+        "x0": 308.8031,
+        "top": 357.1187752,
+        "x1": 344.07653759999994,
+        "bottom": 365.1187752,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "Gender-related exclusion Restrictions on schooling or opportunities enforced",
+        "x0": 76.3622,
+        "top": 383.1187752,
+        "x1": 513.4476304,
+        "bottom": 391.1187752,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "through harmful stereotypes, threats or violence.",
+        "x0": 308.8031,
+        "top": 396.1187752,
+        "x1": 506.94372639999995,
+        "bottom": 404.1187752,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "These categories may overlap. A teacher who uses grades to demand a sexual favor combines",
+        "x0": 68.3622,
+        "top": 424.38303304000004,
+        "x1": 501.6208476400002,
+        "bottom": 433.48303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "abuse of authority, exploitation and harassment. The label matters less than recognizing harm and",
+        "x0": 68.3622,
+        "top": 439.88303304000004,
+        "x1": 521.2560505000002,
+        "bottom": 448.98303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "connecting the child with safe help.",
+        "x0": 68.3622,
+        "top": 455.38303304000004,
+        "x1": 230.70033596000002,
+        "bottom": 464.48303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "03 | Where abuse may occur",
+        "x0": 68.3622,
+        "top": 489.0601816,
+        "x1": 292.1434444,
+        "bottom": 503.0601816,
+        "size": 14.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Risk can arise within families and extended households, schools and boarding settings, sports or",
+        "x0": 68.3622,
+        "top": 517.8830330400001,
+        "x1": 509.6100042700003,
+        "bottom": 526.98303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "religious activities, workplaces involving young people, transportation, camps, service institutions",
+        "x0": 68.3622,
+        "top": 533.3830330400001,
+        "x1": 515.6129803400003,
+        "bottom": 542.48303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "and online spaces. Abuse may be perpetrated by someone known and trusted, not only by",
+        "x0": 68.3622,
+        "top": 548.8830330400001,
+        "x1": 482.46552418000016,
+        "bottom": 557.98303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "strangers. Familiarity and social status must never replace safeguarding checks.",
+        "x0": 68.3622,
+        "top": 564.3830330400001,
+        "x1": 436.58783778000003,
+        "bottom": 573.48303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "04 | Power, dependence and age-appropriate consent",
+        "x0": 68.3622,
+        "top": 598.0601816000001,
+        "x1": 492.96278900000004,
+        "bottom": 612.0601816000001,
+        "size": 14.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Children deserve to have their views heard and to understand choices affecting them. Yet a child’s",
+        "x0": 68.3622,
+        "top": 626.8830330400001,
+        "x1": 520.0785614600002,
+        "bottom": 635.98303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "apparent compliance, silence, receipt of gifts, or previous friendliness must not be treated as",
+        "x0": 68.3622,
+        "top": 642.3830330400001,
+        "x1": 494.3070739000002,
+        "bottom": 651.48303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "consent to sexual abuse. Significant age, authority and dependence may make refusal unsafe or",
+        "x0": 68.3622,
+        "top": 657.8830330400001,
+        "x1": 510.0410157600001,
+        "bottom": 666.98303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "meaningful agreement impossible. Applicable national law determines legal age thresholds and",
+        "x0": 68.3622,
+        "top": 673.3830330400001,
+        "x1": 505.7042906400002,
+        "bottom": 682.48303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "offences; this educational chapter does not give an exhaustive statement of Rwandan legal",
+        "x0": 68.3622,
+        "top": 688.8830330400001,
+        "x1": 486.7133768800002,
+        "bottom": 697.98303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "requirements.",
+        "x0": 68.3622,
+        "top": 704.3830330400001,
+        "x1": 132.54652657000003,
+        "bottom": 713.48303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "For healthy daily interactions, children can learn that they may express discomfort, say no to",
+        "x0": 68.3622,
+        "top": 727.88302304,
+        "x1": 494.34262305000027,
+        "bottom": 736.98302304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "unwanted contact, ask questions before sharing personal information, and seek help from safe",
+        "x0": 68.3622,
+        "top": 743.38302304,
+        "x1": 501.67861171000015,
+        "bottom": 752.48302304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA | GBV Content Library | Chapter 10 3",
+        "x0": 62.3622,
+        "top": 794.0517508,
+        "x1": 532.9134134999999,
+        "bottom": 801.0517508,
+        "size": 7.0,
+        "bold": 0.0
+      }
+    ],
+    "tables": [
+      {
+        "bbox": [
+          68.3622,
+          101.19690000000003,
+          536.0787,
+          413.1969
+        ],
+        "rows": [
+          [
+            "Form",
+            "Explanation and example"
+          ],
+          [
+            "Sexual abuse or exploitation",
+            "An adult or other person uses coercion, manipulation\nor a position of power to involve a child in sexual\nactivity; exchange of school benefits or gifts for sexual\naccess."
+          ],
+          [
+            "Sexual harassment",
+            "Unwelcome sexual comments, sexualized messages,\nunwanted touching or intimidation at school or\nelsewhere."
+          ],
+          [
+            "Forced or coerced union",
+            "Pressuring a child into a marriage or relationship they\ncannot freely choose."
+          ],
+          [
+            "Psychological abuse",
+            "Gendered humiliation, threats, isolation or coercive\ncontrol that undermines safety and confidence."
+          ],
+          [
+            "Technology-facilitated abuse",
+            "Sexual extortion, grooming, threats to share private\nimages, unwanted sexual messages or persistent\ntracking."
+          ],
+          [
+            "Gender-related exclusion",
+            "Restrictions on schooling or opportunities enforced\nthrough harmful stereotypes, threats or violence."
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "width": 595.2756,
+    "height": 841.8898,
+    "lines": [
+      {
+        "text": "adults. Such lessons never transfer responsibility for preventing abuse from adults to children.",
+        "x0": 68.3622,
+        "top": 73.3830330400001,
+        "x1": 500.28339334000015,
+        "bottom": 82.48303304000001,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "05 | Grooming and manipulation",
+        "x0": 68.3622,
+        "top": 107.06018160000008,
+        "x1": 323.0077016,
+        "bottom": 121.06018160000008,
+        "size": 14.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Grooming involves gaining a child’s trust, access, secrecy or dependence to facilitate exploitation. It",
+        "x0": 68.3622,
+        "top": 135.8830330400001,
+        "x1": 526.9133801000004,
+        "bottom": 144.98303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "may involve excessive gifts, special treatment, isolating a young person, requesting private",
+        "x0": 68.3622,
+        "top": 151.3830330400001,
+        "x1": 488.0997018200003,
+        "bottom": 160.48303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "conversations, testing boundaries or using fear and threats. None of these behaviors alone proves",
+        "x0": 68.3622,
+        "top": 166.8830330400001,
+        "x1": 517.7013648200001,
+        "bottom": 175.98303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "grooming; patterns and context matter.",
+        "x0": 68.3622,
+        "top": 182.3830330400001,
+        "x1": 250.31332299,
+        "bottom": 191.48303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "Adults should be alert to boundary violations without teaching that every caring adult is dangerous.",
+        "x0": 68.3622,
+        "top": 205.8830330400001,
+        "x1": 524.3219660800002,
+        "bottom": 214.98303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "A useful school or community rule is that safeguarding relationships remain transparent,",
+        "x0": 68.3622,
+        "top": 221.3830330400001,
+        "x1": 473.8498489300002,
+        "bottom": 230.48303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "appropriately supervised and accountable.",
+        "x0": 68.3622,
+        "top": 236.8830330400001,
+        "x1": 263.58119488000006,
+        "bottom": 245.98303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "06 | Early warning signs: notice, do not diagnose",
+        "x0": 68.3622,
+        "top": 270.5601816000001,
+        "x1": 454.68836680000004,
+        "bottom": 284.5601816000001,
+        "size": 14.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Some children experiencing abuse may show sudden fear of a particular person or place; changes in",
+        "x0": 68.3622,
+        "top": 299.3830330400001,
+        "x1": 526.9133823,
+        "bottom": 308.48303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "sleep, appetite, school attendance or concentration; withdrawal; distress after online contact;",
+        "x0": 68.3622,
+        "top": 314.8830330400001,
+        "x1": 496.69760204000005,
+        "bottom": 323.98303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "unexplained gifts or money; or injuries. Others show few outward signs. These changes have many",
+        "x0": 68.3622,
+        "top": 330.38303304000004,
+        "x1": 521.3538081600001,
+        "bottom": 339.48303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "possible causes, so the correct action is a calm, non-accusatory check-in and consultation with an",
+        "x0": 68.3622,
+        "top": 345.88303304000004,
+        "x1": 515.8840302100003,
+        "bottom": 354.98303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "appropriate safeguarding professional, not an assumption that abuse has occurred.",
+        "x0": 68.3622,
+        "top": 361.38303304000004,
+        "x1": 449.94457572000016,
+        "bottom": 370.48303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "Avoid turning warning-sign checklists into public screening tools or asking a child to",
+        "x0": 76.77953,
+        "top": 395.90705648,
+        "x1": 516.97795968,
+        "bottom": 405.10705648000004,
+        "size": 9.2,
+        "bold": 1.0
+      },
+      {
+        "text": "reveal traumatic details in a group setting.",
+        "x0": 76.77953,
+        "top": 411.90705648,
+        "x1": 300.8633145199999,
+        "bottom": 421.10705648000004,
+        "size": 9.2,
+        "bold": 1.0
+      },
+      {
+        "text": "07 | Effects on health, learning and development",
+        "x0": 68.3622,
+        "top": 461.0601816,
+        "x1": 455.0643465999999,
+        "bottom": 475.0601816,
+        "size": 14.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Violence may affect physical safety, sexual and reproductive health, emotional wellbeing, sleep,",
+        "x0": 68.3622,
+        "top": 489.88303304000004,
+        "x1": 508.8590786400002,
+        "bottom": 498.98303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "trust, school participation, social connection and long-term health. Responses vary; some children",
+        "x0": 68.3622,
+        "top": 505.38303304000004,
+        "x1": 517.1237250300002,
+        "bottom": 514.48303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "may recover with timely support, while others need sustained medical, psychosocial, educational or",
+        "x0": 68.3622,
+        "top": 520.8830330400001,
+        "x1": 525.2150828500003,
+        "bottom": 529.98303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "protection services. Do not tell a child that they will inevitably be permanently damaged.",
+        "x0": 68.3622,
+        "top": 536.3830330400001,
+        "x1": 475.6183028900004,
+        "bottom": 545.48303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "Support should address practical needs such as safe transport, school continuity, a trusted",
+        "x0": 68.3622,
+        "top": 559.8830330400001,
+        "x1": 483.4430607400003,
+        "bottom": 568.98303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "non-offending caregiver, communication needs, accessibility and freedom from retaliation as well as",
+        "x0": 68.3622,
+        "top": 575.3830330400001,
+        "x1": 526.9133814800005,
+        "bottom": 584.48303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "emotional distress.",
+        "x0": 68.3622,
+        "top": 590.88303304,
+        "x1": 155.14989463,
+        "bottom": 599.98303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "08 | Safe first response when a child tells you about",
+        "x0": 68.3622,
+        "top": 624.5601816000001,
+        "x1": 480.0702029999999,
+        "bottom": 638.5601816000001,
+        "size": 14.0,
+        "bold": 1.0
+      },
+      {
+        "text": "abuse",
+        "x0": 68.3622,
+        "top": 645.5601816000001,
+        "x1": 115.6258724,
+        "bottom": 659.5601816000001,
+        "size": 14.0,
+        "bold": 1.0
+      },
+      {
+        "text": "The first adult response can shape whether a child receives help. Use calm, simple, nonjudgmental",
+        "x0": 68.3622,
+        "top": 674.3830330400001,
+        "x1": 521.1938447200001,
+        "bottom": 683.48303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "language. Listen, thank the child for telling you, affirm that the harm is not their responsibility, and",
+        "x0": 68.3622,
+        "top": 689.8830330400001,
+        "x1": 521.6248480200003,
+        "bottom": 698.98303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "explain what will happen next using age-appropriate words.",
+        "x0": 68.3622,
+        "top": 705.3830330400001,
+        "x1": 341.93983706,
+        "bottom": 714.48303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA | GBV Content Library | Chapter 10 4",
+        "x0": 62.3622,
+        "top": 794.0517508,
+        "x1": 532.9134134999999,
+        "bottom": 801.0517508,
+        "size": 7.0,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 5,
+    "width": 595.2756,
+    "height": 841.8898,
+    "lines": [
+      {
+        "text": "A helpful first response",
+        "x0": 68.3622,
+        "top": 73.71936119999998,
+        "x1": 207.54872265000003,
+        "bottom": 84.21936119999998,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "• “Thank you for telling me. I am listening.”",
+        "x0": 73.3622,
+        "top": 96.35900960000004,
+        "x1": 270.7513619000001,
+        "bottom": 105.35900960000004,
+        "size": 9.0,
+        "bold": 0.0
+      },
+      {
+        "text": "• “What happened is not your fault.”",
+        "x0": 73.3622,
+        "top": 116.35900960000004,
+        "x1": 239.3875922,
+        "bottom": 125.35900960000004,
+        "size": 9.0,
+        "bold": 0.0
+      },
+      {
+        "text": "• “You do not need to tell me more details right now.”",
+        "x0": 73.3622,
+        "top": 136.35900960000004,
+        "x1": 318.1024337000001,
+        "bottom": 145.35900960000004,
+        "size": 9.0,
+        "bold": 0.0
+      },
+      {
+        "text": "• “I want to help keep you safe. I may need to speak to people whose job is to protect children; I will",
+        "x0": 73.3622,
+        "top": 156.35900960000004,
+        "x1": 526.9133760000001,
+        "bottom": 165.35900960000004,
+        "size": 9.0,
+        "bold": 0.0
+      },
+      {
+        "text": "explain what I can.”",
+        "x0": 83.3622,
+        "top": 171.35900960000004,
+        "x1": 173.1952095,
+        "bottom": 180.35900960000004,
+        "size": 9.0,
+        "bold": 0.0
+      },
+      {
+        "text": "What to avoid",
+        "x0": 68.3622,
+        "top": 196.71936119999998,
+        "x1": 151.32655035000002,
+        "bottom": 207.21936119999998,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "• Do not demand a detailed chronological account or repeat the child’s story to multiple people.",
+        "x0": 73.3622,
+        "top": 219.35900960000004,
+        "x1": 508.2054611000001,
+        "bottom": 228.35900960000004,
+        "size": 9.0,
+        "bold": 0.0
+      },
+      {
+        "text": "• Do not ask leading questions such as “Did your uncle do this?” or investigate yourself.",
+        "x0": 73.3622,
+        "top": 239.35900960000004,
+        "x1": 471.9769484000001,
+        "bottom": 248.35900960000004,
+        "size": 9.0,
+        "bold": 0.0
+      },
+      {
+        "text": "• Do not promise complete secrecy or confront a suspected offender.",
+        "x0": 73.3622,
+        "top": 259.35900960000004,
+        "x1": 387.03505370000005,
+        "bottom": 268.35900960000004,
+        "size": 9.0,
+        "bold": 0.0
+      },
+      {
+        "text": "• Do not blame, shame, punish or force the child to publicly identify anyone.",
+        "x0": 73.3622,
+        "top": 279.35900960000004,
+        "x1": 419.2953080000001,
+        "bottom": 288.35900960000004,
+        "size": 9.0,
+        "bold": 0.0
+      },
+      {
+        "text": "• Do not pressure a child to forgive, reconcile or meet the person accused of abuse.",
+        "x0": 73.3622,
+        "top": 299.35900960000004,
+        "x1": 453.0848593999998,
+        "bottom": 308.35900960000004,
+        "size": 9.0,
+        "bold": 0.0
+      },
+      {
+        "text": "Specialist interviews, medical examinations and evidence handling should be performed by",
+        "x0": 68.3622,
+        "top": 319.3830330400001,
+        "x1": 486.4689891000001,
+        "bottom": 328.48303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "appropriately trained professionals following child-protection procedures.",
+        "x0": 68.3622,
+        "top": 334.88303304000004,
+        "x1": 403.28929705,
+        "bottom": 343.98303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "09 | Confidentiality and safeguarding responsibilities",
+        "x0": 68.3622,
+        "top": 368.5601816,
+        "x1": 489.0731325999999,
+        "bottom": 382.5601816,
+        "size": 14.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Confidentiality is important, but it is not absolute when a child may need protection or reporting is",
+        "x0": 68.3622,
+        "top": 397.38303304000004,
+        "x1": 518.1679109000002,
+        "bottom": 406.48303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "legally required. Before asking for sensitive details, describe the limits of privacy in language the",
+        "x0": 68.3622,
+        "top": 412.88303304000004,
+        "x1": 512.2138127500002,
+        "bottom": 421.98303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "young person can understand. Share information only with authorized people who need it for safety",
+        "x0": 68.3622,
+        "top": 428.38303304000004,
+        "x1": 525.0462369000002,
+        "bottom": 437.48303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "and care. Keep records minimal, secure, accurate and factual; do not circulate images or allegations",
+        "x0": 68.3622,
+        "top": 443.88303304000004,
+        "x1": 526.9133909300003,
+        "bottom": 452.98303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "in messaging groups.",
+        "x0": 68.3622,
+        "top": 459.38303304000004,
+        "x1": 166.07611630000002,
+        "bottom": 468.48303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "Organizations must verify the current Rwandan reporting rules, the relevant authorities, age-related",
+        "x0": 68.3622,
+        "top": 482.88303304000004,
+        "x1": 526.8946725800001,
+        "bottom": 491.98303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "consent and assent requirements, and internal escalation routes with qualified local legal and",
+        "x0": 68.3622,
+        "top": 498.38303304000004,
+        "x1": 496.94198800000026,
+        "bottom": 507.48303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "child-protection experts. When a caregiver may be responsible for harm, do not automatically send",
+        "x0": 68.3622,
+        "top": 513.8830330400001,
+        "x1": 522.5890567200003,
+        "bottom": 522.98303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "the child back to that caregiver without a safety assessment.",
+        "x0": 68.3622,
+        "top": 529.3830330400001,
+        "x1": 347.81395986,
+        "bottom": 538.48303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "10 | Urgent health needs after sexual assault",
+        "x0": 68.3622,
+        "top": 563.0601816000001,
+        "x1": 425.9227460000001,
+        "bottom": 577.0601816000001,
+        "size": 14.0,
+        "bold": 1.0
+      },
+      {
+        "text": "A child or adolescent who may have experienced recent sexual assault should be offered prompt",
+        "x0": 68.3622,
+        "top": 591.88303304,
+        "x1": 511.90722374000023,
+        "bottom": 600.98303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "evaluation by trained healthcare personnel, even without visible injuries. Emergency care can",
+        "x0": 68.3622,
+        "top": 607.38303304,
+        "x1": 497.9595190600001,
+        "bottom": 616.48303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "address injuries, sexually transmitted infections, psychological support and, where appropriate,",
+        "x0": 68.3622,
+        "top": 622.88303304,
+        "x1": 505.3843683100002,
+        "bottom": 631.98303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "time-sensitive prevention.",
+        "x0": 68.3622,
+        "top": 638.38303304,
+        "x1": 187.74637946,
+        "bottom": 647.48303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "HIV post-exposure prophylaxis (PEP): WHO advises assessing and offering PEP when clinically",
+        "x0": 68.3622,
+        "top": 661.8830330400001,
+        "x1": 495.4579026700001,
+        "bottom": 670.98303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "indicated, as soon as possible and no later than 72 hours after relevant exposure. Emergency",
+        "x0": 68.3622,
+        "top": 677.3830330400001,
+        "x1": 496.72870857000004,
+        "bottom": 686.48303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "contraception: WHO guidance describes offering it to eligible girls after rape as soon as possible,",
+        "x0": 68.3622,
+        "top": 692.8830330400001,
+        "x1": 510.8674723000003,
+        "bottom": 701.98303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "within 120 hours (five days), when appropriate. These are clinical decisions for trained providers;",
+        "x0": 68.3622,
+        "top": 708.3830330400001,
+        "x1": 512.2937944700001,
+        "bottom": 717.48303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "the handbook does not instruct readers to self-medicate.",
+        "x0": 68.3622,
+        "top": 723.8830330400001,
+        "x1": 328.55643885,
+        "bottom": 732.98303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA | GBV Content Library | Chapter 10 5",
+        "x0": 62.3622,
+        "top": 794.0517508,
+        "x1": 532.9134134999999,
+        "bottom": 801.0517508,
+        "size": 7.0,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 6,
+    "width": 595.2756,
+    "height": 841.8898,
+    "lines": [
+      {
+        "text": "A child who comes for help after these time windows still needs and deserves healthcare, protection",
+        "x0": 68.3622,
+        "top": 73.3830330400001,
+        "x1": 526.9133870900002,
+        "bottom": 82.48303304000001,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "and psychosocial support. Do not withhold care because evidence was not preserved or because the",
+        "x0": 68.3622,
+        "top": 88.8830330400001,
+        "x1": 526.9133851900002,
+        "bottom": 97.98303304000001,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "family has not made a police report.",
+        "x0": 68.3622,
+        "top": 104.3830330400001,
+        "x1": 234.0728451,
+        "bottom": 113.48303304000001,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "11 | Safer school and youth-program responses",
+        "x0": 68.3622,
+        "top": 138.06018160000008,
+        "x1": 443.4774314,
+        "bottom": 152.06018160000008,
+        "size": 14.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Schools and organizations should adopt clear staff conduct rules, an accessible reporting route,",
+        "x0": 68.3622,
+        "top": 166.8830330400001,
+        "x1": 505.1444277000001,
+        "bottom": 175.98303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "trusted designated safeguarding leads, safe transportation and supervision policies, and a",
+        "x0": 68.3622,
+        "top": 182.3830330400001,
+        "x1": 480.99921297000014,
+        "bottom": 191.48303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "prohibition on retaliation. Reporting arrangements must work for children with disabilities and for",
+        "x0": 68.3622,
+        "top": 197.8830330400001,
+        "x1": 513.4757234000002,
+        "bottom": 206.98303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "children who do not speak the primary school language fluently.",
+        "x0": 68.3622,
+        "top": 213.3830330400001,
+        "x1": 362.42372594,
+        "bottom": 222.48303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "Educators should teach respectful relationships, non-discrimination, consent-related body safety",
+        "x0": 68.3622,
+        "top": 236.8830330400001,
+        "x1": 509.5344660800002,
+        "bottom": 245.98303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "and digital skills without asking students to share personal histories. A teacher receiving a",
+        "x0": 68.3622,
+        "top": 252.3830330400001,
+        "x1": 481.21693684,
+        "bottom": 261.48303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "disclosure should follow the safeguarding process rather than conduct a private investigation.",
+        "x0": 68.3622,
+        "top": 267.8830330400001,
+        "x1": 497.7640082900003,
+        "bottom": 276.98303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "12 | Online grooming, harassment and image-based",
+        "x0": 68.3622,
+        "top": 301.5601816000001,
+        "x1": 478.07410680000004,
+        "bottom": 315.5601816000001,
+        "size": 14.0,
+        "bold": 1.0
+      },
+      {
+        "text": "abuse",
+        "x0": 68.3622,
+        "top": 322.5601816000001,
+        "x1": 115.6258724,
+        "bottom": 336.5601816,
+        "size": 14.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Digital abuse may involve persistent sexual messages, pressure for intimate images, pretending to",
+        "x0": 68.3622,
+        "top": 351.38303304000004,
+        "x1": 521.6204044900003,
+        "bottom": 360.48303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "be a peer, threatening to disclose private material, impersonation or location tracking. Even if an",
+        "x0": 68.3622,
+        "top": 366.88303304000004,
+        "x1": 512.0538511300002,
+        "bottom": 375.98303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "adolescent voluntarily sent an image, threats and non-consensual distribution are not justified.",
+        "x0": 68.3622,
+        "top": 382.38303304000004,
+        "x1": 502.44286611000024,
+        "bottom": 391.48303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "Never blame the young person or ask them to forward intimate material to an educator or chatbot.",
+        "x0": 68.3622,
+        "top": 397.88303304000004,
+        "x1": 521.4782179000002,
+        "bottom": 406.98303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "If an offender can access the child’s phone or accounts, sudden changes to passwords or settings",
+        "x0": 68.3622,
+        "top": 421.38303304000004,
+        "x1": 514.7909655100002,
+        "bottom": 430.48303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "may create additional danger. Seek help from a trusted safeguarding or digital-safety professional",
+        "x0": 68.3622,
+        "top": 436.88303304000004,
+        "x1": 518.0523864000002,
+        "bottom": 445.98303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "and use a safe device when possible. Platforms may offer abuse-reporting options, but reports",
+        "x0": 68.3622,
+        "top": 452.38303304000004,
+        "x1": 499.9901312800001,
+        "bottom": 461.48303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "should be made with attention to child safety and local procedures.",
+        "x0": 68.3622,
+        "top": 467.88303304000004,
+        "x1": 376.78466162,
+        "bottom": 476.98303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "13 | Prevention: family, community and institutions",
+        "x0": 68.3622,
+        "top": 501.5601816,
+        "x1": 476.0301572000001,
+        "bottom": 515.5601816000001,
+        "size": 14.0,
+        "bold": 1.0
+      },
+      {
+        "text": "The WHO/UNICEF INSPIRE framework identifies seven complementary strategies: implementing and",
+        "x0": 68.3622,
+        "top": 530.3830330400001,
+        "x1": 524.9573681200003,
+        "bottom": 539.48303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "enforcing laws; changing harmful norms and values; creating safe environments; supporting",
+        "x0": 68.3622,
+        "top": 545.8830330400001,
+        "x1": 491.1256338200001,
+        "bottom": 554.98303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "parents and caregivers; strengthening household income and economic security; providing",
+        "x0": 68.3622,
+        "top": 561.3830330400001,
+        "x1": 484.68720364,
+        "bottom": 570.48303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "response and support services; and improving education and life skills. Child protection cannot be",
+        "x0": 68.3622,
+        "top": 576.8830330400001,
+        "x1": 516.6438419900002,
+        "bottom": 585.98303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "achieved by putting all responsibility on individual children.",
+        "x0": 68.3622,
+        "top": 592.38303304,
+        "x1": 340.26913257000007,
+        "bottom": 601.48303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "At home, caregivers can use respectful communication, nonviolent discipline, predictable support",
+        "x0": 68.3622,
+        "top": 615.88303304,
+        "x1": 514.8353944400002,
+        "bottom": 624.98303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "and age-appropriate discussions about boundaries. In the community, leaders can challenge",
+        "x0": 68.3622,
+        "top": 631.38303304,
+        "x1": 491.41000609,
+        "bottom": 640.48303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "narratives that blame survivors or shield powerful adults. Institutions should create accountable",
+        "x0": 68.3622,
+        "top": 646.88303304,
+        "x1": 507.31723106000015,
+        "bottom": 655.98303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "reporting channels and transparent procedures.",
+        "x0": 68.3622,
+        "top": 662.38303304,
+        "x1": 287.49535606,
+        "bottom": 671.48303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA | GBV Content Library | Chapter 10 6",
+        "x0": 62.3622,
+        "top": 794.0517508,
+        "x1": 532.9134134999999,
+        "bottom": 801.0517508,
+        "size": 7.0,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 7,
+    "width": 595.2756,
+    "height": 841.8898,
+    "lines": [
+      {
+        "text": "14 | Access to support in Rwanda",
+        "x0": 68.3622,
+        "top": 74.56018160000008,
+        "x1": 331.02625759999995,
+        "bottom": 88.56018160000008,
+        "size": 14.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Rwanda’s Ministry of Gender and Family Promotion (MIGEPROF) describes Isange One Stop Centres",
+        "x0": 68.3622,
+        "top": 103.3830330400001,
+        "x1": 522.36244488,
+        "bottom": 112.48303304000001,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "as providing coordinated healthcare, psychosocial, justice and protection services for GBV and child",
+        "x0": 68.3622,
+        "top": 118.8830330400001,
+        "x1": 525.04179064,
+        "bottom": 127.98303304000001,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "abuse. UNHCR Rwanda lists the Isange toll-free number as 3029. MIGEPROF publishes 711 for the",
+        "x0": 68.3622,
+        "top": 134.3830330400001,
+        "x1": 514.9331511900002,
+        "bottom": 143.48303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "National Child Development Agency (NCDA) and 116 / 3512 for the Rwanda Investigation Bureau",
+        "x0": 68.3622,
+        "top": 149.8830330400001,
+        "x1": 511.7250472000001,
+        "bottom": 158.98303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "(RIB). Availability and suitability should be checked at the time of use.",
+        "x0": 68.3622,
+        "top": 165.3830330400001,
+        "x1": 389.1238703200001,
+        "bottom": 174.48303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "UNHCR notes that approaching an Isange Centre may result in a report to law enforcement. Before",
+        "x0": 68.3622,
+        "top": 188.8830330400001,
+        "x1": 520.8783668300001,
+        "bottom": 197.98303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "sharing sensitive details, seek an explanation of privacy, safeguarding and reporting requirements.",
+        "x0": 68.3622,
+        "top": 204.3830330400001,
+        "x1": 522.1980433700002,
+        "bottom": 213.48303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "If a child is in immediate danger, contact an appropriate emergency or child-protection service",
+        "x0": 68.3622,
+        "top": 219.8830330400001,
+        "x1": 502.06962233,
+        "bottom": 228.98303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "without delay.",
+        "x0": 68.3622,
+        "top": 235.3830330400001,
+        "x1": 133.22191674,
+        "bottom": 244.48303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "15 | Supporting different needs",
+        "x0": 68.3622,
+        "top": 269.0601816000001,
+        "x1": 317.4159112,
+        "bottom": 283.0601816000001,
+        "size": 14.0,
+        "bold": 1.0
+      },
+      {
+        "text": "A child with a disability may need a qualified interpreter, accessible transport, visual communication",
+        "x0": 68.3622,
+        "top": 297.8830330400001,
+        "x1": 526.9133769800003,
+        "bottom": 306.98303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "or more time to express concerns. Avoid relying on a suspected offender as an interpreter or",
+        "x0": 68.3622,
+        "top": 313.3830330400001,
+        "x1": 493.1384719200001,
+        "bottom": 322.48303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "caregiver during a disclosure. Children in displacement, migration, institutional care or severe",
+        "x0": 68.3622,
+        "top": 328.8830330400001,
+        "x1": 498.2350033600002,
+        "bottom": 337.98303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "economic hardship may need integrated practical support. All children should be treated with equal",
+        "x0": 68.3622,
+        "top": 344.38303304000004,
+        "x1": 524.2375417400001,
+        "bottom": 353.48303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "dignity.",
+        "x0": 68.3622,
+        "top": 359.88303304000004,
+        "x1": 102.58495311,
+        "bottom": 368.98303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "16 | Fictional, Rwanda-relevant learning scenarios",
+        "x0": 68.3622,
+        "top": 393.5601816,
+        "x1": 465.55751180000004,
+        "bottom": 407.5601816,
+        "size": 14.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Scenario A — Secondary school",
+        "x0": 68.3622,
+        "top": 423.71936120000004,
+        "x1": 253.26576254999998,
+        "bottom": 434.21936120000004,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "A student becomes uncomfortable because a staff member repeatedly sends private late-night",
+        "x0": 68.3622,
+        "top": 446.38303304000004,
+        "x1": 503.15824714000024,
+        "bottom": 455.48303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "messages and promises special marks if the student keeps the relationship secret.",
+        "x0": 68.3622,
+        "top": 461.88303304000004,
+        "x1": 446.64760295000013,
+        "bottom": 470.98303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "Learning response: Possible power misuse and grooming indicators. The student should not be",
+        "x0": 68.3622,
+        "top": 485.38303304000004,
+        "x1": 501.37201542000014,
+        "bottom": 494.48303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "blamed. A trained safeguarding contact should respond and preserve privacy.",
+        "x0": 68.3622,
+        "top": 500.88303304000004,
+        "x1": 424.78183084000005,
+        "bottom": 509.98303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "Scenario B — Household dependence",
+        "x0": 68.3622,
+        "top": 526.7193612000001,
+        "x1": 287.80604804999996,
+        "bottom": 537.2193612000001,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "A young adolescent fears returning home because an adult caregiver makes threats and says",
+        "x0": 68.3622,
+        "top": 549.3830330400001,
+        "x1": 496.8442376200002,
+        "bottom": 558.48303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "nobody will believe them.",
+        "x0": 68.3622,
+        "top": 564.8830330400001,
+        "x1": 185.61356695999999,
+        "bottom": 573.98303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "Learning response: Immediate safety and a trusted non-offending adult matter. Do not confront the",
+        "x0": 68.3622,
+        "top": 588.38303304,
+        "x1": 524.1797813100002,
+        "bottom": 597.48303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "caregiver or send the adolescent back without an appropriate safety assessment.",
+        "x0": 68.3622,
+        "top": 603.88303304,
+        "x1": 441.3999960400001,
+        "bottom": 612.98303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "Scenario C — Phone-based coercion",
+        "x0": 68.3622,
+        "top": 629.7193612000001,
+        "x1": 279.7259694,
+        "bottom": 640.2193612000001,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "A teenager is threatened with distribution of a private image unless they send additional images.",
+        "x0": 68.3622,
+        "top": 652.38303304,
+        "x1": 512.6892513500002,
+        "bottom": 661.48303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "Learning response: Treat as digital coercion. Avoid requesting the image itself. Consult safe adult",
+        "x0": 68.3622,
+        "top": 675.88303304,
+        "x1": 514.0178158600003,
+        "bottom": 684.98303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "support and child-protection pathways; assess device monitoring.",
+        "x0": 68.3622,
+        "top": 691.38303304,
+        "x1": 368.8488209800001,
+        "bottom": 700.48303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "Scenario D — Community sports",
+        "x0": 68.3622,
+        "top": 717.2193612000001,
+        "x1": 258.3004254,
+        "bottom": 727.7193612000001,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "A coach insists on private unsupervised meetings and asks an athlete not to tell their family.",
+        "x0": 68.3622,
+        "top": 739.88302304,
+        "x1": 492.0942824100003,
+        "bottom": 748.98302304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA | GBV Content Library | Chapter 10 7",
+        "x0": 62.3622,
+        "top": 794.0517508,
+        "x1": 532.9134134999999,
+        "bottom": 801.0517508,
+        "size": 7.0,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 8,
+    "width": 595.2756,
+    "height": 841.8898,
+    "lines": [
+      {
+        "text": "Learning response: Boundary concerns warrant safeguarding review. Organizations should prevent",
+        "x0": 68.3622,
+        "top": 73.3830330400001,
+        "x1": 520.9272447500001,
+        "bottom": 82.48303304000001,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "one-to-one secrecy and make reporting accessible.",
+        "x0": 68.3622,
+        "top": 88.8830330400001,
+        "x1": 301.94960405000006,
+        "bottom": 97.98303304000001,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "Scenario E — Friend disclosure",
+        "x0": 68.3622,
+        "top": 114.71936119999998,
+        "x1": 250.6048746,
+        "bottom": 125.21936119999998,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "One adolescent tells a friend that an adult has been touching them in ways that feel unsafe.",
+        "x0": 68.3622,
+        "top": 137.3830330400001,
+        "x1": 489.8637195300002,
+        "bottom": 146.48303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "Learning response: The friend can listen, avoid interrogation, and connect the child to a safe adult",
+        "x0": 68.3622,
+        "top": 160.8830330400001,
+        "x1": 517.6924768500002,
+        "bottom": 169.98303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "or professional; a peer should not be made solely responsible for safety.",
+        "x0": 68.3622,
+        "top": 176.3830330400001,
+        "x1": 398.61933084000015,
+        "bottom": 185.48303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "17 | Guided educational activities",
+        "x0": 68.3622,
+        "top": 210.06018160000008,
+        "x1": 333.2821182,
+        "bottom": 224.06018160000008,
+        "size": 14.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Activity 1 — Map a safe support network",
+        "x0": 68.3622,
+        "top": 240.21936119999998,
+        "x1": 309.05213865,
+        "bottom": 250.71936119999998,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "For educators and caregivers: identify three roles, not named children: a trusted safeguarding lead,",
+        "x0": 68.3622,
+        "top": 262.8830330400001,
+        "x1": 524.2286583200001,
+        "bottom": 271.98303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "a trained health/service provider and a responsible protection contact. Verify the route between",
+        "x0": 68.3622,
+        "top": 278.3830330400001,
+        "x1": 507.6949165500001,
+        "bottom": 287.48303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "them.",
+        "x0": 68.3622,
+        "top": 293.8830330400001,
+        "x1": 95.05346005,
+        "bottom": 302.98303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "Activity 2 — Practice supportive phrases",
+        "x0": 68.3622,
+        "top": 319.7193612,
+        "x1": 308.4779199000001,
+        "bottom": 330.21936120000004,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "In pairs, practice a response to an invented disclosure using four principles: listen, believe without",
+        "x0": 68.3622,
+        "top": 342.38303304000004,
+        "x1": 517.6969185600001,
+        "bottom": 351.48303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "investigating, explain confidentiality limits, and refer.",
+        "x0": 68.3622,
+        "top": 357.88303304000004,
+        "x1": 312.4314863700001,
+        "bottom": 366.98303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "Activity 3 — Spot misuse of authority",
+        "x0": 68.3622,
+        "top": 383.71936120000004,
+        "x1": 289.01600190000005,
+        "bottom": 394.21936120000004,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Read Scenario A. Identify the authority imbalance, secrecy request and possible benefit offered.",
+        "x0": 68.3622,
+        "top": 406.38303304000004,
+        "x1": 507.91708577000014,
+        "bottom": 415.48303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "Explain why the student bears no responsibility for the adult’s conduct.",
+        "x0": 68.3622,
+        "top": 421.88303304000004,
+        "x1": 394.1048763500001,
+        "bottom": 430.98303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "Activity 4 — School safety audit",
+        "x0": 68.3622,
+        "top": 447.71936120000004,
+        "x1": 256.59315269999996,
+        "bottom": 458.21936120000004,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Check whether an institution has a child-friendly complaint method, disability access, retaliation",
+        "x0": 68.3622,
+        "top": 470.38303304000004,
+        "x1": 508.2370053700003,
+        "bottom": 479.48303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "protection, staff boundaries and documented referral procedures.",
+        "x0": 68.3622,
+        "top": 485.88303304000004,
+        "x1": 368.77328552,
+        "bottom": 494.98303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "Activity 5 — Digital safety choices",
+        "x0": 68.3622,
+        "top": 511.71936120000004,
+        "x1": 269.8514523,
+        "bottom": 522.2193612000001,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Read Scenario C. List three steps that require safety assessment before acting: blocking, password",
+        "x0": 68.3622,
+        "top": 534.3830330400001,
+        "x1": 521.1405223600001,
+        "bottom": 543.48303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "changes and collecting digital evidence. Do not use real images or accounts.",
+        "x0": 68.3622,
+        "top": 549.8830330400001,
+        "x1": 419.1432078500001,
+        "bottom": 558.98303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "18 | Knowledge assessment",
+        "x0": 68.3622,
+        "top": 583.5601816000001,
+        "x1": 287.7957892,
+        "bottom": 597.5601816000001,
+        "size": 14.0,
+        "bold": 1.0
+      },
+      {
+        "text": "1. Does a child need visible injuries before adults should take a disclosure",
+        "x0": 68.3622,
+        "top": 613.7193612000001,
+        "x1": 509.2955439,
+        "bottom": 624.2193612000001,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "seriously?",
+        "x0": 68.3622,
+        "top": 630.7193612000001,
+        "x1": 127.98353730000001,
+        "bottom": 641.2193612000001,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Suggested answer: No. Many forms of abuse leave no visible injury.",
+        "x0": 68.3622,
+        "top": 653.38303304,
+        "x1": 377.51781950000003,
+        "bottom": 662.48303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "2. Should a teacher ask a child to repeat every detail to prove the account?",
+        "x0": 68.3622,
+        "top": 679.2193612000001,
+        "x1": 516.65785095,
+        "bottom": 689.7193612000001,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Suggested answer: No. Avoid repeated questioning and refer to trained professionals.",
+        "x0": 68.3622,
+        "top": 701.8830330400001,
+        "x1": 460.63974020000006,
+        "bottom": 710.98303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA | GBV Content Library | Chapter 10 8",
+        "x0": 62.3622,
+        "top": 794.0517508,
+        "x1": 532.9134134999999,
+        "bottom": 801.0517508,
+        "size": 7.0,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 9,
+    "width": 595.2756,
+    "height": 841.8898,
+    "lines": [
+      {
+        "text": "3. Can a child’s silence or receipt of gifts demonstrate sexual consent?",
+        "x0": 68.3622,
+        "top": 73.71936119999998,
+        "x1": 489.27991574999993,
+        "bottom": 84.21936119999998,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Suggested answer: No. Power, age, fear and dependence undermine such claims.",
+        "x0": 68.3622,
+        "top": 96.3830330400001,
+        "x1": 441.76879720000005,
+        "bottom": 105.48303304000001,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "4. Is every behavioral change proof of GBV?",
+        "x0": 68.3622,
+        "top": 122.21936119999998,
+        "x1": 328.43715149999997,
+        "bottom": 132.71936119999998,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Suggested answer: No. Warning signs have many possible explanations; respond carefully.",
+        "x0": 68.3622,
+        "top": 144.8830330400001,
+        "x1": 484.39838602000003,
+        "bottom": 153.98303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "5. What should a first responder say about secrecy?",
+        "x0": 68.3622,
+        "top": 170.71936119999998,
+        "x1": 377.40467429999995,
+        "bottom": 181.21936119999998,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Suggested answer: Explain confidentiality and its safeguarding/legal limits honestly.",
+        "x0": 68.3622,
+        "top": 193.3830330400001,
+        "x1": 453.4592705400002,
+        "bottom": 202.48303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "6. Does the 72-hour PEP window mean a late-presenting child needs no care?",
+        "x0": 68.3622,
+        "top": 219.21936119999998,
+        "x1": 526.9133752500001,
+        "bottom": 229.71936119999998,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Suggested answer: No. Other medical, psychosocial and protection care remains important.",
+        "x0": 68.3622,
+        "top": 241.8830330400001,
+        "x1": 488.05526834000017,
+        "bottom": 250.98303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "7. Should staff forward an adolescent’s intimate image in a group chat for",
+        "x0": 68.3622,
+        "top": 267.7193612,
+        "x1": 509.6646808499999,
+        "bottom": 278.2193612,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "evidence?",
+        "x0": 68.3622,
+        "top": 284.7193612,
+        "x1": 127.47597045,
+        "bottom": 295.2193612,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Suggested answer: No. This can increase harm; use designated professional procedures.",
+        "x0": 68.3622,
+        "top": 307.3830330400001,
+        "x1": 473.73876705000004,
+        "bottom": 316.48303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "8. Is safety planning only the responsibility of the young person?",
+        "x0": 68.3622,
+        "top": 333.21936120000004,
+        "x1": 455.29334879999993,
+        "bottom": 343.71936120000004,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Suggested answer: No. Responsible adults and institutions must protect children.",
+        "x0": 68.3622,
+        "top": 355.88303304000004,
+        "x1": 440.0092212000001,
+        "bottom": 364.98303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "9. What is the purpose of INSPIRE?",
+        "x0": 68.3622,
+        "top": 381.71936120000004,
+        "x1": 275.47571954999995,
+        "bottom": 392.21936120000004,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Suggested answer: To guide multisector prevention of violence against children.",
+        "x0": 68.3622,
+        "top": 404.38303304000004,
+        "x1": 435.94354868,
+        "bottom": 413.48303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "10. Why verify referral contacts and legal rules before publication?",
+        "x0": 68.3622,
+        "top": 430.21936120000004,
+        "x1": 467.2135137000001,
+        "bottom": 440.71936120000004,
+        "size": 10.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Suggested answer: Service availability and local procedures can change; inaccurate advice may",
+        "x0": 68.3622,
+        "top": 452.88303304000004,
+        "x1": 507.97485165999996,
+        "bottom": 461.98303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "increase risk.",
+        "x0": 68.3622,
+        "top": 468.38303304000004,
+        "x1": 128.98295292,
+        "bottom": 477.48303304000007,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "19 | Key terms",
+        "x0": 68.3622,
+        "top": 502.0601816,
+        "x1": 183.0623926,
+        "bottom": 516.0601816000001,
+        "size": 14.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Child safeguarding: Organizational and professional duties to prevent and respond to harm against",
+        "x0": 68.3622,
+        "top": 530.8830330400001,
+        "x1": 521.0827582900002,
+        "bottom": 539.98303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "children.",
+        "x0": 68.3622,
+        "top": 546.3830330400001,
+        "x1": 107.96586228,
+        "bottom": 555.48303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "Disclosure: When someone communicates information or concerns about abuse.",
+        "x0": 68.3622,
+        "top": 569.8830330400001,
+        "x1": 436.26791727000005,
+        "bottom": 578.98303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "Grooming: A pattern of manipulation and boundary crossing intended to facilitate exploitation.",
+        "x0": 68.3622,
+        "top": 593.38303304,
+        "x1": 500.9143473000002,
+        "bottom": 602.48303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "Coercion: Pressure, intimidation, threats or misuse of power that undermines free choice.",
+        "x0": 68.3622,
+        "top": 616.88303304,
+        "x1": 477.28900920000007,
+        "bottom": 625.98303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "Non-offending caregiver: A caregiver not implicated in the harm who can support safe care.",
+        "x0": 68.3622,
+        "top": 640.38303304,
+        "x1": 487.5976038600001,
+        "bottom": 649.48303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "Trauma-informed care: An approach that prioritizes physical and emotional safety, dignity, choice",
+        "x0": 68.3622,
+        "top": 663.88303304,
+        "x1": 515.5863218900001,
+        "bottom": 672.98303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "and avoiding re-traumatization.",
+        "x0": 68.3622,
+        "top": 679.38303304,
+        "x1": 212.66473838,
+        "bottom": 688.48303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "PEP: Time-sensitive medication prescribed by a clinician after qualifying HIV exposure.",
+        "x0": 68.3622,
+        "top": 702.8830330400001,
+        "x1": 463.7456466400002,
+        "bottom": 711.98303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "Referral pathway: An agreed process for connecting someone with appropriate specialist support.",
+        "x0": 68.3622,
+        "top": 726.3830330400001,
+        "x1": 515.3997009100002,
+        "bottom": 735.48303304,
+        "size": 9.1,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA | GBV Content Library | Chapter 10 9",
+        "x0": 62.3622,
+        "top": 794.0517508,
+        "x1": 532.9134134999999,
+        "bottom": 801.0517508,
+        "size": 7.0,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 10,
+    "width": 595.2756,
+    "height": 841.8898,
+    "lines": [
+      {
+        "text": "20 | Source notes and references",
+        "x0": 68.3622,
+        "top": 74.56018160000008,
+        "x1": 329.7137646,
+        "bottom": 88.56018160000008,
+        "size": 14.0,
+        "bold": 1.0
+      },
+      {
+        "text": "WHO (2017), Responding to children and adolescents who have been sexually abused",
+        "x0": 68.3622,
+        "top": 103.11877520000007,
+        "x1": 414.4051728,
+        "bottom": 111.11877520000007,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "https://www.who.int/news/item/19-10-2017-responding-to-children-and-adolescents-who-have-been-sexually-abu",
+        "x0": 68.3622,
+        "top": 116.11877520000007,
+        "x1": 523.1786088000002,
+        "bottom": 124.11877520000007,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "sed",
+        "x0": 68.3622,
+        "top": 129.11877520000007,
+        "x1": 82.5301688,
+        "bottom": 137.11877520000007,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "WHO (2016), INSPIRE: Seven strategies for ending violence against children",
+        "x0": 68.3622,
+        "top": 149.11877520000007,
+        "x1": 372.7840768,
+        "bottom": 157.11877520000007,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "https://www.who.int/publications/inspire-seven-strategies-for-ending-violence-against-children",
+        "x0": 68.3622,
+        "top": 162.11877520000007,
+        "x1": 447.06923040000004,
+        "bottom": 170.11877520000007,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "UNICEF, INSPIRE Handbook",
+        "x0": 68.3622,
+        "top": 182.11877520000007,
+        "x1": 177.2176688,
+        "bottom": 190.11877520000007,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "https://www.unicef.org/documents/inspire-handbook-action-implementing-seven-strategies",
+        "x0": 68.3622,
+        "top": 195.11877520000007,
+        "x1": 434.381732,
+        "bottom": 203.11877520000007,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "WHO (2024), Guidelines for HIV post-exposure prophylaxis",
+        "x0": 68.3622,
+        "top": 215.11877520000007,
+        "x1": 303.56923120000005,
+        "bottom": 223.11877520000007,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "https://www.who.int/publications/i/item/9789240095137",
+        "x0": 68.3622,
+        "top": 228.11877520000007,
+        "x1": 294.40126640000005,
+        "bottom": 236.11877520000007,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "MIGEPROF, Directorate General of Family Promotion and Child Protection",
+        "x0": 68.3622,
+        "top": 248.11877520000007,
+        "x1": 361.07313520000014,
+        "bottom": 256.1187752000001,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "https://www.migeprof.gov.rw/family-promotion-and-child-right-protection",
+        "x0": 68.3622,
+        "top": 261.1187752000001,
+        "x1": 361.90516560000015,
+        "bottom": 269.1187752000001,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "UNHCR Rwanda, Gender-Based Violence - services and referral",
+        "x0": 68.3622,
+        "top": 281.1187752000001,
+        "x1": 321.2254832,
+        "bottom": 289.1187752000001,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "https://help.unhcr.org/rwanda/services/sgbv/",
+        "x0": 68.3622,
+        "top": 294.1187752000001,
+        "x1": 248.02626560000002,
+        "bottom": 302.1187752000001,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "WHO clinical guidelines, detailed recommendations for sexually abused children",
+        "x0": 68.3622,
+        "top": 314.1187752000001,
+        "x1": 390.6161072,
+        "bottom": 322.1187752000001,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "https://www.ncbi.nlm.nih.gov/books/NBK493107/",
+        "x0": 68.3622,
+        "top": 327.1187752000001,
+        "x1": 264.77626639999994,
+        "bottom": 335.1187752,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "Publication and safeguarding review",
+        "x0": 68.3622,
+        "top": 358.5601816,
+        "x1": 358.35634079999994,
+        "bottom": 372.5601816,
+        "size": 14.0,
+        "bold": 1.0
+      },
+      {
+        "text": "• A qualified Rwanda child-protection or GBV specialist has reviewed every example and safety",
+        "x0": 73.3622,
+        "top": 387.35900960000004,
+        "x1": 504.4920844999998,
+        "bottom": 396.35900960000004,
+        "size": 9.0,
+        "bold": 0.0
+      },
+      {
+        "text": "statement.",
+        "x0": 83.3622,
+        "top": 402.35900960000004,
+        "x1": 132.5589774,
+        "bottom": 411.35900960000004,
+        "size": 9.0,
+        "bold": 0.0
+      },
+      {
+        "text": "• A qualified clinician has reviewed clinical content, including PEP and emergency contraception.",
+        "x0": 73.3622,
+        "top": 422.35900960000004,
+        "x1": 510.82020950000003,
+        "bottom": 431.35900960000004,
+        "size": 9.0,
+        "bold": 0.0
+      },
+      {
+        "text": "• A qualified Rwanda legal/safeguarding reviewer has verified reporting duties and confidentiality",
+        "x0": 73.3622,
+        "top": 442.35900960000004,
+        "x1": 514.6610297000001,
+        "bottom": 451.35900960000004,
+        "size": 9.0,
+        "bold": 0.0
+      },
+      {
+        "text": "limits.",
+        "x0": 83.3622,
+        "top": 457.35900960000004,
+        "x1": 110.7093669,
+        "bottom": 466.35900960000004,
+        "size": 9.0,
+        "bold": 0.0
+      },
+      {
+        "text": "• All phone numbers, Isange access details and referral procedures have been checked again",
+        "x0": 73.3622,
+        "top": 477.35900960000004,
+        "x1": 496.14248030000005,
+        "bottom": 486.35900960000004,
+        "size": 9.0,
+        "bold": 0.0
+      },
+      {
+        "text": "immediately before release.",
+        "x0": 83.3622,
+        "top": 492.35900960000004,
+        "x1": 210.31581390000002,
+        "bottom": 501.35900960000004,
+        "size": 9.0,
+        "bold": 0.0
+      },
+      {
+        "text": "• Kinyarwanda and French versions have undergone human localization and independent review.",
+        "x0": 73.3622,
+        "top": 512.3590096,
+        "x1": 513.8436524000001,
+        "bottom": 521.3590096,
+        "size": 9.0,
+        "bold": 0.0
+      },
+      {
+        "text": "• The publication does not solicit personal disclosures, identify real children or contain unsafe",
+        "x0": 73.3622,
+        "top": 532.3590096,
+        "x1": 497.16640040000004,
+        "bottom": 541.3590096,
+        "size": 9.0,
+        "bold": 0.0
+      },
+      {
+        "text": "image-handling instructions.",
+        "x0": 83.3622,
+        "top": 547.3590096,
+        "x1": 212.1219654,
+        "bottom": 556.3590096,
+        "size": 9.0,
+        "bold": 0.0
+      },
+      {
+        "text": "STATUS: Evidence-informed educational draft. Not approved for direct use as a",
+        "x0": 76.77953,
+        "top": 578.4070564799999,
+        "x1": 489.08597099999986,
+        "bottom": 587.60705648,
+        "size": 9.2,
+        "bold": 1.0
+      },
+      {
+        "text": "child-protection service protocol or personalized clinical advice.",
+        "x0": 76.77953,
+        "top": 594.40705648,
+        "x1": 409.5248365199998,
+        "bottom": 603.60705648,
+        "size": 9.2,
+        "bold": 1.0
+      },
+      {
+        "text": "VUGA NDAKUMVA | GBV Content Library | Chapter 10 10",
+        "x0": 62.3622,
+        "top": 794.0517508,
+        "x1": 532.913427,
+        "bottom": 801.0517508,
+        "size": 7.0,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  }
+]

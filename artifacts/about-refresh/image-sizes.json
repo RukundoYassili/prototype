@@ -1,0 +1,52 @@
+[
+  {
+    "file": "listening-together",
+    "originalWidth": 1536,
+    "originalHeight": 1024,
+    "variants": [
+      {
+        "path": "public/images/about/listening-together-480.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 29570
+      },
+      {
+        "path": "public/images/about/listening-together-960.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 68048
+      },
+      {
+        "path": "public/images/about/listening-together-1440.webp",
+        "width": 1440,
+        "height": 960,
+        "bytes": 105656
+      }
+    ]
+  },
+  {
+    "file": "reading-at-your-own-pace",
+    "originalWidth": 1448,
+    "originalHeight": 1086,
+    "variants": [
+      {
+        "path": "public/images/about/reading-at-your-own-pace-480.webp",
+        "width": 480,
+        "height": 360,
+        "bytes": 13190
+      },
+      {
+        "path": "public/images/about/reading-at-your-own-pace-960.webp",
+        "width": 960,
+        "height": 720,
+        "bytes": 29758
+      },
+      {
+        "path": "public/images/about/reading-at-your-own-pace-1440.webp",
+        "width": 1440,
+        "height": 1080,
+        "bytes": 47418
+      }
+    ]
+  }
+]

@@ -1,0 +1,85 @@
+:root {
+  color-scheme: light;
+  --color-brand: #9de65a;
+  --color-brand-hover: #89d749;
+  --color-brand-ink: #286340;
+  --color-brand-soft: #eaf6e0;
+  --color-on-brand: #17351f;
+  --color-bg: #f6f6f1;
+  --color-surface: #fff;
+  --color-subtle: #eeefe8;
+  --color-text: #242820;
+  --color-muted: #656b5f;
+  --color-border: #dedfd5;
+  --color-inverse: #263c30;
+  --color-success: #2f6749;
+  --color-success-bg: #e5f0e7;
+  --color-warning: #795700;
+  --color-warning-bg: #fff2c3;
+  --color-danger: #a12f35;
+  --color-danger-bg: #fce8e8;
+  --color-info: #315b83;
+  --color-info-bg: #e8eff9;
+  --color-focus: #236749;
+  --font-sans: "DM Sans", Arial, sans-serif;
+  --text-xs: 0.75rem;
+  --text-sm: 0.875rem;
+  --text-md: 1rem;
+  --text-lg: 1.25rem;
+  --text-xl: 1.5rem;
+  --text-2xl: 2rem;
+  --text-3xl: 3rem;
+  --text-display: clamp(2.8rem, 5vw, 4.6rem);
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 20px;
+  --space-6: 24px;
+  --space-8: 32px;
+  --space-10: 40px;
+  --space-12: 48px;
+  --space-16: 64px;
+  --radius-sm: 8px;
+  --radius-md: 16px;
+  --radius-lg: 24px;
+  --radius-pill: 999px;
+  --shadow-sm: 0 2px 6px #24282008;
+  --shadow-md: 0 12px 40px #24282012;
+  --duration-fast: 150ms;
+  --duration-normal: 240ms;
+  --ease: cubic-bezier(0.2, 0.8, 0.2, 1);
+  --content-width: 1200px;
+}
+[data-theme="dark"] {
+  color-scheme: dark;
+  --color-bg: #181e18;
+  --color-surface: #232c24;
+  --color-subtle: #303b31;
+  --color-text: #f2f3e9;
+  --color-muted: #b2bcae;
+  --color-border: #435043;
+  --color-inverse: #d5e5d8;
+  --color-success: #a4dfb4;
+  --color-success-bg: #244632;
+  --color-warning: #ffe09b;
+  --color-warning-bg: #4b3b17;
+  --color-danger: #ffb0b4;
+  --color-danger-bg: #4a272c;
+  --color-info: #b4d3ff;
+  --color-info-bg: #263c56;
+  --color-focus: #a7bcff;
+}
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    --duration-fast: 0ms;
+    --duration-normal: 0ms;
+  }
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    animation: none !important;
+    transition: none !important;
+  }
+}

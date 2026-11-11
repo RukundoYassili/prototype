@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-11",
+  "generator": "Built-in image_gen",
+  "references": "No supplied reference illustrations; written user brief and existing project tokens.",
+  "review": "Both outputs inspected: coherent anatomy, contextual listening/reading actions, matching character and color language, no text, complete bodies, no service/team implication. Scale full scenes without cropping.",
+  "assets": [
+    {
+      "id": "listening",
+      "section": "About hero",
+      "purpose": "Informative: intergenerational listening",
+      "audience": "General visitors, families and supporters",
+      "composition": "3:2; full scene at all breakpoints",
+      "background": "#f1edf7 lavender",
+      "original": "artifacts/about-refresh/originals/listening-together.png",
+      "publicBase": "/images/about/listening-together",
+      "prompt": "Polished editorial 2D flat raster illustration for the About Us page of a community wellbeing information website in Rwanda. Warm, inclusive, calm, contemporary African everyday life. Clean solid geometric shapes, gently rounded edges, consistent slightly elongated human proportions, small expressive facial features, natural hands, minimal dark line accents. Restrained palette: deep purple #392653, lavender #b8a1df, golden yellow #edbb44, deep teal #245747, mint #cde7d5, soft blue #b6cee7, varied rich brown skin tones. No gradients, grain, photorealism, 3D, badges, logos, text, letters, symbols in speech bubbles, or watermark. Render as a finished standalone image asset, not a page mockup. All important subjects fully visible with generous safe margins. Scene: a welcoming informal conversation in a small sunlit courtyard. Four fictional Black African people: a young adult woman in lavender seated on a simple stool, an adult man in a deep teal shirt seated nearby listening with a relaxed open palm, an older woman with short grey natural hair in golden yellow seated comfortably, and a school-age child beside the older woman holding a closed blue book. Everyone equally present, quietly attentive, soft warm expressions, not exaggerated grins. A low round table with a cup, one leafy plant, a modest curved architectural backdrop. The message is 'understanding starts with listening', not therapy or a service appointment. No uniforms or medical props. Balanced compact composition with bodies and feet entirely inside the frame. Landscape 3:2 composition, around 1536 by 1024. Solid pale lavender #f1edf7 background reaching every edge. This image will sit beside a large heading in a lavender hero panel, and be scaled without cropping on mobile. Visual storytelling supporting the message, no labels."
+    },
+    {
+      "id": "reading",
+      "section": "Your choices",
+      "purpose": "Decorative support for the adjacent privacy copy",
+      "audience": "Adults seeking information for themselves or others",
+      "composition": "4:3; full scene below text on mobile",
+      "background": "#edf5ec mint",
+      "original": "artifacts/about-refresh/originals/reading-at-your-own-pace.png",
+      "publicBase": "/images/about/reading-at-your-own-pace",
+      "prompt": "Polished editorial 2D flat raster illustration for the About Us page of a community wellbeing information website in Rwanda. Warm, inclusive, calm, contemporary African everyday life. Clean solid geometric shapes, gently rounded edges, consistent slightly elongated human proportions, small expressive facial features, natural hands, minimal dark line accents. Restrained palette: deep purple #392653, lavender #b8a1df, golden yellow #edbb44, deep teal #245747, mint #cde7d5, soft blue #b6cee7, varied rich brown skin tones. No gradients, grain, photorealism, 3D, badges, logos, text, letters, symbols in speech bubbles, or watermark. Render as a finished standalone image asset, not a page mockup. All important subjects fully visible with generous safe margins. Scene: one fictional Black African adult woman in her thirties with short natural curls, wearing a lavender top and deep purple trousers, reading an open cream booklet on her lap while sitting comfortably in a deep teal armchair at home. She looks peacefully attentive and in control of her own pace. Both hands naturally hold the booklet, both feet visible, anatomically coherent. A small side table with a golden-yellow mug, and one simple tall plant; an understated soft blue window shape behind her. Very minimal room details, ample breathing room. The message is 'your choices come first: read at your own pace without needing to share your story'. No locks, shields, phones, screens, medical elements, text or charts. Landscape 4:3 composition, around 1408 by 1056. Solid pale mint #edf5ec background reaching every edge. Compact centered scene occupies 80 percent of the frame, no cropped body or objects. Scales completely intact on mobile. Supporting decorative scene beside real HTML privacy information."
+    }
+  ]
+}

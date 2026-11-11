@@ -1,0 +1,3455 @@
+[
+  {
+    "page": 1,
+    "width": 595.2756,
+    "height": 841.8898,
+    "lines": [
+      {
+        "text": "VUGA NDAKUMVA INITIATIVE",
+        "x0": 65.52756,
+        "top": 158.99899560000006,
+        "x1": 253.76144714999998,
+        "bottom": 170.49899560000006,
+        "size": 11.5,
+        "bold": 1.0
+      },
+      {
+        "text": "GBV EDUCATIONAL LIBRARY / CHAPTER 08",
+        "x0": 65.52756,
+        "top": 199.315744,
+        "x1": 304.15060600000004,
+        "bottom": 209.315744,
+        "size": 10.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Economic Violence and",
+        "x0": 65.52756,
+        "top": 239.24222880000002,
+        "x1": 415.0641735,
+        "bottom": 266.2422288,
+        "size": 27.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Financial Control",
+        "x0": 65.52756,
+        "top": 274.2422288,
+        "x1": 323.63595540000006,
+        "bottom": 301.2422288,
+        "size": 27.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Understanding coercion through money, work, resources, property, and financial",
+        "x0": 65.52756,
+        "top": 355.4142784,
+        "x1": 511.51096270000005,
+        "bottom": 366.4142784,
+        "size": 11.0,
+        "bold": 0.0
+      },
+      {
+        "text": "access - and how to support survivors safely.",
+        "x0": 65.52756,
+        "top": 373.4142784,
+        "x1": 314.16623380000004,
+        "bottom": 384.4142784,
+        "size": 11.0,
+        "bold": 0.0
+      },
+      {
+        "text": "Educational draft | Version 2.0 | November 2026",
+        "x0": 75.3622,
+        "top": 454.07752680000004,
+        "x1": 305.8624470499999,
+        "bottom": 463.57752680000004,
+        "size": 9.5,
+        "bold": 0.0
+      },
+      {
+        "text": "Includes: 18 learning sections, 5 case studies, 5 activities, 10 assessment questions,",
+        "x0": 75.3622,
+        "top": 514.7547268000001,
+        "x1": 478.8709940499998,
+        "bottom": 524.2547268000001,
+        "size": 9.5,
+        "bold": 0.0
+      },
+      {
+        "text": "glossary, Rwanda support information, and references.",
+        "x0": 75.3622,
+        "top": 530.7547268000001,
+        "x1": 337.38686039999993,
+        "bottom": 540.2547268000001,
+        "size": 9.5,
+        "bold": 0.0
+      },
+      {
+        "text": "Prepared for educational and professional review. Not an individualized safety plan or legal advice.",
+        "x0": 65.52756,
+        "top": 607.4900455200001,
+        "x1": 478.01486613999987,
+        "bottom": 615.79004552,
+        "size": 8.3,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA / GBV EDUCATIONAL CONTENT 1",
+        "x0": 59.52756,
+        "top": 822.018328,
+        "x1": 535.74802875,
+        "bottom": 829.518328,
+        "size": 7.5,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 2,
+    "width": 595.2756,
+    "height": 841.8898,
+    "lines": [
+      {
+        "text": "CHAPTER 08 / ECONOMIC VIOLENCE AND FINANCIAL CONTROL",
+        "x0": 59.52756,
+        "top": 42.33880488000011,
+        "x1": 311.25890833,
+        "bottom": 50.03880488000004,
+        "size": 7.7,
+        "bold": 0.0
+      },
+      {
+        "text": "How to use this chapter",
+        "x0": 65.52756,
+        "top": 80.34959880000008,
+        "x1": 260.74655115,
+        "bottom": 94.84959880000008,
+        "size": 14.5,
+        "bold": 1.0
+      },
+      {
+        "text": "This chapter is designed for readers, educators, community facilitators, and GBV awareness",
+        "x0": 65.52756,
+        "top": 106.10037992000002,
+        "x1": 495.22116554999985,
+        "bottom": 115.40037991999998,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "programs. Readers may skip activities or pause at any time. Do not ask people to disclose personal",
+        "x0": 65.52756,
+        "top": 121.10037992000002,
+        "x1": 529.7480407199995,
+        "bottom": 130.40037991999998,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "experiences during group learning.",
+        "x0": 65.52756,
+        "top": 136.10037992000002,
+        "x1": 229.22663336999997,
+        "bottom": 145.40037991999998,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Safety first: Avoid instructions that could increase danger, such as changing a monitored PIN,",
+        "x0": 75.3622,
+        "top": 171.14842680000004,
+        "x1": 519.9133869999998,
+        "bottom": 180.64842680000004,
+        "size": 9.5,
+        "bold": 0.0
+      },
+      {
+        "text": "confronting an abusive person, or secretly moving funds without individualized safety advice.",
+        "x0": 75.3622,
+        "top": 187.14842680000004,
+        "x1": 519.9133818500001,
+        "bottom": 196.64842680000004,
+        "size": 9.5,
+        "bold": 0.0
+      },
+      {
+        "text": "Learning objectives",
+        "x0": 65.52756,
+        "top": 250.19209880000005,
+        "x1": 226.13913145,
+        "bottom": 264.69209880000005,
+        "size": 14.5,
+        "bold": 1.0
+      },
+      {
+        "text": "• Define economic abuse and distinguish it from ordinary financial disagreements.",
+        "x0": 69.52756,
+        "top": 275.91885648000004,
+        "x1": 450.44260187999964,
+        "bottom": 285.1188564800001,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Recognize economic control, exploitation, employment sabotage, forced debt, and restrictions on",
+        "x0": 69.52756,
+        "top": 295.41885648000004,
+        "x1": 528.6785361599996,
+        "bottom": 304.6188564800001,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "essential needs.",
+        "x0": 65.52756,
+        "top": 314.94287992,
+        "x1": 141.06735591,
+        "bottom": 324.24287991999995,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "• Understand why economic dependence may limit choices without blaming survivors.",
+        "x0": 69.52756,
+        "top": 337.91885648,
+        "x1": 469.47150835999975,
+        "bottom": 347.11885648000003,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Identify safer, survivor-led support and appropriate referrals in Rwanda.",
+        "x0": 69.52756,
+        "top": 357.41885648,
+        "x1": 410.3498271199997,
+        "bottom": 366.61885648000003,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Apply the concepts to fictional examples and check understanding.",
+        "x0": 69.52756,
+        "top": 376.91885648,
+        "x1": 388.3291247999998,
+        "bottom": 386.11885648000003,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "1. Understanding economic violence",
+        "x0": 65.52756,
+        "top": 408.6920988,
+        "x1": 362.74215535,
+        "bottom": 423.1920988,
+        "size": 14.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Economic violence or economic abuse occurs when a person uses money, employment, property,",
+        "x0": 65.52756,
+        "top": 434.44287992000005,
+        "x1": 521.29113945,
+        "bottom": 443.74287992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "debt,",
+        "x0": 65.52756,
+        "top": 449.44287992000005,
+        "x1": 89.65851645000001,
+        "bottom": 458.74287992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "education, benefits, or access to resources to control, exploit, or harm another person. Financial",
+        "x0": 65.52756,
+        "top": 472.44287992000005,
+        "x1": 515.1880116599999,
+        "bottom": 481.74287992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "abuse",
+        "x0": 65.52756,
+        "top": 487.44287992000005,
+        "x1": 93.59103726,
+        "bottom": 496.74287992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "is often used for direct control of income, accounts, assets, and spending; economic abuse is wider",
+        "x0": 65.52756,
+        "top": 510.44287992000005,
+        "x1": 528.5794676099999,
+        "bottom": 519.74287992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "and",
+        "x0": 65.52756,
+        "top": 525.44287992,
+        "x1": 83.02409361,
+        "bottom": 534.74287992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "can also undermine a person's ability to obtain or keep resources. It can occur in intimate",
+        "x0": 65.52756,
+        "top": 548.44287992,
+        "x1": 484.8494865599999,
+        "bottom": 557.74287992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "relationships,",
+        "x0": 65.52756,
+        "top": 563.44287992,
+        "x1": 128.19811635,
+        "bottom": 572.74287992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "families, care arrangements, and other settings. [1, 2]",
+        "x0": 65.52756,
+        "top": 586.44287992,
+        "x1": 318.93439802999995,
+        "bottom": 595.7428799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "The central concern is not whether partners share an account or earn different amounts. It is",
+        "x0": 65.52756,
+        "top": 609.44287992,
+        "x1": 499.84846424999995,
+        "bottom": 618.7428799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "whether",
+        "x0": 65.52756,
+        "top": 624.44287992,
+        "x1": 103.83556851,
+        "bottom": 633.7428799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "someone uses threats, deception, intimidation, coercion, or unequal power to deny another person",
+        "x0": 65.52756,
+        "top": 647.44287992,
+        "x1": 528.06179148,
+        "bottom": 656.7428799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "genuine choice and access to necessary resources. A single incident can be serious, while some",
+        "x0": 65.52756,
+        "top": 670.44287992,
+        "x1": 514.0482203999999,
+        "bottom": 679.7428799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "abuse",
+        "x0": 65.52756,
+        "top": 685.44287992,
+        "x1": 93.59103726,
+        "bottom": 694.7428799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "develops as a repeated pattern.",
+        "x0": 65.52756,
+        "top": 708.44287992,
+        "x1": 214.89972855,
+        "bottom": 717.7428799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA / GBV EDUCATIONAL CONTENT 2",
+        "x0": 59.52756,
+        "top": 822.018328,
+        "x1": 535.74802875,
+        "bottom": 829.518328,
+        "size": 7.5,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 3,
+    "width": 595.2756,
+    "height": 841.8898,
+    "lines": [
+      {
+        "text": "CHAPTER 08 / ECONOMIC VIOLENCE AND FINANCIAL CONTROL",
+        "x0": 59.52756,
+        "top": 42.33880488000011,
+        "x1": 311.25890833,
+        "bottom": 50.03880488000004,
+        "size": 7.7,
+        "bold": 0.0
+      },
+      {
+        "text": "Key principle: Having less income, depending on family members, or choosing to share",
+        "x0": 75.3622,
+        "top": 91.14842680000004,
+        "x1": 491.00111845000004,
+        "bottom": 100.64842680000004,
+        "size": 9.5,
+        "bold": 0.0
+      },
+      {
+        "text": "finances",
+        "x0": 75.3622,
+        "top": 107.14842680000004,
+        "x1": 115.2269474,
+        "bottom": 116.64842680000004,
+        "size": 9.5,
+        "bold": 0.0
+      },
+      {
+        "text": "does not itself mean abuse. Control, coercion, exploitation, and the person's freedom to make",
+        "x0": 65.52756,
+        "top": 144.43897992000007,
+        "x1": 505.2976792799999,
+        "bottom": 153.73897992000002,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "decisions are critical to understanding the situation.",
+        "x0": 65.52756,
+        "top": 167.43897992000007,
+        "x1": 308.4809776199999,
+        "bottom": 176.73897992000002,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "2. Why economic abuse matters",
+        "x0": 65.52756,
+        "top": 199.68819880000012,
+        "x1": 327.75948144999995,
+        "bottom": 214.18819880000012,
+        "size": 14.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Economic abuse can make it harder to afford food, medication, transport, safe housing, school",
+        "x0": 65.52756,
+        "top": 225.43897992000007,
+        "x1": 507.0187251899999,
+        "bottom": 234.73897992000002,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "fees, or",
+        "x0": 65.52756,
+        "top": 240.43897992000007,
+        "x1": 100.51608603,
+        "bottom": 249.73897992000002,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "communication. It can undermine financial independence, interrupt education or employment,",
+        "x0": 65.52756,
+        "top": 263.43897992000007,
+        "x1": 507.1958260199999,
+        "bottom": 272.73897992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "create",
+        "x0": 65.52756,
+        "top": 278.43897992000007,
+        "x1": 95.25304863,
+        "bottom": 287.73897992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "debt, and make asking for help or leaving an abusive situation more difficult. These barriers can",
+        "x0": 65.52756,
+        "top": 301.43897992000007,
+        "x1": 515.0971925099999,
+        "bottom": 310.73897992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "continue after a relationship ends. [2, 3]",
+        "x0": 65.52756,
+        "top": 324.43897992000007,
+        "x1": 253.80261063,
+        "bottom": 333.73897992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Economic abuse may occur together with emotional, physical, sexual, or technology-facilitated",
+        "x0": 65.52756,
+        "top": 347.43897992000007,
+        "x1": 508.6217020199997,
+        "bottom": 356.73897992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "abuse.",
+        "x0": 65.52756,
+        "top": 362.43897992000007,
+        "x1": 96.54723849,
+        "bottom": 371.73897992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "The presence of economic abuse does not establish that all other types are present, but it should",
+        "x0": 65.52756,
+        "top": 385.43897992000007,
+        "x1": 520.2648667799997,
+        "bottom": 394.73897992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "prompt careful attention to the person's safety and choices.",
+        "x0": 65.52756,
+        "top": 408.43897992000007,
+        "x1": 345.71730713999983,
+        "bottom": 417.73897992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "3. Forms of economic violence",
+        "x0": 65.52756,
+        "top": 440.6881988,
+        "x1": 313.63472985000004,
+        "bottom": 455.1881988,
+        "size": 14.5,
+        "bold": 1.0
+      },
+      {
+        "text": "3.1 Restricting access to money and essentials",
+        "x0": 65.52756,
+        "top": 468.75128464000005,
+        "x1": 346.62940837999986,
+        "bottom": 479.3512846400001,
+        "size": 10.6,
+        "bold": 1.0
+      },
+      {
+        "text": "A controlling person may keep all income, refuse access to funds for necessary food or treatment,",
+        "x0": 65.52756,
+        "top": 488.43897992000007,
+        "x1": 524.00212479,
+        "bottom": 497.73897992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "require receipts for every small purchase as a form of surveillance, confiscate earnings, or deny",
+        "x0": 65.52756,
+        "top": 511.43897992000007,
+        "x1": 513.8892843299998,
+        "bottom": 520.73897992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "money",
+        "x0": 65.52756,
+        "top": 526.4389799200001,
+        "x1": 97.39640847,
+        "bottom": 535.73897992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "for transport to seek help. Restrictions can become especially harmful when a person has children,",
+        "x0": 65.52756,
+        "top": 549.4389799200001,
+        "x1": 527.60769108,
+        "bottom": 558.73897992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "a",
+        "x0": 65.52756,
+        "top": 564.4389799200001,
+        "x1": 71.22653489999999,
+        "bottom": 573.73897992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "disability, or health-related needs.",
+        "x0": 65.52756,
+        "top": 587.4389799200001,
+        "x1": 225.63922904999998,
+        "bottom": 596.73897992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "3.2 Economic exploitation and property abuse",
+        "x0": 65.52756,
+        "top": 612.75128464,
+        "x1": 341.41739898,
+        "bottom": 623.35128464,
+        "size": 10.6,
+        "bold": 1.0
+      },
+      {
+        "text": "This can include taking savings, livestock, land-related proceeds, inventory, or personal",
+        "x0": 65.52756,
+        "top": 632.4389799200001,
+        "x1": 474.9727768199999,
+        "bottom": 641.73897992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "possessions",
+        "x0": 65.52756,
+        "top": 647.4389799200001,
+        "x1": 121.23673991999999,
+        "bottom": 656.73897992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "without agreement; using another person's bank or mobile-money account without permission;",
+        "x0": 65.52756,
+        "top": 670.4389799200001,
+        "x1": 510.40178153999994,
+        "bottom": 679.73897992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "pressuring someone to transfer property; or diverting income from a jointly run business. The exact",
+        "x0": 65.52756,
+        "top": 693.4389799200001,
+        "x1": 529.7480317199997,
+        "bottom": 702.73897992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "legal classification depends on the circumstances and applicable Rwandan law.",
+        "x0": 65.52756,
+        "top": 716.4389799200001,
+        "x1": 436.0653554099999,
+        "bottom": 725.73897992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "3.3 Employment and education sabotage",
+        "x0": 65.52756,
+        "top": 741.75124464,
+        "x1": 310.51798451999997,
+        "bottom": 752.35124464,
+        "size": 10.6,
+        "bold": 1.0
+      },
+      {
+        "text": "An abusive person may forbid employment or schooling, repeatedly interrupt work, damage tools,",
+        "x0": 65.52756,
+        "top": 761.43893992,
+        "x1": 524.2019259899998,
+        "bottom": 770.73893992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA / GBV EDUCATIONAL CONTENT 3",
+        "x0": 59.52756,
+        "top": 822.018328,
+        "x1": 535.74802875,
+        "bottom": 829.518328,
+        "size": 7.5,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 4,
+    "width": 595.2756,
+    "height": 841.8898,
+    "lines": [
+      {
+        "text": "CHAPTER 08 / ECONOMIC VIOLENCE AND FINANCIAL CONTROL",
+        "x0": 59.52756,
+        "top": 42.33880488000011,
+        "x1": 311.25890833,
+        "bottom": 50.03880488000004,
+        "size": 7.7,
+        "bold": 0.0
+      },
+      {
+        "text": "interfere with a job interview, refuse reasonable childcare arrangements as a tactic of control, or",
+        "x0": 65.52756,
+        "top": 79.10037992000002,
+        "x1": 517.7218989599999,
+        "bottom": 88.40037991999998,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "harass",
+        "x0": 65.52756,
+        "top": 94.10037992000002,
+        "x1": 96.33381093,
+        "bottom": 103.40037991999998,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "someone at their workplace until they lose opportunities. Sabotage can make long-term",
+        "x0": 65.52756,
+        "top": 117.10037992000002,
+        "x1": 476.6166234299999,
+        "bottom": 126.40037991999998,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "independence",
+        "x0": 65.52756,
+        "top": 132.10037992000002,
+        "x1": 131.50397712,
+        "bottom": 141.40037991999998,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "harder.",
+        "x0": 65.52756,
+        "top": 155.10037992000002,
+        "x1": 99.34904484,
+        "bottom": 164.40037991999998,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "3.4 Forced debts, loans, and financial documents",
+        "x0": 65.52756,
+        "top": 180.41268464000007,
+        "x1": 360.3141758600001,
+        "bottom": 191.0126846400001,
+        "size": 10.6,
+        "bold": 1.0
+      },
+      {
+        "text": "Someone may be pressured to borrow money, become a guarantor, hand over a PIN, sign a",
+        "x0": 65.52756,
+        "top": 200.10037992000002,
+        "x1": 493.5727796099999,
+        "bottom": 209.40037991999998,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "contract",
+        "x0": 65.52756,
+        "top": 215.10037992000002,
+        "x1": 104.15343879,
+        "bottom": 224.40037991999998,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "they do not understand, or accept liability for another person's purchases. A debt may become a",
+        "x0": 65.52756,
+        "top": 238.10037992000002,
+        "x1": 517.8626693399999,
+        "bottom": 247.40037991999998,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "mechanism of control when consent is obtained through threats or deception. A person should be",
+        "x0": 65.52756,
+        "top": 261.10037992,
+        "x1": 521.9268790799999,
+        "bottom": 270.40037992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "able",
+        "x0": 65.52756,
+        "top": 276.10037992,
+        "x1": 85.4353725,
+        "bottom": 285.40037992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "to seek an independent explanation before making a financial commitment.",
+        "x0": 65.52756,
+        "top": 299.10037992,
+        "x1": 420.45788615999993,
+        "bottom": 308.40037992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "3.5 Control through technology",
+        "x0": 65.52756,
+        "top": 324.41268464000007,
+        "x1": 253.32560608,
+        "bottom": 335.0126846400001,
+        "size": 10.6,
+        "bold": 1.0
+      },
+      {
+        "text": "Digital economic abuse may involve monitoring mobile-money messages, demanding wallet or",
+        "x0": 65.52756,
+        "top": 344.1003799200001,
+        "x1": 508.97135969999994,
+        "bottom": 353.40037992000003,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "banking",
+        "x0": 65.52756,
+        "top": 359.1003799200001,
+        "x1": 102.7911348,
+        "bottom": 368.40037992000003,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "PINs, accessing online accounts, requiring location-sharing to authorize purchases, or using shared",
+        "x0": 65.52756,
+        "top": 382.1003799200001,
+        "x1": 527.5123288799998,
+        "bottom": 391.40037992000003,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "devices to track transactions. Changing access on a monitored device can sometimes alert an",
+        "x0": 65.52756,
+        "top": 405.1003799200001,
+        "x1": 505.0842535799997,
+        "bottom": 414.40037992000003,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "abusive",
+        "x0": 65.52756,
+        "top": 420.1003799200001,
+        "x1": 101.67858602999999,
+        "bottom": 429.40037992000003,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "person, so digital safety should be considered before acting.",
+        "x0": 65.52756,
+        "top": 443.1003799200001,
+        "x1": 347.7062711699999,
+        "bottom": 452.40037992000003,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "3.6 Withholding support and exploiting caregiving",
+        "x0": 65.52756,
+        "top": 468.41268464000007,
+        "x1": 367.15655642,
+        "bottom": 479.0126846400001,
+        "size": 10.6,
+        "bold": 1.0
+      },
+      {
+        "text": "A family member or caregiver might control an older person's funds, disability-related resources,",
+        "x0": 65.52756,
+        "top": 488.1003799200001,
+        "x1": 518.3803426799999,
+        "bottom": 497.40037992000003,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "pension, or essential belongings. Economic abuse can affect people of any gender and age. Child",
+        "x0": 65.52756,
+        "top": 511.1003799200001,
+        "x1": 519.6427497899997,
+        "bottom": 520.40037992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "safeguarding and other legal duties may apply when a child or dependent person is involved.",
+        "x0": 65.52756,
+        "top": 534.10037992,
+        "x1": 501.63762149999985,
+        "bottom": 543.40037992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "4. Financial partnership versus financial control",
+        "x0": 65.52756,
+        "top": 566.3495988,
+        "x1": 457.7922059,
+        "bottom": 580.8495988,
+        "size": 14.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Healthy collaboration: Partners may voluntarily choose a shared budget, discuss priorities, give one",
+        "x0": 65.52756,
+        "top": 592.10037992,
+        "x1": 529.74803637,
+        "bottom": 601.4003799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "person responsibility for paying bills, or agree to save for a business. Each person can ask",
+        "x0": 65.52756,
+        "top": 615.10037992,
+        "x1": 486.15275786999996,
+        "bottom": 624.4003799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "questions,",
+        "x0": 65.52756,
+        "top": 630.10037992,
+        "x1": 113.50793121000001,
+        "bottom": 639.4003799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "understand important decisions, raise concerns without fear, and seek access to necessities.",
+        "x0": 65.52756,
+        "top": 653.10037992,
+        "x1": 498.88122611999967,
+        "bottom": 662.4003799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Concerning control: One partner threatens punishment for asking about finances, takes earnings",
+        "x0": 65.52756,
+        "top": 676.10037992,
+        "x1": 517.8853790099998,
+        "bottom": 685.4003799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "without permission, insists on secrecy, prevents work, or uses access to basic necessities to force",
+        "x0": 65.52756,
+        "top": 699.10037992,
+        "x1": 522.0494865599998,
+        "bottom": 708.4003799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "compliance. What matters is the power dynamic and freedom to disagree, not simply the",
+        "x0": 65.52756,
+        "top": 722.1003599200001,
+        "x1": 482.5017796799998,
+        "bottom": 731.40035992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "household",
+        "x0": 65.52756,
+        "top": 737.1003599200001,
+        "x1": 113.64416225999999,
+        "bottom": 746.40035992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "accounting arrangement. [1, 3]",
+        "x0": 65.52756,
+        "top": 760.1003599200001,
+        "x1": 211.71647805000003,
+        "bottom": 769.40035992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA / GBV EDUCATIONAL CONTENT 4",
+        "x0": 59.52756,
+        "top": 822.018328,
+        "x1": 535.74802875,
+        "bottom": 829.518328,
+        "size": 7.5,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 5,
+    "width": 595.2756,
+    "height": 841.8898,
+    "lines": [
+      {
+        "text": "CHAPTER 08 / ECONOMIC VIOLENCE AND FINANCIAL CONTROL",
+        "x0": 59.52756,
+        "top": 42.33880488000011,
+        "x1": 311.25890833,
+        "bottom": 50.03880488000004,
+        "size": 7.7,
+        "bold": 0.0
+      },
+      {
+        "text": "5. Warning signs and patterns",
+        "x0": 65.52756,
+        "top": 80.34959880000008,
+        "x1": 313.6276509499999,
+        "bottom": 94.84959880000008,
+        "size": 14.5,
+        "bold": 1.0
+      },
+      {
+        "text": "• You are frightened to ask for transport, food, medical care, or access to your own earnings.",
+        "x0": 69.52756,
+        "top": 106.07635648000007,
+        "x1": 499.5961180799997,
+        "bottom": 115.27635648000012,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Someone repeatedly takes your wages or mobile-money transfers, or forces you to reveal PINs.",
+        "x0": 69.52756,
+        "top": 125.57635648000007,
+        "x1": 518.7867439999995,
+        "bottom": 134.77635648000012,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Work, training, education, or business activities are blocked through threats or harassment.",
+        "x0": 69.52756,
+        "top": 145.07635648000007,
+        "x1": 502.06232803999956,
+        "bottom": 154.27635648000012,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• You are pressured to sign loans, sell property, or transfer assets without an informed choice.",
+        "x0": 69.52756,
+        "top": 164.57635648000007,
+        "x1": 505.96154655999953,
+        "bottom": 173.77635648000012,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• A person closely monitors transactions as part of a wider pattern of intimidation.",
+        "x0": 69.52756,
+        "top": 184.07635648000007,
+        "x1": 450.1416220399997,
+        "bottom": 193.27635648000012,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Money or support is withheld to punish you for seeing friends, seeking care, or refusing demands.",
+        "x0": 69.52756,
+        "top": 203.57635648000007,
+        "x1": 529.3344004799997,
+        "bottom": 212.77635648000012,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "These signs invite careful reflection rather than automatic diagnosis of a relationship. A single",
+        "x0": 65.52756,
+        "top": 223.10037992000002,
+        "x1": 505.09333316999977,
+        "bottom": 232.40037991999998,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "checklist",
+        "x0": 65.52756,
+        "top": 238.10037992000002,
+        "x1": 106.41486491999999,
+        "bottom": 247.40037991999998,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "cannot determine a person's risk. A trained GBV professional can help explore what is happening in",
+        "x0": 65.52756,
+        "top": 261.10037992,
+        "x1": 529.7480365799997,
+        "bottom": 270.40037992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "context.",
+        "x0": 65.52756,
+        "top": 284.10037992,
+        "x1": 103.69933746000001,
+        "bottom": 293.40037992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "6. Causes, power dynamics, and misconceptions",
+        "x0": 65.52756,
+        "top": 316.3495988000001,
+        "x1": 460.89327159999993,
+        "bottom": 330.8495988,
+        "size": 14.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Economic abuse is linked to unequal power, controlling attitudes, gender norms, and opportunities",
+        "x0": 65.52756,
+        "top": 342.1003799200001,
+        "x1": 526.72218879,
+        "bottom": 351.40037992000003,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "for",
+        "x0": 65.52756,
+        "top": 357.1003799200001,
+        "x1": 78.31505999999999,
+        "bottom": 366.40037992000003,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "exploitation. Poverty or unemployment may increase practical vulnerability, but they do not excuse",
+        "x0": 65.52756,
+        "top": 380.1003799200001,
+        "x1": 529.7480393399999,
+        "bottom": 389.40037992000003,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "abuse. A person who experiences financial dependence is not responsible for another person's",
+        "x0": 65.52756,
+        "top": 403.1003799200001,
+        "x1": 507.4410409799999,
+        "bottom": 412.40037992000003,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "controlling behavior. [4]",
+        "x0": 65.52756,
+        "top": 426.1003799200001,
+        "x1": 177.79508889000002,
+        "bottom": 435.40037992000003,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Myth: Only wealthy people can experience financial abuse. Fact: Control can involve any amount of",
+        "x0": 65.52756,
+        "top": 449.1003799200001,
+        "x1": 529.7480360099999,
+        "bottom": 458.40037992000003,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "money or resources.",
+        "x0": 65.52756,
+        "top": 472.1003799200001,
+        "x1": 161.25671196,
+        "bottom": 481.40037992000003,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Myth: If one partner earns the money, they are entitled to control all decisions. Fact: Income",
+        "x0": 65.52756,
+        "top": 495.1003799200001,
+        "x1": 497.6324472299998,
+        "bottom": 504.40037992000003,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "differences",
+        "x0": 65.52756,
+        "top": 510.1003799200001,
+        "x1": 117.40412343,
+        "bottom": 519.40037992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "do not justify coercion or denial of dignity.",
+        "x0": 65.52756,
+        "top": 533.10037992,
+        "x1": 262.84377023999997,
+        "bottom": 542.40037992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Myth: Economic abuse ends once people separate. Fact: Property disputes, debt, employment",
+        "x0": 65.52756,
+        "top": 556.10037992,
+        "x1": 505.52927066999985,
+        "bottom": 565.40037992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "disruption, and digital access may continue to affect survivors.",
+        "x0": 65.52756,
+        "top": 579.10037992,
+        "x1": 358.8726295799999,
+        "bottom": 588.4003799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "7. Effects on wellbeing and opportunities",
+        "x0": 65.52756,
+        "top": 611.3495988000001,
+        "x1": 403.45260475000003,
+        "bottom": 625.8495988000001,
+        "size": 14.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Possible effects include chronic stress, fear, loss of confidence, sleep problems, limited mobility,",
+        "x0": 65.52756,
+        "top": 637.10037992,
+        "x1": 514.9927451399998,
+        "bottom": 646.4003799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "disrupted healthcare, interrupted schooling, job loss, food insecurity, housing instability, and",
+        "x0": 65.52756,
+        "top": 660.10037992,
+        "x1": 498.6360065099998,
+        "bottom": 669.4003799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "difficulty",
+        "x0": 65.52756,
+        "top": 675.10037992,
+        "x1": 105.88810641,
+        "bottom": 684.4003799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "rebuilding savings. The effects vary between individuals, and some people maintain important",
+        "x0": 65.52756,
+        "top": 698.10037992,
+        "x1": 506.9869368599999,
+        "bottom": 707.40037992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "sources",
+        "x0": 65.52756,
+        "top": 713.10037992,
+        "x1": 101.46061728,
+        "bottom": 722.40037992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "of strength and support despite abuse. [2, 3, 4]",
+        "x0": 65.52756,
+        "top": 736.1003599200001,
+        "x1": 286.98381093000006,
+        "bottom": 745.40035992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Children may be affected when economic coercion reduces access to basic needs or creates unsafe",
+        "x0": 65.52756,
+        "top": 759.1003599200001,
+        "x1": 529.7480417899997,
+        "bottom": 768.40035992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA / GBV EDUCATIONAL CONTENT 5",
+        "x0": 59.52756,
+        "top": 822.018328,
+        "x1": 535.74802875,
+        "bottom": 829.518328,
+        "size": 7.5,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 6,
+    "width": 595.2756,
+    "height": 841.8898,
+    "lines": [
+      {
+        "text": "CHAPTER 08 / ECONOMIC VIOLENCE AND FINANCIAL CONTROL",
+        "x0": 59.52756,
+        "top": 42.33880488000011,
+        "x1": 311.25890833,
+        "bottom": 50.03880488000004,
+        "size": 7.7,
+        "bold": 0.0
+      },
+      {
+        "text": "family conditions. Responding appropriately can require coordinated attention to social support,",
+        "x0": 65.52756,
+        "top": 79.10037992000002,
+        "x1": 514.6612494299999,
+        "bottom": 88.40037991999998,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "healthcare, education, and legal safeguards.",
+        "x0": 65.52756,
+        "top": 102.10037992000002,
+        "x1": 273.76037528999996,
+        "bottom": 111.40037991999998,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "8. Survivor-centred first response",
+        "x0": 65.52756,
+        "top": 134.34959880000008,
+        "x1": 342.9745823,
+        "bottom": 148.84959880000008,
+        "size": 14.5,
+        "bold": 1.0
+      },
+      {
+        "text": "A supportive person should listen without judgment, acknowledge what has been shared, ask",
+        "x0": 65.52756,
+        "top": 160.10037992000002,
+        "x1": 501.8873776499999,
+        "bottom": 169.40037991999998,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "about",
+        "x0": 65.52756,
+        "top": 175.10037992000002,
+        "x1": 92.36042126999999,
+        "bottom": 184.40037991999998,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "immediate needs without demanding details, and offer choices rather than directives. Do not tell",
+        "x0": 65.52756,
+        "top": 198.10037992000002,
+        "x1": 518.4893284499998,
+        "bottom": 207.40037991999998,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "the",
+        "x0": 65.52756,
+        "top": 213.10037992000002,
+        "x1": 80.78991368999999,
+        "bottom": 222.40037991999998,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "person to confront an abuser, leave immediately, take money, expose records publicly, or disclose",
+        "x0": 65.52756,
+        "top": 236.10037992000002,
+        "x1": 526.2953364599999,
+        "bottom": 245.40037991999998,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "passwords. Such actions can increase danger in some situations.",
+        "x0": 65.52756,
+        "top": 259.10037992,
+        "x1": 368.70393021,
+        "bottom": 268.40037992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Ask whether the conversation, device, and location are safe. Explain privacy and",
+        "x0": 65.52756,
+        "top": 282.10037992,
+        "x1": 442.5817147499998,
+        "bottom": 291.40037992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "mandatory-reporting",
+        "x0": 65.52756,
+        "top": 297.10037992,
+        "x1": 162.79157279999998,
+        "bottom": 306.40037992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "limits accurately. If specialized services are available, offer to help the person contact them in a",
+        "x0": 65.52756,
+        "top": 320.10037992,
+        "x1": 514.48415418,
+        "bottom": 329.40037992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "way",
+        "x0": 65.52756,
+        "top": 335.1003799200001,
+        "x1": 84.3364473,
+        "bottom": 344.40037992000003,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "they choose. WHO's survivor-centred care principles prioritize listening, inquiry about needs,",
+        "x0": 65.52756,
+        "top": 358.1003799200001,
+        "x1": 498.75407279999973,
+        "bottom": 367.40037992000003,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "validation,",
+        "x0": 65.52756,
+        "top": 373.1003799200001,
+        "x1": 114.27082137000001,
+        "bottom": 382.40037992000003,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "safety, and support. [4, 5]",
+        "x0": 65.52756,
+        "top": 396.1003799200001,
+        "x1": 187.20407466000003,
+        "bottom": 405.40037992000003,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "9. Financial safety: choice-based considerations",
+        "x0": 65.52756,
+        "top": 428.3495988,
+        "x1": 459.43478185,
+        "bottom": 442.8495988,
+        "size": 14.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Financial safety planning should be individualized with a qualified GBV professional where possible.",
+        "x0": 65.52756,
+        "top": 454.1003799200001,
+        "x1": 529.74803178,
+        "bottom": 463.40037992000003,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "A",
+        "x0": 65.52756,
+        "top": 469.1003799200001,
+        "x1": 71.88952259999999,
+        "bottom": 478.40037992000003,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "person may consider the safety of identity documents, account access, emergency transportation,",
+        "x0": 65.52756,
+        "top": 492.1003799200001,
+        "x1": 526.1318610599999,
+        "bottom": 501.40037992000003,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "essential medication, business documents, and trusted contacts. The safest choices depend on",
+        "x0": 65.52756,
+        "top": 515.10037992,
+        "x1": 510.19743635999976,
+        "bottom": 524.40037992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "monitoring, threats, dependents, and available resources. [3]",
+        "x0": 65.52756,
+        "top": 538.10037992,
+        "x1": 352.4153057099999,
+        "bottom": 547.40037992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "• Before using online banking or mobile money, consider whether a device, SIM card, account, or",
+        "x0": 69.52756,
+        "top": 561.07635648,
+        "x1": 518.4902611199997,
+        "bottom": 570.27635648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "notification history is being monitored.",
+        "x0": 65.52756,
+        "top": 580.60037992,
+        "x1": 246.04201173,
+        "bottom": 589.9003799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "• Seek independent information about contracts, loans, property rights, or debts; do not sign under",
+        "x0": 69.52756,
+        "top": 603.5763564800001,
+        "x1": 529.3119359199995,
+        "bottom": 612.77635648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "pressure.",
+        "x0": 65.52756,
+        "top": 623.10037992,
+        "x1": 109.06227731999999,
+        "bottom": 632.4003799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "• If keeping copies of documents would create danger, ask a support worker about safer",
+        "x0": 69.52756,
+        "top": 646.0763564800001,
+        "x1": 478.5592048799997,
+        "bottom": 655.27635648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "alternatives.",
+        "x0": 79.52756,
+        "top": 660.5763564800001,
+        "x1": 137.22521647999997,
+        "bottom": 669.77635648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Discuss potential consequences before changing PINs, accounts, or communications when",
+        "x0": 69.52756,
+        "top": 680.0763564800001,
+        "x1": 495.33752639999983,
+        "bottom": 689.27635648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "another",
+        "x0": 79.52756,
+        "top": 694.5763564800001,
+        "x1": 115.50549032,
+        "bottom": 703.77635648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "person may react violently.",
+        "x0": 65.52756,
+        "top": 714.10037992,
+        "x1": 193.2072972,
+        "bottom": 723.40037992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "• You do not have to report, separate, or disclose every detail to receive respectful information and",
+        "x0": 69.52756,
+        "top": 737.07633648,
+        "x1": 529.7342021199997,
+        "bottom": 746.27633648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "support, although some services have reporting obligations.",
+        "x0": 65.52756,
+        "top": 756.6003599200001,
+        "x1": 346.39391747999997,
+        "bottom": 765.90035992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA / GBV EDUCATIONAL CONTENT 6",
+        "x0": 59.52756,
+        "top": 822.018328,
+        "x1": 535.74802875,
+        "bottom": 829.518328,
+        "size": 7.5,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 7,
+    "width": 595.2756,
+    "height": 841.8898,
+    "lines": [
+      {
+        "text": "CHAPTER 08 / ECONOMIC VIOLENCE AND FINANCIAL CONTROL",
+        "x0": 59.52756,
+        "top": 42.33880488000011,
+        "x1": 311.25890833,
+        "bottom": 50.03880488000004,
+        "size": 7.7,
+        "bold": 0.0
+      },
+      {
+        "text": "Immediate safety: If someone is in immediate danger, seek urgent help from an appropriate",
+        "x0": 75.3622,
+        "top": 91.14842680000004,
+        "x1": 515.95253595,
+        "bottom": 100.64842680000004,
+        "size": 9.5,
+        "bold": 0.0
+      },
+      {
+        "text": "local",
+        "x0": 75.3622,
+        "top": 107.14842680000004,
+        "x1": 97.49794195,
+        "bottom": 116.64842680000004,
+        "size": 9.5,
+        "bold": 0.0
+      },
+      {
+        "text": "emergency or protection service. This chapter cannot assess an individual's risk or replace",
+        "x0": 65.52756,
+        "top": 144.43897992000007,
+        "x1": 489.34963286999977,
+        "bottom": 153.73897992000002,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "specialist safety planning.",
+        "x0": 65.52756,
+        "top": 167.43897992000007,
+        "x1": 186.96794115,
+        "bottom": 176.73897992000002,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "10. Rwanda-relevant fictional scenarios",
+        "x0": 65.52756,
+        "top": 199.68819880000012,
+        "x1": 390.18454069999996,
+        "bottom": 214.18819880000012,
+        "size": 14.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Case A - Mobile-money control in a household",
+        "x0": 65.52756,
+        "top": 227.7512846400001,
+        "x1": 339.21769334,
+        "bottom": 238.35128464000013,
+        "size": 10.6,
+        "bold": 1.0
+      },
+      {
+        "text": "A woman who sells produce at a market receives payments through mobile money. Her spouse",
+        "x0": 65.52756,
+        "top": 247.43897992000007,
+        "x1": 511.28273985,
+        "bottom": 256.73897992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "demands her PIN and takes the full balance after each market day. When she asks to keep",
+        "x0": 65.52756,
+        "top": 270.43897992000007,
+        "x1": 489.60847604999975,
+        "bottom": 279.73897992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "transport",
+        "x0": 65.52756,
+        "top": 285.43897992000007,
+        "x1": 108.49919022,
+        "bottom": 294.73897992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "and healthcare money, he threatens to stop her business.",
+        "x0": 65.52756,
+        "top": 308.43897992000007,
+        "x1": 336.15393114,
+        "bottom": 317.73897992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Learning point: Taking earnings through threats and preventing access to essential funds may be",
+        "x0": 65.52756,
+        "top": 331.43897992000007,
+        "x1": 521.0504647499997,
+        "bottom": 340.73897992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "economic abuse. A supporter should ask about safety and options, not instruct her to change her",
+        "x0": 65.52756,
+        "top": 354.43897992000007,
+        "x1": 519.45656751,
+        "bottom": 363.73897992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "PIN on",
+        "x0": 65.52756,
+        "top": 369.43897992000007,
+        "x1": 95.37565611000001,
+        "bottom": 378.73897992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "a monitored phone.",
+        "x0": 65.52756,
+        "top": 392.43897992000007,
+        "x1": 157.21066605000001,
+        "bottom": 401.73897992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Case B - Employment interference in Kigali",
+        "x0": 65.52756,
+        "top": 417.75128464000005,
+        "x1": 322.05997684,
+        "bottom": 428.3512846400001,
+        "size": 10.6,
+        "bold": 1.0
+      },
+      {
+        "text": "An employee is repeatedly called and threatened by a partner during working hours. The partner",
+        "x0": 65.52756,
+        "top": 437.43897992000007,
+        "x1": 518.9252678100002,
+        "bottom": 446.73897992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "appears at her workplace, accuses her of wrongdoing, and says she must resign.",
+        "x0": 65.52756,
+        "top": 460.43897992000007,
+        "x1": 443.3718520499999,
+        "bottom": 469.73897992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Learning point: Interfering with work to increase dependence is employment sabotage. Any",
+        "x0": 65.52756,
+        "top": 483.43897992000007,
+        "x1": 493.13684024999986,
+        "bottom": 492.73897992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "workplace",
+        "x0": 65.52756,
+        "top": 498.43897992000007,
+        "x1": 113.05382988,
+        "bottom": 507.73897992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "response should consider privacy, consent, and the employee's safety.",
+        "x0": 65.52756,
+        "top": 521.4389799200001,
+        "x1": 396.56760254999983,
+        "bottom": 530.73897992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Case C - Pressured loan in a small business",
+        "x0": 65.52756,
+        "top": 546.75128464,
+        "x1": 324.16652014,
+        "bottom": 557.3512846400001,
+        "size": 10.6,
+        "bold": 1.0
+      },
+      {
+        "text": "A family member pressures a young adult to sign a loan as guarantor for a business, refusing to let",
+        "x0": 65.52756,
+        "top": 566.4389799200001,
+        "x1": 528.7792725299998,
+        "bottom": 575.73897992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "them read the terms and threatening exclusion from the household if they refuse.",
+        "x0": 65.52756,
+        "top": 589.4389799200001,
+        "x1": 448.6712171099999,
+        "bottom": 598.73897992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Learning point: Financial coercion can occur outside intimate relationships. Informed decisions",
+        "x0": 65.52756,
+        "top": 612.4389799200001,
+        "x1": 507.09138050999985,
+        "bottom": 621.73897992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "require",
+        "x0": 65.52756,
+        "top": 627.4389799200001,
+        "x1": 98.99938622999998,
+        "bottom": 636.73897992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "time, accurate information, and freedom from threats.",
+        "x0": 65.52756,
+        "top": 650.4389799200001,
+        "x1": 319.50656564999997,
+        "bottom": 659.73897992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Case D - Control of household assets in a rural district",
+        "x0": 65.52756,
+        "top": 675.75128464,
+        "x1": 389.9610498,
+        "bottom": 686.35128464,
+        "size": 10.6,
+        "bold": 1.0
+      },
+      {
+        "text": "A partner sells jointly raised livestock without discussion and refuses to share any proceeds. When",
+        "x0": 65.52756,
+        "top": 695.4389799200001,
+        "x1": 526.0864491599998,
+        "bottom": 704.73897992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "questioned, the partner uses threats and says the other person has no right to know about",
+        "x0": 65.52756,
+        "top": 718.43893992,
+        "x1": 489.91271996999996,
+        "bottom": 727.73893992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "household",
+        "x0": 65.52756,
+        "top": 733.43893992,
+        "x1": 113.64416225999999,
+        "bottom": 742.73893992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "property.",
+        "x0": 65.52756,
+        "top": 756.43893992,
+        "x1": 108.49919022,
+        "bottom": 765.73893992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA / GBV EDUCATIONAL CONTENT 7",
+        "x0": 59.52756,
+        "top": 822.018328,
+        "x1": 535.74802875,
+        "bottom": 829.518328,
+        "size": 7.5,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 8,
+    "width": 595.2756,
+    "height": 841.8898,
+    "lines": [
+      {
+        "text": "CHAPTER 08 / ECONOMIC VIOLENCE AND FINANCIAL CONTROL",
+        "x0": 59.52756,
+        "top": 42.33880488000011,
+        "x1": 311.25890833,
+        "bottom": 50.03880488000004,
+        "size": 7.7,
+        "bold": 0.0
+      },
+      {
+        "text": "Learning point: Property-related coercion may raise safety and legal issues. The actual rights over",
+        "x0": 65.52756,
+        "top": 79.10037992000002,
+        "x1": 523.9884993599998,
+        "bottom": 88.40037991999998,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "an",
+        "x0": 65.52756,
+        "top": 94.10037992000002,
+        "x1": 77.12077353,
+        "bottom": 103.40037991999998,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "asset require assessment under relevant law, not assumptions from this example.",
+        "x0": 65.52756,
+        "top": 117.10037992000002,
+        "x1": 449.2206787799999,
+        "bottom": 126.40037991999998,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Case E - Student and education restriction",
+        "x0": 65.52756,
+        "top": 142.41268464000007,
+        "x1": 319.42033092,
+        "bottom": 153.0126846400001,
+        "size": 10.6,
+        "bold": 1.0
+      },
+      {
+        "text": "A university student is told by a financially supporting partner that tuition will be withheld unless",
+        "x0": 65.52756,
+        "top": 162.10037992000002,
+        "x1": 517.5811229999998,
+        "bottom": 171.40037991999998,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "the",
+        "x0": 65.52756,
+        "top": 177.10037992000002,
+        "x1": 80.78991368999999,
+        "bottom": 186.40037991999998,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "student ends friendships and abandons a training opportunity.",
+        "x0": 65.52756,
+        "top": 200.10037992000002,
+        "x1": 357.29689709999985,
+        "bottom": 209.40037991999998,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Learning point: Using financial support as leverage to restrict autonomy may indicate coercive",
+        "x0": 65.52756,
+        "top": 223.10037992000002,
+        "x1": 507.1367905499998,
+        "bottom": 232.40037991999998,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "control.",
+        "x0": 65.52756,
+        "top": 238.10037992000002,
+        "x1": 100.92477639,
+        "bottom": 247.40037991999998,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Support should preserve the student's choice and connect them to appropriate education or social",
+        "x0": 65.52756,
+        "top": 261.10037992,
+        "x1": 525.7277072399999,
+        "bottom": 270.40037992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "resources.",
+        "x0": 65.52756,
+        "top": 284.10037992,
+        "x1": 113.96203347,
+        "bottom": 293.40037992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "11. Five guided learning activities",
+        "x0": 65.52756,
+        "top": 316.3495988000001,
+        "x1": 344.63839785,
+        "bottom": 330.8495988,
+        "size": 14.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Activity 1 - Recognize the behavior",
+        "x0": 65.52756,
+        "top": 344.41268464000007,
+        "x1": 274.83615216,
+        "bottom": 355.0126846400001,
+        "size": 10.6,
+        "bold": 1.0
+      },
+      {
+        "text": "Read Case A. Identify the conduct that involves controlling funds, the potential effect on",
+        "x0": 65.52756,
+        "top": 364.1003799200001,
+        "x1": 477.96076544999977,
+        "bottom": 373.40037992000003,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "independent",
+        "x0": 65.52756,
+        "top": 379.1003799200001,
+        "x1": 124.31554863,
+        "bottom": 388.40037992000003,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "decision-making, and one safe question a supporter could ask. Suggested response: Threats and",
+        "x0": 65.52756,
+        "top": 402.1003799200001,
+        "x1": 517.5447999899999,
+        "bottom": 411.40037992000003,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "taking",
+        "x0": 65.52756,
+        "top": 417.1003799200001,
+        "x1": 94.64001123,
+        "bottom": 426.40037992000003,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "earnings are concerning; a safe question could be, \"Is it safe for us to discuss what support you",
+        "x0": 65.52756,
+        "top": 440.1003799200001,
+        "x1": 511.5097909799999,
+        "bottom": 449.40037992000003,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "would",
+        "x0": 65.52756,
+        "top": 455.1003799200001,
+        "x1": 93.20505005999999,
+        "bottom": 464.40037992000003,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "find useful?\"",
+        "x0": 65.52756,
+        "top": 478.1003799200001,
+        "x1": 123.56628110999999,
+        "bottom": 487.40037992000003,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Activity 2 - Healthy or coercive?",
+        "x0": 65.52756,
+        "top": 503.41268464000007,
+        "x1": 256.48800796,
+        "bottom": 514.0126846400001,
+        "size": 10.6,
+        "bold": 1.0
+      },
+      {
+        "text": "Compare: (a) two partners agree on a savings plan and both can review transactions; (b) one",
+        "x0": 65.52756,
+        "top": 523.10037992,
+        "x1": 501.43327724999983,
+        "bottom": 532.40037992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "partner",
+        "x0": 65.52756,
+        "top": 538.10037992,
+        "x1": 100.03927875,
+        "bottom": 547.40037992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "uses threats to demand all earnings. Suggested response: The first is potentially healthy",
+        "x0": 65.52756,
+        "top": 561.10037992,
+        "x1": 479.6091532499997,
+        "bottom": 570.40037992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "cooperation;",
+        "x0": 65.52756,
+        "top": 576.10037992,
+        "x1": 124.11574371,
+        "bottom": 585.40037992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "the second indicates coercive financial control.",
+        "x0": 65.52756,
+        "top": 599.10037992,
+        "x1": 284.72238573,
+        "bottom": 608.4003799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Activity 3 - Identify choices without giving orders",
+        "x0": 65.52756,
+        "top": 624.4126846400001,
+        "x1": 361.51495764000003,
+        "bottom": 635.0126846400001,
+        "size": 10.6,
+        "bold": 1.0
+      },
+      {
+        "text": "In Case C, list options for obtaining independent information without telling the person what to do.",
+        "x0": 65.52756,
+        "top": 644.10037992,
+        "x1": 525.5914752599998,
+        "bottom": 653.4003799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Suggested response: Explain that a qualified adviser, legal-aid service, or trusted support person",
+        "x0": 65.52756,
+        "top": 667.10037992,
+        "x1": 518.71637772,
+        "bottom": 676.4003799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "may",
+        "x0": 65.52756,
+        "top": 682.10037992,
+        "x1": 85.7895723,
+        "bottom": 691.4003799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "help review obligations. Safety and freedom to choose come first.",
+        "x0": 65.52756,
+        "top": 705.10037992,
+        "x1": 372.61828346999994,
+        "bottom": 714.40037992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Activity 4 - Digital safety reflection",
+        "x0": 65.52756,
+        "top": 730.41266464,
+        "x1": 275.87130576000004,
+        "bottom": 741.01266464,
+        "size": 10.6,
+        "bold": 1.0
+      },
+      {
+        "text": "A person reports that someone else reads their mobile-money notifications. What should you avoid",
+        "x0": 65.52756,
+        "top": 750.1003599200001,
+        "x1": 528.2752171799998,
+        "bottom": 759.40035992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA / GBV EDUCATIONAL CONTENT 8",
+        "x0": 59.52756,
+        "top": 822.018328,
+        "x1": 535.74802875,
+        "bottom": 829.518328,
+        "size": 7.5,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 9,
+    "width": 595.2756,
+    "height": 841.8898,
+    "lines": [
+      {
+        "text": "CHAPTER 08 / ECONOMIC VIOLENCE AND FINANCIAL CONTROL",
+        "x0": 59.52756,
+        "top": 42.33880488000011,
+        "x1": 311.25890833,
+        "bottom": 50.03880488000004,
+        "size": 7.7,
+        "bold": 0.0
+      },
+      {
+        "text": "suggesting automatically? Suggested response: Do not automatically recommend changing",
+        "x0": 65.52756,
+        "top": 79.10037992000002,
+        "x1": 494.0314184099999,
+        "bottom": 88.40037991999998,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "passwords",
+        "x0": 65.52756,
+        "top": 94.10037992000002,
+        "x1": 114.68859504,
+        "bottom": 103.40037991999998,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "or disabling access, which might be noticed and increase risk; explore safer support with a",
+        "x0": 65.52756,
+        "top": 117.10037992000002,
+        "x1": 489.09533552999983,
+        "bottom": 126.40037991999998,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "specialist.",
+        "x0": 65.52756,
+        "top": 132.10037992000002,
+        "x1": 112.00939524,
+        "bottom": 141.40037991999998,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Activity 5 - Supportive communication practice",
+        "x0": 65.52756,
+        "top": 157.41268464000007,
+        "x1": 346.89854768000004,
+        "bottom": 168.0126846400001,
+        "size": 10.6,
+        "bold": 1.0
+      },
+      {
+        "text": "Rewrite \"Why didn't you just leave?\" into a respectful question. Suggested response: \"What would",
+        "x0": 65.52756,
+        "top": 177.10037992000002,
+        "x1": 523.97033274,
+        "bottom": 186.40037991999998,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "feel",
+        "x0": 65.52756,
+        "top": 192.10037992000002,
+        "x1": 82.82882987999999,
+        "bottom": 201.40037991999998,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "most helpful and safe for you right now?\"",
+        "x0": 65.52756,
+        "top": 215.10037992000002,
+        "x1": 258.48439709999997,
+        "bottom": 224.40037991999998,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "12. Knowledge assessment - questions and explained",
+        "x0": 65.52756,
+        "top": 247.34959880000008,
+        "x1": 504.4711569,
+        "bottom": 261.8495988000001,
+        "size": 14.5,
+        "bold": 1.0
+      },
+      {
+        "text": "answers",
+        "x0": 65.52756,
+        "top": 266.3495988000001,
+        "x1": 133.27682785,
+        "bottom": 280.8495988000001,
+        "size": 14.5,
+        "bold": 1.0
+      },
+      {
+        "text": "1. Is economic abuse limited to stealing money?",
+        "x0": 65.52756,
+        "top": 301.3495988000001,
+        "x1": 459.76045475,
+        "bottom": 315.8495988000001,
+        "size": 14.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Answer: No. It can also include employment sabotage, forced debt, property control, and denying",
+        "x0": 65.52756,
+        "top": 327.10037992,
+        "x1": 521.3728743599999,
+        "bottom": 336.40037992000003,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "access to essential resources.",
+        "x0": 65.52756,
+        "top": 350.1003799200001,
+        "x1": 205.04572568999998,
+        "bottom": 359.40037992000003,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "2. Does sharing a household bank account automatically",
+        "x0": 65.52756,
+        "top": 382.3495988,
+        "x1": 529.187709,
+        "bottom": 396.8495988,
+        "size": 14.5,
+        "bold": 1.0
+      },
+      {
+        "text": "mean abuse?",
+        "x0": 65.52756,
+        "top": 401.3495988,
+        "x1": 172.98898415,
+        "bottom": 415.8495988,
+        "size": 14.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Answer: No. The key issue is whether control, threats, coercion, or exploitation remove meaningful",
+        "x0": 65.52756,
+        "top": 427.1003799200001,
+        "x1": 527.3851811399999,
+        "bottom": 436.40037992000003,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "choice.",
+        "x0": 65.52756,
+        "top": 450.1003799200001,
+        "x1": 98.59977732,
+        "bottom": 459.40037992000003,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "3. Can financial control occur in a family or caregiving",
+        "x0": 65.52756,
+        "top": 482.3495988,
+        "x1": 508.47847985000004,
+        "bottom": 496.8495988,
+        "size": 14.5,
+        "bold": 1.0
+      },
+      {
+        "text": "relationship?",
+        "x0": 65.52756,
+        "top": 501.3495988,
+        "x1": 172.16769544999997,
+        "bottom": 515.8495988,
+        "size": 14.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Answer: Yes. Economic abuse is not limited to intimate partners.",
+        "x0": 65.52756,
+        "top": 527.10037992,
+        "x1": 367.03283274000006,
+        "bottom": 536.40037992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "4. Why might a person remain financially dependent on",
+        "x0": 65.52756,
+        "top": 559.3495988,
+        "x1": 521.1801376499999,
+        "bottom": 573.8495988,
+        "size": 14.5,
+        "bold": 1.0
+      },
+      {
+        "text": "someone harmful?",
+        "x0": 65.52756,
+        "top": 578.3495988,
+        "x1": 216.60934285,
+        "bottom": 592.8495988000001,
+        "size": 14.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Answer: Safety, housing, food, childcare, debt, employment barriers, and other practical conditions",
+        "x0": 65.52756,
+        "top": 604.10037992,
+        "x1": 529.07897712,
+        "bottom": 613.4003799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "may",
+        "x0": 65.52756,
+        "top": 619.10037992,
+        "x1": 85.7895723,
+        "bottom": 628.4003799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "limit options.",
+        "x0": 65.52756,
+        "top": 642.10037992,
+        "x1": 126.15011685,
+        "bottom": 651.4003799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "5. Is poverty an excuse for economic abuse?",
+        "x0": 65.52756,
+        "top": 674.3495988000001,
+        "x1": 428.4594396,
+        "bottom": 688.8495988000001,
+        "size": 14.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Answer: No. Economic hardship may be a contextual factor, but responsibility belongs to the",
+        "x0": 65.52756,
+        "top": 700.10037992,
+        "x1": 498.39079340999984,
+        "bottom": 709.40037992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "person",
+        "x0": 65.52756,
+        "top": 715.10037992,
+        "x1": 97.40548992,
+        "bottom": 724.40037992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "using coercion.",
+        "x0": 65.52756,
+        "top": 738.1003599200001,
+        "x1": 136.19030478,
+        "bottom": 747.40035992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA / GBV EDUCATIONAL CONTENT 9",
+        "x0": 59.52756,
+        "top": 822.018328,
+        "x1": 535.74802875,
+        "bottom": 829.518328,
+        "size": 7.5,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 10,
+    "width": 595.2756,
+    "height": 841.8898,
+    "lines": [
+      {
+        "text": "CHAPTER 08 / ECONOMIC VIOLENCE AND FINANCIAL CONTROL",
+        "x0": 59.52756,
+        "top": 42.33880488000011,
+        "x1": 311.25890833,
+        "bottom": 50.03880488000004,
+        "size": 7.7,
+        "bold": 0.0
+      },
+      {
+        "text": "6. Can forced access to mobile-money PINs be",
+        "x0": 65.52756,
+        "top": 80.34959880000008,
+        "x1": 443.32760039999994,
+        "bottom": 94.84959880000008,
+        "size": 14.5,
+        "bold": 1.0
+      },
+      {
+        "text": "concerning?",
+        "x0": 65.52756,
+        "top": 99.34959880000008,
+        "x1": 164.3937713,
+        "bottom": 113.84959880000008,
+        "size": 14.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Answer: Yes, especially when demanded with threats, monitoring, or unauthorized use.",
+        "x0": 65.52756,
+        "top": 125.10037992000002,
+        "x1": 473.00651781,
+        "bottom": 134.40037991999998,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "7. Should a supporter always tell someone to open a",
+        "x0": 65.52756,
+        "top": 157.34959880000008,
+        "x1": 497.0370735999999,
+        "bottom": 171.84959880000008,
+        "size": 14.5,
+        "bold": 1.0
+      },
+      {
+        "text": "secret account?",
+        "x0": 65.52756,
+        "top": 176.34959880000008,
+        "x1": 194.47702135,
+        "bottom": 190.84959880000008,
+        "size": 14.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Answer: No. Financial and digital actions should follow an individualized safety assessment.",
+        "x0": 65.52756,
+        "top": 202.10037992000002,
+        "x1": 493.13229812999975,
+        "bottom": 211.40037991999998,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "8. Should you demand transaction screenshots to",
+        "x0": 65.52756,
+        "top": 234.34959880000008,
+        "x1": 472.48336374999985,
+        "bottom": 248.84959880000008,
+        "size": 14.5,
+        "bold": 1.0
+      },
+      {
+        "text": "believe someone?",
+        "x0": 65.52756,
+        "top": 253.34959880000008,
+        "x1": 211.9152535,
+        "bottom": 267.8495988000001,
+        "size": 14.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Answer: No. Listen respectfully and avoid unnecessary collection of sensitive personal data.",
+        "x0": 65.52756,
+        "top": 279.10037992,
+        "x1": 494.3492924099997,
+        "bottom": 288.40037992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "9. Can economic abuse continue after separation?",
+        "x0": 65.52756,
+        "top": 311.3495988000001,
+        "x1": 475.8959634,
+        "bottom": 325.8495988000001,
+        "size": 14.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Answer: Yes. Debt, property, harassment, and account access may create continuing problems.",
+        "x0": 65.52756,
+        "top": 337.1003799200001,
+        "x1": 512.5360599299997,
+        "bottom": 346.40037992000003,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "10. What is an appropriate first response?",
+        "x0": 65.52756,
+        "top": 369.3495988,
+        "x1": 412.0973757,
+        "bottom": 383.8495988,
+        "size": 14.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Answer: Listen, validate, ask about immediate safety and needs, explain options and privacy limits,",
+        "x0": 65.52756,
+        "top": 395.1003799200001,
+        "x1": 529.7480301799997,
+        "bottom": 404.40037992000003,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "and",
+        "x0": 65.52756,
+        "top": 410.1003799200001,
+        "x1": 83.02409361,
+        "bottom": 419.40037992000003,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "offer specialist referrals.",
+        "x0": 65.52756,
+        "top": 433.1003799200001,
+        "x1": 179.02116369,
+        "bottom": 442.40037992000003,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "13. Facilitator notes and safeguarding",
+        "x0": 65.52756,
+        "top": 465.3495988,
+        "x1": 379.77682495,
+        "bottom": 479.8495988,
+        "size": 14.5,
+        "bold": 1.0
+      },
+      {
+        "text": "For group education, avoid asking participants to disclose personal experiences. Use fictional",
+        "x0": 65.52756,
+        "top": 491.1003799200001,
+        "x1": 500.99279483999965,
+        "bottom": 500.40037992000003,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "cases,",
+        "x0": 65.52756,
+        "top": 506.1003799200001,
+        "x1": 94.70812722,
+        "bottom": 515.40037992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "allow people to pass, do not collect names or financial information during exercises, and provide",
+        "x0": 65.52756,
+        "top": 529.10037992,
+        "x1": 516.82277589,
+        "bottom": 538.40037992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "private",
+        "x0": 65.52756,
+        "top": 544.10037992,
+        "x1": 98.40905384999999,
+        "bottom": 553.40037992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "referral options. Do not promise that group discussions are confidential. Facilitators should know",
+        "x0": 65.52756,
+        "top": 567.10037992,
+        "x1": 516.9726277199998,
+        "bottom": 576.40037992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "how to",
+        "x0": 65.52756,
+        "top": 582.10037992,
+        "x1": 97.01042127,
+        "bottom": 591.4003799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "respond if someone reports immediate danger or a child-safeguarding concern.",
+        "x0": 65.52756,
+        "top": 605.10037992,
+        "x1": 436.76921196000006,
+        "bottom": 614.4003799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Rwanda-specific terminology, property and family-law statements, workplace rights,",
+        "x0": 65.52756,
+        "top": 628.10037992,
+        "x1": 459.35622146999987,
+        "bottom": 637.4003799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "financial-service",
+        "x0": 65.52756,
+        "top": 643.10037992,
+        "x1": 141.52145724000002,
+        "bottom": 652.4003799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "procedures, and referral contacts must be checked by local GBV/legal professionals before",
+        "x0": 65.52756,
+        "top": 666.10037992,
+        "x1": 489.16345151999985,
+        "bottom": 675.4003799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "publication.",
+        "x0": 65.52756,
+        "top": 681.10037992,
+        "x1": 119.97887772,
+        "bottom": 690.4003799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Any digital version should minimize data collection and provide a safe exit option.",
+        "x0": 65.52756,
+        "top": 704.10037992,
+        "x1": 448.15807658999984,
+        "bottom": 713.40037992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "14. Accessing support in Rwanda",
+        "x0": 65.52756,
+        "top": 736.3495788,
+        "x1": 336.4679857,
+        "bottom": 750.8495788,
+        "size": 14.5,
+        "bold": 1.0
+      },
+      {
+        "text": "MIGEPROF describes Isange One Stop Centres as providing coordinated healthcare, psychosocial",
+        "x0": 65.52756,
+        "top": 762.1003599200001,
+        "x1": 517.3904032499998,
+        "bottom": 771.40035992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA / GBV EDUCATIONAL CONTENT 10",
+        "x0": 59.52756,
+        "top": 822.018328,
+        "x1": 535.7480575,
+        "bottom": 829.518328,
+        "size": 7.5,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 11,
+    "width": 595.2756,
+    "height": 841.8898,
+    "lines": [
+      {
+        "text": "CHAPTER 08 / ECONOMIC VIOLENCE AND FINANCIAL CONTROL",
+        "x0": 59.52756,
+        "top": 42.33880488000011,
+        "x1": 311.25890833,
+        "bottom": 50.03880488000004,
+        "size": 7.7,
+        "bold": 0.0
+      },
+      {
+        "text": "support, legal and protection services. UNHCR Rwanda lists the Isange toll-free contact as 3029",
+        "x0": 65.52756,
+        "top": 79.10037992000002,
+        "x1": 512.3998270199997,
+        "bottom": 88.40037991999998,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "and",
+        "x0": 65.52756,
+        "top": 94.10037992000002,
+        "x1": 83.02409361,
+        "bottom": 103.40037991999998,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "notes that contacting a centre may result in a report to law enforcement. MIGEPROF also lists RIB",
+        "x0": 65.52756,
+        "top": 117.10037992000002,
+        "x1": 521.1140358299997,
+        "bottom": 126.40037991999998,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "116 /",
+        "x0": 65.52756,
+        "top": 132.10037992000002,
+        "x1": 89.36789331,
+        "bottom": 141.40037991999998,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "3512, Gender Monitoring Office 5798, and MIGEPROF 9059. Contact details and service",
+        "x0": 65.52756,
+        "top": 155.10037992000002,
+        "x1": 473.26989845999987,
+        "bottom": 164.40037991999998,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "arrangements",
+        "x0": 65.52756,
+        "top": 170.10037992000002,
+        "x1": 131.25876216,
+        "bottom": 179.40037991999998,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "should be rechecked before public dissemination. [6, 7]",
+        "x0": 65.52756,
+        "top": 193.10037992000002,
+        "x1": 325.12380192000006,
+        "bottom": 202.40037991999998,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "If a person is seeking assistance with property, contracts, debt, or employment disputes, a verified",
+        "x0": 65.52756,
+        "top": 216.10037992000002,
+        "x1": 527.5577370599997,
+        "bottom": 225.40037991999998,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Rwandan legal-aid provider or appropriate local institution should explain applicable rights. No",
+        "x0": 65.52756,
+        "top": 239.10037992000002,
+        "x1": 507.3729184799998,
+        "bottom": 248.40037991999998,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "outcome",
+        "x0": 65.52756,
+        "top": 254.10037992000002,
+        "x1": 106.34220867,
+        "bottom": 263.40037992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "can be guaranteed from this general educational material.",
+        "x0": 65.52756,
+        "top": 277.10037992,
+        "x1": 338.82404669999994,
+        "bottom": 286.40037992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "15. Key takeaways",
+        "x0": 65.52756,
+        "top": 309.3495988000001,
+        "x1": 219.07321475,
+        "bottom": 323.8495988000001,
+        "size": 14.5,
+        "bold": 1.0
+      },
+      {
+        "text": "• Economic abuse involves coercive control or exploitation of resources and opportunities.",
+        "x0": 69.52756,
+        "top": 335.07635648,
+        "x1": 487.48967063999953,
+        "bottom": 344.27635648000006,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Financial abuse is one part of the broader concept of economic abuse.",
+        "x0": 69.52756,
+        "top": 354.57635648,
+        "x1": 402.85686044,
+        "bottom": 363.77635648000006,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Warning signs include withheld necessities, confiscated earnings, forced debt, and work",
+        "x0": 69.52756,
+        "top": 374.07635648,
+        "x1": 484.55627363999974,
+        "bottom": 383.27635648000006,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "interference.",
+        "x0": 65.52756,
+        "top": 393.6003799200001,
+        "x1": 125.42355714000001,
+        "bottom": 402.90037992000003,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "• Financial dependence is never a reason to blame a survivor.",
+        "x0": 69.52756,
+        "top": 416.57635648,
+        "x1": 356.44807224,
+        "bottom": 425.77635648000006,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Support should protect autonomy, privacy, and safety, with specialist referral when appropriate.",
+        "x0": 69.52756,
+        "top": 436.07635648,
+        "x1": 523.1351782799995,
+        "bottom": 445.27635648000006,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "16. Glossary",
+        "x0": 65.52756,
+        "top": 467.8495988,
+        "x1": 166.74435615000002,
+        "bottom": 482.3495988,
+        "size": 14.5,
+        "bold": 1.0
+      },
+      {
+        "text": "Economic abuse: Using resources or economic opportunities to control, exploit, or harm a person.",
+        "x0": 65.52756,
+        "top": 493.6003799200001,
+        "x1": 521.7361546799998,
+        "bottom": 502.90037992000003,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Financial abuse: Misuse or control of money, accounts, property, and financial decisions.",
+        "x0": 65.52756,
+        "top": 516.60037992,
+        "x1": 479.08239845999987,
+        "bottom": 525.90037992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Employment sabotage: Interfering with a person's opportunity to obtain or maintain work.",
+        "x0": 65.52756,
+        "top": 539.60037992,
+        "x1": 485.9302451399999,
+        "bottom": 548.90037992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Economic exploitation: Taking or using another person's financial resources or labor through",
+        "x0": 65.52756,
+        "top": 562.60037992,
+        "x1": 497.5370831699999,
+        "bottom": 571.90037992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "coercion or",
+        "x0": 65.52756,
+        "top": 577.60037992,
+        "x1": 117.62663243999998,
+        "bottom": 586.9003799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "misuse of power.",
+        "x0": 65.52756,
+        "top": 600.60037992,
+        "x1": 145.05436727999998,
+        "bottom": 609.9003799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Coercive control: A pattern of conduct that restricts another person's independence through",
+        "x0": 65.52756,
+        "top": 623.60037992,
+        "x1": 496.49264945999994,
+        "bottom": 632.9003799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "intimidation, threats, or other controlling tactics.",
+        "x0": 65.52756,
+        "top": 646.60037992,
+        "x1": 292.5647158199999,
+        "bottom": 655.9003799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Survivor-centred support: Support that prioritizes the person's dignity, safety, informed choice, and",
+        "x0": 65.52756,
+        "top": 669.60037992,
+        "x1": 529.7480279299998,
+        "bottom": 678.9003799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "needs.",
+        "x0": 65.52756,
+        "top": 692.60037992,
+        "x1": 96.56994351,
+        "bottom": 701.9003799200001,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "Digital financial safety: Considering risks from monitored devices, payment accounts, messages,",
+        "x0": 65.52756,
+        "top": 715.6003599200001,
+        "x1": 517.3041252899998,
+        "bottom": 724.90035992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "and",
+        "x0": 65.52756,
+        "top": 730.6003599200001,
+        "x1": 83.02409361,
+        "bottom": 739.90035992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "transaction information.",
+        "x0": 65.52756,
+        "top": 753.6003599200001,
+        "x1": 177.81325365,
+        "bottom": 762.90035992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA / GBV EDUCATIONAL CONTENT 11",
+        "x0": 59.52756,
+        "top": 822.018328,
+        "x1": 535.7480575,
+        "bottom": 829.518328,
+        "size": 7.5,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 12,
+    "width": 595.2756,
+    "height": 841.8898,
+    "lines": [
+      {
+        "text": "CHAPTER 08 / ECONOMIC VIOLENCE AND FINANCIAL CONTROL",
+        "x0": 59.52756,
+        "top": 42.33880488000011,
+        "x1": 311.25890833,
+        "bottom": 50.03880488000004,
+        "size": 7.7,
+        "bold": 0.0
+      },
+      {
+        "text": "17. Scientific and institutional references",
+        "x0": 65.52756,
+        "top": 80.34959880000008,
+        "x1": 405.35006605,
+        "bottom": 94.84959880000008,
+        "size": 14.5,
+        "bold": 1.0
+      },
+      {
+        "text": "[1] United Nations. What Is Domestic Abuse?",
+        "x0": 65.52756,
+        "top": 105.7880752000001,
+        "x1": 245.52365360000002,
+        "bottom": 113.7880752000001,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "https://www.un.org/en/node/71778",
+        "x0": 65.52756,
+        "top": 127.60037992000002,
+        "x1": 228.60905850000006,
+        "bottom": 136.90037991999998,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "[2] Women and Gender Equality Canada. Economic abuse.",
+        "x0": 65.52756,
+        "top": 150.2880752000001,
+        "x1": 300.5978744,
+        "bottom": 158.2880752000001,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "https://www.canada.ca/en/women-gender-equality/gender-based-violence/economic-abuse.html",
+        "x0": 65.52756,
+        "top": 172.10037992000002,
+        "x1": 514.73845338,
+        "bottom": 181.40037991999998,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "[3] National Network to End Domestic Violence. Financial Safety Planning; About Financial Abuse.",
+        "x0": 65.52756,
+        "top": 194.7880752000001,
+        "x1": 456.5900608,
+        "bottom": 202.7880752000001,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "https://nnedv.org/content/financial-safety-planning/",
+        "x0": 65.52756,
+        "top": 216.60037992000002,
+        "x1": 306.24226022999994,
+        "bottom": 225.90037991999998,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "[4] World Health Organization. Violence against women. 18 June 2026.",
+        "x0": 65.52756,
+        "top": 239.2880752000001,
+        "x1": 349.11350000000016,
+        "bottom": 247.2880752000001,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "https://www.who.int/news-room/fact-sheets/detail/violence-against-women",
+        "x0": 65.52756,
+        "top": 261.10037992,
+        "x1": 414.7952379900001,
+        "bottom": 270.40037992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "[5] World Health Organization. Health care for women subjected to intimate partner violence or sexual violence: a",
+        "x0": 65.52756,
+        "top": 283.7880752000001,
+        "x1": 523.7384991999998,
+        "bottom": 291.7880752000001,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "clinical handbook.",
+        "x0": 65.52756,
+        "top": 305.60037992,
+        "x1": 149.65441605,
+        "bottom": 314.90037992,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "https://www.who.int/publications/i/item/WHO-RHR-14.26",
+        "x0": 65.52756,
+        "top": 328.60037992,
+        "x1": 328.13903490000007,
+        "bottom": 337.90037992000003,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "[6] Ministry of Gender and Family Promotion (Rwanda). Directorate General of Family Promotion and Child",
+        "x0": 65.52756,
+        "top": 351.28807520000004,
+        "x1": 492.02365279999987,
+        "bottom": 359.28807520000004,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "Protection.",
+        "x0": 65.52756,
+        "top": 373.1003799200001,
+        "x1": 115.90104534000001,
+        "bottom": 382.40037992000003,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "https://www.migeprof.gov.rw/family-promotion-and-child-right-protection",
+        "x0": 65.52756,
+        "top": 396.1003799200001,
+        "x1": 406.77125751,
+        "bottom": 405.40037992000003,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "[7] UNHCR Rwanda. Gender-Based Violence - Services and Isange referrals.",
+        "x0": 65.52756,
+        "top": 418.78807520000004,
+        "x1": 368.9299063999999,
+        "bottom": 426.78807520000004,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "https://help.unhcr.org/rwanda/services/sgbv/",
+        "x0": 65.52756,
+        "top": 440.6003799200001,
+        "x1": 274.38703626,
+        "bottom": 449.90037992000003,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "[8] US National Institute of Justice. Economic Abuse in the Life of Survivors (2021).",
+        "x0": 65.52756,
+        "top": 463.28807520000004,
+        "x1": 396.55490560000004,
+        "bottom": 471.28807520000004,
+        "size": 8.0,
+        "bold": 0.0
+      },
+      {
+        "text": "https://nij.ojp.gov/library/publications/economic-abuse-life-survivors",
+        "x0": 65.52756,
+        "top": 485.1003799200001,
+        "x1": 382.44504011999993,
+        "bottom": 494.40037992000003,
+        "size": 9.3,
+        "bold": 0.0
+      },
+      {
+        "text": "18. Editorial and professional review checklist",
+        "x0": 65.52756,
+        "top": 517.3495988,
+        "x1": 444.00021190000007,
+        "bottom": 531.8495988,
+        "size": 14.5,
+        "bold": 1.0
+      },
+      {
+        "text": "• □ GBV specialist verified all descriptions of control and safety advice.",
+        "x0": 69.52756,
+        "top": 543.07635648,
+        "x1": 399.81115351999983,
+        "bottom": 552.27635648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• □ Rwanda legal reviewer checked property, debt, employment, and reporting language.",
+        "x0": 69.52756,
+        "top": 562.57635648,
+        "x1": 486.48342155999967,
+        "bottom": 571.77635648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• □ Local referral services and contacts are confirmed as current.",
+        "x0": 69.52756,
+        "top": 582.07635648,
+        "x1": 373.81936043999985,
+        "bottom": 591.27635648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• □ Kinyarwanda and French translations are reviewed by qualified local experts.",
+        "x0": 69.52756,
+        "top": 601.5763564800001,
+        "x1": 445.9504148399999,
+        "bottom": 610.77635648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• □ Accessible reading and mobile-format checks are completed.",
+        "x0": 69.52756,
+        "top": 621.0763564800001,
+        "x1": 371.69006092,
+        "bottom": 630.27635648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• □ Public website content does not solicit sensitive financial or abuse disclosures unnecessarily.",
+        "x0": 69.52756,
+        "top": 640.5763564800001,
+        "x1": 518.2881085999996,
+        "bottom": 649.77635648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "END OF CHAPTER 08 | Education draft | Professional review required",
+        "x0": 75.3622,
+        "top": 694.8255268,
+        "x1": 401.26600799999994,
+        "bottom": 704.3255268,
+        "size": 9.5,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA / GBV EDUCATIONAL CONTENT 12",
+        "x0": 59.52756,
+        "top": 822.018328,
+        "x1": 535.7480575,
+        "bottom": 829.518328,
+        "size": 7.5,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  }
+]

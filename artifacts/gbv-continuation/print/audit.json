@@ -1,0 +1,58 @@
+[
+  {
+    "chapter": 4,
+    "pages": 12,
+    "checkedTextUnits": 143,
+    "missing": [],
+    "blankPages": [],
+    "outsidePage": []
+  },
+  {
+    "chapter": 5,
+    "pages": 14,
+    "checkedTextUnits": 185,
+    "missing": [],
+    "blankPages": [],
+    "outsidePage": []
+  },
+  {
+    "chapter": 6,
+    "pages": 13,
+    "checkedTextUnits": 147,
+    "missing": [],
+    "blankPages": [],
+    "outsidePage": []
+  },
+  {
+    "chapter": 7,
+    "pages": 14,
+    "checkedTextUnits": 178,
+    "missing": [],
+    "blankPages": [],
+    "outsidePage": []
+  },
+  {
+    "chapter": 8,
+    "pages": 13,
+    "checkedTextUnits": 162,
+    "missing": [],
+    "blankPages": [],
+    "outsidePage": []
+  },
+  {
+    "chapter": 9,
+    "pages": 15,
+    "checkedTextUnits": 172,
+    "missing": [],
+    "blankPages": [],
+    "outsidePage": []
+  },
+  {
+    "chapter": 10,
+    "pages": 13,
+    "checkedTextUnits": 163,
+    "missing": [],
+    "blankPages": [],
+    "outsidePage": []
+  }
+]

@@ -1,0 +1,29 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.DS_Store
+test-results/
+playwright-report/
+.env
+.env.*
+!.env.example
+
+# Local scratch files and generated review/build output.
+/tmp/
+/artifacts/**/production/
+/artifacts/**/*test-results*/
+/artifacts/**/*.log
+/artifacts/**/*.pid
+/artifacts/**/*.png
+/artifacts/**/*.jpg
+/artifacts/**/*.jpeg
+/artifacts/**/*.webp
+/artifacts/**/*.pdf
+
+# Retain original artwork used by the asset preparation scripts.
+!/artifacts/**/originals/**
+!/artifacts/learning-visuals/*.png
+!/artifacts/mental-health-candidates/*.jpg
+!/artifacts/reference.webp
+!/artifacts/hero-reference.png
+!/artifacts/hero-restored.png

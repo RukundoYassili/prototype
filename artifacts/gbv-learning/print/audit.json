@@ -1,0 +1,26 @@
+[
+  {
+    "chapter": 1,
+    "pages": 23,
+    "images": 12,
+    "missingExtractedUnits": [],
+    "blankPages": [],
+    "textOutsidePage": []
+  },
+  {
+    "chapter": 2,
+    "pages": 22,
+    "images": 10,
+    "missingExtractedUnits": [],
+    "blankPages": [],
+    "textOutsidePage": []
+  },
+  {
+    "chapter": 3,
+    "pages": 24,
+    "images": 10,
+    "missingExtractedUnits": [],
+    "blankPages": [],
+    "textOutsidePage": []
+  }
+]

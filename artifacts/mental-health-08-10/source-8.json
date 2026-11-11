@@ -1,0 +1,3004 @@
+[
+  {
+    "page": 1,
+    "width": 595.28,
+    "height": 841.89,
+    "lines": [
+      {
+        "text": "VUGA NDAKUMVA",
+        "x0": 54.0,
+        "top": 116.64257840000005,
+        "x1": 165.0957034,
+        "bottom": 127.64257840000005,
+        "size": 11.0,
+        "bold": 1.0
+      },
+      {
+        "text": "UNDERSTANDING SLEEP",
+        "x0": 54.0,
+        "top": 152.24609439999995,
+        "x1": 407.85644579999996,
+        "bottom": 178.24609439999995,
+        "size": 26.0,
+        "bold": 1.0
+      },
+      {
+        "text": "AND MENTAL WELLBEING",
+        "x0": 54.0,
+        "top": 186.24609439999995,
+        "x1": 425.31249220000007,
+        "bottom": 212.24609439999995,
+        "size": 26.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Mental Health Educational Content Library | Expanded Chapter 08",
+        "x0": 54.0,
+        "top": 228.64257840000005,
+        "x1": 464.0292966,
+        "bottom": 239.64257840000005,
+        "size": 11.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Purpose. To help readers understand sleep physiology, recognize common sleep problems, develop",
+        "x0": 54.0,
+        "top": 286.2582033599999,
+        "x1": 524.1606450600002,
+        "bottom": 295.65820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "supportive routines, and know when professional medical or psychological care is needed.",
+        "x0": 54.0,
+        "top": 301.55820336,
+        "x1": 480.2587920000003,
+        "bottom": 310.9582033600001,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Audience. General adult readers, older adolescents with appropriate support, caregivers, educators,",
+        "x0": 54.0,
+        "top": 325.85820335999995,
+        "x1": 526.7768558800002,
+        "bottom": 335.25820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "and community health educators.",
+        "x0": 54.0,
+        "top": 341.15820336,
+        "x1": 213.23545104,
+        "bottom": 350.55820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Publication status. Evidence-informed educational draft. This handbook is not a diagnostic tool or a",
+        "x0": 54.0,
+        "top": 365.45820335999997,
+        "x1": 521.5995107200001,
+        "bottom": 374.85820335999995,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "substitute for individualized professional care. Clinical review, Rwanda-specific referral checks,",
+        "x0": 54.0,
+        "top": 380.75820336,
+        "x1": 501.5832043000004,
+        "bottom": 390.15820335999996,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "accessibility review, and human-reviewed translation are required before public release.",
+        "x0": 54.0,
+        "top": 396.05820336,
+        "x1": 471.3820336000003,
+        "bottom": 405.45820335999997,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Edition 1.0 | 11 November 2026 | English",
+        "x0": 54.0,
+        "top": 420.06992207999997,
+        "x1": 222.75263882000007,
+        "bottom": 428.26992207999996,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "Important: If you are extremely sleepy, avoid driving or operating machinery. If you have severe",
+        "x0": 66.0,
+        "top": 464.38222679999996,
+        "x1": 526.6572324999999,
+        "bottom": 473.88222679999996,
+        "size": 9.5,
+        "bold": 0.0
+      },
+      {
+        "text": "difficulty breathing during sleep, sudden loss of consciousness, or other acute symptoms, seek",
+        "x0": 66.0,
+        "top": 480.38222679999996,
+        "x1": 518.7390166999999,
+        "bottom": 489.88222679999996,
+        "size": 9.5,
+        "bold": 0.0
+      },
+      {
+        "text": "appropriate medical care.",
+        "x0": 66.0,
+        "top": 496.38222679999996,
+        "x1": 188.87377899999998,
+        "bottom": 505.88222679999996,
+        "size": 9.5,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA | Mental Health Content Library | Educational draft 1",
+        "x0": 48.0,
+        "top": 803.1917579999999,
+        "x1": 547.00002875,
+        "bottom": 810.6917579999999,
+        "size": 7.5,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 2,
+    "width": 595.28,
+    "height": 841.89,
+    "lines": [
+      {
+        "text": "Learning goals and chapter map",
+        "x0": 54.0,
+        "top": 62.843750399999976,
+        "x1": 346.062496,
+        "bottom": 78.84375039999998,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "After this chapter, a learner should be able to describe the main stages and regulators of sleep,",
+        "x0": 54.0,
+        "top": 95.25820335999992,
+        "x1": 505.9068377000004,
+        "bottom": 104.65820336000002,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "recognize common patterns of sleep difficulty, explain the relationship between sleep and emotional",
+        "x0": 54.0,
+        "top": 110.55820335999988,
+        "x1": 529.6868176400003,
+        "bottom": 119.95820335999997,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "wellbeing, identify supportive daily habits, and seek appropriate professional assessment when",
+        "x0": 54.0,
+        "top": 125.85820335999983,
+        "x1": 504.6033218400003,
+        "bottom": 135.25820335999992,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "needed.",
+        "x0": 54.0,
+        "top": 141.1582033599999,
+        "x1": 92.22880924,
+        "bottom": 150.55820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Section What readers will learn",
+        "x0": 63.0,
+        "top": 173.16992208,
+        "x1": 248.15683604000003,
+        "bottom": 181.36992207999992,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "1-4 Why sleep matters; circadian rhythms; sleep pressure; NREM and REM sleep",
+        "x0": 63.0,
+        "top": 200.16992208,
+        "x1": 467.91523703999997,
+        "bottom": 208.36992207999992,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "5-9 Sleep needs; inadequate sleep; insomnia and other disorders; mental health connections",
+        "x0": 63.0,
+        "top": 227.16992208,
+        "x1": 519.8979529599998,
+        "bottom": 235.36992207999992,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "10-14 Practical sleep habits; contextual barriers; treatment, medications and safety",
+        "x0": 63.0,
+        "top": 254.16992208,
+        "x1": 471.7349618599999,
+        "bottom": 262.3699220799999,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "15-19 Case studies, guided exercises, assessments, answers, glossary and references",
+        "x0": 63.0,
+        "top": 281.16992208,
+        "x1": 480.9279343,
+        "bottom": 289.3699220799999,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "1. What is sleep, and why do we need it?",
+        "x0": 54.0,
+        "top": 330.04375039999996,
+        "x1": 423.3593648000001,
+        "bottom": 346.04375039999996,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Sleep is a natural, recurring state in which the brain and body undergo coordinated changes. It is not",
+        "x0": 54.0,
+        "top": 362.45820336,
+        "x1": 531.44013948,
+        "bottom": 371.85820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "simply a period of inactivity. During sleep, the brain cycles through different stages that support",
+        "x0": 54.0,
+        "top": 377.75820336,
+        "x1": 509.5970699600002,
+        "bottom": 387.15820335999996,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "attention, learning, memory, emotional processing and physical functioning. The value of sleep is not",
+        "x0": 54.0,
+        "top": 393.05820336,
+        "x1": 532.7161161600004,
+        "bottom": 402.45820335999997,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "measured by duration alone: timing, continuity and how rested a person feels during the day also",
+        "x0": 54.0,
+        "top": 408.35820336,
+        "x1": 515.5225620600004,
+        "bottom": 417.75820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "matter. [1-3]",
+        "x0": 54.0,
+        "top": 423.65820336,
+        "x1": 114.59970662,
+        "bottom": 433.05820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "A single difficult night is common and does not necessarily indicate a disorder. Sleep becomes a",
+        "x0": 54.0,
+        "top": 447.95820335999997,
+        "x1": 508.6928717400004,
+        "bottom": 457.35820335999995,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "greater concern when problems persist, are distressing, or interfere with safe and effective daily life. A",
+        "x0": 54.0,
+        "top": 463.25820336,
+        "x1": 539.6743185800005,
+        "bottom": 472.65820335999996,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "person with adequate time in bed may still get poor-quality sleep because of repeated awakenings or",
+        "x0": 54.0,
+        "top": 478.55820336,
+        "x1": 533.8406259400003,
+        "bottom": 487.95820335999997,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "an underlying disorder.",
+        "x0": 54.0,
+        "top": 493.85820336,
+        "x1": 163.62841838,
+        "bottom": 503.25820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Why the topic belongs in mental health education",
+        "x0": 54.0,
+        "top": 521.61464872,
+        "x1": 372.75599689,
+        "bottom": 532.9146487200001,
+        "size": 11.3,
+        "bold": 1.0
+      },
+      {
+        "text": "Sleep and mental health affect each other. Stress, anxiety, depression, trauma-related symptoms and",
+        "x0": 54.0,
+        "top": 544.15820336,
+        "x1": 536.3329137400003,
+        "bottom": 553.55820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "other difficulties may interfere with sleep. Repeated poor sleep can also worsen concentration,",
+        "x0": 54.0,
+        "top": 559.45820336,
+        "x1": 502.0926777200002,
+        "bottom": 568.8582033600001,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "irritability, emotional regulation and coping capacity. This does not mean that every person who sleeps",
+        "x0": 54.0,
+        "top": 574.7582033599999,
+        "x1": 541.2799960400001,
+        "bottom": 584.15820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "poorly has a mental illness. [3,4]",
+        "x0": 54.0,
+        "top": 590.05820336,
+        "x1": 208.42070429999998,
+        "bottom": 599.45820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "2. The body clock: circadian rhythm",
+        "x0": 54.0,
+        "top": 624.9437504,
+        "x1": 376.7187440000001,
+        "bottom": 640.9437504,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "The circadian rhythm is an approximately 24-hour timing system that influences when we feel alert,",
+        "x0": 54.0,
+        "top": 657.3582033600001,
+        "x1": 526.6621138400005,
+        "bottom": 666.75820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "sleepy, hungry and ready for activity. Light, daily activity and regular waking patterns help synchronize",
+        "x0": 54.0,
+        "top": 672.65820336,
+        "x1": 541.2800076400002,
+        "bottom": 682.05820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "it. The brain receives information about environmental light and uses it to coordinate the sleep-wake",
+        "x0": 54.0,
+        "top": 687.95820336,
+        "x1": 530.8205093400004,
+        "bottom": 697.3582033600001,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "cycle. The hormone melatonin typically rises as darkness approaches, helping signal nighttime. [2]",
+        "x0": 54.0,
+        "top": 703.2582033599999,
+        "x1": 521.1864286600003,
+        "bottom": 712.65820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "For example, a student who stays awake on a phone until very late and sleeps until noon on weekends",
+        "x0": 54.0,
+        "top": 727.55820336,
+        "x1": 539.9497141400003,
+        "bottom": 736.95820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "may find it difficult to become sleepy at an earlier school-night bedtime. However, teenagers naturally",
+        "x0": 54.0,
+        "top": 742.85820336,
+        "x1": 538.1734384400003,
+        "bottom": 752.2582033599999,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "tend toward later sleep timing than younger children; this biological shift should not be mistaken for",
+        "x0": 54.0,
+        "top": 758.15820336,
+        "x1": 527.8921875000003,
+        "bottom": 767.55820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA | Mental Health Content Library | Educational draft 2",
+        "x0": 48.0,
+        "top": 803.1917579999999,
+        "x1": 547.00002875,
+        "bottom": 810.6917579999999,
+        "size": 7.5,
+        "bold": 0.0
+      }
+    ],
+    "tables": [
+      {
+        "bbox": [
+          54.0,
+          163.19999999999993,
+          564.0,
+          298.19999999999993
+        ],
+        "rows": [
+          [
+            "Section What readers will learn"
+          ],
+          [
+            "1-4 Why sleep matters; circadian rhythms; sleep pressure; NREM and REM sleep"
+          ],
+          [
+            "5-9 Sleep needs; inadequate sleep; insomnia and other disorders; mental health connections"
+          ],
+          [
+            "10-14 Practical sleep habits; contextual barriers; treatment, medications and safety"
+          ],
+          [
+            "15-19 Case studies, guided exercises, assessments, answers, glossary and references"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "width": 595.28,
+    "height": 841.89,
+    "lines": [
+      {
+        "text": "laziness.",
+        "x0": 54.0,
+        "top": 61.258203359999925,
+        "x1": 94.44111334,
+        "bottom": 70.65820336000002,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Sleep pressure",
+        "x0": 54.0,
+        "top": 89.01464871999985,
+        "x1": 149.42099680000004,
+        "bottom": 100.31464871999992,
+        "size": 11.3,
+        "bold": 1.0
+      },
+      {
+        "text": "A second process is the drive to sleep that builds while we are awake. Sleep pressure generally",
+        "x0": 54.0,
+        "top": 111.55820336,
+        "x1": 504.3784202600004,
+        "bottom": 120.95820336000008,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "increases as waking hours pass and decreases during sleep. Together, sleep pressure and the",
+        "x0": 54.0,
+        "top": 126.85820335999995,
+        "x1": 498.2372122600003,
+        "bottom": 136.25820336000004,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "circadian rhythm influence when we fall asleep and wake up. Caffeine can temporarily reduce our",
+        "x0": 54.0,
+        "top": 142.1582033599999,
+        "x1": 515.9310625600003,
+        "bottom": 151.55820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "sense of sleepiness but does not replace the restorative functions of sleep. [2]",
+        "x0": 54.0,
+        "top": 157.45820335999997,
+        "x1": 424.14336196000005,
+        "bottom": 166.85820336000006,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "3. What happens during the night?",
+        "x0": 54.0,
+        "top": 192.34375039999998,
+        "x1": 369.0078064000001,
+        "bottom": 208.34375039999998,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Typical sleep contains both non-rapid-eye-movement (NREM) and rapid-eye-movement (REM) stages,",
+        "x0": 54.0,
+        "top": 224.75820335999992,
+        "x1": 533.9324216400001,
+        "bottom": 234.15820336000002,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "cycling several times. Patterns change with age and across the night. [5]",
+        "x0": 54.0,
+        "top": 240.05820336,
+        "x1": 398.58252194000005,
+        "bottom": 249.45820336000008,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Stage Broad description",
+        "x0": 63.0,
+        "top": 272.0699220800001,
+        "x1": 235.44267532,
+        "bottom": 280.26992208,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "NREM 1 A light transition from wakefulness into sleep; easy to awaken.",
+        "x0": 63.0,
+        "top": 299.0699220800001,
+        "x1": 421.34004142000003,
+        "bottom": 307.26992208,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "NREM 2 More established sleep; body functions slow and external awareness decreases.",
+        "x0": 63.0,
+        "top": 326.06992207999997,
+        "x1": 492.7457070199999,
+        "bottom": 334.26992207999996,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "NREM 3 Deep or slow-wave sleep; especially prominent earlier in the night.",
+        "x0": 63.0,
+        "top": 353.06992207999997,
+        "x1": 438.27255926,
+        "bottom": 361.26992207999996,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "REM Brain activity changes; vivid dreams are common and memory/emotional functions are",
+        "x0": 63.0,
+        "top": 380.06992207999997,
+        "x1": 522.2504927399999,
+        "bottom": 388.26992207999996,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "supported.",
+        "x0": 163.0,
+        "top": 392.06992207999997,
+        "x1": 207.3392573,
+        "bottom": 400.26992207999996,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "No single stage is the only \"important\" stage. Normal sleep includes a balance across stages, and",
+        "x0": 54.0,
+        "top": 421.35820336,
+        "x1": 515.4537127000006,
+        "bottom": 430.75820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "consumer sleep trackers cannot reliably diagnose a sleep disorder based solely on their stage",
+        "x0": 54.0,
+        "top": 436.65820336,
+        "x1": 497.44316606000024,
+        "bottom": 446.05820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "estimates.",
+        "x0": 54.0,
+        "top": 451.95820336,
+        "x1": 103.24902332,
+        "bottom": 461.35820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "4. How much sleep is generally recommended?",
+        "x0": 54.0,
+        "top": 486.8437504,
+        "x1": 478.3828032,
+        "bottom": 502.8437504,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Recommended sleep amounts depend on age, and they describe population guidance rather than a",
+        "x0": 54.0,
+        "top": 519.2582033599999,
+        "x1": 525.6339888400003,
+        "bottom": 528.65820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "rigid score for each individual. Some people need more sleep when ill or recovering from lost sleep.",
+        "x0": 54.0,
+        "top": 534.55820336,
+        "x1": 524.3121100800004,
+        "bottom": 543.95820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "[1,6]",
+        "x0": 54.0,
+        "top": 549.8582033600001,
+        "x1": 76.2836917,
+        "bottom": 559.2582033599999,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Age group Typical recommended sleep",
+        "x0": 63.0,
+        "top": 581.8699220799999,
+        "x1": 358.82900406,
+        "bottom": 590.06992208,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "6-12 years 9-12 hours per 24 hours",
+        "x0": 63.0,
+        "top": 608.8699220799999,
+        "x1": 342.2007833,
+        "bottom": 617.06992208,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "13-17 years 8-10 hours per 24 hours",
+        "x0": 63.0,
+        "top": 635.8699220799999,
+        "x1": 342.2007833,
+        "bottom": 644.06992208,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "18-60 years At least 7 hours, commonly 7-9 hours",
+        "x0": 63.0,
+        "top": 662.8699220799999,
+        "x1": 397.47070455999994,
+        "bottom": 671.06992208,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "61-64 years 7-9 hours",
+        "x0": 63.0,
+        "top": 689.8699220799999,
+        "x1": 282.05410228,
+        "bottom": 698.06992208,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "65 years and over 7-8 hours",
+        "x0": 63.0,
+        "top": 716.86992208,
+        "x1": 282.05410228,
+        "bottom": 725.06992208,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "A person who works long shifts, shares a crowded home, experiences nighttime noise, or cares for a",
+        "x0": 54.0,
+        "top": 746.15820336,
+        "x1": 527.2220746600003,
+        "bottom": 755.55820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "young child may have limited control over sleep time. Educational advice must acknowledge these real",
+        "x0": 54.0,
+        "top": 761.45820336,
+        "x1": 541.2800058000001,
+        "bottom": 770.85820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA | Mental Health Content Library | Educational draft 3",
+        "x0": 48.0,
+        "top": 803.1917579999999,
+        "x1": 547.00002875,
+        "bottom": 810.6917579999999,
+        "size": 7.5,
+        "bold": 0.0
+      }
+    ],
+    "tables": [
+      {
+        "bbox": [
+          54.0,
+          262.1,
+          564.0,
+          409.09999999999997
+        ],
+        "rows": [
+          [
+            "Stage Broad description"
+          ],
+          [
+            "NREM 1 A light transition from wakefulness into sleep; easy to awaken."
+          ],
+          [
+            "NREM 2 More established sleep; body functions slow and external awareness decreases."
+          ],
+          [
+            "NREM 3 Deep or slow-wave sleep; especially prominent earlier in the night."
+          ],
+          [
+            "REM Brain activity changes; vivid dreams are common and memory/emotional functions are\nsupported."
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          54.0,
+          571.9,
+          564.0,
+          733.9
+        ],
+        "rows": [
+          [
+            "Age group Typical recommended sleep"
+          ],
+          [
+            "6-12 years 9-12 hours per 24 hours"
+          ],
+          [
+            "13-17 years 8-10 hours per 24 hours"
+          ],
+          [
+            "18-60 years At least 7 hours, commonly 7-9 hours"
+          ],
+          [
+            "61-64 years 7-9 hours"
+          ],
+          [
+            "65 years and over 7-8 hours"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "width": 595.28,
+    "height": 841.89,
+    "lines": [
+      {
+        "text": "barriers instead of blaming the individual.",
+        "x0": 54.0,
+        "top": 61.258203359999925,
+        "x1": 251.34033161999997,
+        "bottom": 70.65820336000002,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "5. What is insufficient or poor-quality sleep?",
+        "x0": 54.0,
+        "top": 96.14375039999993,
+        "x1": 456.1640512,
+        "bottom": 112.14375039999993,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Insufficient sleep means obtaining less sleep than the body needs. Sleep deficiency can also involve",
+        "x0": 54.0,
+        "top": 128.55820336,
+        "x1": 527.1440480800002,
+        "bottom": 137.95820336000008,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "poor timing, interrupted sleep, or a condition that reduces restorative sleep. Possible daytime",
+        "x0": 54.0,
+        "top": 143.85820335999995,
+        "x1": 496.6674780600003,
+        "bottom": 153.25820336000004,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "consequences include low alertness, difficulty remembering information, slower reaction time, changes",
+        "x0": 54.0,
+        "top": 159.1582033599999,
+        "x1": 541.2800012200004,
+        "bottom": 168.55820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "in mood and greater risk during driving or hazardous tasks. [3]",
+        "x0": 54.0,
+        "top": 174.45820335999997,
+        "x1": 350.60488339999995,
+        "bottom": 183.85820336000006,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Common signs worth noticing",
+        "x0": 54.0,
+        "top": 202.2146487199999,
+        "x1": 243.68329273,
+        "bottom": 213.51464871999997,
+        "size": 11.3,
+        "bold": 1.0
+      },
+      {
+        "text": "• Frequently feeling sleepy or unintentionally dozing during the day.",
+        "x0": 59.0,
+        "top": 224.71015648000002,
+        "x1": 375.0703138799998,
+        "bottom": 233.91015648000007,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Struggling to concentrate at school, work or during conversations.",
+        "x0": 59.0,
+        "top": 244.71015648000002,
+        "x1": 373.0623053199999,
+        "bottom": 253.91015648000007,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Needing much more time than usual to complete simple tasks.",
+        "x0": 59.0,
+        "top": 264.71015648,
+        "x1": 357.6541039199999,
+        "bottom": 273.91015648000007,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Becoming more irritable or emotionally reactive after poor nights.",
+        "x0": 59.0,
+        "top": 284.71015648,
+        "x1": 371.67871087999987,
+        "bottom": 293.91015648000007,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Feeling unrefreshed despite giving yourself adequate opportunity to sleep.",
+        "x0": 59.0,
+        "top": 304.71015648,
+        "x1": 412.9888682799998,
+        "bottom": 313.91015648000007,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "Symptoms can also arise from anemia, medication side effects, other illnesses, depression or other",
+        "x0": 54.0,
+        "top": 324.7582033599999,
+        "x1": 522.7653344400005,
+        "bottom": 334.15820335999996,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "conditions. A professional assessment can help determine the cause.",
+        "x0": 54.0,
+        "top": 340.05820336,
+        "x1": 380.3378936800001,
+        "bottom": 349.45820335999997,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "6. Insomnia: more than one bad night",
+        "x0": 54.0,
+        "top": 374.94375039999994,
+        "x1": 395.17186720000007,
+        "bottom": 390.94375039999994,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Insomnia involves difficulty falling asleep, staying asleep or returning to sleep after waking, despite an",
+        "x0": 54.0,
+        "top": 407.35820336,
+        "x1": 539.0684594400003,
+        "bottom": 416.75820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "adequate opportunity to sleep, with associated distress or daytime impairment. Temporary insomnia",
+        "x0": 54.0,
+        "top": 422.65820336,
+        "x1": 530.4303698600002,
+        "bottom": 432.05820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "may follow stress, illness, travel, grief or major changes. Chronic insomnia is a more persistent clinical",
+        "x0": 54.0,
+        "top": 437.95820336,
+        "x1": 537.4620135400004,
+        "bottom": 447.35820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "pattern and should not be diagnosed from a simple website checklist. [7-9]",
+        "x0": 54.0,
+        "top": 453.25820336000004,
+        "x1": 408.4919925400001,
+        "bottom": 462.65820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Common maintaining patterns",
+        "x0": 54.0,
+        "top": 481.01464872,
+        "x1": 248.07528520000005,
+        "bottom": 492.31464872000004,
+        "size": 11.3,
+        "bold": 1.0
+      },
+      {
+        "text": "A person who worries about whether they will sleep may become increasingly alert at bedtime.",
+        "x0": 54.0,
+        "top": 503.55820336,
+        "x1": 503.6715835000003,
+        "bottom": 512.95820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Spending extra hours awake in bed, monitoring the clock, or irregular sleep timing can sometimes",
+        "x0": 54.0,
+        "top": 518.8582033600001,
+        "x1": 518.2167985200003,
+        "bottom": 528.2582033599999,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "maintain the problem. Persistent insomnia may also coexist with pain, anxiety, depression, substance",
+        "x0": 54.0,
+        "top": 534.15820336,
+        "x1": 535.0523461000004,
+        "bottom": 543.55820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "use or other sleep disorders.",
+        "x0": 54.0,
+        "top": 549.45820336,
+        "x1": 188.88173834,
+        "bottom": 558.8582033600001,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Example: A university student spends several nights awake before examinations. After the",
+        "x0": 66.0,
+        "top": 573.7822268,
+        "x1": 498.91797254999994,
+        "bottom": 583.2822268,
+        "size": 9.5,
+        "bold": 0.0
+      },
+      {
+        "text": "examination ends, the student keeps worrying about sleep and begins staying in bed much",
+        "x0": 66.0,
+        "top": 589.7822268,
+        "x1": 502.12793324999996,
+        "bottom": 599.2822268,
+        "size": 9.5,
+        "bold": 0.0
+      },
+      {
+        "text": "longer to \"catch up.\" The difficulty continues. A clinician can assess whether insomnia-focused",
+        "x0": 66.0,
+        "top": 605.7822268,
+        "x1": 516.8649934999999,
+        "bottom": 615.2822268,
+        "size": 9.5,
+        "bold": 0.0
+      },
+      {
+        "text": "treatment is appropriate.",
+        "x0": 66.0,
+        "top": 621.7822268,
+        "x1": 186.0812977,
+        "bottom": 631.2822268,
+        "size": 9.5,
+        "bold": 0.0
+      },
+      {
+        "text": "7. Other sleep conditions people should know about",
+        "x0": 54.0,
+        "top": 657.3437504,
+        "x1": 524.9999952000002,
+        "bottom": 673.3437504,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Obstructive sleep apnea",
+        "x0": 54.0,
+        "top": 690.21464872,
+        "x1": 209.375,
+        "bottom": 701.51464872,
+        "size": 11.3,
+        "bold": 1.0
+      },
+      {
+        "text": "Sleep apnea may involve repeated breathing interruptions, loud snoring, gasping or choking during",
+        "x0": 54.0,
+        "top": 712.7582033599999,
+        "x1": 523.4538101800001,
+        "bottom": 722.15820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "sleep, and daytime sleepiness. Not everyone with sleep apnea snores. People with these symptoms",
+        "x0": 54.0,
+        "top": 728.05820336,
+        "x1": 524.8215853800001,
+        "bottom": 737.45820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "should seek medical assessment; sleep hygiene alone cannot treat the underlying breathing disorder.",
+        "x0": 54.0,
+        "top": 743.3582033600001,
+        "x1": 535.3506880000003,
+        "bottom": 752.75820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA | Mental Health Content Library | Educational draft 4",
+        "x0": 48.0,
+        "top": 803.1917579999999,
+        "x1": 547.00002875,
+        "bottom": 810.6917579999999,
+        "size": 7.5,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 5,
+    "width": 595.28,
+    "height": 841.89,
+    "lines": [
+      {
+        "text": "Circadian rhythm sleep-wake difficulties",
+        "x0": 54.0,
+        "top": 61.7146487199999,
+        "x1": 311.59916632000005,
+        "bottom": 73.01464871999997,
+        "size": 11.3,
+        "bold": 1.0
+      },
+      {
+        "text": "Some people cannot align their natural sleep timing with work, school or social schedules. Shift work,",
+        "x0": 54.0,
+        "top": 84.25820335999992,
+        "x1": 532.5692392800003,
+        "bottom": 93.65820336000002,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "jet lag and delayed sleep timing may contribute. Treatment depends on the pattern and may require",
+        "x0": 54.0,
+        "top": 99.55820335999988,
+        "x1": 530.8664076600003,
+        "bottom": 108.95820335999997,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "specialist guidance.",
+        "x0": 54.0,
+        "top": 114.85820335999995,
+        "x1": 147.14169916,
+        "bottom": 124.25820336000004,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Restless legs, parasomnias and hypersomnolence",
+        "x0": 54.0,
+        "top": 142.61464871999988,
+        "x1": 371.81801101,
+        "bottom": 153.91464871999995,
+        "size": 11.3,
+        "bold": 1.0
+      },
+      {
+        "text": "Uncomfortable sensations that improve with moving the legs, unusual behaviors during sleep, or",
+        "x0": 54.0,
+        "top": 165.1582033599999,
+        "x1": 511.33662362000035,
+        "bottom": 174.55820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "severe daytime sleepiness deserve evaluation. Falling asleep unexpectedly or experiencing sleep",
+        "x0": 54.0,
+        "top": 180.45820335999986,
+        "x1": 514.5357463000003,
+        "bottom": 189.85820335999995,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "attacks should not be assumed to result only from a busy schedule.",
+        "x0": 54.0,
+        "top": 195.75820335999992,
+        "x1": 373.43476868000005,
+        "bottom": 205.15820336000002,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "8. How sleep and mental health interact",
+        "x0": 54.0,
+        "top": 230.64375039999993,
+        "x1": 417.20312,
+        "bottom": 246.64375039999993,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Stress and worry",
+        "x0": 54.0,
+        "top": 263.51464871999985,
+        "x1": 162.56938412999997,
+        "bottom": 274.8146487199999,
+        "size": 11.3,
+        "bold": 1.0
+      },
+      {
+        "text": "When the body is on alert, it can be harder to settle at night. Sleep loss can make daily stressors feel",
+        "x0": 54.0,
+        "top": 286.0582033599999,
+        "x1": 531.8027360200003,
+        "bottom": 295.45820335999997,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "harder to manage. Gentle routines may help, but people facing ongoing insecurity or hardship also",
+        "x0": 54.0,
+        "top": 301.35820335999983,
+        "x1": 521.1680685800003,
+        "bottom": 310.7582033599999,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "need practical support.",
+        "x0": 54.0,
+        "top": 316.6582033599999,
+        "x1": 163.14189412,
+        "bottom": 326.05820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Anxiety",
+        "x0": 54.0,
+        "top": 344.41464872,
+        "x1": 102.38364279000001,
+        "bottom": 355.71464872,
+        "size": 11.3,
+        "bold": 1.0
+      },
+      {
+        "text": "Worry about future events or sleep itself may prolong wakefulness. Persistent sleep difficulties and",
+        "x0": 54.0,
+        "top": 366.95820336,
+        "x1": 521.5995135400005,
+        "bottom": 376.35820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "anxiety symptoms should be assessed together rather than treated as unrelated issues.",
+        "x0": 54.0,
+        "top": 382.25820336000004,
+        "x1": 469.98672204000036,
+        "bottom": 391.65820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Depression",
+        "x0": 54.0,
+        "top": 410.01464872,
+        "x1": 125.50229471,
+        "bottom": 421.31464872000004,
+        "size": 11.3,
+        "bold": 1.0
+      },
+      {
+        "text": "Depression may be associated with difficulty sleeping, early waking or sleeping much longer than",
+        "x0": 54.0,
+        "top": 432.55820336,
+        "x1": 515.1507836000003,
+        "bottom": 441.95820335999997,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "usual. Changes in sleep alone do not establish depression, and treatment decisions require careful",
+        "x0": 54.0,
+        "top": 447.85820336,
+        "x1": 520.1078162600003,
+        "bottom": 457.25820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "assessment.",
+        "x0": 54.0,
+        "top": 463.15820336,
+        "x1": 112.70410262,
+        "bottom": 472.55820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Trauma-related symptoms",
+        "x0": 54.0,
+        "top": 490.91464872,
+        "x1": 222.48475941000007,
+        "bottom": 502.21464872,
+        "size": 11.3,
+        "bold": 1.0
+      },
+      {
+        "text": "Nightmares, hypervigilance or a feeling of unsafety may disrupt rest. Survivors should not be",
+        "x0": 54.0,
+        "top": 513.45820336,
+        "x1": 494.06504200000006,
+        "bottom": 522.85820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "pressured to close their eyes, disclose memories, or perform relaxation exercises that increase",
+        "x0": 54.0,
+        "top": 528.7582033599999,
+        "x1": 503.01064694000036,
+        "bottom": 538.15820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "distress.",
+        "x0": 54.0,
+        "top": 544.05820336,
+        "x1": 93.5919916,
+        "bottom": 553.45820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Bipolar disorder",
+        "x0": 54.0,
+        "top": 571.8146487199999,
+        "x1": 156.69316265,
+        "bottom": 583.11464872,
+        "size": 11.3,
+        "bold": 1.0
+      },
+      {
+        "text": "A markedly reduced need for sleep accompanied by unusually high energy, elevated or irritable mood,",
+        "x0": 54.0,
+        "top": 594.3582033600001,
+        "x1": 539.5412145800002,
+        "bottom": 603.75820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "racing thoughts or impulsive behavior can be a warning sign that needs prompt professional",
+        "x0": 54.0,
+        "top": 609.65820336,
+        "x1": 490.7328143800001,
+        "bottom": 619.05820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "assessment. This is different from ordinary insomnia accompanied by fatigue.",
+        "x0": 54.0,
+        "top": 624.95820336,
+        "x1": 421.3527369600001,
+        "bottom": 634.3582033600001,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "9. Everyday habits that can support sleep",
+        "x0": 54.0,
+        "top": 659.8437504,
+        "x1": 431.81249760000003,
+        "bottom": 675.8437504,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Healthy sleep routines are useful for general wellbeing and can complement clinical care. They are not,",
+        "x0": 54.0,
+        "top": 692.2582033599999,
+        "x1": 541.2800080400006,
+        "bottom": 701.65820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "on their own, an adequate treatment for chronic insomnia disorder. [1,8-10]",
+        "x0": 54.0,
+        "top": 707.55820336,
+        "x1": 413.05888948,
+        "bottom": 716.95820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "• Choose a wake-up time that is as consistent as your responsibilities allow.",
+        "x0": 59.0,
+        "top": 731.8101564799999,
+        "x1": 409.83086063999986,
+        "bottom": 741.01015648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Seek natural daylight and appropriate activity during the day.",
+        "x0": 59.0,
+        "top": 751.8101564799999,
+        "x1": 353.0855476799999,
+        "bottom": 761.01015648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA | Mental Health Content Library | Educational draft 5",
+        "x0": 48.0,
+        "top": 803.1917579999999,
+        "x1": 547.00002875,
+        "bottom": 810.6917579999999,
+        "size": 7.5,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 6,
+    "width": 595.28,
+    "height": 841.89,
+    "lines": [
+      {
+        "text": "• Build a predictable winding-down routine: reading, quiet conversation, gentle music or another",
+        "x0": 59.0,
+        "top": 61.21015648000002,
+        "x1": 506.0984388799995,
+        "bottom": 70.41015648000007,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "calming activity.",
+        "x0": 69.0,
+        "top": 76.21015648000002,
+        "x1": 145.20097615999998,
+        "bottom": 85.41015648000007,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Reduce bright screen use close to bedtime if feasible, especially when it keeps you alert.",
+        "x0": 59.0,
+        "top": 96.21015648000002,
+        "x1": 478.1031277599998,
+        "bottom": 105.41015648000007,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Limit caffeine in the afternoon and evening if it affects you.",
+        "x0": 59.0,
+        "top": 116.21015648000002,
+        "x1": 341.76523839999993,
+        "bottom": 125.41015648000007,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Keep the sleep space as dark, quiet, comfortable and safe as reasonably possible.",
+        "x0": 59.0,
+        "top": 136.21015648000002,
+        "x1": 446.6668004399997,
+        "bottom": 145.41015648000007,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Avoid using alcohol as a sleep aid: it can fragment sleep and has other risks.",
+        "x0": 59.0,
+        "top": 156.21015648000002,
+        "x1": 421.52851895999964,
+        "bottom": 165.41015648000007,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• If an environment is unsafe or crowded, focus on feasible improvements and seek practical support",
+        "x0": 59.0,
+        "top": 176.21015648000002,
+        "x1": 527.0005913999996,
+        "bottom": 185.41015648000007,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "rather than blaming yourself.",
+        "x0": 69.0,
+        "top": 191.21015648000002,
+        "x1": 204.06211064,
+        "bottom": 200.41015648000007,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "10. Practical barriers in Rwanda-relevant daily life",
+        "x0": 54.0,
+        "top": 225.84375039999998,
+        "x1": 509.1718735999999,
+        "bottom": 241.84375039999998,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "A reader may share one room with family members, work evening shifts, study under difficult",
+        "x0": 54.0,
+        "top": 258.2582033599999,
+        "x1": 496.14424210000027,
+        "bottom": 267.65820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "conditions, manage caregiving duties or have limited privacy. Advice should prioritize realistic actions.",
+        "x0": 54.0,
+        "top": 273.55820336,
+        "x1": 538.4993148200004,
+        "bottom": 282.9582033600001,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "For example, a household may coordinate a quieter period, reduce unnecessary night lighting, or plan",
+        "x0": 54.0,
+        "top": 288.85820335999995,
+        "x1": 536.5486362200004,
+        "bottom": 298.25820336000004,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "a more reliable morning routine when possible. These are illustrative situations, not claims about all",
+        "x0": 54.0,
+        "top": 304.1582033599999,
+        "x1": 526.6024417000004,
+        "bottom": 313.55820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Rwandan households.",
+        "x0": 54.0,
+        "top": 319.45820335999997,
+        "x1": 157.12920103999997,
+        "bottom": 328.85820336000006,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "When poverty, housing insecurity, severe stress, violence or illness disrupt sleep, an individual routine",
+        "x0": 54.0,
+        "top": 343.75820336,
+        "x1": 538.0219753000003,
+        "bottom": 353.15820335999996,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "cannot resolve the underlying problem. Health education should connect people to medical, social and",
+        "x0": 54.0,
+        "top": 359.05820336,
+        "x1": 539.0868185800002,
+        "bottom": 368.45820335999997,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "practical support where appropriate.",
+        "x0": 54.0,
+        "top": 374.35820336,
+        "x1": 226.69745987999997,
+        "bottom": 383.75820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "11. Evidence-based care for persistent insomnia",
+        "x0": 54.0,
+        "top": 409.24375039999995,
+        "x1": 490.65624640000004,
+        "bottom": 425.24375039999995,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "What is CBT-I?",
+        "x0": 54.0,
+        "top": 442.11464872,
+        "x1": 146.06630251999997,
+        "bottom": 453.41464872,
+        "size": 11.3,
+        "bold": 1.0
+      },
+      {
+        "text": "Cognitive Behavioral Therapy for Insomnia (CBT-I) is a structured treatment that addresses",
+        "x0": 54.0,
+        "top": 464.65820335999996,
+        "x1": 484.52275608000036,
+        "bottom": 474.05820335999994,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "sleep-related patterns of thinking and behavior. It can include education, tailored behavioral",
+        "x0": 54.0,
+        "top": 479.95820335999997,
+        "x1": 490.23711102000027,
+        "bottom": 489.35820335999995,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "strategies, cognitive approaches and follow-up. Multiple clinical guidelines recommend",
+        "x0": 54.0,
+        "top": 495.25820336,
+        "x1": 464.08876912000034,
+        "bottom": 504.65820335999996,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "multicomponent CBT-I as first-line treatment for chronic insomnia in adults. [8,9]",
+        "x0": 54.0,
+        "top": 510.55820336,
+        "x1": 435.57207090000014,
+        "bottom": 519.95820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Specialist CBT-I may include methods such as sleep restriction or sleep compression. These should not",
+        "x0": 54.0,
+        "top": 534.8582033600001,
+        "x1": 539.2612318200003,
+        "bottom": 544.2582033599999,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "be copied from a handout without assessment, especially for people with certain medical or psychiatric",
+        "x0": 54.0,
+        "top": 550.15820336,
+        "x1": 541.2800064600004,
+        "bottom": 559.55820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "conditions, excessive daytime sleepiness, high-risk work, or complex sleep problems.",
+        "x0": 54.0,
+        "top": 565.45820336,
+        "x1": 457.07548928000006,
+        "bottom": 574.8582033600001,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Medication and supplements",
+        "x0": 54.0,
+        "top": 593.21464872,
+        "x1": 238.00019164000003,
+        "bottom": 604.51464872,
+        "size": 11.3,
+        "bold": 1.0
+      },
+      {
+        "text": "A clinician may consider medication depending on symptoms, age, other conditions, pregnancy status,",
+        "x0": 54.0,
+        "top": 615.7582033599999,
+        "x1": 540.1562518800002,
+        "bottom": 625.15820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "interactions and treatment history. Sleeping pills can have side effects and may not address the",
+        "x0": 54.0,
+        "top": 631.05820336,
+        "x1": 508.5459986200003,
+        "bottom": 640.45820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "underlying cause. Do not start, combine, stop or change prescribed medicines on the basis of this",
+        "x0": 54.0,
+        "top": 646.3582033600001,
+        "x1": 516.0641618600004,
+        "bottom": 655.75820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "chapter. Melatonin is not a universal cure for insomnia and suitability varies. [7,10]",
+        "x0": 54.0,
+        "top": 661.65820336,
+        "x1": 446.71162456000013,
+        "bottom": 671.05820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA | Mental Health Content Library | Educational draft 6",
+        "x0": 48.0,
+        "top": 803.1917579999999,
+        "x1": 547.00002875,
+        "bottom": 810.6917579999999,
+        "size": 7.5,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 7,
+    "width": 595.28,
+    "height": 841.89,
+    "lines": [
+      {
+        "text": "12. When should someone seek professional help?",
+        "x0": 54.0,
+        "top": 62.843750399999976,
+        "x1": 510.22655360000005,
+        "bottom": 78.84375039999998,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Consider an appointment with a qualified healthcare professional when sleep difficulty persists,",
+        "x0": 54.0,
+        "top": 95.25820335999992,
+        "x1": 504.85576354000045,
+        "bottom": 104.65820336000002,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "significantly affects mood, concentration, study or work, or occurs alongside loud snoring, breathing",
+        "x0": 54.0,
+        "top": 110.55820335999988,
+        "x1": 527.1715835000002,
+        "bottom": 119.95820335999997,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "interruptions, repeated nightmares, unusual movements, severe daytime sleepiness, chronic pain or",
+        "x0": 54.0,
+        "top": 125.85820335999983,
+        "x1": 529.2783246600004,
+        "bottom": 135.25820335999992,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "symptoms of a mental health condition.",
+        "x0": 54.0,
+        "top": 141.1582033599999,
+        "x1": 241.99541092,
+        "bottom": 150.55820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Urgent medical assessment is warranted if a person has severe or unusual breathing problems,",
+        "x0": 54.0,
+        "top": 165.45820335999986,
+        "x1": 505.0439496600002,
+        "bottom": 174.85820335999995,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "episodes of losing consciousness, serious injury associated with sleepiness, or new concerning",
+        "x0": 54.0,
+        "top": 180.75820335999992,
+        "x1": 500.02724956000026,
+        "bottom": 190.15820336000002,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "symptoms. If a person is dangerously sleepy, they should not drive or operate machinery. If there are",
+        "x0": 54.0,
+        "top": 196.05820335999988,
+        "x1": 534.0150438800003,
+        "bottom": 205.45820335999997,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "thoughts of suicide or immediate danger, seek urgent emergency assistance through available local",
+        "x0": 54.0,
+        "top": 211.35820335999983,
+        "x1": 527.2312537600003,
+        "bottom": 220.75820335999992,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "emergency services or the nearest emergency department.",
+        "x0": 54.0,
+        "top": 226.6582033599999,
+        "x1": 335.92197623999994,
+        "bottom": 236.05820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Where symptoms suggest mania or a significantly reduced need for sleep with marked behavioral",
+        "x0": 54.0,
+        "top": 250.95820335999986,
+        "x1": 516.5874053400001,
+        "bottom": 260.35820335999995,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "changes, seek prompt clinical assessment.",
+        "x0": 54.0,
+        "top": 266.2582033599999,
+        "x1": 255.93476773999996,
+        "bottom": 275.65820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "13. Four everyday learning scenarios",
+        "x0": 54.0,
+        "top": 301.14375039999993,
+        "x1": 389.6406288,
+        "bottom": 317.14375039999993,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Case 1 - Examination week",
+        "x0": 54.0,
+        "top": 334.01464872,
+        "x1": 224.91249774,
+        "bottom": 345.31464872000004,
+        "size": 11.3,
+        "bold": 1.0
+      },
+      {
+        "text": "A secondary-school learner studies very late, uses a bright phone in bed and struggles to wake for",
+        "x0": 54.0,
+        "top": 356.55820336,
+        "x1": 518.9098661600001,
+        "bottom": 365.95820335999997,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "class. The learner feels irritable and forgetful.",
+        "x0": 54.0,
+        "top": 371.85820336,
+        "x1": 269.4151376,
+        "bottom": 381.25820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Reflection: What realistic changes to study timing and evening routine might help? How might teachers",
+        "x0": 54.0,
+        "top": 396.15820336,
+        "x1": 541.2799991000003,
+        "bottom": 405.55820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "or caregivers support the learner?",
+        "x0": 54.0,
+        "top": 411.45820336,
+        "x1": 214.96123087999996,
+        "bottom": 420.85820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Case 2 - Shift work",
+        "x0": 54.0,
+        "top": 439.21464872,
+        "x1": 174.26113139999998,
+        "bottom": 450.51464872,
+        "size": 11.3,
+        "bold": 1.0
+      },
+      {
+        "text": "A healthcare worker rotates between late and early shifts and becomes sleepy during travel. Family",
+        "x0": 54.0,
+        "top": 461.75820336,
+        "x1": 526.0195345400003,
+        "bottom": 471.15820335999996,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "responsibilities limit recovery time.",
+        "x0": 54.0,
+        "top": 477.05820336,
+        "x1": 219.71630641999994,
+        "bottom": 486.45820335999997,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Reflection: Which barriers require schedule or workplace support? Why is drowsy travel a safety",
+        "x0": 54.0,
+        "top": 501.35820336,
+        "x1": 507.5775410600002,
+        "bottom": 510.75820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "concern?",
+        "x0": 54.0,
+        "top": 516.65820336,
+        "x1": 96.63964926,
+        "bottom": 526.05820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Case 3 - Persistent worry",
+        "x0": 54.0,
+        "top": 544.4146487200001,
+        "x1": 214.66635721000003,
+        "bottom": 555.71464872,
+        "size": 11.3,
+        "bold": 1.0
+      },
+      {
+        "text": "An adult worries about falling asleep and checks the clock throughout the night. Sleep problems",
+        "x0": 54.0,
+        "top": 566.95820336,
+        "x1": 508.32568518,
+        "bottom": 576.35820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "continue for weeks and affect work.",
+        "x0": 54.0,
+        "top": 582.2582033599999,
+        "x1": 222.76855786,
+        "bottom": 591.65820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Reflection: What makes this different from a single sleepless night? Why might CBT-I assessment help?",
+        "x0": 54.0,
+        "top": 606.55820336,
+        "x1": 541.2800024200002,
+        "bottom": 615.95820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Case 4 - Nighttime breathing concerns",
+        "x0": 54.0,
+        "top": 634.31464872,
+        "x1": 299.72533876,
+        "bottom": 645.61464872,
+        "size": 11.3,
+        "bold": 1.0
+      },
+      {
+        "text": "A family notices that one adult snores loudly, sometimes gasps during sleep and remains very tired",
+        "x0": 54.0,
+        "top": 656.8582033600001,
+        "x1": 524.2616226800004,
+        "bottom": 666.25820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "during the day.",
+        "x0": 54.0,
+        "top": 672.15820336,
+        "x1": 126.00546922,
+        "bottom": 681.55820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Reflection: Why should this person seek medical assessment rather than only trying herbal tea or an",
+        "x0": 54.0,
+        "top": 696.45820336,
+        "x1": 529.5078172000003,
+        "bottom": 705.8582033600001,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "earlier bedtime?",
+        "x0": 54.0,
+        "top": 711.7582033599999,
+        "x1": 131.21035074,
+        "bottom": 721.15820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA | Mental Health Content Library | Educational draft 7",
+        "x0": 48.0,
+        "top": 803.1917579999999,
+        "x1": 547.00002875,
+        "bottom": 810.6917579999999,
+        "size": 7.5,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 8,
+    "width": 595.28,
+    "height": 841.89,
+    "lines": [
+      {
+        "text": "14. Guided activity A - My seven-day sleep",
+        "x0": 54.0,
+        "top": 62.843750399999976,
+        "x1": 438.41406240000003,
+        "bottom": 78.84375039999998,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "observation",
+        "x0": 54.0,
+        "top": 84.84375039999998,
+        "x1": 161.45312479999998,
+        "bottom": 100.84375039999998,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "For seven days, readers may record sleep patterns without trying to force a target. This exercise is for",
+        "x0": 54.0,
+        "top": 117.25820335999992,
+        "x1": 537.3105485200003,
+        "bottom": 126.65820336000002,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "awareness, not diagnosis or clinical sleep restriction. Avoid recording sensitive details on devices that",
+        "x0": 54.0,
+        "top": 132.55820335999988,
+        "x1": 535.0018549400003,
+        "bottom": 141.95820335999997,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "are shared or monitored.",
+        "x0": 54.0,
+        "top": 147.85820335999995,
+        "x1": 171.73408256000002,
+        "bottom": 157.25820336000004,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Day Approx. bedtime / wake time Restfulness and daytime notes",
+        "x0": 63.0,
+        "top": 179.86992208000004,
+        "x1": 449.97988394000004,
+        "bottom": 188.06992207999997,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "Mon ________________________ ________________________",
+        "x0": 63.0,
+        "top": 206.86992208000004,
+        "x1": 421.4,
+        "bottom": 215.06992207999997,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "Tue ________________________ ________________________",
+        "x0": 63.0,
+        "top": 233.86992208000004,
+        "x1": 421.4,
+        "bottom": 242.06992207999997,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "Wed ________________________ ________________________",
+        "x0": 63.0,
+        "top": 260.86992208000004,
+        "x1": 421.4,
+        "bottom": 269.06992207999997,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "Thu ________________________ ________________________",
+        "x0": 63.0,
+        "top": 287.86992208000004,
+        "x1": 421.4,
+        "bottom": 296.06992207999997,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "Fri ________________________ ________________________",
+        "x0": 63.0,
+        "top": 314.86992208000004,
+        "x1": 421.4,
+        "bottom": 323.06992207999997,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "Sat ________________________ ________________________",
+        "x0": 63.0,
+        "top": 341.86992208,
+        "x1": 421.4,
+        "bottom": 350.06992207999997,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "Sun ________________________ ________________________",
+        "x0": 63.0,
+        "top": 368.86992208,
+        "x1": 421.4,
+        "bottom": 377.06992207999997,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "After the week, consider whether patterns change with shift work, phone use, stress, noise, illness,",
+        "x0": 54.0,
+        "top": 398.15820336,
+        "x1": 521.4755905200005,
+        "bottom": 407.55820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "caffeine or caregiving. Bring the notes to a clinician if a sleep problem is ongoing. If recording sleep",
+        "x0": 54.0,
+        "top": 413.45820336,
+        "x1": 524.6838885400002,
+        "bottom": 422.85820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "increases anxiety, stop tracking.",
+        "x0": 54.0,
+        "top": 428.75820336000004,
+        "x1": 207.34668098000003,
+        "bottom": 438.15820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "15. Guided activity B - A gentle evening routine",
+        "x0": 54.0,
+        "top": 463.6437504,
+        "x1": 484.4765616000001,
+        "bottom": 479.6437504,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Choose one or two realistic steps, not a rigid checklist: (1) identify tomorrow's priority tasks earlier in",
+        "x0": 54.0,
+        "top": 496.05820336,
+        "x1": 531.8761697600003,
+        "bottom": 505.45820335999997,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "the evening, (2) choose a quiet activity for the final part of the day, (3) adjust brightness or noise",
+        "x0": 54.0,
+        "top": 511.35820336,
+        "x1": 513.9023461000002,
+        "bottom": 520.7582033599999,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "where feasible, and (4) allow yourself to rest without checking the clock repeatedly.",
+        "x0": 54.0,
+        "top": 526.65820336,
+        "x1": 450.1907253000001,
+        "bottom": 536.05820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Reflection: Which step is feasible in your home? What barrier would require someone else's",
+        "x0": 54.0,
+        "top": 550.95820336,
+        "x1": 485.95937688000026,
+        "bottom": 560.3582033600001,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "cooperation? A routine should be adapted to safety, disability, caregiving and work schedules.",
+        "x0": 54.0,
+        "top": 566.25820336,
+        "x1": 499.11386754000034,
+        "bottom": 575.65820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "16. Guided activity C - Distinguishing a worry from a",
+        "x0": 54.0,
+        "top": 601.1437504,
+        "x1": 528.5078032000002,
+        "bottom": 617.1437504,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "plan",
+        "x0": 54.0,
+        "top": 623.1437504,
+        "x1": 93.125,
+        "bottom": 639.1437504,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Write down an ordinary concern earlier in the evening if doing so feels comfortable. Divide it into",
+        "x0": 54.0,
+        "top": 655.55820336,
+        "x1": 512.0985359200002,
+        "bottom": 664.95820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "\"something I can act on tomorrow\" and \"something I cannot solve tonight.\" Choose one practical next",
+        "x0": 54.0,
+        "top": 670.8582033600001,
+        "x1": 534.8733419000002,
+        "bottom": 680.25820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "action for tomorrow. Do not use this exercise to dismiss real danger, pain or urgent needs.",
+        "x0": 54.0,
+        "top": 686.15820336,
+        "x1": 482.09472762000024,
+        "bottom": 695.55820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Example: \"I may be late for work\" can become \"I will prepare my bag and check my transport",
+        "x0": 66.0,
+        "top": 710.4822268,
+        "x1": 512.4814483999999,
+        "bottom": 719.9822268,
+        "size": 9.5,
+        "bold": 0.0
+      },
+      {
+        "text": "plan.\" If a concern involves an unsafe environment or a serious medical symptom, practical",
+        "x0": 66.0,
+        "top": 726.4822268,
+        "x1": 502.69385300000005,
+        "bottom": 735.9822268,
+        "size": 9.5,
+        "bold": 0.0
+      },
+      {
+        "text": "safety assistance takes priority over relaxation.",
+        "x0": 66.0,
+        "top": 742.4822268,
+        "x1": 292.52954249999993,
+        "bottom": 751.9822268,
+        "size": 9.5,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA | Mental Health Content Library | Educational draft 8",
+        "x0": 48.0,
+        "top": 803.1917579999999,
+        "x1": 547.00002875,
+        "bottom": 810.6917579999999,
+        "size": 7.5,
+        "bold": 0.0
+      }
+    ],
+    "tables": [
+      {
+        "bbox": [
+          54.22222222222222,
+          169.89999999999998,
+          564.0,
+          385.9
+        ],
+        "rows": [
+          [
+            "Day Approx. bedtime / wake time Restfulness and daytime notes"
+          ],
+          [
+            "Mon ________________________ ________________________"
+          ],
+          [
+            "Tue ________________________ ________________________"
+          ],
+          [
+            "Wed ________________________ ________________________"
+          ],
+          [
+            "Thu ________________________ ________________________"
+          ],
+          [
+            "Fri ________________________ ________________________"
+          ],
+          [
+            "Sat ________________________ ________________________"
+          ],
+          [
+            "Sun ________________________ ________________________"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "page": 9,
+    "width": 595.28,
+    "height": 841.89,
+    "lines": [
+      {
+        "text": "17. Knowledge assessment",
+        "x0": 54.0,
+        "top": 62.843750399999976,
+        "x1": 299.4453072,
+        "bottom": 78.84375039999998,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "1. Does the need for sleep change across ages?",
+        "x0": 54.0,
+        "top": 95.25820335999992,
+        "x1": 279.75605785999994,
+        "bottom": 104.65820336000002,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "2. Is sleep quality relevant even when total hours seem adequate?",
+        "x0": 54.0,
+        "top": 119.55820336,
+        "x1": 368.39512129999997,
+        "bottom": 128.95820336000008,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "3. What two major processes influence sleep timing?",
+        "x0": 54.0,
+        "top": 143.85820335999995,
+        "x1": 303.02197341999994,
+        "bottom": 153.25820336000004,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "4. Does every difficult night indicate insomnia disorder?",
+        "x0": 54.0,
+        "top": 168.1582033599999,
+        "x1": 317.46621081999996,
+        "bottom": 177.55820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "5. Why can late caffeine use be relevant?",
+        "x0": 54.0,
+        "top": 192.45820335999997,
+        "x1": 249.49521877999996,
+        "bottom": 201.85820336000006,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "6. Is sleep hygiene alone the recommended treatment for chronic insomnia?",
+        "x0": 54.0,
+        "top": 216.75820335999992,
+        "x1": 415.2711954600001,
+        "bottom": 226.15820336000002,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "7. What symptoms suggest possible sleep apnea?",
+        "x0": 54.0,
+        "top": 241.05820336,
+        "x1": 289.56914085999995,
+        "bottom": 250.45820336000008,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "8. Should someone copy sleep restriction instructions from an article?",
+        "x0": 54.0,
+        "top": 265.35820335999995,
+        "x1": 383.8445317200001,
+        "bottom": 274.75820336000004,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "9. Can emotional distress and poor sleep affect each other?",
+        "x0": 54.0,
+        "top": 289.6582033599999,
+        "x1": 335.59150607999993,
+        "bottom": 299.05820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "10. What should a dangerously sleepy driver do?",
+        "x0": 54.0,
+        "top": 313.95820335999997,
+        "x1": 284.51113433999996,
+        "bottom": 323.35820336000006,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "18. Assessment answers and explanations",
+        "x0": 54.0,
+        "top": 348.8437504,
+        "x1": 437.04686879999997,
+        "bottom": 364.8437504,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "1. Yes. Children and teens usually need more sleep than adults.",
+        "x0": 54.0,
+        "top": 381.25820336000004,
+        "x1": 355.04326542,
+        "bottom": 390.65820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "2. Yes. Fragmented or mistimed sleep can still impair functioning.",
+        "x0": 54.0,
+        "top": 405.55820336,
+        "x1": 364.32851492,
+        "bottom": 414.95820335999997,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "3. Sleep pressure and circadian rhythm.",
+        "x0": 54.0,
+        "top": 429.85820336,
+        "x1": 242.76191606,
+        "bottom": 439.25820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "4. No. Isolated sleep difficulty is common.",
+        "x0": 54.0,
+        "top": 454.15820336,
+        "x1": 251.17050839999996,
+        "bottom": 463.55820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "5. It can interfere with the ability to feel sleepy or fall asleep.",
+        "x0": 54.0,
+        "top": 478.45820336,
+        "x1": 342.21923928,
+        "bottom": 487.85820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "6. No. Multicomponent CBT-I is recommended as first-line treatment for many adults.",
+        "x0": 54.0,
+        "top": 502.75820336000004,
+        "x1": 456.5017593400002,
+        "bottom": 512.15820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "7. Snoring, observed breathing pauses or gasping, and excessive daytime sleepiness.",
+        "x0": 54.0,
+        "top": 527.05820336,
+        "x1": 458.4753936800003,
+        "bottom": 536.45820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "8. No. Such treatment should be tailored and supervised.",
+        "x0": 54.0,
+        "top": 551.3582033600001,
+        "x1": 323.94707184,
+        "bottom": 560.7582033599999,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "9. Yes, the relationship may be bidirectional.",
+        "x0": 54.0,
+        "top": 575.65820336,
+        "x1": 264.76103498,
+        "bottom": 585.05820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "10. Avoid driving and seek appropriate help.",
+        "x0": 54.0,
+        "top": 599.95820336,
+        "x1": 263.6227542,
+        "bottom": 609.3582033600001,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "19. Glossary",
+        "x0": 54.0,
+        "top": 634.8437504,
+        "x1": 165.6874992,
+        "bottom": 650.8437504,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "Circadian rhythm: An approximately 24-hour cycle regulating alertness and many bodily functions.",
+        "x0": 54.0,
+        "top": 667.2582033599999,
+        "x1": 520.3786171000003,
+        "bottom": 676.65820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Sleep pressure: The biological tendency to become sleepier with time awake.",
+        "x0": 54.0,
+        "top": 691.55820336,
+        "x1": 419.28271596000013,
+        "bottom": 700.95820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "REM: A sleep phase associated with characteristic eye movements and often vivid dreams.",
+        "x0": 54.0,
+        "top": 715.85820336,
+        "x1": 483.4211945200001,
+        "bottom": 725.2582033599999,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "NREM: Non-rapid-eye-movement sleep, including lighter and deeper stages.",
+        "x0": 54.0,
+        "top": 740.15820336,
+        "x1": 412.87988340000015,
+        "bottom": 749.55820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA | Mental Health Content Library | Educational draft 9",
+        "x0": 48.0,
+        "top": 803.1917579999999,
+        "x1": 547.00002875,
+        "bottom": 810.6917579999999,
+        "size": 7.5,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 10,
+    "width": 595.28,
+    "height": 841.89,
+    "lines": [
+      {
+        "text": "Insomnia: Difficulty sleeping despite an opportunity to sleep, causing distress or impairment.",
+        "x0": 54.0,
+        "top": 61.258203359999925,
+        "x1": 493.26640578000047,
+        "bottom": 70.65820336000002,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "CBT-I: Cognitive Behavioral Therapy for Insomnia, a structured evidence-based treatment.",
+        "x0": 54.0,
+        "top": 85.55820336,
+        "x1": 480.3230504000002,
+        "bottom": 94.95820336000008,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Sleep apnea: A sleep-related breathing disorder that requires medical assessment.",
+        "x0": 54.0,
+        "top": 109.85820335999995,
+        "x1": 445.5595709000003,
+        "bottom": 119.25820336000004,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Sleep hygiene: Daily routines and environmental practices that can support healthy sleep.",
+        "x0": 54.0,
+        "top": 134.1582033599999,
+        "x1": 480.5112337000003,
+        "bottom": 143.55820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Scientific and institutional references",
+        "x0": 54.0,
+        "top": 169.0437503999999,
+        "x1": 395.062496,
+        "bottom": 185.0437503999999,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "[1] CDC. About Sleep. 2024.",
+        "x0": 54.0,
+        "top": 201.45820335999986,
+        "x1": 186.42158256,
+        "bottom": 210.85820335999995,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "https://www.cdc.gov/sleep/about/",
+        "x0": 54.0,
+        "top": 216.75820335999992,
+        "x1": 211.98242352,
+        "bottom": 226.15820336000002,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "[2] National Heart, Lung, and Blood Institute. What Makes You Sleep?",
+        "x0": 54.0,
+        "top": 241.05820335999988,
+        "x1": 381.10439600000007,
+        "bottom": 250.45820335999997,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "https://www.nhlbi.nih.gov/health/sleep-deprivation/body-clock",
+        "x0": 54.0,
+        "top": 256.35820335999995,
+        "x1": 346.6300793,
+        "bottom": 265.75820336000004,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "[3] NHLBI. How Sleep Affects Your Health.",
+        "x0": 54.0,
+        "top": 280.6582033599999,
+        "x1": 251.16132835999997,
+        "bottom": 290.05820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "https://www.nhlbi.nih.gov/health/sleep-deprivation/health-effects",
+        "x0": 54.0,
+        "top": 295.95820335999997,
+        "x1": 360.9320336000001,
+        "bottom": 305.35820336000006,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "[4] Mental Health Commission of Canada. Insomnia.",
+        "x0": 54.0,
+        "top": 320.2582033599999,
+        "x1": 299.04258117999996,
+        "bottom": 329.65820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "https://mentalhealthcommission.ca/mhcc-glossary/insomnia/",
+        "x0": 54.0,
+        "top": 335.55820336,
+        "x1": 340.64033538,
+        "bottom": 344.95820335999997,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "[5] NICHD. Sleep: What happens during sleep?",
+        "x0": 54.0,
+        "top": 359.85820336,
+        "x1": 273.5276376,
+        "bottom": 369.25820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "https://www.nichd.nih.gov/health/topics/factsheets/sleep",
+        "x0": 54.0,
+        "top": 375.15820336,
+        "x1": 321.6659211999999,
+        "bottom": 384.55820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "[6] CDC. Sleep and Health (Schools). September 2026.",
+        "x0": 54.0,
+        "top": 399.45820336,
+        "x1": 311.54072341999995,
+        "bottom": 408.85820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "https://www.cdc.gov/healthy-schools/sleep/",
+        "x0": 54.0,
+        "top": 414.75820336000004,
+        "x1": 258.60605691999996,
+        "bottom": 424.15820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "[7] NHLBI. Insomnia: Treatment.",
+        "x0": 54.0,
+        "top": 439.05820336,
+        "x1": 206.26347856,
+        "bottom": 448.45820335999997,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "https://www.nhlbi.nih.gov/health/insomnia/treatment",
+        "x0": 54.0,
+        "top": 454.35820336,
+        "x1": 303.95830365999996,
+        "bottom": 463.75820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "[8] NCCIH. Mind and Body Practices for Sleep Disorders: What the Science Says. 2024.",
+        "x0": 54.0,
+        "top": 478.65820336,
+        "x1": 461.54140954000013,
+        "bottom": 488.05820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "https://www.nccih.nih.gov/health/providers/digest/psychological-and-physical-approaches-for-sleep-dis",
+        "x0": 54.0,
+        "top": 493.95820336,
+        "x1": 538.6737308800003,
+        "bottom": 503.35820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "orders-science",
+        "x0": 54.0,
+        "top": 509.25820336000004,
+        "x1": 122.88896502,
+        "bottom": 518.65820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "[9] VA/DoD. Treatment of Insomnia Provider Patient Guide. 2025.",
+        "x0": 54.0,
+        "top": 533.55820336,
+        "x1": 361.53330084,
+        "bottom": 542.95820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "https://www.healthquality.va.gov/guidelines/CD/insomnia/CST-01-Treatment-of-Insomnia-Provider-Pati",
+        "x0": 54.0,
+        "top": 548.8582033600001,
+        "x1": 536.2870116600002,
+        "bottom": 558.2582033599999,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "ent-Guide-Final-508.pdf",
+        "x0": 54.0,
+        "top": 564.15820336,
+        "x1": 165.72597574,
+        "bottom": 573.55820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "[10] NHLBI. Healthy Sleep Habits.",
+        "x0": 54.0,
+        "top": 588.45820336,
+        "x1": 212.31289086,
+        "bottom": 597.8582033600001,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits",
+        "x0": 54.0,
+        "top": 603.7582033599999,
+        "x1": 391.8721693200001,
+        "bottom": 613.15820336,
+        "size": 9.4,
+        "bold": 0.0
+      },
+      {
+        "text": "Pre-publication review checklist",
+        "x0": 54.0,
+        "top": 638.6437504,
+        "x1": 343.59374880000007,
+        "bottom": 654.6437504,
+        "size": 16.0,
+        "bold": 1.0
+      },
+      {
+        "text": "• Clinical review by appropriately qualified mental health or sleep-care professional.",
+        "x0": 59.0,
+        "top": 671.01015648,
+        "x1": 447.91113355999977,
+        "bottom": 680.21015648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Confirm that guidance for children, pregnancy, older adults and shift workers is suitable.",
+        "x0": 59.0,
+        "top": 691.01015648,
+        "x1": 476.66113539999947,
+        "bottom": 700.21015648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Rwanda-specific verification of available health services and emergency pathways.",
+        "x0": 59.0,
+        "top": 711.01015648,
+        "x1": 450.9568404799998,
+        "bottom": 720.21015648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Kinyarwanda and French translation by qualified reviewers, with terminology validation.",
+        "x0": 59.0,
+        "top": 731.01015648,
+        "x1": 473.67832243999976,
+        "bottom": 740.21015648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "• Accessibility check for headings, contrast, screen readers and printable activities.",
+        "x0": 59.0,
+        "top": 751.01015648,
+        "x1": 444.7710953599997,
+        "bottom": 760.21015648,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA | Mental Health Content Library | Educational draft 10",
+        "x0": 48.0,
+        "top": 803.1917579999999,
+        "x1": 546.9999574999999,
+        "bottom": 810.6917579999999,
+        "size": 7.5,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  },
+  {
+    "page": 11,
+    "width": 595.28,
+    "height": 841.89,
+    "lines": [
+      {
+        "text": "• Editorial fact-check of references, updates and any reuse permissions.",
+        "x0": 59.0,
+        "top": 61.21015648000002,
+        "x1": 392.71562867999984,
+        "bottom": 70.41015648000007,
+        "size": 9.2,
+        "bold": 0.0
+      },
+      {
+        "text": "This document is educational and does not provide individualized diagnosis, medication instructions, or an emergency",
+        "x0": 54.0,
+        "top": 80.96992208000006,
+        "x1": 541.2799997000001,
+        "bottom": 89.16992207999999,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "service.",
+        "x0": 54.0,
+        "top": 92.96992208000006,
+        "x1": 85.97919968,
+        "bottom": 101.16992207999999,
+        "size": 8.2,
+        "bold": 0.0
+      },
+      {
+        "text": "VUGA NDAKUMVA | Mental Health Content Library | Educational draft 11",
+        "x0": 48.0,
+        "top": 803.1917579999999,
+        "x1": 546.9999574999999,
+        "bottom": 810.6917579999999,
+        "size": 7.5,
+        "bold": 0.0
+      }
+    ],
+    "tables": []
+  }
+]

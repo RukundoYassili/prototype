@@ -1,0 +1,212 @@
+[
+  {
+    "id": "stress-examination",
+    "chapter": 3,
+    "subject": "a Rwandan university student, age 21, dark brown skin, short natural black hair, muted olive cotton shirt",
+    "setting": "a bright cream-walled study room, green doorway, wooden desk and books",
+    "situation": "The student is tired and distracted while rereading revision notes before several assessments.",
+    "support": "The same student and a trusted adult teacher sit at the desk, discussing a realistic study plan and priorities; papers have no readable text.",
+    "caption1": "Several assessments and poor sleep can make concentration harder. This does not establish laziness or illness.",
+    "caption2": "A trusted teacher may help prioritize revision and protect time for rest. Severe or worsening difficulties also warrant further support."
+  },
+  {
+    "id": "stress-finances",
+    "chapter": 3,
+    "subject": "a Rwandan adult man, age 34, dark brown skin, close-cropped hair, dusty blue shirt",
+    "setting": "a modest contemporary Kigali apartment, small dining table, plain bills and closed notebook",
+    "situation": "He sits thoughtfully with household bills and looks withdrawn, with his phone set aside.",
+    "support": "The same man and a trusted adult friend sit together reviewing a simple household budget and discussing practical support, without suggesting the money problem has disappeared.",
+    "caption1": "Unpredictable income can create real pressure and make social contact feel difficult.",
+    "caption2": "Emotional connection and practical financial or community assistance may both matter. Relaxation alone cannot resolve lost income."
+  },
+  {
+    "id": "stress-caregiver",
+    "chapter": 3,
+    "subject": "a Rwandan woman, age 43, dark brown skin, short natural hair, muted terracotta blouse",
+    "setting": "a tidy family living room, folded laundry, plain appointment folder and water glass",
+    "situation": "She pauses tiredly after organizing household tasks and appointments for an unwell adult relative; no patient or medical equipment is shown.",
+    "support": "The same woman and an adult relative share practical planning at the table; relative organizes transport papers while she takes a seated break.",
+    "caption1": "Care responsibilities can build into exhaustion and irritability when relief is limited.",
+    "caption2": "Shared responsibilities, relief and help with appointments may address part of the burden. A brief rest does not replace ongoing support."
+  },
+  {
+    "id": "stress-workplace",
+    "chapter": 3,
+    "subject": "a Rwandan office worker, age 30, dark brown skin, neat short twists, plain light-green blouse",
+    "setting": "a small contemporary office, closed laptop and plain notebook",
+    "situation": "She sits thoughtfully after repeated harsh criticism, with restrained worry, no confrontation or aggressor shown.",
+    "support": "The same worker speaks privately with a trusted adult adviser in a quiet meeting area, considering workplace support options and a closed notebook.",
+    "caption1": "Repeated harsh criticism can make work feel threatening or difficult to face.",
+    "caption2": "Private advice and appropriate workplace remedies may help. Harassment or danger calls for safety and practical action, not simply tolerating the situation."
+  },
+  {
+    "id": "anxiety-examination",
+    "chapter": 4,
+    "subject": "a Rwandan adult female student, age 22, dark brown skin, braided hair tied back, soft blue cotton top",
+    "setting": "a bright study space with open books and a simple desk",
+    "situation": "She looks tense and thoughtful over examination preparation, hands naturally on notebook.",
+    "support": "The same student discusses a manageable revision plan with a trusted adult teacher at the desk; calm attentive interaction without sudden happiness.",
+    "caption1": "Examination worry can include tension and fear of forgetting prepared material.",
+    "caption2": "A realistic plan, comfortable coping skills, rest and trusted support may help. Repeated inability to attend examinations deserves professional advice."
+  },
+  {
+    "id": "anxiety-speaking",
+    "chapter": 4,
+    "subject": "a Rwandan male employee, age 32, dark brown skin, short black hair, cream shirt",
+    "setting": "a modest office meeting room with a few ordinary adult colleagues in the background",
+    "situation": "He sits quietly at the meeting table, hesitant to speak, without ridicule or hostility.",
+    "support": "The same employee has a private supportive conversation with a fictional adult practitioner in a plain green blouse in a quiet office; no certificates or badges.",
+    "caption1": "Fear of speaking can lead someone to turn down responsibilities and avoid meetings.",
+    "caption2": "A private conversation and professional assessment can explore the pattern. Nobody should force humiliating exposure or infer a diagnosis from one scene."
+  },
+  {
+    "id": "anxiety-travel",
+    "chapter": 4,
+    "subject": "a Rwandan adult female passenger, age 29, dark brown skin, short neat braids, dusty rose shirt",
+    "setting": "a safely parked passenger minibus in daylight, open door and a nearby sheltered seating area",
+    "situation": "She is seated with a companion, appearing worried by new dizziness and breathing discomfort, no collapse, injury or dramatic gasping.",
+    "support": "The same passenger and companion speak with a fictional healthcare worker in a simple clinic assessment room; everyone seated, no equipment procedure or diagnosis.",
+    "caption1": "New, intense dizziness or breathing discomfort during travel should not automatically be called anxiety.",
+    "caption2": "Companions can help the person access medical assessment. Clinicians can then consider possible causes; the image does not establish panic disorder."
+  },
+  {
+    "id": "anxiety-finances",
+    "chapter": 4,
+    "subject": "a Rwandan caregiver woman, age 39, dark brown skin, natural hair in a low bun, sage cardigan",
+    "setting": "a simple family dining area with household papers and a school bag in the background",
+    "situation": "She looks concerned while considering school costs and essential expenses, no child distress depicted.",
+    "support": "The same caregiver and a trusted adult friend sit together identifying practical assistance and organizing a few household papers.",
+    "caption1": "Worry about school costs and essential expenses may reflect real insecurity.",
+    "caption2": "Practical assistance and emotional support can work together. Disabling or persistent worry may also need mental health care."
+  },
+  {
+    "id": "depression-student",
+    "chapter": 5,
+    "subject": "a Rwandan university student, age 23, dark brown skin, short coiled black hair, muted blue overshirt",
+    "setting": "a modest student room, desk, untouched books, phone resting nearby",
+    "situation": "The student appears quietly withdrawn and low in energy after weeks of missing classes, without exaggerated distress or hopeless imagery.",
+    "support": "The same student talks privately with a trusted adult support person who listens and offers help arranging healthcare and academic support.",
+    "caption1": "Weeks of withdrawal, poor sleep and difficulty attending classes deserve compassion and attention.",
+    "caption2": "A private conversation and help accessing assessment and academic support may be useful. A photograph cannot diagnose depression."
+  },
+  {
+    "id": "depression-parent",
+    "chapter": 5,
+    "subject": "a Rwandan new parent woman, age 31, dark brown skin, neatly tied natural hair, soft beige cardigan",
+    "setting": "a bright family living room with folded baby blankets and a bassinet safely in the background",
+    "situation": "She sits quietly looking tired and overwhelmed; no infant needs to be visible, no unsafe care situation.",
+    "support": "The same parent speaks privately with a fictional maternal healthcare practitioner while an adult partner quietly organizes practical household help in the background.",
+    "caption1": "Persistent low mood and overwhelm after childbirth can be difficult to disclose.",
+    "caption2": "Compassionate maternal healthcare assessment and practical family help may both matter. These scenes do not imply a diagnosis or replace professional care."
+  },
+  {
+    "id": "depression-income",
+    "chapter": 5,
+    "subject": "a Rwandan adult worker man, age 41, dark brown skin, short hair, rust-brown polo shirt",
+    "setting": "a modest home dining table, plain work folder and closed laptop",
+    "situation": "He sits withdrawn and exhausted after losing income, with restrained thoughtful expression.",
+    "support": "The same man and an adult support worker talk at a quiet community office, considering both care access and practical financial or social assistance.",
+    "caption1": "Losing income can coincide with isolation, exhaustion and persistent low mood.",
+    "caption2": "Care and practical financial or social support may both be needed. Reducing the difficulty to motivation overlooks its context."
+  },
+  {
+    "id": "depression-older-adult",
+    "chapter": 5,
+    "subject": "a Rwandan older woman, age 69, dark brown skin, short grey natural hair, dusty green blouse",
+    "setting": "an accessible quiet living room with a comfortable chair and walking stick resting nearby",
+    "situation": "She sits thoughtfully with low energy, a family photo on a side table, without exaggerated pain or frailty.",
+    "support": "The same older woman, accompanied by an adult relative if welcome, talks with a fictional healthcare practitioner in an accessible clinic room.",
+    "caption1": "Changes in sleep and interest in visits can occur alongside chronic pain and other health concerns.",
+    "caption2": "Assessment can consider physical and mental health together. Depression should not be dismissed as an inevitable part of aging."
+  },
+  {
+    "id": "trauma-road",
+    "chapter": 6,
+    "subject": "a Rwandan adult university student, age 24, dark brown skin, short black hair, muted teal shirt",
+    "setting": "a quiet campus courtyard well away from traffic, ordinary daylight",
+    "situation": "He looks tense and tired while considering transport, holding a plain backpack; do not show the accident, injury, damaged vehicle or flashback.",
+    "support": "The same student and a trusted adult adviser discuss practical transport assistance and a healthcare appointment in a calm campus office.",
+    "caption1": "After a road accident, traffic reminders, nightmares and travel difficulties may disrupt studies.",
+    "caption2": "Practical assistance and assessment may help. Nobody should force immediate travel as a test; these scenes show only the later circumstances."
+  },
+  {
+    "id": "trauma-health-worker",
+    "chapter": 6,
+    "subject": "a Rwandan healthcare worker woman, age 37, dark brown skin, short braids, plain unbranded sage scrubs",
+    "setting": "a quiet staff rest area with window light, no patients or clinical emergency",
+    "situation": "She sits tiredly after a difficult shift, with a cup of water, thoughtful rather than incapacitated.",
+    "support": "The same worker talks privately with an adult support professional in a quiet staff wellbeing room; equal eye level, no intrusive questioning or certificates.",
+    "caption1": "A distressing emergency can be followed by poor sleep or irritability, even when someone continues working.",
+    "caption2": "Confidential professional conversation, feasible rest and workplace support may help. Detailed retelling should not be demanded."
+  },
+  {
+    "id": "trauma-threats",
+    "chapter": 6,
+    "subject": "a Rwandan adult woman, age 35, dark brown skin, neat shoulder-length twists, muted plum blouse",
+    "setting": "a calm private room in a trusted community support setting, clear open space and daylight",
+    "situation": "She appears watchful and thoughtful while seated alone; no threatening person, confrontation, weapon or violent scene.",
+    "support": "The same woman speaks privately with a fictional qualified support practitioner about present safety and practical assistance, with comfortable space and no physical contact.",
+    "caption1": "Feeling constantly on guard after threats makes checking present safety important.",
+    "caption2": "Maintaining distance from an unsafe person may be protective. Professional support should consider privacy, protection and practical needs alongside symptoms."
+  },
+  {
+    "id": "trauma-adolescent",
+    "chapter": 6,
+    "subject": "a fictional Rwandan adolescent boy, age 16, dark brown skin, short black hair, ordinary blue school sweater",
+    "setting": "a quiet school courtyard and nearby private pastoral-support room",
+    "situation": "He sits quietly apart from peers after an unspecified frightening event, backpack beside him; no event, injury, abuse or humiliation shown.",
+    "support": "The same adolescent has a respectful conversation with a trusted adult school support person in a private room, no closed locked door or coercion.",
+    "caption1": "A young person may withdraw or struggle to concentrate after a frightening experience.",
+    "caption2": "A trusted adult can ask what support is welcome and help arrange age-appropriate assessment. Public disclosure and detailed retelling are not required."
+  },
+  {
+    "id": "grief-student",
+    "chapter": 7,
+    "subject": "a Rwandan university student woman, age 22, dark brown skin, neatly pulled-back braids, cream and sage clothing",
+    "setting": "a bright quiet campus study area, ordinary backpack and books",
+    "situation": "She looks reflective and distracted after a parent's death, thinking about studies and family responsibilities; no deceased person, funeral or crying close-up.",
+    "support": "The same student talks with a trusted adult campus adviser about temporary academic flexibility and practical support, without visible forms or readable text.",
+    "caption1": "Grief can affect concentration while tuition and family responsibilities add practical pressure.",
+    "caption2": "Trusted support and academic or financial adjustments may reduce pressure. Severe impairment warrants professional support; no diagnosis follows from this example."
+  },
+  {
+    "id": "grief-anniversary",
+    "chapter": 7,
+    "subject": "a Rwandan adult parent man, age 48, dark brown skin, short hair with slight greying, soft olive shirt",
+    "setting": "a quiet home veranda with two chairs and a small leafy plant",
+    "situation": "He sits reflectively on a difficult anniversary, holding an ordinary closed photo album without visible portraits.",
+    "support": "The same man sits with a trusted adult friend on the veranda, choosing quiet company; thoughtful warmth, not celebratory or instantly relieved.",
+    "caption1": "An anniversary can bring sadness years after a death alongside ordinary functioning and enjoyment.",
+    "caption2": "Chosen company or a quiet activity may help. Continued memories and sadness do not automatically indicate a disorder."
+  },
+  {
+    "id": "grief-employment",
+    "chapter": 7,
+    "subject": "a Rwandan adult worker woman, age 46, dark brown skin, short natural hair, muted ochre blouse",
+    "setting": "a modest home with a plain work folder, closed laptop and dining table",
+    "situation": "She looks thoughtful and uncertain after losing long-held employment, no eviction or degrading imagery.",
+    "support": "The same woman and a trusted adult adviser review available job-search and practical assistance in a community office, without suggesting a job offer.",
+    "caption1": "Losing long-held employment can affect identity, finances and a person's sense of role.",
+    "caption2": "Acknowledgment, practical assistance and trusted contact may help. Prolonged grief disorder concerns bereavement after death, not employment loss."
+  },
+  {
+    "id": "grief-assessment",
+    "chapter": 7,
+    "subject": "a Rwandan adult bereaved woman, age 40, dark brown skin, short twists pulled back, dusty blue blouse",
+    "setting": "a quiet uncluttered home with everyday tasks left on a table",
+    "situation": "She sits withdrawn and reflective with daily obligations feeling difficult long after a partner's death; no self-harm, deceased person or extreme distress.",
+    "support": "The same woman speaks with a fictional mental health practitioner in a quiet assessment room, with respectful eye level and no diagnostic labels or certificates.",
+    "caption1": "Pervasive yearning, isolation and serious difficulty meeting obligations deserve assessment.",
+    "caption2": "A qualified professional can consider safety, functioning, mood and cultural context. Prolonged grief disorder cannot be diagnosed from a brief story."
+  },
+  {
+    "id": "grief-child",
+    "chapter": 7,
+    "subject": "a fictional Rwandan child boy, age 8, dark brown skin, short coiled black hair, plain green T-shirt",
+    "setting": "a bright family living room with a small bookshelf and everyday toys",
+    "situation": "The child sits with a thoughtful puzzled expression next to a trusted adult caregiver, no frightening imagery, no bedroom or deceased person.",
+    "support": "The same child and caregiver sit together at eye level, caregiver calmly answering questions with attentive natural gestures; no visible written explanation.",
+    "caption1": "Confusing phrases about a grandparent's death can leave a child with questions or fears.",
+    "caption2": "A caregiver can give honest, age-appropriate explanations and predictable support. Persistent or impairing distress may need qualified help."
+  }
+]

@@ -1,0 +1,106 @@
+{
+  "source": "User-supplied original-c827749b6fcb0053e6a0a6cda3516413.webp",
+  "method": "Photo crops from the user screenshot; hero restored using built-in ImageGen to remove embedded UI and preserve composition.",
+  "referenceSize": [
+    521,
+    2048
+  ],
+  "crops": {
+    "professional": [
+      215,
+      429,
+      113,
+      134
+    ],
+    "pregnant": [
+      340,
+      429,
+      132,
+      82
+    ],
+    "mindfulness": [
+      55,
+      575,
+      132,
+      65
+    ],
+    "kindness": [
+      198,
+      575,
+      131,
+      65
+    ],
+    "hands": [
+      340,
+      575,
+      132,
+      65
+    ],
+    "event": [
+      56,
+      835,
+      118,
+      105
+    ],
+    "exercise": [
+      302,
+      835,
+      170,
+      79
+    ],
+    "environment": [
+      244,
+      1138,
+      176,
+      76
+    ],
+    "stretch": [
+      217,
+      1351,
+      256,
+      110
+    ],
+    "story": [
+      55,
+      1690,
+      103,
+      122
+    ],
+    "footer": [
+      42,
+      1855,
+      220,
+      110
+    ],
+    "avatar-1": [
+      195,
+      846,
+      20,
+      25
+    ],
+    "avatar-2": [
+      217,
+      846,
+      19,
+      25
+    ],
+    "avatar-3": [
+      240,
+      846,
+      20,
+      25
+    ],
+    "avatar-4": [
+      262,
+      846,
+      20,
+      25
+    ]
+  },
+  "hero": {
+    "tool": "Built-in image_gen",
+    "source": "artifacts/hero-reference.png",
+    "output": "public/images/hero.webp",
+    "prompt": "Remove all website UI and text; preserve the same smiling red-haired woman, black hat, raised gray sleeve, forest background and full landscape composition. Reconstruct obscured photographic areas. No text, logos or icons."
+  }
+}

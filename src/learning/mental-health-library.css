@@ -1,0 +1,360 @@
+/* Library-only presentation for the complete Mental Health chapter collection. */
+.mh-library-illustrated {
+  --mh-library-purple: #392653;
+  --mh-library-lavender: #f1edf7;
+  --mh-library-mint: #edf5ec;
+  --mh-library-muted: #526152;
+  padding-top: 32px;
+}
+.mh-library-illustrated .mh-library-hero {
+  grid-template-columns: 1.12fr 0.9fr;
+  gap: 48px;
+  background: var(--mh-library-mint);
+  border-radius: 32px;
+  padding: 48px;
+  margin-bottom: 28px;
+}
+.mh-library-illustrated .mh-library-hero h1 {
+  color: var(--mh-library-purple);
+  font-size: clamp(40px, 4.1vw, 60px);
+  line-height: 1.1;
+  margin: 20px 0 24px;
+  text-wrap: initial;
+}
+.mh-library-illustrated .mh-library-hero h1 span {
+  color: #516d4b;
+}
+.mh-library-illustrated .mh-library-hero p {
+  font-size: 16px;
+  color: var(--mh-library-muted);
+  max-width: 530px;
+}
+.mh-library-illustrated .mh-library-hero figure {
+  border: 0;
+  background: transparent;
+  padding: 0;
+  margin: 0;
+}
+.mh-library-illustrated .mh-library-hero figure img {
+  height: auto;
+  aspect-ratio: 4 / 3;
+  object-fit: contain;
+  border-radius: 22px;
+}
+.mh-library-illustrated .mh-library-hero figcaption {
+  font-size: 13px;
+  color: var(--mh-library-muted);
+  text-align: center;
+  padding: 0;
+  margin-top: 14px;
+}
+.mh-library-illustrated .mh-library-meta {
+  color: #425e3b;
+  font-size: 13px;
+  line-height: 1.7;
+}
+.mh-library-illustrated .mh-center-overview {
+  margin-bottom: 28px;
+  border-top: 0;
+  padding-block: 16px 28px;
+}
+.mh-library-illustrated .mh-center-overview span {
+  font-size: 13px;
+  color: var(--mh-library-muted);
+}
+.mh-library-illustrated .mh-start-here {
+  background: var(--mh-library-lavender);
+  border-color: #e3daec;
+  margin-bottom: 20px;
+}
+.mh-library-illustrated .mh-start-icon {
+  background: #fff;
+  color: #655080;
+}
+.mh-library-illustrated .mh-start-here p {
+  font-size: 14px;
+  color: var(--mh-library-muted);
+}
+.mh-library-illustrated .mh-draft-note {
+  background: #fcfcf8;
+  border-color: #e0e5d8;
+}
+.mh-library-illustrated .mh-draft-note strong {
+  font-weight: 600;
+  font-size: 14px;
+}
+.mh-library-illustrated .mh-draft-note p {
+  font-size: 13px;
+  color: var(--mh-library-muted);
+}
+.mh-library-illustrated .mh-library-chapters {
+  padding-top: 56px;
+  scroll-margin-top: calc(var(--site-header-height, 110px) + 24px);
+}
+.mh-library-illustrated .mh-library-chapters > .support-section-heading {
+  max-width: 770px;
+  margin-bottom: 32px;
+}
+.mh-library-illustrated .mh-library-chapters > .support-section-heading > p {
+  font-size: 16px;
+  color: var(--mh-library-muted);
+}
+.mh-library-illustrated .mh-library-toolbar {
+  background: #f6f7f2;
+  border: 1px solid #e1e7db;
+  border-radius: 18px;
+  padding: 16px 20px;
+  margin-bottom: 14px;
+}
+.mh-library-illustrated .mh-library-toolbar span[role] {
+  color: var(--mh-library-muted);
+  font-size: 13px;
+}
+.mh-library-illustrated .mh-chapter-search {
+  border-color: #72866c;
+}
+.mh-library-illustrated .mh-chapter-search input::placeholder {
+  color: #5a6754;
+  opacity: 1;
+}
+.mh-library-illustrated .mh-chapter-search:focus-within {
+  outline: 3px solid var(--color-focus);
+  outline-offset: 3px;
+}
+.mh-library-illustrated .mh-cover-note {
+  font-size: 13px;
+  line-height: 1.75;
+  color: var(--mh-library-muted);
+  max-width: 800px;
+  margin: 0 0 26px;
+}
+.mh-library-illustrated .mh-cover-note strong {
+  color: var(--mh-library-purple);
+  font-weight: 500;
+}
+.mh-library-illustrated .mh-chapter-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 28px;
+}
+.mh-library-illustrated .mh-chapter-card {
+  border-color: #dce3d6;
+  border-radius: 26px;
+  box-shadow: none;
+  transition:
+    border-color var(--duration-normal) var(--ease),
+    box-shadow var(--duration-normal) var(--ease);
+}
+.mh-library-illustrated .mh-chapter-card:hover {
+  border-color: #8b9b80;
+  box-shadow: 0 8px 24px #243d300a;
+}
+.mh-library-illustrated .mh-chapter-card > a {
+  color: #203e2d;
+}
+.mh-library-illustrated .mh-chapter-card > a:focus-visible {
+  outline: 3px solid var(--color-focus);
+  outline-offset: -3px;
+}
+.mh-library-illustrated .mh-card-photo {
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: stretch;
+  gap: 12px;
+  aspect-ratio: auto;
+  background: #f8f8f4;
+  margin: 0;
+  border-radius: 25px 25px 0 0;
+  padding: 18px 18px 0;
+  overflow: visible;
+}
+.mh-library-illustrated .mh-card-photo img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 3 / 2;
+  object-fit: contain;
+  border-radius: 16px;
+  transform: none;
+  transition: none;
+}
+.mh-library-illustrated .mh-card-photo > span {
+  position: static;
+  align-self: flex-start;
+  font-size: 12px;
+  line-height: 1.5;
+  letter-spacing: 0.09em;
+  font-weight: 600;
+  padding: 6px 12px;
+  background: var(--mh-library-lavender);
+  color: var(--mh-library-purple);
+}
+.mh-library-illustrated .mh-card-body {
+  padding: 28px;
+  display: grid;
+  grid-template-rows: auto auto 1fr auto auto auto;
+  align-content: start;
+}
+.mh-library-illustrated .mh-card-meta {
+  color: #52654a;
+  gap: 8px;
+  line-height: 1.7;
+  font-size: 13px;
+}
+.mh-library-illustrated .mh-card-meta > span:last-child {
+  margin-left: auto;
+}
+.mh-library-illustrated .mh-card-body h3 {
+  color: var(--mh-library-purple);
+  font-size: clamp(24px, 2.15vw, 31px);
+  font-weight: 500;
+  line-height: 1.24;
+  letter-spacing: -0.035em;
+  text-wrap: pretty;
+  margin: 18px 0 16px;
+}
+.mh-library-illustrated .mh-card-body > p {
+  align-self: start;
+}
+.mh-library-illustrated .mh-card-body > p {
+  font-size: 15px;
+  line-height: 1.85;
+  color: var(--mh-library-muted);
+  margin-bottom: 26px;
+}
+.mh-library-illustrated .mh-card-time {
+  color: var(--mh-library-muted);
+  font-size: 13px;
+  margin-bottom: 14px;
+}
+.mh-library-illustrated .mh-card-visuals {
+  color: #46613e;
+  font-size: 13px;
+}
+.mh-library-illustrated .mh-card-action {
+  font-weight: 600;
+  font-size: 14px;
+}
+.mh-library-illustrated .mh-card-action svg {
+  background: var(--mh-library-lavender);
+  color: var(--mh-library-purple);
+}
+.mh-library-illustrated .mh-search-empty button:focus-visible {
+  outline: 3px solid var(--color-focus);
+  outline-offset: 4px;
+}
+@media (max-width: 1050px) {
+  .mh-library-illustrated .mh-library-hero {
+    gap: 28px;
+    padding: 36px 30px;
+  }
+  .mh-library-illustrated .mh-library-hero h1 {
+    font-size: 42px;
+  }
+  .mh-library-illustrated .mh-card-body {
+    padding: 24px;
+  }
+  .mh-library-illustrated .mh-card-meta > span:last-child {
+    margin-left: 0;
+    flex-basis: 100%;
+  }
+}
+@media (max-width: 850px) {
+  .mh-library-illustrated .mh-library-hero {
+    grid-template-columns: 1fr;
+    gap: 32px;
+    padding: 38px 32px 28px;
+  }
+  .mh-library-illustrated .mh-library-hero h1 {
+    max-width: 600px;
+    font-size: clamp(38px, 6.4vw, 50px);
+  }
+  .mh-library-illustrated .mh-library-hero figure {
+    max-width: 490px;
+    width: 100%;
+    margin-inline: auto;
+  }
+  .mh-library-illustrated .mh-chapter-grid {
+    gap: 20px;
+  }
+  .mh-library-illustrated .mh-card-photo {
+    padding: 14px 14px 0;
+  }
+  .mh-library-illustrated .mh-card-body {
+    padding: 22px;
+  }
+  .mh-library-illustrated .mh-card-body h3 {
+    font-size: 25px;
+  }
+}
+@media (max-width: 650px) {
+  .mh-library-illustrated {
+    padding-top: 20px;
+  }
+  .mh-library-illustrated .mh-library-hero {
+    padding: 24px 20px 20px;
+    border-radius: 24px;
+    gap: 18px;
+  }
+  .mh-library-illustrated .mh-library-hero h1 {
+    font-size: clamp(30px, 8.5vw, 40px);
+    letter-spacing: -0.045em;
+    margin: 16px 0 18px;
+  }
+  .mh-library-illustrated .mh-library-hero p {
+    font-size: 15px;
+    line-height: 1.7;
+    margin-bottom: 22px;
+  }
+  .mh-library-illustrated .mh-library-hero figure {
+    max-width: 220px;
+  }
+  .mh-library-illustrated .mh-library-hero figcaption {
+    margin-top: 8px;
+    font-size: 12px;
+  }
+  .mh-library-illustrated .mh-library-meta {
+    display: flex;
+    gap: 8px;
+  }
+  .mh-library-illustrated .mh-library-meta > span + span {
+    flex-basis: 100%;
+    border-left: 0;
+    padding-left: 23px;
+  }
+  .mh-library-illustrated .mh-center-overview {
+    gap: 20px;
+  }
+  .mh-library-illustrated .mh-start-here {
+    padding: 24px;
+  }
+  .mh-library-illustrated .mh-draft-note {
+    padding: 20px;
+    gap: 12px;
+  }
+  .mh-library-illustrated .mh-library-chapters {
+    padding-top: 40px;
+  }
+  .mh-library-illustrated .mh-library-toolbar {
+    padding: 18px;
+    gap: 16px;
+    align-items: stretch;
+  }
+  .mh-library-illustrated .mh-chapter-search {
+    width: 100%;
+  }
+  .mh-library-illustrated .mh-chapter-grid {
+    grid-template-columns: 1fr;
+    gap: 26px;
+  }
+  .mh-library-illustrated .mh-card-photo {
+    padding: 14px 14px 0;
+  }
+  .mh-library-illustrated .mh-card-body {
+    padding: 24px 22px;
+  }
+  .mh-library-illustrated .mh-card-body h3 {
+    font-size: 25px;
+  }
+  .mh-library-illustrated .mh-card-body > p {
+    font-size: 15px;
+  }
+}

@@ -1,0 +1,541 @@
+.mh-reader .lv-visual {
+  --lv-forest: #244b39;
+  margin: 30px 0 10px;
+  padding: 23px;
+  border: 1px solid #d9e3d1;
+  border-radius: 20px;
+  background: #f8faf4;
+  color: #244b39;
+  min-width: 0;
+}
+.mh-reader .mh-example:has(.lv-story) {
+  padding: 0;
+  margin: 32px 0 42px;
+  border: 0;
+  background: transparent;
+}
+.mh-reader .lv-heading {
+  margin-bottom: 19px;
+}
+.mh-reader .lv-with-source-heading .lv-heading {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 8px 18px;
+}
+.mh-reader .lv-with-source-heading .lv-heading .lv-fictional {
+  margin: 0;
+}
+.mh-reader .lv-eyebrow {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  color: #537146;
+}
+.mh-reader .lv-heading h3,
+.mh-reader .lv-heading h4 {
+  margin: 12px 0 9px;
+  font-size: clamp(21px, 2vw, 27px);
+  line-height: 1.25;
+  letter-spacing: -0.035em;
+  font-weight: 500;
+  color: #244b39;
+}
+.mh-reader .lv-heading p {
+  margin: 0;
+  font-size: 13px;
+  line-height: 1.7;
+  color: #576750;
+}
+.mh-reader .lv-heading .lv-fictional {
+  font-size: 12px;
+  line-height: 1.6;
+}
+.lv-story-scenes {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+}
+.mh-reader .lv-scene {
+  margin: 0;
+  min-width: 0;
+  background: #fff;
+  border: 1px solid #e2e7d9;
+  border-radius: 15px;
+  overflow: hidden;
+}
+.lv-scene-image {
+  aspect-ratio: 4/3;
+  position: relative;
+  background: #e7eddf;
+}
+.lv-scene-image img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  aspect-ratio: inherit;
+  object-fit: cover;
+  object-position: var(--lv-scene-position, 50% 50%);
+}
+.lv-scene-number {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  display: grid;
+  place-items: center;
+  width: 29px;
+  height: 29px;
+  border-radius: 50%;
+  background: #f8faef;
+  color: #244b39;
+  font-size: 12px;
+  font-weight: 600;
+}
+.lv-scene figcaption {
+  padding: 16px;
+}
+.lv-scene-label {
+  display: block;
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.065em;
+  color: #536b47;
+}
+.mh-reader .lv-scene figcaption p {
+  margin: 9px 0 0;
+  color: #354e3c;
+  font-size: 14px;
+  line-height: 1.8;
+}
+.lv-scene-description {
+  display: block;
+  margin-top: 12px;
+  font-size: 12px;
+  line-height: 1.7;
+}
+.mh-reader .lv-image-unavailable > p {
+  position: absolute;
+  inset: 15%;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+  font-size: 12px;
+  text-align: center;
+}
+.lv-explore {
+  margin-top: 16px;
+  border-top: 1px solid #dbe4d2;
+  padding-top: 5px;
+}
+.lv-explanation {
+  border-bottom: 1px solid #dbe4d2;
+}
+.lv-explanation summary {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+  list-style: none;
+  gap: 18px;
+  padding: 15px 0;
+  color: #244b39;
+  font-size: 12px;
+  font-weight: 600;
+}
+.lv-explanation summary::-webkit-details-marker {
+  display: none;
+}
+.lv-explanation[open] summary > svg {
+  transform: rotate(180deg);
+}
+.mh-reader .lv-explanation > p {
+  margin: 0 0 16px;
+  font-size: 13px;
+  line-height: 1.9;
+}
+.mh-reader .lv-reflection {
+  margin: 13px 0 0;
+  color: #3f563e;
+  font-size: 13px;
+  line-height: 1.8;
+}
+.lv-reflection > span {
+  display: block;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  margin-bottom: 6px;
+  color: #537146;
+}
+.lv-person {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  width: fit-content;
+  max-width: 100%;
+  padding: 13px 19px;
+  margin: 0 auto 20px;
+  border: 1px solid #c9d9bb;
+  border-radius: 30px;
+  background: #e5efda;
+  font-size: 12px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.lv-person > span {
+  color: #52684a;
+}
+.lv-steps {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+  padding: 0;
+  margin: 0;
+}
+.mh-reader .lv-steps > li {
+  position: relative;
+  padding: 18px;
+  margin: 0;
+  border-radius: 13px;
+  border: 1px solid #dce5d2;
+  background: #fff;
+  font-size: 12px;
+}
+.lv-step-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  margin-bottom: 17px;
+}
+.lv-step-icon {
+  display: grid;
+  place-items: center;
+  width: 39px;
+  height: 39px;
+  border-radius: 12px;
+  background: #edf3e5;
+  color: #41613e;
+  flex: 0 0 auto;
+}
+.lv-step-number {
+  font-size: 12px;
+  color: #607153;
+}
+.mh-reader .lv-steps strong {
+  display: block;
+  font-size: 13px;
+  line-height: 1.6;
+  font-weight: 600;
+}
+.mh-reader .lv-steps p {
+  font-size: 13px;
+  line-height: 1.85;
+  color: #50624b;
+  margin: 8px 0 0;
+}
+.lv-connector {
+  display: flex;
+  width: fit-content;
+  margin-top: 14px;
+  color: #718d5d;
+}
+.lv-arrow-down {
+  display: none;
+}
+.lv-sequence:not(.lv-timeline) .lv-steps {
+  gap: 22px;
+}
+.lv-sequence:not(.lv-timeline) .lv-connector {
+  position: absolute;
+  right: -19px;
+  top: 50%;
+  transform: translateY(-50%);
+  margin: 0;
+  z-index: 1;
+}
+.lv-influences .lv-steps {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+.lv-influences .lv-steps > li:last-child:nth-child(odd) {
+  grid-column: 1/-1;
+}
+.lv-influences .lv-step-top {
+  margin-bottom: 10px;
+}
+.lv-pair-labels {
+  display: grid;
+  grid-template-columns: 1fr 1.2fr;
+  gap: 16px;
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 0 15px 13px;
+}
+.lv-pairs dl {
+  margin: 0;
+}
+.lv-pairs dl > div {
+  display: grid;
+  grid-template-columns: 1fr 1.2fr;
+  border: 1px solid #dce5d2;
+  border-radius: 12px;
+  margin-bottom: 8px;
+  background: #fff;
+}
+.lv-pairs dt {
+  padding: 16px;
+  font-size: 12px;
+  line-height: 1.7;
+}
+.lv-pairs dd {
+  margin: 0;
+  padding: 16px;
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  font-size: 12px;
+  line-height: 1.7;
+  background: #ecf3e4;
+  border-radius: 0 12px 12px 0;
+}
+.lv-pairs dd > svg {
+  flex-shrink: 0;
+}
+.mh-reader .lv-diagram-note {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  margin: 20px 0 0;
+  padding: 15px;
+  border-radius: 12px;
+  background: #e8efdf;
+  color: #3c5437;
+  font-size: 12px;
+  line-height: 1.8;
+}
+.lv-diagram-note > svg {
+  flex: 0 0 auto;
+  margin-top: 2px;
+}
+.lv-skill .lv-steps,
+.lv-connection .lv-steps,
+.lv-timeline .lv-steps {
+  grid-template-columns: 1fr;
+  gap: 22px;
+}
+.mh-reader .lv-skill .lv-steps > li,
+.mh-reader .lv-connection .lv-steps > li,
+.mh-reader .lv-timeline .lv-steps > li {
+  display: grid;
+  grid-template-columns: 46px minmax(0, 1fr);
+  gap: 0 16px;
+  padding: 16px;
+}
+.lv-skill .lv-step-top,
+.lv-connection .lv-step-top,
+.lv-timeline .lv-step-top {
+  grid-column: 1;
+  grid-row: 1 / 3;
+  margin: 0;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 7px;
+}
+.lv-skill .lv-steps strong,
+.lv-skill .lv-steps p,
+.lv-connection .lv-steps strong,
+.lv-connection .lv-steps p,
+.lv-timeline .lv-steps strong,
+.lv-timeline .lv-steps p {
+  grid-column: 2;
+}
+.lv-skill .lv-connector,
+.lv-connection .lv-connector,
+.lv-timeline .lv-connector {
+  position: absolute;
+  left: 50%;
+  bottom: -20px;
+  margin: 0;
+  transform: translateX(-50%);
+}
+.lv-skill .lv-arrow-across,
+.lv-timeline .lv-arrow-across {
+  display: none;
+}
+.lv-skill .lv-arrow-down,
+.lv-timeline .lv-arrow-down {
+  display: block;
+}
+@media (max-width: 680px) {
+  .lv-sequence:not(.lv-timeline) .lv-steps {
+    gap: 22px;
+  }
+  .lv-sequence:not(.lv-timeline) .lv-connector {
+    left: 50%;
+    right: auto;
+    top: auto;
+    bottom: -20px;
+    transform: translateX(-50%);
+  }
+  .lv-arrow-across {
+    display: none;
+  }
+  .lv-arrow-down {
+    display: block;
+  }
+}
+@media (max-width: 680px) {
+  .mh-reader .lv-visual {
+    margin-top: 24px;
+    padding: 15px;
+    border-radius: 17px;
+  }
+  .mh-reader .lv-heading {
+    margin-bottom: 15px;
+  }
+  .mh-reader .lv-heading h3,
+  .mh-reader .lv-heading h4 {
+    font-size: 22px;
+  }
+  .mh-reader .lv-heading p {
+    font-size: 12px;
+  }
+  .lv-story-scenes {
+    grid-template-columns: 1fr;
+    gap: 15px;
+  }
+  .lv-scene-image {
+    aspect-ratio: 3/2;
+  }
+  .lv-scene-image img {
+    object-position: var(--lv-scene-mobile-position, 50% 30%);
+  }
+  .lv-scene figcaption {
+    padding: 16px;
+  }
+  .lv-steps,
+  .lv-skill .lv-steps,
+  .lv-connection .lv-steps,
+  .lv-influences .lv-steps {
+    grid-template-columns: 1fr;
+  }
+  .lv-person {
+    border-radius: 17px;
+    justify-content: flex-start;
+    padding: 14px;
+  }
+  .lv-person > span {
+    width: 100%;
+    margin-left: 33px;
+    font-size: 12px;
+  }
+  .mh-reader .lv-steps > li {
+    padding: 16px;
+  }
+  .lv-step-top {
+    margin-bottom: 11px;
+  }
+  .lv-pair-labels {
+    display: none;
+  }
+  .lv-pairs dl > div {
+    grid-template-columns: 1fr;
+  }
+  .lv-pairs dd {
+    border-radius: 0 0 12px 12px;
+  }
+  .lv-pair-arrow {
+    transform: rotate(90deg);
+  }
+  .lv-explanation summary {
+    font-size: 13px;
+  }
+}
+@media print {
+  .mh-reader .mh-example:has(.lv-story) {
+    break-inside: avoid;
+  }
+  .mh-reader .lv-visual {
+    break-inside: avoid;
+    background: white;
+    padding: 12px;
+    border-radius: 0;
+    margin: 14px 0;
+  }
+  .lv-story-scenes {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 12px;
+  }
+  .mh-reader .lv-scene,
+  .mh-reader .lv-steps > li,
+  .lv-pairs dl > div {
+    break-inside: avoid;
+  }
+  .mh-reader .lv-heading {
+    break-after: avoid;
+  }
+  .lv-scene-image {
+    max-height: none;
+    aspect-ratio: 4/3;
+  }
+  .lv-scene-image img {
+    object-fit: cover;
+  }
+  .mh-reader .lv-heading h3,
+  .mh-reader .lv-heading h4 {
+    font-size: 16pt;
+  }
+  .mh-reader .lv-scene figcaption p,
+  .mh-reader .lv-steps p,
+  .mh-reader .lv-explanation > p,
+  .mh-reader .lv-reflection,
+  .mh-reader .lv-diagram-note {
+    font-size: 9pt;
+    line-height: 1.6;
+  }
+  .lv-explanation summary > svg {
+    display: none;
+  }
+  .lv-steps,
+  .lv-influences .lv-steps {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .lv-skill .lv-steps,
+  .lv-connection .lv-steps,
+  .lv-timeline .lv-steps {
+    grid-template-columns: 1fr;
+  }
+  .lv-sequence:not(.lv-timeline) .lv-steps {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+  .mh-reader .lv-skill .lv-steps > li,
+  .mh-reader .lv-connection .lv-steps > li,
+  .mh-reader .lv-timeline .lv-steps > li {
+    padding: 10px;
+  }
+  .lv-skill .lv-step-icon,
+  .lv-connection .lv-step-icon,
+  .lv-timeline .lv-step-icon {
+    width: 28px;
+    height: 28px;
+    border-radius: 8px;
+  }
+  .lv-skill .lv-step-top,
+  .lv-connection .lv-step-top,
+  .lv-timeline .lv-step-top {
+    gap: 3px;
+  }
+  .lv-explore {
+    break-inside: avoid;
+  }
+}

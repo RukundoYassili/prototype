@@ -1,0 +1,215 @@
+{
+  "gbvDiagrams": [
+    {
+      "id": "gbv-consent",
+      "chapterSlug": "understanding-gender-based-violence",
+      "sectionId": "gbv-section-1-8",
+      "title": "Consent includes freedom to choose",
+      "introduction": "Four connected qualities help explain the source lesson. Silence, fear or a previous agreement does not establish consent.",
+      "kind": "influences",
+      "steps": [
+        {
+          "title": "Free",
+          "text": "No threats, pressure, punishment or exploitation.",
+          "icon": "hand"
+        },
+        {
+          "title": "Informed",
+          "text": "Understand the particular action and available choice.",
+          "icon": "eye"
+        },
+        {
+          "title": "Specific",
+          "text": "Agreement to one action does not allow another.",
+          "icon": "compass"
+        },
+        {
+          "title": "Changeable",
+          "text": "Consent can be withdrawn; boundaries still matter.",
+          "icon": "pause"
+        }
+      ],
+      "note": "Age, capacity, context and legal protections also matter. This is education, not a legal test.",
+      "explanation": "These qualities belong together; they are not a script for testing another person's boundaries.",
+      "reflection": "How does freedom to decline change the meaning of agreement?"
+    },
+    {
+      "id": "gbv-lives",
+      "chapterSlug": "understanding-gender-based-violence",
+      "sectionId": "gbv-section-1-9",
+      "title": "LIVES: a respectful first response",
+      "introduction": "A visual companion to WHO's first-line support outline in the original lesson.",
+      "kind": "sequence",
+      "steps": [
+        {
+          "title": "Listen",
+          "text": "Give time; do not demand a detailed account.",
+          "icon": "ear"
+        },
+        {
+          "title": "Inquire",
+          "text": "Ask sensitively about needs and concerns.",
+          "icon": "message"
+        },
+        {
+          "title": "Validate",
+          "text": "Affirm dignity without blame.",
+          "icon": "heart"
+        },
+        {
+          "title": "Enhance safety",
+          "text": "Ask if it is safe to talk and what help is wanted.",
+          "icon": "shield"
+        },
+        {
+          "title": "Support",
+          "text": "Offer appropriate services without taking over.",
+          "icon": "hand"
+        }
+      ],
+      "note": "An approach for trained care, not a substitute for professional training. Explain confidentiality and safeguarding limits.",
+      "explanation": "Listening and offering choices differ from investigating, directing, or promising total secrecy. The response should adapt to the person and context.",
+      "reflection": "Which response could leave the person with more choice?"
+    }
+  ],
+  "gbvStories": [
+    {
+      "id": "gbv-training-opportunity",
+      "chapterSlug": "understanding-gender-based-violence",
+      "sectionId": "gbv-section-1-4",
+      "sourceExampleId": "example-gbv-training-opportunity",
+      "title": "A training opportunity",
+      "scenes": [
+        {
+          "caption": "A training offer becomes a concern when a partner attaches threats and surveillance to it.",
+          "alt": "Fictional woman around 28 with short natural hair, mustard cardigan, cream blouse, navy skirt. Sits at a dining table looking thoughtfully at a plain training leaflet, adult male partner across table distant neutral body language, ordinary contemporary Kigali home.",
+          "focalPosition": "50% 45%",
+          "mobileFocalPosition": "50% 35%"
+        },
+        {
+          "caption": "A private conversation with a training adviser could help explore available options, if safe.",
+          "alt": "The same fictional woman around 28 with short natural hair, mustard cardigan, cream blouse, navy skirt. Meets an adult female training adviser privately in an accessible office to discuss available information and choices.",
+          "focalPosition": "50% 45%",
+          "mobileFocalPosition": "50% 35%"
+        }
+      ],
+      "explanation": "Threats and compulsory monitoring differ from mutually agreed practical planning. Support should respect her choices and consider risk.",
+      "reflection": "In this fictional example, what would preserve freedom to choose?"
+    },
+    {
+      "id": "gbv-household-earnings",
+      "chapterSlug": "understanding-gender-based-violence",
+      "sectionId": "gbv-section-1-12",
+      "sourceExampleId": "example-gbv-household-earnings",
+      "title": "Financial control in a household",
+      "scenes": [
+        {
+          "caption": "Taking earnings through threats can restrict access to food and independence.",
+          "alt": "Fictional woman around 38, braided bun, muted blue blouse, small silver earrings. At a small produce stall in a Rwandan neighborhood market, pauses thoughtfully over a closed earnings notebook; no confrontation visible.",
+          "focalPosition": "50% 45%",
+          "mobileFocalPosition": "50% 35%"
+        },
+        {
+          "caption": "A worker could listen privately and discuss support options the person considers safe.",
+          "alt": "The same fictional woman around 38, braided bun, muted blue blouse, small silver earrings. Sits privately with an adult woman community support worker, listening to options with her notebook closed.",
+          "focalPosition": "50% 45%",
+          "mobileFocalPosition": "50% 35%"
+        }
+      ],
+      "explanation": "Economic abuse concerns coercive control, rather than low income alone. Confronting a partner may increase danger.",
+      "reflection": "What makes a supportive question different from an instruction?"
+    },
+    {
+      "id": "gbv-student-monitoring",
+      "chapterSlug": "understanding-gender-based-violence",
+      "sectionId": "gbv-section-1-12",
+      "sourceExampleId": "example-gbv-student-monitoring",
+      "title": "A student and digital monitoring",
+      "scenes": [
+        {
+          "caption": "Repeated monitoring, threats and isolation can affect a student's autonomy.",
+          "alt": "Fictional college student woman aged 21, short natural curls, sage green shirt, navy backpack. Sits on a college courtyard bench looking concerned at a phone with screen turned away, classmates at a respectful distance.",
+          "focalPosition": "50% 45%",
+          "mobileFocalPosition": "50% 35%"
+        },
+        {
+          "caption": "A student adviser could ask about safe communication and the support the student prefers.",
+          "alt": "The same fictional college student woman aged 21, short natural curls, sage green shirt, navy backpack. Talks privately with an adult female student-support adviser, her phone face down, no advice displayed on screen.",
+          "focalPosition": "50% 45%",
+          "mobileFocalPosition": "50% 35%"
+        }
+      ],
+      "explanation": "Changing passwords or contacting the partner is not automatically safe. The person knows important details of their situation.",
+      "reflection": "What could a supporter ask before discussing digital help?"
+    },
+    {
+      "id": "gbv-volunteer-disclosure",
+      "chapterSlug": "understanding-gender-based-violence",
+      "sectionId": "gbv-section-1-12",
+      "sourceExampleId": "example-gbv-volunteer-disclosure",
+      "title": "Disclosure to a community volunteer",
+      "scenes": [
+        {
+          "caption": "Someone may begin a disclosure quietly and ask for privacy.",
+          "alt": "Fictional adult man around 32, close cropped hair, beige short sleeve shirt. Sits quietly at the edge of a community center waiting area with an adult male volunteer, hesitant thoughtful expression.",
+          "focalPosition": "50% 45%",
+          "mobileFocalPosition": "50% 35%"
+        },
+        {
+          "caption": "A volunteer could explain confidentiality limits, listen, and offer referral choices without demanding details.",
+          "alt": "The same fictional adult man around 32, close cropped hair, beige short sleeve shirt. Same adult male volunteer listens attentively in a quieter private office, maintaining respectful distance, no notes or recording device.",
+          "focalPosition": "50% 45%",
+          "mobileFocalPosition": "50% 35%"
+        }
+      ],
+      "explanation": "A supporter does not need a detailed account to offer respectful information. Privacy limits must be explained before collecting sensitive information.",
+      "reflection": "How could a volunteer respect a request for privacy without promising absolute secrecy?"
+    },
+    {
+      "id": "gbv-child-safeguarding",
+      "chapterSlug": "understanding-gender-based-violence",
+      "sectionId": "gbv-section-1-12",
+      "sourceExampleId": "example-gbv-child-safeguarding",
+      "title": "A child appears unsafe",
+      "scenes": [
+        {
+          "caption": "A school setting can be a place to notice that a young person needs support.",
+          "alt": "Fictional adolescent Rwandan girl aged 15, braided hair, plain blue school sweater and navy skirt. Sits thoughtfully on a bench outside a bright school office with a female adult teacher nearby, no abusive person depicted.",
+          "focalPosition": "50% 45%",
+          "mobileFocalPosition": "50% 35%"
+        },
+        {
+          "caption": "A teacher could listen calmly and involve qualified safeguarding services through an approved process.",
+          "alt": "The same fictional adolescent Rwandan girl aged 15, braided hair, plain blue school sweater and navy skirt. Same teacher sits at a respectful distance and listens calmly in an open welcoming safeguarding office, another qualified female worker visible, no physical contact.",
+          "focalPosition": "50% 45%",
+          "mobileFocalPosition": "50% 35%"
+        }
+      ],
+      "explanation": "This ordinary fictional school scene does not depict abuse. Adults should not investigate independently or promise secrecy they cannot keep.",
+      "reflection": "Which responsibilities belong to trained safeguarding professionals?"
+    },
+    {
+      "id": "gbv-friend-listening",
+      "chapterSlug": "understanding-gender-based-violence",
+      "sectionId": "gbv-section-1-12",
+      "sourceExampleId": "example-gbv-friend-listening",
+      "title": "A friend minimizes abuse",
+      "scenes": [
+        {
+          "caption": "Threats and restrictions on visiting others can matter even without visible injury.",
+          "alt": "Fictional woman around 26, chin length twists, rust orange blouse. Sits with a female friend at an outdoor cafe in Kigali, thoughtful guarded conversation, no shouting or threats depicted.",
+          "focalPosition": "50% 45%",
+          "mobileFocalPosition": "50% 35%"
+        },
+        {
+          "caption": "A friend could acknowledge concerns and listen without imposing a label or a decision.",
+          "alt": "The same fictional woman around 26, chin length twists, rust orange blouse. Same friend now listens attentively with open relaxed body language, phone put away, protagonist remains thoughtful, no hugging or guaranteed recovery.",
+          "focalPosition": "50% 45%",
+          "mobileFocalPosition": "50% 35%"
+        }
+      ],
+      "explanation": "Minimizing abuse may make support harder to seek. Listening can open a conversation while leaving choices with the person.",
+      "reflection": "What could an acknowledging response sound like?"
+    }
+  ]
+}

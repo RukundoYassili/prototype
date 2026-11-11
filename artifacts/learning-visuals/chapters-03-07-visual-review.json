@@ -1,0 +1,301 @@
+{
+  "reviewedAt": "2026-11-09",
+  "tool": "Built-in image_gen",
+  "scope": "42 new fictional scene images for Chapters 3–7",
+  "stories": [
+    {
+      "id": "stress-examination",
+      "chapter": 3,
+      "sourceExample": "Scenario A: examination pressure",
+      "checks": {
+        "sourceAlignment": true,
+        "characterContinuity": true,
+        "naturalAnatomy": true,
+        "respectfulExpressions": true,
+        "nonGraphic": true,
+        "noEmbeddedTeachingLabels": true
+      },
+      "qualification": "The support scene shows one possible step, not a diagnosis or guaranteed recovery."
+    },
+    {
+      "id": "stress-finances",
+      "chapter": 3,
+      "sourceExample": "Scenario B: financial uncertainty",
+      "checks": {
+        "sourceAlignment": true,
+        "characterContinuity": true,
+        "naturalAnatomy": true,
+        "respectfulExpressions": true,
+        "nonGraphic": true,
+        "noEmbeddedTeachingLabels": true
+      },
+      "qualification": "The support scene shows one possible step, not a diagnosis or guaranteed recovery."
+    },
+    {
+      "id": "stress-caregiver",
+      "chapter": 3,
+      "sourceExample": "Scenario C: caregiver overload",
+      "checks": {
+        "sourceAlignment": true,
+        "characterContinuity": true,
+        "naturalAnatomy": true,
+        "respectfulExpressions": true,
+        "nonGraphic": true,
+        "noEmbeddedTeachingLabels": true
+      },
+      "qualification": "The support scene shows one possible step, not a diagnosis or guaranteed recovery."
+    },
+    {
+      "id": "stress-workplace",
+      "chapter": 3,
+      "sourceExample": "Scenario D: conflict at work",
+      "checks": {
+        "sourceAlignment": true,
+        "characterContinuity": true,
+        "naturalAnatomy": true,
+        "respectfulExpressions": true,
+        "nonGraphic": true,
+        "noEmbeddedTeachingLabels": true
+      },
+      "qualification": "The support scene shows one possible step, not a diagnosis or guaranteed recovery."
+    },
+    {
+      "id": "anxiety-examination",
+      "chapter": 4,
+      "sourceExample": "Scenario A — Examination worry",
+      "checks": {
+        "sourceAlignment": true,
+        "characterContinuity": true,
+        "naturalAnatomy": true,
+        "respectfulExpressions": true,
+        "nonGraphic": true,
+        "noEmbeddedTeachingLabels": true
+      },
+      "qualification": "The support scene shows one possible step, not a diagnosis or guaranteed recovery."
+    },
+    {
+      "id": "anxiety-speaking",
+      "chapter": 4,
+      "sourceExample": "Scenario B — Fear of speaking at work",
+      "checks": {
+        "sourceAlignment": true,
+        "characterContinuity": true,
+        "naturalAnatomy": true,
+        "respectfulExpressions": true,
+        "nonGraphic": true,
+        "noEmbeddedTeachingLabels": true
+      },
+      "qualification": "The support scene shows one possible step, not a diagnosis or guaranteed recovery."
+    },
+    {
+      "id": "anxiety-travel",
+      "chapter": 4,
+      "sourceExample": "Scenario C — Panic-like sensations while traveling",
+      "checks": {
+        "sourceAlignment": true,
+        "characterContinuity": true,
+        "naturalAnatomy": true,
+        "respectfulExpressions": true,
+        "nonGraphic": true,
+        "noEmbeddedTeachingLabels": true
+      },
+      "qualification": "The support scene shows one possible step, not a diagnosis or guaranteed recovery."
+    },
+    {
+      "id": "anxiety-finances",
+      "chapter": 4,
+      "sourceExample": "Scenario D — Worry during financial insecurity",
+      "checks": {
+        "sourceAlignment": true,
+        "characterContinuity": true,
+        "naturalAnatomy": true,
+        "respectfulExpressions": true,
+        "nonGraphic": true,
+        "noEmbeddedTeachingLabels": true
+      },
+      "qualification": "The support scene shows one possible step, not a diagnosis or guaranteed recovery."
+    },
+    {
+      "id": "depression-student",
+      "chapter": 5,
+      "sourceExample": "Scenario A: University student",
+      "checks": {
+        "sourceAlignment": true,
+        "characterContinuity": true,
+        "naturalAnatomy": true,
+        "respectfulExpressions": true,
+        "nonGraphic": true,
+        "noEmbeddedTeachingLabels": true
+      },
+      "qualification": "The support scene shows one possible step, not a diagnosis or guaranteed recovery."
+    },
+    {
+      "id": "depression-parent",
+      "chapter": 5,
+      "sourceExample": "Scenario B: Parent after childbirth",
+      "checks": {
+        "sourceAlignment": true,
+        "characterContinuity": true,
+        "naturalAnatomy": true,
+        "respectfulExpressions": true,
+        "nonGraphic": true,
+        "noEmbeddedTeachingLabels": true
+      },
+      "qualification": "The support scene shows one possible step, not a diagnosis or guaranteed recovery."
+    },
+    {
+      "id": "depression-income",
+      "chapter": 5,
+      "sourceExample": "Scenario C: Worker under financial pressure",
+      "checks": {
+        "sourceAlignment": true,
+        "characterContinuity": true,
+        "naturalAnatomy": true,
+        "respectfulExpressions": true,
+        "nonGraphic": true,
+        "noEmbeddedTeachingLabels": true
+      },
+      "qualification": "The support scene shows one possible step, not a diagnosis or guaranteed recovery."
+    },
+    {
+      "id": "depression-older-adult",
+      "chapter": 5,
+      "sourceExample": "Scenario D: Older adult",
+      "checks": {
+        "sourceAlignment": true,
+        "characterContinuity": true,
+        "naturalAnatomy": true,
+        "respectfulExpressions": true,
+        "nonGraphic": true,
+        "noEmbeddedTeachingLabels": true
+      },
+      "qualification": "The support scene shows one possible step, not a diagnosis or guaranteed recovery."
+    },
+    {
+      "id": "trauma-road",
+      "chapter": 6,
+      "sourceExample": "Scenario A: Distress after a road accident",
+      "checks": {
+        "sourceAlignment": true,
+        "characterContinuity": true,
+        "naturalAnatomy": true,
+        "respectfulExpressions": true,
+        "nonGraphic": true,
+        "noEmbeddedTeachingLabels": true
+      },
+      "qualification": "The support scene shows one possible step, not a diagnosis or guaranteed recovery."
+    },
+    {
+      "id": "trauma-health-worker",
+      "chapter": 6,
+      "sourceExample": "Scenario B: A health worker after an emergency",
+      "checks": {
+        "sourceAlignment": true,
+        "characterContinuity": true,
+        "naturalAnatomy": true,
+        "respectfulExpressions": true,
+        "nonGraphic": true,
+        "noEmbeddedTeachingLabels": true
+      },
+      "qualification": "The support scene shows one possible step, not a diagnosis or guaranteed recovery."
+    },
+    {
+      "id": "trauma-threats",
+      "chapter": 6,
+      "sourceExample": "Scenario C: Persistent fear after repeated threats",
+      "checks": {
+        "sourceAlignment": true,
+        "characterContinuity": true,
+        "naturalAnatomy": true,
+        "respectfulExpressions": true,
+        "nonGraphic": true,
+        "noEmbeddedTeachingLabels": true
+      },
+      "qualification": "The support scene shows one possible step, not a diagnosis or guaranteed recovery."
+    },
+    {
+      "id": "trauma-adolescent",
+      "chapter": 6,
+      "sourceExample": "Scenario D: A young person’s changed behavior",
+      "checks": {
+        "sourceAlignment": true,
+        "characterContinuity": true,
+        "naturalAnatomy": true,
+        "respectfulExpressions": true,
+        "nonGraphic": true,
+        "noEmbeddedTeachingLabels": true
+      },
+      "qualification": "The support scene shows one possible step, not a diagnosis or guaranteed recovery."
+    },
+    {
+      "id": "grief-student",
+      "chapter": 7,
+      "sourceExample": "Scenario A — A student after a parent’s death",
+      "checks": {
+        "sourceAlignment": true,
+        "characterContinuity": true,
+        "naturalAnatomy": true,
+        "respectfulExpressions": true,
+        "nonGraphic": true,
+        "noEmbeddedTeachingLabels": true
+      },
+      "qualification": "The support scene shows one possible step, not a diagnosis or guaranteed recovery."
+    },
+    {
+      "id": "grief-anniversary",
+      "chapter": 7,
+      "sourceExample": "Scenario B — A parent facing anniversary grief",
+      "checks": {
+        "sourceAlignment": true,
+        "characterContinuity": true,
+        "naturalAnatomy": true,
+        "respectfulExpressions": true,
+        "nonGraphic": true,
+        "noEmbeddedTeachingLabels": true
+      },
+      "qualification": "The support scene shows one possible step, not a diagnosis or guaranteed recovery."
+    },
+    {
+      "id": "grief-employment",
+      "chapter": 7,
+      "sourceExample": "Scenario C — Loss of employment and identity",
+      "checks": {
+        "sourceAlignment": true,
+        "characterContinuity": true,
+        "naturalAnatomy": true,
+        "respectfulExpressions": true,
+        "nonGraphic": true,
+        "noEmbeddedTeachingLabels": true
+      },
+      "qualification": "The support scene shows one possible step, not a diagnosis or guaranteed recovery."
+    },
+    {
+      "id": "grief-assessment",
+      "chapter": 7,
+      "sourceExample": "Scenario D — Severe grief that is not improving",
+      "checks": {
+        "sourceAlignment": true,
+        "characterContinuity": true,
+        "naturalAnatomy": true,
+        "respectfulExpressions": true,
+        "nonGraphic": true,
+        "noEmbeddedTeachingLabels": true
+      },
+      "qualification": "The support scene shows one possible step, not a diagnosis or guaranteed recovery."
+    },
+    {
+      "id": "grief-child",
+      "chapter": 7,
+      "sourceExample": "Scenario E — A child and confusing explanations",
+      "checks": {
+        "sourceAlignment": true,
+        "characterContinuity": true,
+        "naturalAnatomy": true,
+        "respectfulExpressions": true,
+        "nonGraphic": true,
+        "noEmbeddedTeachingLabels": true
+      },
+      "qualification": "The support scene shows one possible step, not a diagnosis or guaranteed recovery."
+    }
+  ]
+}

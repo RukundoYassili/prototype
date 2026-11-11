@@ -1,0 +1,322 @@
+PAGE 1
+ 11.0 B VUGA NDAKUMVA
+ 26.0 B UNDERSTANDING SLEEP
+ 26.0 B AND MENTAL WELLBEING
+ 11.0 B Mental Health Educational Content Library | Expanded Chapter 08
+  9.4   Purpose. To help readers understand sleep physiology, recognize common sleep problems, develop
+  9.4   supportive routines, and know when professional medical or psychological care is needed.
+  9.4   Audience. General adult readers, older adolescents with appropriate support, caregivers, educators,
+  9.4   and community health educators.
+  9.4   Publication status. Evidence-informed educational draft. This handbook is not a diagnostic tool or a
+  9.4   substitute for individualized professional care. Clinical review, Rwanda-specific referral checks,
+  9.4   accessibility review, and human-reviewed translation are required before public release.
+  8.2   Edition 1.0 | 11 November 2026 | English
+  9.5   Important: If you are extremely sleepy, avoid driving or operating machinery. If you have severe
+  9.5   difficulty breathing during sleep, sudden loss of consciousness, or other acute symptoms, seek
+  9.5   appropriate medical care.
+  7.5   VUGA NDAKUMVA | Mental Health Content Library | Educational draft 1
+PAGE 2
+ 16.0 B Learning goals and chapter map
+  9.4   After this chapter, a learner should be able to describe the main stages and regulators of sleep,
+  9.4   recognize common patterns of sleep difficulty, explain the relationship between sleep and emotional
+  9.4   wellbeing, identify supportive daily habits, and seek appropriate professional assessment when
+  9.4   needed.
+  8.2   Section What readers will learn
+  8.2   1-4 Why sleep matters; circadian rhythms; sleep pressure; NREM and REM sleep
+  8.2   5-9 Sleep needs; inadequate sleep; insomnia and other disorders; mental health connections
+  8.2   10-14 Practical sleep habits; contextual barriers; treatment, medications and safety
+  8.2   15-19 Case studies, guided exercises, assessments, answers, glossary and references
+ 16.0 B 1. What is sleep, and why do we need it?
+  9.4   Sleep is a natural, recurring state in which the brain and body undergo coordinated changes. It is not
+  9.4   simply a period of inactivity. During sleep, the brain cycles through different stages that support
+  9.4   attention, learning, memory, emotional processing and physical functioning. The value of sleep is not
+  9.4   measured by duration alone: timing, continuity and how rested a person feels during the day also
+  9.4   matter. [1-3]
+  9.4   A single difficult night is common and does not necessarily indicate a disorder. Sleep becomes a
+  9.4   greater concern when problems persist, are distressing, or interfere with safe and effective daily life. A
+  9.4   person with adequate time in bed may still get poor-quality sleep because of repeated awakenings or
+  9.4   an underlying disorder.
+ 11.3 B Why the topic belongs in mental health education
+  9.4   Sleep and mental health affect each other. Stress, anxiety, depression, trauma-related symptoms and
+  9.4   other difficulties may interfere with sleep. Repeated poor sleep can also worsen concentration,
+  9.4   irritability, emotional regulation and coping capacity. This does not mean that every person who sleeps
+  9.4   poorly has a mental illness. [3,4]
+ 16.0 B 2. The body clock: circadian rhythm
+  9.4   The circadian rhythm is an approximately 24-hour timing system that influences when we feel alert,
+  9.4   sleepy, hungry and ready for activity. Light, daily activity and regular waking patterns help synchronize
+  9.4   it. The brain receives information about environmental light and uses it to coordinate the sleep-wake
+  9.4   cycle. The hormone melatonin typically rises as darkness approaches, helping signal nighttime. [2]
+  9.4   For example, a student who stays awake on a phone until very late and sleeps until noon on weekends
+  9.4   may find it difficult to become sleepy at an earlier school-night bedtime. However, teenagers naturally
+  9.4   tend toward later sleep timing than younger children; this biological shift should not be mistaken for
+  7.5   VUGA NDAKUMVA | Mental Health Content Library | Educational draft 2
+PAGE 3
+  9.4   laziness.
+ 11.3 B Sleep pressure
+  9.4   A second process is the drive to sleep that builds while we are awake. Sleep pressure generally
+  9.4   increases as waking hours pass and decreases during sleep. Together, sleep pressure and the
+  9.4   circadian rhythm influence when we fall asleep and wake up. Caffeine can temporarily reduce our
+  9.4   sense of sleepiness but does not replace the restorative functions of sleep. [2]
+ 16.0 B 3. What happens during the night?
+  9.4   Typical sleep contains both non-rapid-eye-movement (NREM) and rapid-eye-movement (REM) stages,
+  9.4   cycling several times. Patterns change with age and across the night. [5]
+  8.2   Stage Broad description
+  8.2   NREM 1 A light transition from wakefulness into sleep; easy to awaken.
+  8.2   NREM 2 More established sleep; body functions slow and external awareness decreases.
+  8.2   NREM 3 Deep or slow-wave sleep; especially prominent earlier in the night.
+  8.2   REM Brain activity changes; vivid dreams are common and memory/emotional functions are
+  8.2   supported.
+  9.4   No single stage is the only "important" stage. Normal sleep includes a balance across stages, and
+  9.4   consumer sleep trackers cannot reliably diagnose a sleep disorder based solely on their stage
+  9.4   estimates.
+ 16.0 B 4. How much sleep is generally recommended?
+  9.4   Recommended sleep amounts depend on age, and they describe population guidance rather than a
+  9.4   rigid score for each individual. Some people need more sleep when ill or recovering from lost sleep.
+  9.4   [1,6]
+  8.2   Age group Typical recommended sleep
+  8.2   6-12 years 9-12 hours per 24 hours
+  8.2   13-17 years 8-10 hours per 24 hours
+  8.2   18-60 years At least 7 hours, commonly 7-9 hours
+  8.2   61-64 years 7-9 hours
+  8.2   65 years and over 7-8 hours
+  9.4   A person who works long shifts, shares a crowded home, experiences nighttime noise, or cares for a
+  9.4   young child may have limited control over sleep time. Educational advice must acknowledge these real
+  7.5   VUGA NDAKUMVA | Mental Health Content Library | Educational draft 3
+PAGE 4
+  9.4   barriers instead of blaming the individual.
+ 16.0 B 5. What is insufficient or poor-quality sleep?
+  9.4   Insufficient sleep means obtaining less sleep than the body needs. Sleep deficiency can also involve
+  9.4   poor timing, interrupted sleep, or a condition that reduces restorative sleep. Possible daytime
+  9.4   consequences include low alertness, difficulty remembering information, slower reaction time, changes
+  9.4   in mood and greater risk during driving or hazardous tasks. [3]
+ 11.3 B Common signs worth noticing
+  9.2   • Frequently feeling sleepy or unintentionally dozing during the day.
+  9.2   • Struggling to concentrate at school, work or during conversations.
+  9.2   • Needing much more time than usual to complete simple tasks.
+  9.2   • Becoming more irritable or emotionally reactive after poor nights.
+  9.2   • Feeling unrefreshed despite giving yourself adequate opportunity to sleep.
+  9.4   Symptoms can also arise from anemia, medication side effects, other illnesses, depression or other
+  9.4   conditions. A professional assessment can help determine the cause.
+ 16.0 B 6. Insomnia: more than one bad night
+  9.4   Insomnia involves difficulty falling asleep, staying asleep or returning to sleep after waking, despite an
+  9.4   adequate opportunity to sleep, with associated distress or daytime impairment. Temporary insomnia
+  9.4   may follow stress, illness, travel, grief or major changes. Chronic insomnia is a more persistent clinical
+  9.4   pattern and should not be diagnosed from a simple website checklist. [7-9]
+ 11.3 B Common maintaining patterns
+  9.4   A person who worries about whether they will sleep may become increasingly alert at bedtime.
+  9.4   Spending extra hours awake in bed, monitoring the clock, or irregular sleep timing can sometimes
+  9.4   maintain the problem. Persistent insomnia may also coexist with pain, anxiety, depression, substance
+  9.4   use or other sleep disorders.
+  9.5   Example: A university student spends several nights awake before examinations. After the
+  9.5   examination ends, the student keeps worrying about sleep and begins staying in bed much
+  9.5   longer to "catch up." The difficulty continues. A clinician can assess whether insomnia-focused
+  9.5   treatment is appropriate.
+ 16.0 B 7. Other sleep conditions people should know about
+ 11.3 B Obstructive sleep apnea
+  9.4   Sleep apnea may involve repeated breathing interruptions, loud snoring, gasping or choking during
+  9.4   sleep, and daytime sleepiness. Not everyone with sleep apnea snores. People with these symptoms
+  9.4   should seek medical assessment; sleep hygiene alone cannot treat the underlying breathing disorder.
+  7.5   VUGA NDAKUMVA | Mental Health Content Library | Educational draft 4
+PAGE 5
+ 11.3 B Circadian rhythm sleep-wake difficulties
+  9.4   Some people cannot align their natural sleep timing with work, school or social schedules. Shift work,
+  9.4   jet lag and delayed sleep timing may contribute. Treatment depends on the pattern and may require
+  9.4   specialist guidance.
+ 11.3 B Restless legs, parasomnias and hypersomnolence
+  9.4   Uncomfortable sensations that improve with moving the legs, unusual behaviors during sleep, or
+  9.4   severe daytime sleepiness deserve evaluation. Falling asleep unexpectedly or experiencing sleep
+  9.4   attacks should not be assumed to result only from a busy schedule.
+ 16.0 B 8. How sleep and mental health interact
+ 11.3 B Stress and worry
+  9.4   When the body is on alert, it can be harder to settle at night. Sleep loss can make daily stressors feel
+  9.4   harder to manage. Gentle routines may help, but people facing ongoing insecurity or hardship also
+  9.4   need practical support.
+ 11.3 B Anxiety
+  9.4   Worry about future events or sleep itself may prolong wakefulness. Persistent sleep difficulties and
+  9.4   anxiety symptoms should be assessed together rather than treated as unrelated issues.
+ 11.3 B Depression
+  9.4   Depression may be associated with difficulty sleeping, early waking or sleeping much longer than
+  9.4   usual. Changes in sleep alone do not establish depression, and treatment decisions require careful
+  9.4   assessment.
+ 11.3 B Trauma-related symptoms
+  9.4   Nightmares, hypervigilance or a feeling of unsafety may disrupt rest. Survivors should not be
+  9.4   pressured to close their eyes, disclose memories, or perform relaxation exercises that increase
+  9.4   distress.
+ 11.3 B Bipolar disorder
+  9.4   A markedly reduced need for sleep accompanied by unusually high energy, elevated or irritable mood,
+  9.4   racing thoughts or impulsive behavior can be a warning sign that needs prompt professional
+  9.4   assessment. This is different from ordinary insomnia accompanied by fatigue.
+ 16.0 B 9. Everyday habits that can support sleep
+  9.4   Healthy sleep routines are useful for general wellbeing and can complement clinical care. They are not,
+  9.4   on their own, an adequate treatment for chronic insomnia disorder. [1,8-10]
+  9.2   • Choose a wake-up time that is as consistent as your responsibilities allow.
+  9.2   • Seek natural daylight and appropriate activity during the day.
+  7.5   VUGA NDAKUMVA | Mental Health Content Library | Educational draft 5
+PAGE 6
+  9.2   • Build a predictable winding-down routine: reading, quiet conversation, gentle music or another
+  9.2   calming activity.
+  9.2   • Reduce bright screen use close to bedtime if feasible, especially when it keeps you alert.
+  9.2   • Limit caffeine in the afternoon and evening if it affects you.
+  9.2   • Keep the sleep space as dark, quiet, comfortable and safe as reasonably possible.
+  9.2   • Avoid using alcohol as a sleep aid: it can fragment sleep and has other risks.
+  9.2   • If an environment is unsafe or crowded, focus on feasible improvements and seek practical support
+  9.2   rather than blaming yourself.
+ 16.0 B 10. Practical barriers in Rwanda-relevant daily life
+  9.4   A reader may share one room with family members, work evening shifts, study under difficult
+  9.4   conditions, manage caregiving duties or have limited privacy. Advice should prioritize realistic actions.
+  9.4   For example, a household may coordinate a quieter period, reduce unnecessary night lighting, or plan
+  9.4   a more reliable morning routine when possible. These are illustrative situations, not claims about all
+  9.4   Rwandan households.
+  9.4   When poverty, housing insecurity, severe stress, violence or illness disrupt sleep, an individual routine
+  9.4   cannot resolve the underlying problem. Health education should connect people to medical, social and
+  9.4   practical support where appropriate.
+ 16.0 B 11. Evidence-based care for persistent insomnia
+ 11.3 B What is CBT-I?
+  9.4   Cognitive Behavioral Therapy for Insomnia (CBT-I) is a structured treatment that addresses
+  9.4   sleep-related patterns of thinking and behavior. It can include education, tailored behavioral
+  9.4   strategies, cognitive approaches and follow-up. Multiple clinical guidelines recommend
+  9.4   multicomponent CBT-I as first-line treatment for chronic insomnia in adults. [8,9]
+  9.4   Specialist CBT-I may include methods such as sleep restriction or sleep compression. These should not
+  9.4   be copied from a handout without assessment, especially for people with certain medical or psychiatric
+  9.4   conditions, excessive daytime sleepiness, high-risk work, or complex sleep problems.
+ 11.3 B Medication and supplements
+  9.4   A clinician may consider medication depending on symptoms, age, other conditions, pregnancy status,
+  9.4   interactions and treatment history. Sleeping pills can have side effects and may not address the
+  9.4   underlying cause. Do not start, combine, stop or change prescribed medicines on the basis of this
+  9.4   chapter. Melatonin is not a universal cure for insomnia and suitability varies. [7,10]
+  7.5   VUGA NDAKUMVA | Mental Health Content Library | Educational draft 6
+PAGE 7
+ 16.0 B 12. When should someone seek professional help?
+  9.4   Consider an appointment with a qualified healthcare professional when sleep difficulty persists,
+  9.4   significantly affects mood, concentration, study or work, or occurs alongside loud snoring, breathing
+  9.4   interruptions, repeated nightmares, unusual movements, severe daytime sleepiness, chronic pain or
+  9.4   symptoms of a mental health condition.
+  9.4   Urgent medical assessment is warranted if a person has severe or unusual breathing problems,
+  9.4   episodes of losing consciousness, serious injury associated with sleepiness, or new concerning
+  9.4   symptoms. If a person is dangerously sleepy, they should not drive or operate machinery. If there are
+  9.4   thoughts of suicide or immediate danger, seek urgent emergency assistance through available local
+  9.4   emergency services or the nearest emergency department.
+  9.4   Where symptoms suggest mania or a significantly reduced need for sleep with marked behavioral
+  9.4   changes, seek prompt clinical assessment.
+ 16.0 B 13. Four everyday learning scenarios
+ 11.3 B Case 1 - Examination week
+  9.4   A secondary-school learner studies very late, uses a bright phone in bed and struggles to wake for
+  9.4   class. The learner feels irritable and forgetful.
+  9.4   Reflection: What realistic changes to study timing and evening routine might help? How might teachers
+  9.4   or caregivers support the learner?
+ 11.3 B Case 2 - Shift work
+  9.4   A healthcare worker rotates between late and early shifts and becomes sleepy during travel. Family
+  9.4   responsibilities limit recovery time.
+  9.4   Reflection: Which barriers require schedule or workplace support? Why is drowsy travel a safety
+  9.4   concern?
+ 11.3 B Case 3 - Persistent worry
+  9.4   An adult worries about falling asleep and checks the clock throughout the night. Sleep problems
+  9.4   continue for weeks and affect work.
+  9.4   Reflection: What makes this different from a single sleepless night? Why might CBT-I assessment help?
+ 11.3 B Case 4 - Nighttime breathing concerns
+  9.4   A family notices that one adult snores loudly, sometimes gasps during sleep and remains very tired
+  9.4   during the day.
+  9.4   Reflection: Why should this person seek medical assessment rather than only trying herbal tea or an
+  9.4   earlier bedtime?
+  7.5   VUGA NDAKUMVA | Mental Health Content Library | Educational draft 7
+PAGE 8
+ 16.0 B 14. Guided activity A - My seven-day sleep
+ 16.0 B observation
+  9.4   For seven days, readers may record sleep patterns without trying to force a target. This exercise is for
+  9.4   awareness, not diagnosis or clinical sleep restriction. Avoid recording sensitive details on devices that
+  9.4   are shared or monitored.
+  8.2   Day Approx. bedtime / wake time Restfulness and daytime notes
+  8.2   Mon ________________________ ________________________
+  8.2   Tue ________________________ ________________________
+  8.2   Wed ________________________ ________________________
+  8.2   Thu ________________________ ________________________
+  8.2   Fri ________________________ ________________________
+  8.2   Sat ________________________ ________________________
+  8.2   Sun ________________________ ________________________
+  9.4   After the week, consider whether patterns change with shift work, phone use, stress, noise, illness,
+  9.4   caffeine or caregiving. Bring the notes to a clinician if a sleep problem is ongoing. If recording sleep
+  9.4   increases anxiety, stop tracking.
+ 16.0 B 15. Guided activity B - A gentle evening routine
+  9.4   Choose one or two realistic steps, not a rigid checklist: (1) identify tomorrow's priority tasks earlier in
+  9.4   the evening, (2) choose a quiet activity for the final part of the day, (3) adjust brightness or noise
+  9.4   where feasible, and (4) allow yourself to rest without checking the clock repeatedly.
+  9.4   Reflection: Which step is feasible in your home? What barrier would require someone else's
+  9.4   cooperation? A routine should be adapted to safety, disability, caregiving and work schedules.
+ 16.0 B 16. Guided activity C - Distinguishing a worry from a
+ 16.0 B plan
+  9.4   Write down an ordinary concern earlier in the evening if doing so feels comfortable. Divide it into
+  9.4   "something I can act on tomorrow" and "something I cannot solve tonight." Choose one practical next
+  9.4   action for tomorrow. Do not use this exercise to dismiss real danger, pain or urgent needs.
+  9.5   Example: "I may be late for work" can become "I will prepare my bag and check my transport
+  9.5   plan." If a concern involves an unsafe environment or a serious medical symptom, practical
+  9.5   safety assistance takes priority over relaxation.
+  7.5   VUGA NDAKUMVA | Mental Health Content Library | Educational draft 8
+PAGE 9
+ 16.0 B 17. Knowledge assessment
+  9.4   1. Does the need for sleep change across ages?
+  9.4   2. Is sleep quality relevant even when total hours seem adequate?
+  9.4   3. What two major processes influence sleep timing?
+  9.4   4. Does every difficult night indicate insomnia disorder?
+  9.4   5. Why can late caffeine use be relevant?
+  9.4   6. Is sleep hygiene alone the recommended treatment for chronic insomnia?
+  9.4   7. What symptoms suggest possible sleep apnea?
+  9.4   8. Should someone copy sleep restriction instructions from an article?
+  9.4   9. Can emotional distress and poor sleep affect each other?
+  9.4   10. What should a dangerously sleepy driver do?
+ 16.0 B 18. Assessment answers and explanations
+  9.4   1. Yes. Children and teens usually need more sleep than adults.
+  9.4   2. Yes. Fragmented or mistimed sleep can still impair functioning.
+  9.4   3. Sleep pressure and circadian rhythm.
+  9.4   4. No. Isolated sleep difficulty is common.
+  9.4   5. It can interfere with the ability to feel sleepy or fall asleep.
+  9.4   6. No. Multicomponent CBT-I is recommended as first-line treatment for many adults.
+  9.4   7. Snoring, observed breathing pauses or gasping, and excessive daytime sleepiness.
+  9.4   8. No. Such treatment should be tailored and supervised.
+  9.4   9. Yes, the relationship may be bidirectional.
+  9.4   10. Avoid driving and seek appropriate help.
+ 16.0 B 19. Glossary
+  9.4   Circadian rhythm: An approximately 24-hour cycle regulating alertness and many bodily functions.
+  9.4   Sleep pressure: The biological tendency to become sleepier with time awake.
+  9.4   REM: A sleep phase associated with characteristic eye movements and often vivid dreams.
+  9.4   NREM: Non-rapid-eye-movement sleep, including lighter and deeper stages.
+  7.5   VUGA NDAKUMVA | Mental Health Content Library | Educational draft 9
+PAGE 10
+  9.4   Insomnia: Difficulty sleeping despite an opportunity to sleep, causing distress or impairment.
+  9.4   CBT-I: Cognitive Behavioral Therapy for Insomnia, a structured evidence-based treatment.
+  9.4   Sleep apnea: A sleep-related breathing disorder that requires medical assessment.
+  9.4   Sleep hygiene: Daily routines and environmental practices that can support healthy sleep.
+ 16.0 B Scientific and institutional references
+  9.4   [1] CDC. About Sleep. 2024.
+  9.4   https://www.cdc.gov/sleep/about/
+  9.4   [2] National Heart, Lung, and Blood Institute. What Makes You Sleep?
+  9.4   https://www.nhlbi.nih.gov/health/sleep-deprivation/body-clock
+  9.4   [3] NHLBI. How Sleep Affects Your Health.
+  9.4   https://www.nhlbi.nih.gov/health/sleep-deprivation/health-effects
+  9.4   [4] Mental Health Commission of Canada. Insomnia.
+  9.4   https://mentalhealthcommission.ca/mhcc-glossary/insomnia/
+  9.4   [5] NICHD. Sleep: What happens during sleep?
+  9.4   https://www.nichd.nih.gov/health/topics/factsheets/sleep
+  9.4   [6] CDC. Sleep and Health (Schools). September 2026.
+  9.4   https://www.cdc.gov/healthy-schools/sleep/
+  9.4   [7] NHLBI. Insomnia: Treatment.
+  9.4   https://www.nhlbi.nih.gov/health/insomnia/treatment
+  9.4   [8] NCCIH. Mind and Body Practices for Sleep Disorders: What the Science Says. 2024.
+  9.4   https://www.nccih.nih.gov/health/providers/digest/psychological-and-physical-approaches-for-sleep-dis
+  9.4   orders-science
+  9.4   [9] VA/DoD. Treatment of Insomnia Provider Patient Guide. 2025.
+  9.4   https://www.healthquality.va.gov/guidelines/CD/insomnia/CST-01-Treatment-of-Insomnia-Provider-Pati
+  9.4   ent-Guide-Final-508.pdf
+  9.4   [10] NHLBI. Healthy Sleep Habits.
+  9.4   https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits
+ 16.0 B Pre-publication review checklist
+  9.2   • Clinical review by appropriately qualified mental health or sleep-care professional.
+  9.2   • Confirm that guidance for children, pregnancy, older adults and shift workers is suitable.
+  9.2   • Rwanda-specific verification of available health services and emergency pathways.
+  9.2   • Kinyarwanda and French translation by qualified reviewers, with terminology validation.
+  9.2   • Accessibility check for headings, contrast, screen readers and printable activities.
+  7.5   VUGA NDAKUMVA | Mental Health Content Library | Educational draft 10
+PAGE 11
+  9.2   • Editorial fact-check of references, updates and any reuse permissions.
+  8.2   This document is educational and does not provide individualized diagnosis, medication instructions, or an emergency
+  8.2   service.
+  7.5   VUGA NDAKUMVA | Mental Health Content Library | Educational draft 11

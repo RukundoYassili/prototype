@@ -1,0 +1,102 @@
+[
+  {
+    "number": 1,
+    "slug": "understanding-gender-based-violence",
+    "title": "Understanding Gender-Based Violence",
+    "summary": "Build a foundation in consent, coercive control, survivor-centred support and safer referral.",
+    "language": "English",
+    "sections": 18,
+    "studyTime": "Read at your own pace",
+    "image": "learning/gbv/gbv-training-opportunity-situation-1280"
+  },
+  {
+    "number": 2,
+    "slug": "types-and-forms-of-gender-based-violence",
+    "title": "Types and Forms of Gender-Based Violence",
+    "summary": "Understand different forms, how they overlap, and respectful ways to offer support.",
+    "language": "English",
+    "sections": 19,
+    "studyTime": "Read at your own pace",
+    "image": "learning/gbv/gbv-trainee-support-situation-1280"
+  },
+  {
+    "number": 3,
+    "slug": "root-causes-risk-factors-and-gender-inequality",
+    "title": "Root Causes, Risk Factors, and Gender Inequality",
+    "summary": "Explore unequal power, connected influences and prevention without blame or stereotypes.",
+    "language": "English",
+    "sections": 20,
+    "studyTime": "Read at your own pace",
+    "image": "learning/gbv/gbv-challenging-norms-support-1280"
+  },
+  {
+    "number": 4,
+    "slug": "understanding-consent-boundaries-and-bodily-autonomy",
+    "title": "Understanding Consent, Boundaries, and Bodily Autonomy",
+    "summary": "Explore freely given consent, personal boundaries, bodily autonomy and safety when choice is constrained.",
+    "language": "English",
+    "sections": 17,
+    "studyTime": "Read at your own pace",
+    "image": "mental-health-connection"
+  },
+  {
+    "number": 5,
+    "slug": "domestic-violence-and-intimate-partner-violence",
+    "title": "Domestic Violence and Intimate Partner Violence",
+    "summary": "Recognize coercive control, understand barriers to help, and learn about respectful support and Rwanda referral pathways.",
+    "language": "English",
+    "sections": 17,
+    "studyTime": "Read at your own pace",
+    "image": "mental-health-listening"
+  },
+  {
+    "number": 6,
+    "slug": "sexual-violence-harassment-and-exploitation",
+    "title": "Sexual Violence, Harassment, and Exploitation",
+    "summary": "Understand consent, abuse of authority, safer first responses, time-sensitive care and safeguarding.",
+    "language": "English",
+    "sections": 18,
+    "studyTime": "Read at your own pace",
+    "image": "mental-health-counseling"
+  },
+  {
+    "number": 7,
+    "slug": "emotional-psychological-and-verbal-abuse",
+    "title": "Emotional, Psychological and Verbal Abuse",
+    "summary": "Understand harmful patterns, distinguish abuse from disagreement, and explore safety-aware support.",
+    "language": "English",
+    "sections": 23,
+    "studyTime": "Read at your own pace",
+    "image": "mental-health-listening"
+  },
+  {
+    "number": 8,
+    "slug": "economic-violence-and-financial-control",
+    "title": "Economic Violence and Financial Control",
+    "summary": "Learn how money, work, property and digital access can be used to control, and how support can preserve choice.",
+    "language": "English",
+    "sections": 18,
+    "studyTime": "Read at your own pace",
+    "image": "mental-health-learning"
+  },
+  {
+    "number": 9,
+    "slug": "technology-facilitated-and-online-gender-based-violence",
+    "title": "Technology-Facilitated and Online Gender-Based Violence",
+    "summary": "Explore digital abuse, consent, privacy, institutional responsibilities and responses that put safety first.",
+    "language": "English",
+    "sections": 21,
+    "studyTime": "Read at your own pace",
+    "image": "mental-health-connection"
+  },
+  {
+    "number": 10,
+    "slug": "gender-based-violence-against-children-and-adolescents",
+    "title": "Gender-Based Violence Against Children and Adolescents",
+    "summary": "Learn about child protection, safe disclosure, age-appropriate support and pathways to help in Rwanda.",
+    "language": "English",
+    "sections": 21,
+    "studyTime": "Read at your own pace",
+    "image": "mental-health-group"
+  }
+]

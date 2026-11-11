@@ -1,0 +1,725 @@
+{
+  "metrics": [
+    {
+      "page": "library",
+      "width": 375,
+      "chaptersStart": 1655.953125,
+      "overflow": false
+    },
+    {
+      "page": 1,
+      "width": 375,
+      "id": "mental-health-influences",
+      "height": 1310.96875,
+      "renderedWidth": 335
+    },
+    {
+      "page": 1,
+      "width": 375,
+      "id": "pressures-and-support",
+      "height": 1094.03125,
+      "renderedWidth": 335
+    },
+    {
+      "page": 1,
+      "width": 375,
+      "id": "respectful-listening",
+      "height": 1053.421875,
+      "renderedWidth": 335
+    },
+    {
+      "page": 1,
+      "width": 375,
+      "id": "exam-pressure",
+      "height": 1092.203125,
+      "renderedWidth": 335
+    },
+    {
+      "page": 1,
+      "width": 375,
+      "id": "unemployment",
+      "height": 1117.390625,
+      "renderedWidth": 335
+    },
+    {
+      "page": 1,
+      "width": 375,
+      "id": "caregiving",
+      "height": 1089.890625,
+      "renderedWidth": 335
+    },
+    {
+      "page": 1,
+      "width": 375,
+      "overflow": false,
+      "imageFailures": 0
+    },
+    {
+      "page": 2,
+      "width": 375,
+      "id": "work-meeting",
+      "height": 1089.890625,
+      "renderedWidth": 335
+    },
+    {
+      "page": 2,
+      "width": 375,
+      "id": "emotion-connections",
+      "height": 1100.640625,
+      "renderedWidth": 335
+    },
+    {
+      "page": 2,
+      "width": 375,
+      "id": "emotional-check-in",
+      "height": 1363.015625,
+      "renderedWidth": 335
+    },
+    {
+      "page": 2,
+      "width": 375,
+      "id": "grounding",
+      "height": 994.609375,
+      "renderedWidth": 335
+    },
+    {
+      "page": 2,
+      "width": 375,
+      "id": "allowing-feelings",
+      "height": 866.828125,
+      "renderedWidth": 335
+    },
+    {
+      "page": 2,
+      "width": 375,
+      "id": "self-kindness",
+      "height": 868.03125,
+      "renderedWidth": 335
+    },
+    {
+      "page": 2,
+      "width": 375,
+      "id": "safe-conversation",
+      "height": 848.328125,
+      "renderedWidth": 335
+    },
+    {
+      "page": 2,
+      "width": 375,
+      "id": "pause-before-acting",
+      "height": 1046.15625,
+      "renderedWidth": 335
+    },
+    {
+      "page": 2,
+      "width": 375,
+      "id": "results",
+      "height": 1140.78125,
+      "renderedWidth": 335
+    },
+    {
+      "page": 2,
+      "width": 375,
+      "id": "caregiver-exhaustion",
+      "height": 1117.390625,
+      "renderedWidth": 335
+    },
+    {
+      "page": 2,
+      "width": 375,
+      "id": "moving",
+      "height": 1117.390625,
+      "renderedWidth": 335
+    },
+    {
+      "page": 2,
+      "width": 375,
+      "id": "conflict-safety",
+      "height": 1142.578125,
+      "renderedWidth": 335
+    },
+    {
+      "page": 2,
+      "width": 375,
+      "overflow": false,
+      "imageFailures": 0
+    },
+    {
+      "page": "library",
+      "width": 768,
+      "chaptersStart": 1053.421875,
+      "overflow": false
+    },
+    {
+      "page": 1,
+      "width": 768,
+      "id": "mental-health-influences",
+      "height": 913.453125,
+      "renderedWidth": 716
+    },
+    {
+      "page": 1,
+      "width": 768,
+      "id": "pressures-and-support",
+      "height": 748.265625,
+      "renderedWidth": 716
+    },
+    {
+      "page": 1,
+      "width": 768,
+      "id": "respectful-listening",
+      "height": 642.453125,
+      "renderedWidth": 716
+    },
+    {
+      "page": 1,
+      "width": 768,
+      "id": "exam-pressure",
+      "height": 721.328125,
+      "renderedWidth": 716
+    },
+    {
+      "page": 1,
+      "width": 768,
+      "id": "unemployment",
+      "height": 696.140625,
+      "renderedWidth": 716
+    },
+    {
+      "page": 1,
+      "width": 768,
+      "id": "caregiving",
+      "height": 721.328125,
+      "renderedWidth": 716
+    },
+    {
+      "page": 1,
+      "width": 768,
+      "overflow": false,
+      "imageFailures": 0
+    },
+    {
+      "page": 2,
+      "width": 768,
+      "id": "work-meeting",
+      "height": 696.140625,
+      "renderedWidth": 716
+    },
+    {
+      "page": 2,
+      "width": 768,
+      "id": "emotion-connections",
+      "height": 1033.109375,
+      "renderedWidth": 716
+    },
+    {
+      "page": 2,
+      "width": 768,
+      "id": "emotional-check-in",
+      "height": 835.75,
+      "renderedWidth": 716
+    },
+    {
+      "page": 2,
+      "width": 768,
+      "id": "grounding",
+      "height": 887.515625,
+      "renderedWidth": 716
+    },
+    {
+      "page": 2,
+      "width": 768,
+      "id": "allowing-feelings",
+      "height": 764.015625,
+      "renderedWidth": 716
+    },
+    {
+      "page": 2,
+      "width": 768,
+      "id": "self-kindness",
+      "height": 744.421875,
+      "renderedWidth": 716
+    },
+    {
+      "page": 2,
+      "width": 768,
+      "id": "safe-conversation",
+      "height": 764.015625,
+      "renderedWidth": 716
+    },
+    {
+      "page": 2,
+      "width": 768,
+      "id": "pause-before-acting",
+      "height": 887.515625,
+      "renderedWidth": 716
+    },
+    {
+      "page": 2,
+      "width": 768,
+      "id": "results",
+      "height": 721.328125,
+      "renderedWidth": 716
+    },
+    {
+      "page": 2,
+      "width": 768,
+      "id": "caregiver-exhaustion",
+      "height": 721.328125,
+      "renderedWidth": 716
+    },
+    {
+      "page": 2,
+      "width": 768,
+      "id": "moving",
+      "height": 696.140625,
+      "renderedWidth": 716
+    },
+    {
+      "page": 2,
+      "width": 768,
+      "id": "conflict-safety",
+      "height": 721.328125,
+      "renderedWidth": 716
+    },
+    {
+      "page": 2,
+      "width": 768,
+      "overflow": false,
+      "imageFailures": 0
+    },
+    {
+      "page": "library",
+      "width": 1024,
+      "chaptersStart": 1003.984375,
+      "overflow": false
+    },
+    {
+      "page": 1,
+      "width": 1024,
+      "id": "mental-health-influences",
+      "height": 913.453125,
+      "renderedWidth": 972
+    },
+    {
+      "page": 1,
+      "width": 1024,
+      "id": "pressures-and-support",
+      "height": 727.875,
+      "renderedWidth": 972
+    },
+    {
+      "page": 1,
+      "width": 1024,
+      "id": "respectful-listening",
+      "height": 598.8125,
+      "renderedWidth": 972
+    },
+    {
+      "page": 1,
+      "width": 1024,
+      "id": "exam-pressure",
+      "height": 766.953125,
+      "renderedWidth": 972
+    },
+    {
+      "page": 1,
+      "width": 1024,
+      "id": "unemployment",
+      "height": 766.953125,
+      "renderedWidth": 972
+    },
+    {
+      "page": 1,
+      "width": 1024,
+      "id": "caregiving",
+      "height": 792.140625,
+      "renderedWidth": 972
+    },
+    {
+      "page": 1,
+      "width": 1024,
+      "overflow": false,
+      "imageFailures": 0
+    },
+    {
+      "page": 2,
+      "width": 1024,
+      "id": "work-meeting",
+      "height": 766.953125,
+      "renderedWidth": 972
+    },
+    {
+      "page": 2,
+      "width": 1024,
+      "id": "emotion-connections",
+      "height": 991.421875,
+      "renderedWidth": 972
+    },
+    {
+      "page": 2,
+      "width": 1024,
+      "id": "emotional-check-in",
+      "height": 787.65625,
+      "renderedWidth": 972
+    },
+    {
+      "page": 2,
+      "width": 1024,
+      "id": "grounding",
+      "height": 867.921875,
+      "renderedWidth": 972
+    },
+    {
+      "page": 2,
+      "width": 1024,
+      "id": "allowing-feelings",
+      "height": 744.421875,
+      "renderedWidth": 972
+    },
+    {
+      "page": 2,
+      "width": 1024,
+      "id": "self-kindness",
+      "height": 744.421875,
+      "renderedWidth": 972
+    },
+    {
+      "page": 2,
+      "width": 1024,
+      "id": "safe-conversation",
+      "height": 744.421875,
+      "renderedWidth": 972
+    },
+    {
+      "page": 2,
+      "width": 1024,
+      "id": "pause-before-acting",
+      "height": 867.921875,
+      "renderedWidth": 972
+    },
+    {
+      "page": 2,
+      "width": 1024,
+      "id": "results",
+      "height": 792.140625,
+      "renderedWidth": 972
+    },
+    {
+      "page": 2,
+      "width": 1024,
+      "id": "caregiver-exhaustion",
+      "height": 792.140625,
+      "renderedWidth": 972
+    },
+    {
+      "page": 2,
+      "width": 1024,
+      "id": "moving",
+      "height": 766.953125,
+      "renderedWidth": 972
+    },
+    {
+      "page": 2,
+      "width": 1024,
+      "id": "conflict-safety",
+      "height": 792.140625,
+      "renderedWidth": 972
+    },
+    {
+      "page": 2,
+      "width": 1024,
+      "overflow": false,
+      "imageFailures": 0
+    },
+    {
+      "page": "library",
+      "width": 1440,
+      "chaptersStart": 1002.390625,
+      "overflow": false
+    },
+    {
+      "page": 1,
+      "width": 1440,
+      "id": "mental-health-influences",
+      "height": 920.953125,
+      "renderedWidth": 875
+    },
+    {
+      "page": 1,
+      "width": 1440,
+      "id": "pressures-and-support",
+      "height": 735.375,
+      "renderedWidth": 875
+    },
+    {
+      "page": 1,
+      "width": 1440,
+      "id": "respectful-listening",
+      "height": 606.3125,
+      "renderedWidth": 875
+    },
+    {
+      "page": 1,
+      "width": 1440,
+      "id": "exam-pressure",
+      "height": 763.265625,
+      "renderedWidth": 875
+    },
+    {
+      "page": 1,
+      "width": 1440,
+      "id": "unemployment",
+      "height": 763.265625,
+      "renderedWidth": 875
+    },
+    {
+      "page": 1,
+      "width": 1440,
+      "id": "caregiving",
+      "height": 763.265625,
+      "renderedWidth": 875
+    },
+    {
+      "page": 1,
+      "width": 1440,
+      "overflow": false,
+      "imageFailures": 0
+    },
+    {
+      "page": 2,
+      "width": 1440,
+      "id": "work-meeting",
+      "height": 763.265625,
+      "renderedWidth": 875
+    },
+    {
+      "page": 2,
+      "width": 1440,
+      "id": "emotion-connections",
+      "height": 998.921875,
+      "renderedWidth": 875
+    },
+    {
+      "page": 2,
+      "width": 1440,
+      "id": "emotional-check-in",
+      "height": 795.15625,
+      "renderedWidth": 875
+    },
+    {
+      "page": 2,
+      "width": 1440,
+      "id": "grounding",
+      "height": 895.015625,
+      "renderedWidth": 875
+    },
+    {
+      "page": 2,
+      "width": 1440,
+      "id": "allowing-feelings",
+      "height": 751.921875,
+      "renderedWidth": 875
+    },
+    {
+      "page": 2,
+      "width": 1440,
+      "id": "self-kindness",
+      "height": 751.921875,
+      "renderedWidth": 875
+    },
+    {
+      "page": 2,
+      "width": 1440,
+      "id": "safe-conversation",
+      "height": 751.921875,
+      "renderedWidth": 875
+    },
+    {
+      "page": 2,
+      "width": 1440,
+      "id": "pause-before-acting",
+      "height": 875.421875,
+      "renderedWidth": 875
+    },
+    {
+      "page": 2,
+      "width": 1440,
+      "id": "results",
+      "height": 763.265625,
+      "renderedWidth": 875
+    },
+    {
+      "page": 2,
+      "width": 1440,
+      "id": "caregiver-exhaustion",
+      "height": 763.265625,
+      "renderedWidth": 875
+    },
+    {
+      "page": 2,
+      "width": 1440,
+      "id": "moving",
+      "height": 763.265625,
+      "renderedWidth": 875
+    },
+    {
+      "page": 2,
+      "width": 1440,
+      "id": "conflict-safety",
+      "height": 763.265625,
+      "renderedWidth": 875
+    },
+    {
+      "page": 2,
+      "width": 1440,
+      "overflow": false,
+      "imageFailures": 0
+    },
+    {
+      "page": "library",
+      "width": 1920,
+      "chaptersStart": 1002.390625,
+      "overflow": false
+    },
+    {
+      "page": 1,
+      "width": 1920,
+      "id": "mental-health-influences",
+      "height": 920.953125,
+      "renderedWidth": 875
+    },
+    {
+      "page": 1,
+      "width": 1920,
+      "id": "pressures-and-support",
+      "height": 735.375,
+      "renderedWidth": 875
+    },
+    {
+      "page": 1,
+      "width": 1920,
+      "id": "respectful-listening",
+      "height": 606.3125,
+      "renderedWidth": 875
+    },
+    {
+      "page": 1,
+      "width": 1920,
+      "id": "exam-pressure",
+      "height": 763.265625,
+      "renderedWidth": 875
+    },
+    {
+      "page": 1,
+      "width": 1920,
+      "id": "unemployment",
+      "height": 763.265625,
+      "renderedWidth": 875
+    },
+    {
+      "page": 1,
+      "width": 1920,
+      "id": "caregiving",
+      "height": 763.265625,
+      "renderedWidth": 875
+    },
+    {
+      "page": 1,
+      "width": 1920,
+      "overflow": false,
+      "imageFailures": 0
+    },
+    {
+      "page": 2,
+      "width": 1920,
+      "id": "work-meeting",
+      "height": 763.265625,
+      "renderedWidth": 875
+    },
+    {
+      "page": 2,
+      "width": 1920,
+      "id": "emotion-connections",
+      "height": 998.921875,
+      "renderedWidth": 875
+    },
+    {
+      "page": 2,
+      "width": 1920,
+      "id": "emotional-check-in",
+      "height": 795.15625,
+      "renderedWidth": 875
+    },
+    {
+      "page": 2,
+      "width": 1920,
+      "id": "grounding",
+      "height": 895.015625,
+      "renderedWidth": 875
+    },
+    {
+      "page": 2,
+      "width": 1920,
+      "id": "allowing-feelings",
+      "height": 751.921875,
+      "renderedWidth": 875
+    },
+    {
+      "page": 2,
+      "width": 1920,
+      "id": "self-kindness",
+      "height": 751.921875,
+      "renderedWidth": 875
+    },
+    {
+      "page": 2,
+      "width": 1920,
+      "id": "safe-conversation",
+      "height": 751.921875,
+      "renderedWidth": 875
+    },
+    {
+      "page": 2,
+      "width": 1920,
+      "id": "pause-before-acting",
+      "height": 875.421875,
+      "renderedWidth": 875
+    },
+    {
+      "page": 2,
+      "width": 1920,
+      "id": "results",
+      "height": 763.265625,
+      "renderedWidth": 875
+    },
+    {
+      "page": 2,
+      "width": 1920,
+      "id": "caregiver-exhaustion",
+      "height": 763.265625,
+      "renderedWidth": 875
+    },
+    {
+      "page": 2,
+      "width": 1920,
+      "id": "moving",
+      "height": 763.265625,
+      "renderedWidth": 875
+    },
+    {
+      "page": 2,
+      "width": 1920,
+      "id": "conflict-safety",
+      "height": 763.265625,
+      "renderedWidth": 875
+    },
+    {
+      "page": 2,
+      "width": 1920,
+      "overflow": false,
+      "imageFailures": 0
+    }
+  ],
+  "errors": []
+}
