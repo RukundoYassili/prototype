@@ -48,6 +48,7 @@ export interface VisualStory extends LearningExplanation {
   };
 }
 export interface LearningDiagram extends LearningExplanation {
+  sources?: { label: string; url: string }[];
   id: string;
   chapterSlug: string;
   sectionId: string;

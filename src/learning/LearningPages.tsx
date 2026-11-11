@@ -10,6 +10,7 @@ import {
   Eye,
   FileText,
   Printer,
+  X,
 } from "lucide-react";
 import { Link, useLocation, useParams } from "react-router-dom";
 import { useLearningLibrary } from "./library";
@@ -110,6 +111,7 @@ export function Blocks({
   references?: LearningChapter["references"];
   chapterSlug?: string;
 }) {
+  const { id: libraryId } = useLearningLibrary();
   return (
     <>
       {blocks.map((block, index) => {
@@ -194,7 +196,28 @@ export function Blocks({
           );
         if (block.type === "table")
           return (
-            <div className="mh-table-container" key={index}>
+            <div
+              className={`mh-table-container${libraryId === "gbv" && block.headers.length === 2 && !block.revealAnswers ? " gbv-paired-table" : ""}`}
+              key={index}
+            >
+              {libraryId === "gbv" &&
+                block.headers.length === 2 &&
+                !block.revealAnswers && (
+                  <dl className="gbv-table-pairs" aria-label={tableLabel}>
+                    {block.rows.map((row, rowIndex) => (
+                      <div key={rowIndex}>
+                        <dt>
+                          <span>{block.headers[0]}</span>
+                          <Text text={row[0]} />
+                        </dt>
+                        <dd>
+                          <span>{block.headers[1]}</span>
+                          <Text text={row[1]} />
+                        </dd>
+                      </div>
+                    ))}
+                  </dl>
+                )}
               <p className="mh-table-help">Scroll to read the full table.</p>
               <div
                 className="mh-table-scroll"
@@ -403,9 +426,11 @@ export function ChapterCard({
 function ChapterContents({
   chapter,
   activeId,
+  readerTools = false,
 }: {
   chapter: LearningChapter;
   activeId: string;
+  readerTools?: boolean;
 }) {
   const library = useLearningLibrary();
   const chapterPath = (slug: string) => `${library.basePath}/${slug}`;
@@ -414,6 +439,37 @@ function ChapterContents({
   );
   const [open, setOpen] = useState(false);
   const contentsNav = useRef<HTMLElement>(null);
+  const drawer = useRef<HTMLDivElement>(null);
+  const drawerToggle = useRef<HTMLButtonElement>(null);
+  const closeDrawer = (restoreFocus = true) => {
+    setOpen(false);
+    if (restoreFocus) drawerToggle.current?.focus();
+  };
+  useEffect(() => {
+    if (!readerTools || wide || !open) return;
+    drawer.current?.querySelector<HTMLElement>("a[aria-current], a")?.focus();
+    const onKey = (event: KeyboardEvent) => {
+      if (event.key === "Escape") {
+        event.preventDefault();
+        setOpen(false);
+        drawerToggle.current?.focus();
+      }
+    };
+    const onPointer = (event: PointerEvent) => {
+      const target = event.target as Node;
+      if (
+        !drawer.current?.contains(target) &&
+        !drawerToggle.current?.contains(target)
+      )
+        setOpen(false);
+    };
+    document.addEventListener("keydown", onKey);
+    document.addEventListener("pointerdown", onPointer);
+    return () => {
+      document.removeEventListener("keydown", onKey);
+      document.removeEventListener("pointerdown", onPointer);
+    };
+  }, [readerTools, wide, open]);
   useEffect(() => {
     if (!wide) return;
     const panel = contentsNav.current;
@@ -461,46 +517,102 @@ function ChapterContents({
         ]),
   ];
   return (
-    <aside className="mh-contents">
-      <h2>
-        <BookOpen size={16} aria-hidden="true" /> In this chapter
-      </h2>
-      <button
-        className="mh-contents-toggle"
-        type="button"
-        aria-expanded={wide || open}
-        aria-controls="mh-chapter-contents"
-        onClick={() => setOpen(!open)}
+    <>
+      <aside
+        className={`mh-contents${readerTools ? " gbv-desktop-contents" : ""}`}
       >
-        In this chapter
-        <ChevronDown size={18} aria-hidden="true" />
-      </button>
-      <nav
-        ref={contentsNav}
-        id="mh-chapter-contents"
-        aria-label="Chapter contents"
-        hidden={!wide && !open}
-      >
-        {items.map((item) => (
-          <Link
-            key={item.id}
-            to={`${chapterPath(chapter.slug)}#${item.id}`}
-            aria-current={activeId === item.id ? "location" : undefined}
-            onClick={() => setOpen(false)}
-          >
-            <span>{item.number}</span>
-            {item.title}
+        <h2>
+          <BookOpen size={16} aria-hidden="true" /> In this chapter
+        </h2>
+        <button
+          className="mh-contents-toggle"
+          type="button"
+          aria-expanded={wide || open}
+          aria-controls="mh-chapter-contents"
+          onClick={() => setOpen(!open)}
+        >
+          In this chapter
+          <ChevronDown size={18} aria-hidden="true" />
+        </button>
+        <nav
+          ref={contentsNav}
+          id="mh-chapter-contents"
+          aria-label="Chapter contents"
+          hidden={!wide && !open}
+        >
+          {items.map((item) => (
+            <Link
+              key={item.id}
+              to={`${chapterPath(chapter.slug)}#${item.id}`}
+              aria-current={activeId === item.id ? "location" : undefined}
+              onClick={() => setOpen(false)}
+            >
+              <span>{item.number}</span>
+              {item.title}
+            </Link>
+          ))}
+        </nav>
+        <div className="mh-contents-support">
+          <p>You can pause or skip an exercise at any time.</p>
+          <Link to={library.support.path}>
+            {library.support.label}
+            <ArrowUpRight size={14} aria-hidden="true" />
           </Link>
-        ))}
-      </nav>
-      <div className="mh-contents-support">
-        <p>You can pause or skip an exercise at any time.</p>
-        <Link to={library.support.path}>
-          {library.support.label}
-          <ArrowUpRight size={14} aria-hidden="true" />
-        </Link>
-      </div>
-    </aside>
+        </div>
+      </aside>
+      {readerTools && !wide && (
+        <>
+          <div className="gbv-mobile-tools" aria-label="Reading tools">
+            <button
+              ref={drawerToggle}
+              type="button"
+              aria-expanded={open}
+              aria-controls="gbv-mobile-contents"
+              onClick={() => setOpen(!open)}
+            >
+              <BookOpen size={18} aria-hidden="true" /> Contents
+            </button>
+            <Link to={`${library.basePath}#gbv-chapters`}>
+              All chapters <ArrowUpRight size={17} aria-hidden="true" />
+            </Link>
+          </div>
+          <div
+            ref={drawer}
+            id="gbv-mobile-contents"
+            className="gbv-contents-drawer"
+            hidden={!open}
+            role="region"
+            aria-label={`Chapter ${chapter.number} contents`}
+          >
+            <div className="gbv-drawer-heading">
+              <strong>
+                Chapter {String(chapter.number).padStart(2, "0")} · Contents
+              </strong>
+              <button
+                type="button"
+                aria-label="Close chapter contents"
+                onClick={() => closeDrawer()}
+              >
+                <X size={20} aria-hidden="true" />
+              </button>
+            </div>
+            <nav aria-label="Mobile chapter contents">
+              {items.map((item) => (
+                <Link
+                  key={item.id}
+                  to={`${chapterPath(chapter.slug)}#${item.id}`}
+                  aria-current={activeId === item.id ? "location" : undefined}
+                  onClick={() => closeDrawer(false)}
+                >
+                  <span>{item.number}</span>
+                  {item.title}
+                </Link>
+              ))}
+            </nav>
+          </div>
+        </>
+      )}
+    </>
   );
 }
 
@@ -509,6 +621,7 @@ export interface ChapterPresentation {
   className?: string;
   headerVisual?: ReactNode;
   visualDisclosure?: string;
+  readerTools?: boolean;
 }
 
 export function LearningChapterPage({
@@ -528,8 +641,11 @@ export function LearningChapterPage({
       cancelAnimationFrame(frame);
       frame = requestAnimationFrame(() => {
         const top =
-          (document.querySelector(".site-header")?.getBoundingClientRect()
-            .height || 100) + 60;
+          library.id === "gbv"
+            ? (document.querySelector(".site-header")?.getBoundingClientRect()
+                .bottom || 100) + 28
+            : (document.querySelector(".site-header")?.getBoundingClientRect()
+                .height || 100) + 60;
         const sections = Array.from(
           article.current?.querySelectorAll<HTMLElement>(
             "[data-chapter-section]",
@@ -543,9 +659,28 @@ export function LearningChapterPage({
     };
     update();
     window.addEventListener("scroll", update, { passive: true });
+    // Floating-header position and late layout changes can settle after scrolling.
+    // Recalculate the GBV indicator when that geometry changes as well.
+    const header = document.querySelector(".site-header");
+    const headerChanges =
+      library.id === "gbv" ? new MutationObserver(update) : undefined;
+    const geometryChanges =
+      library.id === "gbv" ? new ResizeObserver(update) : undefined;
+    if (header && library.id === "gbv") {
+      headerChanges?.observe(header, {
+        attributes: true,
+        attributeFilter: ["class"],
+      });
+      geometryChanges?.observe(header);
+      header.addEventListener("transitionend", update);
+    }
+    if (article.current) geometryChanges?.observe(article.current);
     return () => {
       cancelAnimationFrame(frame);
       window.removeEventListener("scroll", update);
+      headerChanges?.disconnect();
+      geometryChanges?.disconnect();
+      header?.removeEventListener("transitionend", update);
     };
   }, [chapter]);
   useEffect(() => {
@@ -652,6 +787,14 @@ export function LearningChapterPage({
           )}
         </p>
         <div className="mh-reader-actions">
+          {activePresentation?.readerTools && (
+            <Link
+              className="gbv-begin-reading"
+              to={`${chapterPath(chapter.slug)}#${chapter.sections[0].id}`}
+            >
+              Begin reading <ArrowRight size={17} aria-hidden="true" />
+            </Link>
+          )}
           <a href={chapter.pdfUrl} download>
             <Download size={16} aria-hidden="true" />
             Download source PDF<span>({chapter.sourcePages} pages)</span>
@@ -673,7 +816,11 @@ export function LearningChapterPage({
         </div>
       </div>
       <div className="mh-reader-layout">
-        <ChapterContents chapter={chapter} activeId={activeId} />
+        <ChapterContents
+          chapter={chapter}
+          activeId={activeId}
+          readerTools={activePresentation?.readerTools}
+        />
         <article
           ref={article}
           className="mh-article"

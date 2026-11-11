@@ -38,7 +38,7 @@ test("Why Mental Health opens the growing chapter library from the shared naviga
     .getByRole("banner")
     .getByRole("link", { name: "Why Mental Health", exact: true })
     .click();
-  await expect(page).toHaveTitle("Why Mental Health — BetterHelp");
+  await expect(page).toHaveTitle("Why Mental Health — VUGA NDAKUMVA");
   await expect(page.locator(".mh-chapter-card")).toHaveCount(
     allChapters.length,
   );
@@ -73,7 +73,7 @@ for (const chapter of mentalHealthChapters) {
     page,
   }) => {
     await page.goto(chapterPath(chapter.slug));
-    await expect(page).toHaveTitle(`${chapter.title} — BetterHelp`);
+    await expect(page).toHaveTitle(`${chapter.title} — VUGA NDAKUMVA`);
     await expect(page.getByRole("heading", { level: 1 })).toHaveText(
       chapter.title,
     );

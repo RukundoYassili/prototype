@@ -353,7 +353,8 @@ export function CommunityPage({
       >
         <div className="community-hub-intro-copy">
           <span className="support-eyebrow">
-            <HeartHandshake size={17} aria-hidden="true" /> OUR COMMUNITY
+            <HeartHandshake size={17} aria-hidden="true" /> THE VUGA NDAKUMVA
+            COMMUNITY
           </span>
           <h1>
             Connection starts

@@ -154,7 +154,7 @@ export function BlogPage() {
         <div>
           <span className="support-eyebrow">
             <Flower2 size={15} aria-hidden="true" />
-            THE BETTERHELP JOURNAL
+            THE VUGA NDAKUMVA JOURNAL
           </span>
           <h1>
             Thoughtful reads.

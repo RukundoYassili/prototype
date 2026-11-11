@@ -73,7 +73,7 @@ for (const chapter of chapters) {
     const errors: string[] = [];
     page.on("pageerror", (e) => errors.push(e.message));
     await page.goto(route(chapter.slug));
-    await expect(page).toHaveTitle(`${chapter.title} — BetterHelp`);
+    await expect(page).toHaveTitle(`${chapter.title} — VUGA NDAKUMVA`);
     await expect(page.locator("h1")).toHaveText(chapter.title);
     await expect(page.locator(".mh-reader-version")).toHaveText(
       chapter.editionText!,
@@ -249,7 +249,7 @@ for (const width of [375, 768, 1024, 1440, 1920])
       const header = await page.getByRole("banner").boundingBox();
       const target = await page.locator("#" + id).boundingBox();
       expect(target!.y).toBeGreaterThanOrEqual(header!.y + header!.height - 1);
-      if (width <= 1100) await page.locator(".mh-contents-toggle").click();
+      if (width <= 1100) await page.locator(".gbv-mobile-tools button").click();
       expect(
         await page
           .locator(".mh-contents nav > a")
@@ -258,13 +258,15 @@ for (const width of [375, 768, 1024, 1440, 1920])
           ),
       ).toBe(true);
       const link = page
-        .getByRole("navigation", { name: "Chapter contents" })
+        .getByRole("navigation", {
+          name: width <= 1100 ? "Mobile chapter contents" : "Chapter contents",
+        })
         .locator(`a[href$="#${chapter.sections[2].id}"]`);
       await link.focus();
       await page.keyboard.press("Enter");
       await expect(page.locator("#" + chapter.sections[2].id)).toBeFocused();
       if (width <= 1100)
-        await expect(page.locator(".mh-contents-toggle")).toHaveAttribute(
+        await expect(page.locator(".gbv-mobile-tools button")).toHaveAttribute(
           "aria-expanded",
           "false",
         );

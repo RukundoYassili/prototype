@@ -1,0 +1,283 @@
+{
+  "created": "2026-11-11",
+  "method": "Built-in image generation; fictional 2D editorial illustrations. No real participant or clinical history.",
+  "review": "All nine originals visually inspected for subject relevance, anatomy, expression, paired continuity and absence of diagnoses. Panels retain clothing and meaningful props; setting changes are explicit assessment or pharmacy visits. Artwork is supplemental to unchanged source lessons.",
+  "assets": [
+    {
+      "id": "hero",
+      "prompt": "Create one finished 3:2 landscape raster illustration for a Rwanda-relevant educational website. Polished mature 2D flat editorial art, adult realistic proportions, clean deliberate shapes, natural restrained expressions, subtle paper texture, no photorealism, no cartoon children, no text, letters, logos or watermark. Black African characters in ordinary contemporary Rwanda settings without stereotypes. Alcohol props modest and unbranded, never glamorized. No diagnosis inferred, no dramatic distress. Full composed scene with generous edge safety. Palette deep teal #164E50 warm ochre #C99543 cream #F5EBDD. Calm home veranda: adult woman with short natural curls wearing ochre knit blouse reading an unlabelled information booklet at a table, trusted adult friend beside her listening with respectful personal space. A single small unbranded brown bottle and partly filled glass set aside at far end of table make alcohol context visible; plain water glass near her. View from slightly above, leafy courtyard and understated city rooftops, asymmetrical balanced composition, reflection and options not treatment or recovery.",
+      "original": "artifacts/alcohol-editorial/originals/hero.png",
+      "sha256": "d7204a57bc405597196f14895bb621d861c4626ab53c475c27f74afbd03f8d8f",
+      "width": 1536,
+      "height": 1024,
+      "variants": [
+        {
+          "file": "hero-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 45190
+        },
+        {
+          "file": "hero-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 153954
+        },
+        {
+          "file": "hero-1440.webp",
+          "width": 1440,
+          "height": 960,
+          "bytes": 306132
+        }
+      ]
+    },
+    {
+      "id": "cover-01",
+      "prompt": "Create one finished 3:2 landscape raster illustration for a Rwanda-relevant educational website. Polished mature 2D flat editorial art, adult realistic proportions, clean deliberate shapes, natural restrained expressions, subtle paper texture, no photorealism, no cartoon children, no text, letters, logos or watermark. Black African characters in ordinary contemporary Rwanda settings without stereotypes. Alcohol props modest and unbranded, never glamorized. No diagnosis inferred, no dramatic distress. Full composed scene with generous edge safety. Palette deep teal #164E50 ochre #C99543 cream #F5EBDD. Medium-wide eye-level social courtyard gathering of three adults: central woman in teal blouse politely declining a casually offered glass of beer with relaxed open palm, another adult accepts her choice without pressure, ochre-shirt friend seated nearby. One unbranded brown bottle on table, no toast, no joyfully advertised products. Room to decline and ordinary social context; architectural cream arches and teal foliage.",
+      "original": "artifacts/alcohol-editorial/originals/cover-01.png",
+      "sha256": "592811d6c91557aa7469fc726a9270f4da2c20935ed1455deb25ac783e7cb272",
+      "width": 1536,
+      "height": 1024,
+      "variants": [
+        {
+          "file": "cover-01-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 39400
+        },
+        {
+          "file": "cover-01-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 117794
+        },
+        {
+          "file": "cover-01-1440.webp",
+          "width": 1440,
+          "height": 960,
+          "bytes": 218918
+        }
+      ]
+    },
+    {
+      "id": "cover-02",
+      "prompt": "Create one finished 3:2 landscape raster illustration for a Rwanda-relevant educational website. Polished mature 2D flat editorial art, adult realistic proportions, clean deliberate shapes, natural restrained expressions, subtle paper texture, no photorealism, no cartoon children, no text, letters, logos or watermark. Black African characters in ordinary contemporary Rwanda settings without stereotypes. Alcohol props modest and unbranded, never glamorized. No diagnosis inferred, no dramatic distress. Full composed scene with generous edge safety. Palette indigo #303D72 turquoise #278D96 pale blue #E6F1F5. A fictional 19-year-old male student with short coiled hair and indigo overshirt at a desk with open notebooks, quietly considering trouble recalling learning after a gathering. Restrained secondary still-life of one unbranded brown bottle and glass on a separate far background shelf establishes alcohol context, not drinking while studying. Side three-quarter view, pale blue window light and turquoise desk lamp. No anatomical graphics or generated diagrams; no despair or label of disorder.",
+      "original": "artifacts/alcohol-editorial/originals/cover-02.png",
+      "sha256": "d0ba567d42ab6f68f7f053c91c4dcfa16dd9746707611e40297b36136be53892",
+      "width": 1536,
+      "height": 1024,
+      "variants": [
+        {
+          "file": "cover-02-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 24826
+        },
+        {
+          "file": "cover-02-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 78240
+        },
+        {
+          "file": "cover-02-1440.webp",
+          "width": 1440,
+          "height": 960,
+          "bytes": 159764
+        }
+      ]
+    },
+    {
+      "id": "cover-03",
+      "prompt": "Create one finished 3:2 landscape raster illustration for a Rwanda-relevant educational website. Polished mature 2D flat editorial art, adult realistic proportions, clean deliberate shapes, natural restrained expressions, subtle paper texture, no photorealism, no cartoon children, no text, letters, logos or watermark. Black African characters in ordinary contemporary Rwanda settings without stereotypes. Alcohol props modest and unbranded, never glamorized. No diagnosis inferred, no dramatic distress. Full composed scene with generous edge safety. Palette terracotta #AE563E navy #23394D sand #F3E6D2. Wide exterior evening courtyard after a modest gathering. Adult man aged32 wearing navy short-sleeved shirt stands beside a PARKED stationary motorcycle, helmet resting safely on its seat, considering a phone while an adult friend in terracotta shirt talks with him about another way home. Table in background with one unbranded brown bottle and glass, clearly alcohol context. No moving vehicles or drinking while driving. Strong diagonal composition, sand walls.",
+      "original": "artifacts/alcohol-editorial/originals/cover-03.png",
+      "sha256": "413b0f5964f9d0e3f9cc2581fd0ee5a29542b60d9ea0e2dd98b84e8a12b02a13",
+      "width": 1536,
+      "height": 1024,
+      "variants": [
+        {
+          "file": "cover-03-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 35944
+        },
+        {
+          "file": "cover-03-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 110978
+        },
+        {
+          "file": "cover-03-1440.webp",
+          "width": 1440,
+          "height": 960,
+          "bytes": 213882
+        }
+      ]
+    },
+    {
+      "id": "cover-04",
+      "prompt": "Create one finished 3:2 landscape raster illustration for a Rwanda-relevant educational website. Polished mature 2D flat editorial art, adult realistic proportions, clean deliberate shapes, natural restrained expressions, subtle paper texture, no photorealism, no cartoon children, no text, letters, logos or watermark. Black African characters in ordinary contemporary Rwanda settings without stereotypes. Alcohol props modest and unbranded, never glamorized. No diagnosis inferred, no dramatic distress. Full composed scene with generous edge safety. Palette plum #65435F sage #8DA58A ivory #F7F0E6. Adult woman Chantal aged35 with braided low bun and plum cardigan over ivory blouse seated opposite a clinician in sage plain professional blouse at a calm consultation table, equal eye level. Chantal holds a small closed work planner, clinician attentive without writing visible diagnosis. A small unbranded bottle silhouette in a simple pictorial information card on table makes substance use discussion recognizable, no legible writing. Warm ivory room, no recovery celebration or medical authority logos.",
+      "original": "artifacts/alcohol-editorial/originals/cover-04.png",
+      "sha256": "fec252ebaf8aa2771c4b259e42fed8e8126adde297bd4c91036ac77655d274fa",
+      "width": 1536,
+      "height": 1024,
+      "variants": [
+        {
+          "file": "cover-04-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 26530
+        },
+        {
+          "file": "cover-04-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 87092
+        },
+        {
+          "file": "cover-04-1440.webp",
+          "width": 1440,
+          "height": 960,
+          "bytes": 180622
+        }
+      ]
+    },
+    {
+      "id": "story-01",
+      "prompt": "Create one finished 3:2 landscape raster illustration for a Rwanda-relevant educational website. Polished mature 2D flat editorial art, adult realistic proportions, clean deliberate shapes, natural restrained expressions, subtle paper texture, no photorealism, no cartoon children, no text, letters, logos or watermark. Black African characters in ordinary contemporary Rwanda settings without stereotypes. Alcohol props modest and unbranded, never glamorized. No diagnosis inferred, no dramatic distress. Full composed scene with generous edge safety. A 3:2 DIPTYCH with exactly two equal vertical panels separated at precise midpoint, each a full portrait-shaped scene. Palette deep teal #164E50 ochre #C99543 cream #F5EBDD. SAME adult man Jean32 short black hair teal overshirt ochre trousers, same friend ochre shirt, same courtyard table one beer bottle/glass, same parked motorcycle and helmet across panels. LEFT Jean stands by parked motorcycle considering going home after drinks. RIGHT Jean remains beside the PARKED motorcycle, helmet stays on seat, asks friend who holds phone to help arrange NON-RIDING transport. Both scenes same evening and clothing no instant change in health; no vehicle moving no passenger motorcycle travel. No numbers/captions inside.",
+      "original": "artifacts/alcohol-editorial/originals/story-01.png",
+      "sha256": "927ccff9712fae485e7afc22bf2c770bd8346f7f0c463f750a784272ea8fabaa",
+      "width": 1536,
+      "height": 1024,
+      "variants": [
+        {
+          "file": "ad-jean-transport-situation-640.webp",
+          "width": 640,
+          "height": 858,
+          "bytes": 96284
+        },
+        {
+          "file": "ad-jean-transport-situation-1280.webp",
+          "width": 1280,
+          "height": 1716,
+          "bytes": 215320
+        },
+        {
+          "file": "ad-jean-transport-support-640.webp",
+          "width": 640,
+          "height": 858,
+          "bytes": 95028
+        },
+        {
+          "file": "ad-jean-transport-support-1280.webp",
+          "width": 1280,
+          "height": 1716,
+          "bytes": 216868
+        }
+      ]
+    },
+    {
+      "id": "story-02",
+      "prompt": "Create one finished 3:2 landscape raster illustration for a Rwanda-relevant educational website. Polished mature 2D flat editorial art, adult realistic proportions, clean deliberate shapes, natural restrained expressions, subtle paper texture, no photorealism, no cartoon children, no text, letters, logos or watermark. Black African characters in ordinary contemporary Rwanda settings without stereotypes. Alcohol props modest and unbranded, never glamorized. No diagnosis inferred, no dramatic distress. Full composed scene with generous edge safety. A 3:2 DIPTYCH exactly two equal vertical panels split at midpoint. Palette indigo #303D72 turquoise #278D96 pale blue #E6F1F5. SAME adult male worker age40 short black hair indigo long-sleeve shirt and charcoal trousers in both panels; same blue closed work planner. LEFT at home table, one modest unbranded brown bottle and used glass aside; tired but composed worker considers his planner and disturbed sleep, simple bed visible distant. RIGHT at consultation table speaking with a qualified health professional in turquoise blouse who listens at equal height; same planner and character, ordinary expression not magically refreshed, no bottle in clinic. Clearly two different settings for concern and possible assessment, clean full bodies hands normal, no diagnosis text.",
+      "original": "artifacts/alcohol-editorial/originals/story-02.png",
+      "sha256": "92b57cb9a2f4d6899e5e8974e922dc9828648954ee7c90c41a5120788ddc1ba4",
+      "width": 1536,
+      "height": 1024,
+      "variants": [
+        {
+          "file": "ad-worker-assessment-situation-640.webp",
+          "width": 640,
+          "height": 858,
+          "bytes": 72346
+        },
+        {
+          "file": "ad-worker-assessment-situation-1280.webp",
+          "width": 1280,
+          "height": 1716,
+          "bytes": 170028
+        },
+        {
+          "file": "ad-worker-assessment-support-640.webp",
+          "width": 640,
+          "height": 858,
+          "bytes": 62770
+        },
+        {
+          "file": "ad-worker-assessment-support-1280.webp",
+          "width": 1280,
+          "height": 1716,
+          "bytes": 145582
+        }
+      ]
+    },
+    {
+      "id": "story-03",
+      "prompt": "Create one finished 3:2 landscape raster illustration for a Rwanda-relevant educational website. Polished mature 2D flat editorial art, adult realistic proportions, clean deliberate shapes, natural restrained expressions, subtle paper texture, no photorealism, no cartoon children, no text, letters, logos or watermark. Black African characters in ordinary contemporary Rwanda settings without stereotypes. Alcohol props modest and unbranded, never glamorized. No diagnosis inferred, no dramatic distress. Full composed scene with generous edge safety. A 3:2 DIPTYCH exactly two equal vertical panels split at midpoint. Palette terracotta #AE563E navy #23394D sand #F3E6D2. SAME adult woman Mireille age28 short twists wearing terracotta blouse navy trousers throughout. LEFT in modest home kitchen table, a relative offers an unopened unlabelled prescription packet that belongs to them; Mireille politely declines with small open palm. No pills being consumed. RIGHT Mireille discussing sleep concerns with a pharmacist at a plain clinic pharmacy counter, same clothes and twists, pharmacist navy coat listening; generic medicine boxes on shelves no brands or labels. Calm no miracle transformation, natural hands, no depiction all medicine as harmful.",
+      "original": "artifacts/alcohol-editorial/originals/story-03.png",
+      "sha256": "b54b3c07d22afa3c4b40e8bfc37c9897a53a398b159e2651eca04fc93ef184f4",
+      "width": 1536,
+      "height": 1024,
+      "variants": [
+        {
+          "file": "ad-mireille-medicines-situation-640.webp",
+          "width": 640,
+          "height": 858,
+          "bytes": 90666
+        },
+        {
+          "file": "ad-mireille-medicines-situation-1280.webp",
+          "width": 1280,
+          "height": 1716,
+          "bytes": 210450
+        },
+        {
+          "file": "ad-mireille-medicines-support-640.webp",
+          "width": 640,
+          "height": 858,
+          "bytes": 49040
+        },
+        {
+          "file": "ad-mireille-medicines-support-1280.webp",
+          "width": 1280,
+          "height": 1716,
+          "bytes": 118208
+        }
+      ]
+    },
+    {
+      "id": "story-04",
+      "prompt": "Create one finished 3:2 landscape raster illustration for a Rwanda-relevant educational website. Polished mature 2D flat editorial art, adult realistic proportions, clean deliberate shapes, natural restrained expressions, subtle paper texture, no photorealism, no cartoon children, no text, letters, logos or watermark. Black African characters in ordinary contemporary Rwanda settings without stereotypes. Alcohol props modest and unbranded, never glamorized. No diagnosis inferred, no dramatic distress. Full composed scene with generous edge safety. A 3:2 DIPTYCH exactly two equal vertical panels split at midpoint. Palette plum #65435F sage #8DA58A ivory #F7F0E6. SAME adult woman Chantal35 braided low bun plum cardigan ivory blouse sage skirt in both panels. LEFT home table with small unbranded brown bottle and glass set to side, closed work planner, Chantal quietly considering missed commitments, no visible labels or drunk stereotype. RIGHT same Chantal same clothes planner talking with female healthcare professional wearing sage blouse at equal eye level in quiet clinic; calm but still concerned, no guaranteed recovery or triumphant gesture. Assessment not diagnosis. Natural mature proportions and restrained composition.",
+      "original": "artifacts/alcohol-editorial/originals/story-04.png",
+      "sha256": "ced29f51507ff29effbbd7868eacdd6cf95b3b034180ab14768e9ddd0ab781f1",
+      "width": 1536,
+      "height": 1024,
+      "variants": [
+        {
+          "file": "ad-chantal-concerns-situation-640.webp",
+          "width": 640,
+          "height": 858,
+          "bytes": 81236
+        },
+        {
+          "file": "ad-chantal-concerns-situation-1280.webp",
+          "width": 1280,
+          "height": 1716,
+          "bytes": 194936
+        },
+        {
+          "file": "ad-chantal-concerns-support-640.webp",
+          "width": 640,
+          "height": 858,
+          "bytes": 59604
+        },
+        {
+          "file": "ad-chantal-concerns-support-1280.webp",
+          "width": 1280,
+          "height": 1716,
+          "bytes": 146100
+        }
+      ]
+    }
+  ]
+}

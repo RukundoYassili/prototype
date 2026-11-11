@@ -31,14 +31,14 @@ test("desktop navigation uses the new structure and keeps support and donation a
     banner.getByRole("link", { name: "Donate", exact: true }),
   ).toHaveAttribute("href", "/donate");
   await banner.getByRole("link", { name: "Awareness", exact: true }).click();
-  await expect(page).toHaveTitle("Awareness — BetterHelp");
+  await expect(page).toHaveTitle("Awareness — VUGA NDAKUMVA");
   await expect(
     banner.getByRole("link", { name: "Awareness", exact: true }),
   ).toHaveAttribute("aria-current", "page");
   await banner
     .getByRole("link", { name: "Why Mental Health", exact: true })
     .click();
-  await expect(page).toHaveTitle("Why Mental Health — BetterHelp");
+  await expect(page).toHaveTitle("Why Mental Health — VUGA NDAKUMVA");
   await expect(page.locator(".information-source a")).toHaveAttribute(
     "href",
     "https://www.who.int/news-room/fact-sheets/detail/mental-health-strengthening-our-response",
@@ -200,7 +200,7 @@ test("knowledge landing pages provide working destinations and Donate collects n
     if (request.method() === "POST") posts.push(request.url());
   });
   await page.goto("/knowledge-hub");
-  await expect(page).toHaveTitle("Knowledge Hub — BetterHelp");
+  await expect(page).toHaveTitle("Knowledge Hub — VUGA NDAKUMVA");
   await expect(
     page.locator(".information-hub-grid .information-card"),
   ).toHaveCount(6);
@@ -216,7 +216,7 @@ test("knowledge landing pages provide working destinations and Donate collects n
     .click();
   await expect(page).toHaveURL(/\/community$/);
   await page.goto("/donate");
-  await expect(page).toHaveTitle("Donate — BetterHelp");
+  await expect(page).toHaveTitle("Donate — VUGA NDAKUMVA");
   await expect(
     page.getByRole("button", { name: "Donations not yet open", exact: true }),
   ).toBeDisabled();

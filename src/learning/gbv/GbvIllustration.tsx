@@ -1,52 +1,23 @@
 import { useState } from "react";
+import { gbvSeriesCovers } from "./series-art";
 
 interface GbvArtwork {
   file: string;
   alt: string;
 }
 
-// Landing-page artwork only; source chapters and teaching scenes stay separate.
+// Chapter 01 remains unchanged; the remaining covers also appear in their readers.
 export const gbvCovers: Record<string, GbvArtwork> = {
   "understanding-gender-based-violence": {
     file: "01-choice-and-connection",
     alt: "Illustration of an adult considering learning materials while a companion leaves the choices in her hands.",
   },
-  "types-and-forms-of-gender-based-violence": {
-    file: "02-connected-forms",
-    alt: "Illustration connecting a home, conversation shapes, financial papers and a phone around one person, reflecting different areas of everyday life.",
-  },
-  "root-causes-risk-factors-and-gender-inequality": {
-    file: "03-opportunity-and-responsibility",
-    alt: "Illustration of community members discussing a model with unequal routes to a shared doorway, a metaphor for access to opportunities.",
-  },
-  "understanding-consent-boundaries-and-bodily-autonomy": {
-    file: "04-space-and-consent",
-    alt: "Illustration of a young adult expressing a preference while another listens and respects their personal space.",
-  },
-  "domestic-violence-and-intimate-partner-violence": {
-    file: "05-private-support",
-    alt: "Illustration of an adult man speaking privately with a woman who listens at equal level, without taking over.",
-  },
-  "sexual-violence-harassment-and-exploitation": {
-    file: "06-care-and-dignity",
-    alt: "Illustration of a fully clothed adult considering information with an attentive healthcare professional in a consultation room.",
-  },
-  "emotional-psychological-and-verbal-abuse": {
-    file: "07-heard-and-respected",
-    alt: "Illustration of a woman speaking with an attentive friend, with abstract conversation shapes in the background.",
-  },
-  "economic-violence-and-financial-control": {
-    file: "08-resources-and-choice",
-    alt: "Illustration of a trader reviewing her own ledger, documents, money pouch and phone while a supporter listens nearby.",
-  },
-  "technology-facilitated-and-online-gender-based-violence": {
-    file: "09-digital-options",
-    alt: "Illustration of a young adult discussing options with a trusted person while a phone and closed laptop remain unused.",
-  },
-  "gender-based-violence-against-children-and-adolescents": {
-    file: "10-listening-to-young-people",
-    alt: "Illustration of an adolescent speaking with a trusted adult seated at the same eye level, with space between them.",
-  },
+  ...gbvSeriesCovers,
+};
+// Preserve the existing landing-page supporter scene independently of Chapter 07's cover.
+export const gbvSupporterArt: GbvArtwork = {
+  file: "07-heard-and-respected",
+  alt: "Illustration of a woman speaking with an attentive friend, with abstract conversation shapes in the background.",
 };
 
 export const gbvHero: GbvArtwork = {

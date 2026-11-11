@@ -1,0 +1,886 @@
+[
+  {
+    "id": "gbv-home-argument-situation",
+    "story": "gbv-home-argument",
+    "scene": 0,
+    "chapter": 2,
+    "alt": "Fictional editorial illustration. Fictional woman around 30, short natural hair, pale blue blouse, dark trousers. Stands alone thoughtfully near a bright open doorway in a contemporary home, a chair and table behind her, no abusive act or person depicted.",
+    "caption": "The original case describes force, blocked movement and isolation; the illustration depicts a quiet everyday moment.",
+    "prompt": "Use case: illustration-story. Production educational illustration for VUGA NDAKUMVA. One 4:3 landscape scene, 1440x1080 composition. Mature polished 2D flat editorial artwork, clean shapes, restrained detail, consistent natural anatomy, Black African characters in contemporary Rwanda-relevant settings. Deep purple, lavender, golden yellow, teal, mint, soft blue. Balanced composition and breathing room. Dignified, thoughtful expressions. No photorealism, childish cartoons, text, numbers, logos, watermark, violence, injuries, abusive acts, threatening figures, private material, forced smiles or promised outcomes. All characters are fictional. Scene: Fictional editorial illustration. Fictional woman around 30, short natural hair, pale blue blouse, dark trousers. Stands alone thoughtfully near a bright open doorway in a contemporary home, a chair and table behind her, no abusive act or person depicted. Educational purpose (do not render as text): The original case describes force, blocked movement and isolation; the illustration depicts a quiet everyday moment.",
+    "original": "artifacts/gbv-complete-refinement/originals/gbv-home-argument-situation.png",
+    "variants": [
+      {
+        "file": "public/images/learning/gbv/series/gbv-home-argument-situation-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 44766,
+        "sha256": "b408468b8b85336eda35a49b6c15e206e5993b75cc9e62ea0622ad286ff01385"
+      },
+      {
+        "file": "public/images/learning/gbv/series/gbv-home-argument-situation-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 110684,
+        "sha256": "c95dab6568a8b5156b1000e226051701656e65b20f577a8320a9c5a9375ddaac"
+      }
+    ]
+  },
+  {
+    "id": "gbv-home-argument-support",
+    "story": "gbv-home-argument",
+    "scene": 1,
+    "chapter": 2,
+    "alt": "Fictional editorial illustration. The same fictional woman around 30, short natural hair, pale blue blouse, dark trousers. Sits privately with an adult female professional support worker in a calm modest office, listening and considering options.",
+    "caption": "A trained worker could help discuss immediate safety and appropriate support.",
+    "prompt": "Use case: illustration-story. Production educational illustration for VUGA NDAKUMVA. One 4:3 landscape scene, 1440x1080 composition. Mature polished 2D flat editorial artwork, clean shapes, restrained detail, consistent natural anatomy, Black African characters in contemporary Rwanda-relevant settings. Deep purple, lavender, golden yellow, teal, mint, soft blue. Balanced composition and breathing room. Dignified, thoughtful expressions. No photorealism, childish cartoons, text, numbers, logos, watermark, violence, injuries, abusive acts, threatening figures, private material, forced smiles or promised outcomes. All characters are fictional. Scene: Fictional editorial illustration. The same fictional woman around 30, short natural hair, pale blue blouse, dark trousers. Sits privately with an adult female professional support worker in a calm modest office, listening and considering options. Educational purpose (do not render as text): A trained worker could help discuss immediate safety and appropriate support. Preserve the featured person identity, age, hair, clothing, important props and illustration style from the paired reference image. Show a possible supportive conversation, not recovery or a guaranteed outcome.",
+    "original": "artifacts/gbv-complete-refinement/originals/gbv-home-argument-support.png",
+    "variants": [
+      {
+        "file": "public/images/learning/gbv/series/gbv-home-argument-support-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 49852,
+        "sha256": "074e8d999e4c9d190b91cc66def4f23b703762b74573dc1392d06adad2ea6a14"
+      },
+      {
+        "file": "public/images/learning/gbv/series/gbv-home-argument-support-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 128920,
+        "sha256": "b9f67820b8ab7566de30213ac0aeda6546418e0c77c6d228b3eca38d2af9150a"
+      }
+    ]
+  },
+  {
+    "id": "gbv-trainee-support-situation",
+    "story": "gbv-trainee-support",
+    "scene": 0,
+    "chapter": 2,
+    "alt": "Fictional editorial illustration. Fictional female adult trainee aged 23, neat braids tied back, white shirt and olive trousers. Sits thoughtfully at an ordinary workplace desk reviewing a blank folder, supervisor blurred in distant background, no touching or sexual content.",
+    "caption": "Employment power can be misused to pressure a trainee.",
+    "prompt": "Use case: illustration-story. Production educational illustration for VUGA NDAKUMVA. One 4:3 landscape scene, 1440x1080 composition. Mature polished 2D flat editorial artwork, clean shapes, restrained detail, consistent natural anatomy, Black African characters in contemporary Rwanda-relevant settings. Deep purple, lavender, golden yellow, teal, mint, soft blue. Balanced composition and breathing room. Dignified, thoughtful expressions. No photorealism, childish cartoons, text, numbers, logos, watermark, violence, injuries, abusive acts, threatening figures, private material, forced smiles or promised outcomes. All characters are fictional. Scene: Fictional editorial illustration. Fictional female adult trainee aged 23, neat braids tied back, white shirt and olive trousers. Sits thoughtfully at an ordinary workplace desk reviewing a blank folder, supervisor blurred in distant background, no touching or sexual content. Educational purpose (do not render as text): Employment power can be misused to pressure a trainee.",
+    "original": "artifacts/gbv-complete-refinement/originals/gbv-trainee-support-situation.png",
+    "variants": [
+      {
+        "file": "public/images/learning/gbv/series/gbv-trainee-support-situation-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 35232,
+        "sha256": "0db1739150246b50850e03cdb82c65a82d894bcedbe8e74c2a80639a9c5ecfd9"
+      },
+      {
+        "file": "public/images/learning/gbv/series/gbv-trainee-support-situation-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 87072,
+        "sha256": "2bb3ec8ed79f334678f56c1d6ac6ffd45fffc742bf40501fa8a21fc32e0aa866"
+      }
+    ]
+  },
+  {
+    "id": "gbv-trainee-support-support",
+    "story": "gbv-trainee-support",
+    "scene": 1,
+    "chapter": 2,
+    "alt": "Fictional editorial illustration. The same fictional female adult trainee aged 23, neat braids tied back, white shirt and olive trousers. Speaks privately with an independent adult female worker at a community advice office, both seated at equal height, no confrontation or complaint requirement.",
+    "caption": "Independent support could offer information without requiring confrontation or a complaint first.",
+    "prompt": "Use case: illustration-story. Production educational illustration for VUGA NDAKUMVA. One 4:3 landscape scene, 1440x1080 composition. Mature polished 2D flat editorial artwork, clean shapes, restrained detail, consistent natural anatomy, Black African characters in contemporary Rwanda-relevant settings. Deep purple, lavender, golden yellow, teal, mint, soft blue. Balanced composition and breathing room. Dignified, thoughtful expressions. No photorealism, childish cartoons, text, numbers, logos, watermark, violence, injuries, abusive acts, threatening figures, private material, forced smiles or promised outcomes. All characters are fictional. Scene: Fictional editorial illustration. The same fictional female adult trainee aged 23, neat braids tied back, white shirt and olive trousers. Speaks privately with an independent adult female worker at a community advice office, both seated at equal height, no confrontation or complaint requirement. Educational purpose (do not render as text): Independent support could offer information without requiring confrontation or a complaint first. Preserve the featured person identity, age, hair, clothing, important props and illustration style from the paired reference image. Show a possible supportive conversation, not recovery or a guaranteed outcome.",
+    "original": "artifacts/gbv-complete-refinement/originals/gbv-trainee-support-support.png",
+    "variants": [
+      {
+        "file": "public/images/learning/gbv/series/gbv-trainee-support-support-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 44034,
+        "sha256": "40f8fc760d27d36a8d886fbc2ddf92ec04766e8cc890c2e320a1a2fe71b05c9a"
+      },
+      {
+        "file": "public/images/learning/gbv/series/gbv-trainee-support-support-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 108536,
+        "sha256": "1558069187c64d2149f9d7b8696ac8e8ff2f8453b9c26fca4eaa8200b83952ec"
+      }
+    ]
+  },
+  {
+    "id": "gbv-messages-isolation-situation",
+    "story": "gbv-messages-isolation",
+    "scene": 0,
+    "chapter": 2,
+    "alt": "Fictional editorial illustration. Fictional male university student aged 22, short coiled hair, muted burgundy polo, dark backpack. Sits thoughtfully alone on university steps with phone screen turned away and classmates in background.",
+    "caption": "Repeated insults, monitoring and forced isolation can limit social connection.",
+    "prompt": "Use case: illustration-story. Production educational illustration for VUGA NDAKUMVA. One 4:3 landscape scene, 1440x1080 composition. Mature polished 2D flat editorial artwork, clean shapes, restrained detail, consistent natural anatomy, Black African characters in contemporary Rwanda-relevant settings. Deep purple, lavender, golden yellow, teal, mint, soft blue. Balanced composition and breathing room. Dignified, thoughtful expressions. No photorealism, childish cartoons, text, numbers, logos, watermark, violence, injuries, abusive acts, threatening figures, private material, forced smiles or promised outcomes. All characters are fictional. Scene: Fictional editorial illustration. Fictional male university student aged 22, short coiled hair, muted burgundy polo, dark backpack. Sits thoughtfully alone on university steps with phone screen turned away and classmates in background. Educational purpose (do not render as text): Repeated insults, monitoring and forced isolation can limit social connection.",
+    "original": "artifacts/gbv-complete-refinement/originals/gbv-messages-isolation-situation.png",
+    "variants": [
+      {
+        "file": "public/images/learning/gbv/series/gbv-messages-isolation-situation-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 54260,
+        "sha256": "20c276575bec0e4d4719e6f559652fd59578cce844584118da7ae252e1e0dd5b"
+      },
+      {
+        "file": "public/images/learning/gbv/series/gbv-messages-isolation-situation-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 135418,
+        "sha256": "da7843ac1c78b0c6ae13e39a290ba1546f9778ef2a5073cae81808a03a61116b"
+      }
+    ]
+  },
+  {
+    "id": "gbv-messages-isolation-support",
+    "story": "gbv-messages-isolation",
+    "scene": 1,
+    "chapter": 2,
+    "alt": "Fictional editorial illustration. The same fictional male university student aged 22, short coiled hair, muted burgundy polo, dark backpack. Speaks quietly with a male student adviser on two chairs in a calm private office, phone put away, discussion of preferred support.",
+    "caption": "An adviser could ask whether communication is safe and what help the student wants.",
+    "prompt": "Use case: illustration-story. Production educational illustration for VUGA NDAKUMVA. One 4:3 landscape scene, 1440x1080 composition. Mature polished 2D flat editorial artwork, clean shapes, restrained detail, consistent natural anatomy, Black African characters in contemporary Rwanda-relevant settings. Deep purple, lavender, golden yellow, teal, mint, soft blue. Balanced composition and breathing room. Dignified, thoughtful expressions. No photorealism, childish cartoons, text, numbers, logos, watermark, violence, injuries, abusive acts, threatening figures, private material, forced smiles or promised outcomes. All characters are fictional. Scene: Fictional editorial illustration. The same fictional male university student aged 22, short coiled hair, muted burgundy polo, dark backpack. Speaks quietly with a male student adviser on two chairs in a calm private office, phone put away, discussion of preferred support. Educational purpose (do not render as text): An adviser could ask whether communication is safe and what help the student wants. Preserve the featured person identity, age, hair, clothing, important props and illustration style from the paired reference image. Show a possible supportive conversation, not recovery or a guaranteed outcome.",
+    "original": "artifacts/gbv-complete-refinement/originals/gbv-messages-isolation-support.png",
+    "variants": [
+      {
+        "file": "public/images/learning/gbv/series/gbv-messages-isolation-support-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 50670,
+        "sha256": "b4e4dc030247565143e3b0ba775fe6cb35ae2ddd5445aa8989687666dac35e38"
+      },
+      {
+        "file": "public/images/learning/gbv/series/gbv-messages-isolation-support-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 129056,
+        "sha256": "c4a60a2f624cc13ecfd17a92029536f9a778faee8c36085f7d3474993a49d4ca"
+      }
+    ]
+  },
+  {
+    "id": "gbv-family-shop-situation",
+    "story": "gbv-family-shop",
+    "scene": 0,
+    "chapter": 2,
+    "alt": "Fictional editorial illustration. Fictional married woman around 36, short twists, teal blouse and charcoal skirt. Works thoughtfully behind a small family grocery counter, closed cash ledger and ordinary products without visible brands, no abusive partner depicted.",
+    "caption": "Working in a family business does not make confiscation and punishment acceptable.",
+    "prompt": "Use case: illustration-story. Production educational illustration for VUGA NDAKUMVA. One 4:3 landscape scene, 1440x1080 composition. Mature polished 2D flat editorial artwork, clean shapes, restrained detail, consistent natural anatomy, Black African characters in contemporary Rwanda-relevant settings. Deep purple, lavender, golden yellow, teal, mint, soft blue. Balanced composition and breathing room. Dignified, thoughtful expressions. No photorealism, childish cartoons, text, numbers, logos, watermark, violence, injuries, abusive acts, threatening figures, private material, forced smiles or promised outcomes. All characters are fictional. Scene: Fictional editorial illustration. Fictional married woman around 36, short twists, teal blouse and charcoal skirt. Works thoughtfully behind a small family grocery counter, closed cash ledger and ordinary products without visible brands, no abusive partner depicted. Educational purpose (do not render as text): Working in a family business does not make confiscation and punishment acceptable.",
+    "original": "artifacts/gbv-complete-refinement/originals/gbv-family-shop-situation.png",
+    "variants": [
+      {
+        "file": "public/images/learning/gbv/series/gbv-family-shop-situation-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 58566,
+        "sha256": "23dab49a3dc59ab52fbe4a8dc246261fa2b9b3b5a8610a5565752ba1f19287c6"
+      },
+      {
+        "file": "public/images/learning/gbv/series/gbv-family-shop-situation-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 162200,
+        "sha256": "b595e75ffed596bf8d4a8f4181d592d88e45edc07c98e322fb22bcdab87fdfa4"
+      }
+    ]
+  },
+  {
+    "id": "gbv-family-shop-support",
+    "story": "gbv-family-shop",
+    "scene": 1,
+    "chapter": 2,
+    "alt": "Fictional editorial illustration. The same fictional married woman around 36, short twists, teal blouse and charcoal skirt. Meets an adult woman practical-support adviser privately, closed notebook on table, choices discussed without directing departure.",
+    "caption": "Private practical advice could explore resources and services without insisting on immediate departure.",
+    "prompt": "Use case: illustration-story. Production educational illustration for VUGA NDAKUMVA. One 4:3 landscape scene, 1440x1080 composition. Mature polished 2D flat editorial artwork, clean shapes, restrained detail, consistent natural anatomy, Black African characters in contemporary Rwanda-relevant settings. Deep purple, lavender, golden yellow, teal, mint, soft blue. Balanced composition and breathing room. Dignified, thoughtful expressions. No photorealism, childish cartoons, text, numbers, logos, watermark, violence, injuries, abusive acts, threatening figures, private material, forced smiles or promised outcomes. All characters are fictional. Scene: Fictional editorial illustration. The same fictional married woman around 36, short twists, teal blouse and charcoal skirt. Meets an adult woman practical-support adviser privately, closed notebook on table, choices discussed without directing departure. Educational purpose (do not render as text): Private practical advice could explore resources and services without insisting on immediate departure. Preserve the featured person identity, age, hair, clothing, important props and illustration style from the paired reference image. Show a possible supportive conversation, not recovery or a guaranteed outcome.",
+    "original": "artifacts/gbv-complete-refinement/originals/gbv-family-shop-support.png",
+    "variants": [
+      {
+        "file": "public/images/learning/gbv/series/gbv-family-shop-support-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 58224,
+        "sha256": "a8ac9f7b1f8f64a53679c4400710eed41b9d724783fc24c04ab322314cbdbd03"
+      },
+      {
+        "file": "public/images/learning/gbv/series/gbv-family-shop-support-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 163418,
+        "sha256": "e33841daa2389a4a4aa3b6297ee66ff9bdc4cfa2fa04049127f32a6f21566093"
+      }
+    ]
+  },
+  {
+    "id": "gbv-online-threats-situation",
+    "story": "gbv-online-threats",
+    "scene": 0,
+    "chapter": 2,
+    "alt": "Fictional editorial illustration. Fictional woman around 25, natural hair in a puff, lavender shirt and dark trousers. Looks thoughtfully at a phone held away from camera at home, no private photos or readable threats, no distress spectacle.",
+    "caption": "Threats involving private images can create pressure even without physical contact.",
+    "prompt": "Use case: illustration-story. Production educational illustration for VUGA NDAKUMVA. One 4:3 landscape scene, 1440x1080 composition. Mature polished 2D flat editorial artwork, clean shapes, restrained detail, consistent natural anatomy, Black African characters in contemporary Rwanda-relevant settings. Deep purple, lavender, golden yellow, teal, mint, soft blue. Balanced composition and breathing room. Dignified, thoughtful expressions. No photorealism, childish cartoons, text, numbers, logos, watermark, violence, injuries, abusive acts, threatening figures, private material, forced smiles or promised outcomes. All characters are fictional. Scene: Fictional editorial illustration. Fictional woman around 25, natural hair in a puff, lavender shirt and dark trousers. Looks thoughtfully at a phone held away from camera at home, no private photos or readable threats, no distress spectacle. Educational purpose (do not render as text): Threats involving private images can create pressure even without physical contact.",
+    "original": "artifacts/gbv-complete-refinement/originals/gbv-online-threats-situation.png",
+    "variants": [
+      {
+        "file": "public/images/learning/gbv/series/gbv-online-threats-situation-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 46140,
+        "sha256": "1c70686b652f3d0e6923bee976a36a63504d91c104fca1db257642eab1421b3e"
+      },
+      {
+        "file": "public/images/learning/gbv/series/gbv-online-threats-situation-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 122280,
+        "sha256": "4c645bb021f3eda5302ebe9b35abd42eae2b2e0758f8328068fbd7937d1329e1"
+      }
+    ]
+  },
+  {
+    "id": "gbv-online-threats-support",
+    "story": "gbv-online-threats",
+    "scene": 1,
+    "chapter": 2,
+    "alt": "Fictional editorial illustration. The same fictional woman around 25, natural hair in a puff, lavender shirt and dark trousers. Sits in a private advice room with a female specialist, phone face down, discussing safe options, no evidence collection or password change shown.",
+    "caption": "A specialist could discuss safe options without forwarding images or taking over the person's account.",
+    "prompt": "Use case: illustration-story. Production educational illustration for VUGA NDAKUMVA. One 4:3 landscape scene, 1440x1080 composition. Mature polished 2D flat editorial artwork, clean shapes, restrained detail, consistent natural anatomy, Black African characters in contemporary Rwanda-relevant settings. Deep purple, lavender, golden yellow, teal, mint, soft blue. Balanced composition and breathing room. Dignified, thoughtful expressions. No photorealism, childish cartoons, text, numbers, logos, watermark, violence, injuries, abusive acts, threatening figures, private material, forced smiles or promised outcomes. All characters are fictional. Scene: Fictional editorial illustration. The same fictional woman around 25, natural hair in a puff, lavender shirt and dark trousers. Sits in a private advice room with a female specialist, phone face down, discussing safe options, no evidence collection or password change shown. Educational purpose (do not render as text): A specialist could discuss safe options without forwarding images or taking over the person's account. Preserve the featured person identity, age, hair, clothing, important props and illustration style from the paired reference image. Show a possible supportive conversation, not recovery or a guaranteed outcome.",
+    "original": "artifacts/gbv-complete-refinement/originals/gbv-online-threats-support.png",
+    "variants": [
+      {
+        "file": "public/images/learning/gbv/series/gbv-online-threats-support-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 48116,
+        "sha256": "6d1fe59064ca0a8d5d865cf3db007fb9f0ad9db243e606513efc10ce2c300a01"
+      },
+      {
+        "file": "public/images/learning/gbv/series/gbv-online-threats-support-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 126984,
+        "sha256": "636135f390e15172b3f90d7ff2759d819944fc190bae6c1d2fbc6b38a542814a"
+      }
+    ]
+  },
+  {
+    "id": "gbv-work-transport-situation",
+    "story": "gbv-work-transport",
+    "scene": 0,
+    "chapter": 3,
+    "alt": "Fictional editorial illustration. Fictional woman around 31, neatly braided hair, beige blouse, navy work bag. Sits at a home table thoughtfully beside a work bag and small closed notebook, preparing for work, no confrontation.",
+    "caption": "Restrictions on earnings and transport can interfere with work and choice.",
+    "prompt": "Use case: illustration-story. Production educational illustration for VUGA NDAKUMVA. One 4:3 landscape scene, 1440x1080 composition. Mature polished 2D flat editorial artwork, clean shapes, restrained detail, consistent natural anatomy, Black African characters in contemporary Rwanda-relevant settings. Deep purple, lavender, golden yellow, teal, mint, soft blue. Balanced composition and breathing room. Dignified, thoughtful expressions. No photorealism, childish cartoons, text, numbers, logos, watermark, violence, injuries, abusive acts, threatening figures, private material, forced smiles or promised outcomes. All characters are fictional. Scene: Fictional editorial illustration. Fictional woman around 31, neatly braided hair, beige blouse, navy work bag. Sits at a home table thoughtfully beside a work bag and small closed notebook, preparing for work, no confrontation. Educational purpose (do not render as text): Restrictions on earnings and transport can interfere with work and choice.",
+    "original": "artifacts/gbv-complete-refinement/originals/gbv-work-transport-situation.png",
+    "variants": [
+      {
+        "file": "public/images/learning/gbv/series/gbv-work-transport-situation-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 56384,
+        "sha256": "13491a9ee4c31a1656574f12b7e1bafc803af361228b4aa6c5d456131844ff9e"
+      },
+      {
+        "file": "public/images/learning/gbv/series/gbv-work-transport-situation-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 141716,
+        "sha256": "300586756c5f5defed1ccaf857c45670b24f2c0dc6d880c85d171584b1fa5a0f"
+      }
+    ]
+  },
+  {
+    "id": "gbv-work-transport-support",
+    "story": "gbv-work-transport",
+    "scene": 1,
+    "chapter": 3,
+    "alt": "Fictional editorial illustration. The same fictional woman around 31, neatly braided hair, beige blouse, navy work bag. Discusses practical support privately with an adult female worker in an accessible office, neither handles her phone or money.",
+    "caption": "Private support could help explore options without confronting the partner.",
+    "prompt": "Use case: illustration-story. Production educational illustration for VUGA NDAKUMVA. One 4:3 landscape scene, 1440x1080 composition. Mature polished 2D flat editorial artwork, clean shapes, restrained detail, consistent natural anatomy, Black African characters in contemporary Rwanda-relevant settings. Deep purple, lavender, golden yellow, teal, mint, soft blue. Balanced composition and breathing room. Dignified, thoughtful expressions. No photorealism, childish cartoons, text, numbers, logos, watermark, violence, injuries, abusive acts, threatening figures, private material, forced smiles or promised outcomes. All characters are fictional. Scene: Fictional editorial illustration. The same fictional woman around 31, neatly braided hair, beige blouse, navy work bag. Discusses practical support privately with an adult female worker in an accessible office, neither handles her phone or money. Educational purpose (do not render as text): Private support could help explore options without confronting the partner. Preserve the featured person identity, age, hair, clothing, important props and illustration style from the paired reference image. Show a possible supportive conversation, not recovery or a guaranteed outcome.",
+    "original": "artifacts/gbv-complete-refinement/originals/gbv-work-transport-support.png",
+    "variants": [
+      {
+        "file": "public/images/learning/gbv/series/gbv-work-transport-support-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 57482,
+        "sha256": "bc2574ae70126b818734c2125c49a0783d50922ffcb0f03c1d8df8175317d66a"
+      },
+      {
+        "file": "public/images/learning/gbv/series/gbv-work-transport-support-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 152936,
+        "sha256": "d0c0993d1d2f08138c35d10f69fd81c4d45c0377b262f6aee35657738436fb9e"
+      }
+    ]
+  },
+  {
+    "id": "gbv-school-authority-situation",
+    "story": "gbv-school-authority",
+    "scene": 0,
+    "chapter": 3,
+    "alt": "Fictional editorial illustration. Fictional female adult student aged 19, neat natural hair, plain light blue shirt, dark backpack. Stands thoughtfully outside a campus administrative office, distant adults in corridor, no abuse or private meeting depicted.",
+    "caption": "Authority and possible retaliation can make it harder for a student to seek help.",
+    "prompt": "Use case: illustration-story. Production educational illustration for VUGA NDAKUMVA. One 4:3 landscape scene, 1440x1080 composition. Mature polished 2D flat editorial artwork, clean shapes, restrained detail, consistent natural anatomy, Black African characters in contemporary Rwanda-relevant settings. Deep purple, lavender, golden yellow, teal, mint, soft blue. Balanced composition and breathing room. Dignified, thoughtful expressions. No photorealism, childish cartoons, text, numbers, logos, watermark, violence, injuries, abusive acts, threatening figures, private material, forced smiles or promised outcomes. All characters are fictional. Scene: Fictional editorial illustration. Fictional female adult student aged 19, neat natural hair, plain light blue shirt, dark backpack. Stands thoughtfully outside a campus administrative office, distant adults in corridor, no abuse or private meeting depicted. Educational purpose (do not render as text): Authority and possible retaliation can make it harder for a student to seek help.",
+    "original": "artifacts/gbv-complete-refinement/originals/gbv-school-authority-situation.png",
+    "variants": [
+      {
+        "file": "public/images/learning/gbv/series/gbv-school-authority-situation-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 44488,
+        "sha256": "d3b4ea67c3c5692321a1c3e4f656b96ca27d527251f5a6d16ebab35e5b368b2f"
+      },
+      {
+        "file": "public/images/learning/gbv/series/gbv-school-authority-situation-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 101498,
+        "sha256": "457b2be37114dfeb109db6e66c6efae6e4504671460cb215ceee7a6bb0edb1a6"
+      }
+    ]
+  },
+  {
+    "id": "gbv-school-authority-support",
+    "story": "gbv-school-authority",
+    "scene": 1,
+    "chapter": 3,
+    "alt": "Fictional editorial illustration. The same fictional female adult student aged 19, neat natural hair, plain light blue shirt, dark backpack. Meets an independent female safeguarding adviser in a welcoming office, safe reporting choices represented by a plain closed folder.",
+    "caption": "An independent safeguarding route could offer age-appropriate information and protection procedures.",
+    "prompt": "Use case: illustration-story. Production educational illustration for VUGA NDAKUMVA. One 4:3 landscape scene, 1440x1080 composition. Mature polished 2D flat editorial artwork, clean shapes, restrained detail, consistent natural anatomy, Black African characters in contemporary Rwanda-relevant settings. Deep purple, lavender, golden yellow, teal, mint, soft blue. Balanced composition and breathing room. Dignified, thoughtful expressions. No photorealism, childish cartoons, text, numbers, logos, watermark, violence, injuries, abusive acts, threatening figures, private material, forced smiles or promised outcomes. All characters are fictional. Scene: Fictional editorial illustration. The same fictional female adult student aged 19, neat natural hair, plain light blue shirt, dark backpack. Meets an independent female safeguarding adviser in a welcoming office, safe reporting choices represented by a plain closed folder. Educational purpose (do not render as text): An independent safeguarding route could offer age-appropriate information and protection procedures. Preserve the featured person identity, age, hair, clothing, important props and illustration style from the paired reference image. Show a possible supportive conversation, not recovery or a guaranteed outcome.",
+    "original": "artifacts/gbv-complete-refinement/originals/gbv-school-authority-support.png",
+    "variants": [
+      {
+        "file": "public/images/learning/gbv/series/gbv-school-authority-support-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 42562,
+        "sha256": "7b00d0206c33f4b9a4ce648b27e6a9623358cc4057787aef897ce1f7f92ddf0e"
+      },
+      {
+        "file": "public/images/learning/gbv/series/gbv-school-authority-support-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 98002,
+        "sha256": "6709eac4692c1da54c91c30817a71101368a1c9e1c96439e13cd12f3d09582cf"
+      }
+    ]
+  },
+  {
+    "id": "gbv-challenging-norms-situation",
+    "story": "gbv-challenging-norms",
+    "scene": 0,
+    "chapter": 3,
+    "alt": "Fictional editorial illustration. Fictional young adult man aged 20, short natural hair, forest green shirt, with three peers aged 18 to 23. Listens thoughtfully during a mixed-gender youth club discussion at a Rwandan community center, no slogans or signs.",
+    "caption": "A youth discussion can reveal beliefs that confuse jealousy and monitoring with care.",
+    "prompt": "Use case: illustration-story. Production educational illustration for VUGA NDAKUMVA. One 4:3 landscape scene, 1440x1080 composition. Mature polished 2D flat editorial artwork, clean shapes, restrained detail, consistent natural anatomy, Black African characters in contemporary Rwanda-relevant settings. Deep purple, lavender, golden yellow, teal, mint, soft blue. Balanced composition and breathing room. Dignified, thoughtful expressions. No photorealism, childish cartoons, text, numbers, logos, watermark, violence, injuries, abusive acts, threatening figures, private material, forced smiles or promised outcomes. All characters are fictional. Scene: Fictional editorial illustration. Fictional young adult man aged 20, short natural hair, forest green shirt, with three peers aged 18 to 23. Listens thoughtfully during a mixed-gender youth club discussion at a Rwandan community center, no slogans or signs. Educational purpose (do not render as text): A youth discussion can reveal beliefs that confuse jealousy and monitoring with care.",
+    "original": "artifacts/gbv-complete-refinement/originals/gbv-challenging-norms-situation.png",
+    "variants": [
+      {
+        "file": "public/images/learning/gbv/series/gbv-challenging-norms-situation-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 57598,
+        "sha256": "ab33d0a85910a242eb389ff89aaa833ac35fb0e692a684923812abfb3a7fdef6"
+      },
+      {
+        "file": "public/images/learning/gbv/series/gbv-challenging-norms-situation-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 148018,
+        "sha256": "205da990bc90398d24ffa823c341651d7c818760358ed501ed0abddd69adf01b"
+      }
+    ]
+  },
+  {
+    "id": "gbv-challenging-norms-support",
+    "story": "gbv-challenging-norms",
+    "scene": 1,
+    "chapter": 3,
+    "alt": "Fictional editorial illustration. The same fictional young adult man aged 20, short natural hair, forest green shirt, with three peers aged 18 to 23. Same peers discuss respectful relationships around a table, one man gestures with open hands while others listen equally, no personal disclosure, everyday grounded tone.",
+    "caption": "Peers could challenge harmful beliefs respectfully, using fictional examples and no personal disclosures.",
+    "prompt": "Use case: illustration-story. Production educational illustration for VUGA NDAKUMVA. One 4:3 landscape scene, 1440x1080 composition. Mature polished 2D flat editorial artwork, clean shapes, restrained detail, consistent natural anatomy, Black African characters in contemporary Rwanda-relevant settings. Deep purple, lavender, golden yellow, teal, mint, soft blue. Balanced composition and breathing room. Dignified, thoughtful expressions. No photorealism, childish cartoons, text, numbers, logos, watermark, violence, injuries, abusive acts, threatening figures, private material, forced smiles or promised outcomes. All characters are fictional. Scene: Fictional editorial illustration. The same fictional young adult man aged 20, short natural hair, forest green shirt, with three peers aged 18 to 23. Same peers discuss respectful relationships around a table, one man gestures with open hands while others listen equally, no personal disclosure, everyday grounded tone. Educational purpose (do not render as text): Peers could challenge harmful beliefs respectfully, using fictional examples and no personal disclosures. Preserve the featured person identity, age, hair, clothing, important props and illustration style from the paired reference image. Show a possible supportive conversation, not recovery or a guaranteed outcome.",
+    "original": "artifacts/gbv-complete-refinement/originals/gbv-challenging-norms-support.png",
+    "variants": [
+      {
+        "file": "public/images/learning/gbv/series/gbv-challenging-norms-support-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 59234,
+        "sha256": "cb46001c73807fbf554716c682b7fccd3dda6c424959051e4e8cbb44e9b81651"
+      },
+      {
+        "file": "public/images/learning/gbv/series/gbv-challenging-norms-support-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 151242,
+        "sha256": "dbc079480bff8947db7574e4fd5c5fa6e1c374523c65c0636db63a3bb12819ed"
+      }
+    ]
+  },
+  {
+    "id": "gbv-mediation-pressure-situation",
+    "story": "gbv-mediation-pressure",
+    "scene": 0,
+    "chapter": 3,
+    "alt": "Fictional editorial illustration. Fictional adult woman around 40, short braids, cream blouse and terracotta cardigan. Sits thoughtfully with a female community volunteer in a simple community office, a second empty chair in distance suggests choices, no partner or confrontation.",
+    "caption": "A disclosure calls for listening; arranging an immediate joint meeting can create risk.",
+    "prompt": "Use case: illustration-story. Production educational illustration for VUGA NDAKUMVA. One 4:3 landscape scene, 1440x1080 composition. Mature polished 2D flat editorial artwork, clean shapes, restrained detail, consistent natural anatomy, Black African characters in contemporary Rwanda-relevant settings. Deep purple, lavender, golden yellow, teal, mint, soft blue. Balanced composition and breathing room. Dignified, thoughtful expressions. No photorealism, childish cartoons, text, numbers, logos, watermark, violence, injuries, abusive acts, threatening figures, private material, forced smiles or promised outcomes. All characters are fictional. Scene: Fictional editorial illustration. Fictional adult woman around 40, short braids, cream blouse and terracotta cardigan. Sits thoughtfully with a female community volunteer in a simple community office, a second empty chair in distance suggests choices, no partner or confrontation. Educational purpose (do not render as text): A disclosure calls for listening; arranging an immediate joint meeting can create risk.",
+    "original": "artifacts/gbv-complete-refinement/originals/gbv-mediation-pressure-situation.png",
+    "variants": [
+      {
+        "file": "public/images/learning/gbv/series/gbv-mediation-pressure-situation-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 58482,
+        "sha256": "ec830505a40fd20a241efc2b4a410967d5ae29b2a366c87efebceb38af859a22"
+      },
+      {
+        "file": "public/images/learning/gbv/series/gbv-mediation-pressure-situation-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 165958,
+        "sha256": "222286150d880e0e6fe3963b18f01b19aa0da0d75abfb424f2cb4c3e44fb6907"
+      }
+    ]
+  },
+  {
+    "id": "gbv-mediation-pressure-support",
+    "story": "gbv-mediation-pressure",
+    "scene": 1,
+    "chapter": 3,
+    "alt": "Fictional editorial illustration. The same fictional adult woman around 40, short braids, cream blouse and terracotta cardigan. Same volunteer listens privately and respectfully across a small table, offers a plain closed information folder without commanding, no mediation meeting or reconciliation.",
+    "caption": "A volunteer could listen privately and discuss choice-based referral with explained privacy limits.",
+    "prompt": "Use case: illustration-story. Production educational illustration for VUGA NDAKUMVA. One 4:3 landscape scene, 1440x1080 composition. Mature polished 2D flat editorial artwork, clean shapes, restrained detail, consistent natural anatomy, Black African characters in contemporary Rwanda-relevant settings. Deep purple, lavender, golden yellow, teal, mint, soft blue. Balanced composition and breathing room. Dignified, thoughtful expressions. No photorealism, childish cartoons, text, numbers, logos, watermark, violence, injuries, abusive acts, threatening figures, private material, forced smiles or promised outcomes. All characters are fictional. Scene: Fictional editorial illustration. The same fictional adult woman around 40, short braids, cream blouse and terracotta cardigan. Same volunteer listens privately and respectfully across a small table, offers a plain closed information folder without commanding, no mediation meeting or reconciliation. Educational purpose (do not render as text): A volunteer could listen privately and discuss choice-based referral with explained privacy limits. Preserve the featured person identity, age, hair, clothing, important props and illustration style from the paired reference image. Show a possible supportive conversation, not recovery or a guaranteed outcome.",
+    "original": "artifacts/gbv-complete-refinement/originals/gbv-mediation-pressure-support.png",
+    "variants": [
+      {
+        "file": "public/images/learning/gbv/series/gbv-mediation-pressure-support-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 58544,
+        "sha256": "4adb3c8695a6316ab061d1abcd1bb28a9645e849871d42f7af6760ec9a54e902"
+      },
+      {
+        "file": "public/images/learning/gbv/series/gbv-mediation-pressure-support-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 163946,
+        "sha256": "8c138081157ed5d05721f02700b7a53af3dbe0c7085f3d233247ed8e80f65fae"
+      }
+    ]
+  },
+  {
+    "id": "gbv-temporary-worker-situation",
+    "story": "gbv-temporary-worker",
+    "scene": 0,
+    "chapter": 3,
+    "alt": "Fictional editorial illustration. Fictional adult male temporary worker aged 27, close cropped hair, light grey shirt and navy trousers. Sits thoughtfully at a desk in an ordinary small workplace holding a plain contract folder, no coercive contact or readable text.",
+    "caption": "A worker may fear losing income when someone misuses contract authority.",
+    "prompt": "Use case: illustration-story. Production educational illustration for VUGA NDAKUMVA. One 4:3 landscape scene, 1440x1080 composition. Mature polished 2D flat editorial artwork, clean shapes, restrained detail, consistent natural anatomy, Black African characters in contemporary Rwanda-relevant settings. Deep purple, lavender, golden yellow, teal, mint, soft blue. Balanced composition and breathing room. Dignified, thoughtful expressions. No photorealism, childish cartoons, text, numbers, logos, watermark, violence, injuries, abusive acts, threatening figures, private material, forced smiles or promised outcomes. All characters are fictional. Scene: Fictional editorial illustration. Fictional adult male temporary worker aged 27, close cropped hair, light grey shirt and navy trousers. Sits thoughtfully at a desk in an ordinary small workplace holding a plain contract folder, no coercive contact or readable text. Educational purpose (do not render as text): A worker may fear losing income when someone misuses contract authority.",
+    "original": "artifacts/gbv-complete-refinement/originals/gbv-temporary-worker-situation.png",
+    "variants": [
+      {
+        "file": "public/images/learning/gbv/series/gbv-temporary-worker-situation-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 39970,
+        "sha256": "7cc6cd324b3646610a984b6406f884ab1567207e8f4a49c56a35d594a79e6c86"
+      },
+      {
+        "file": "public/images/learning/gbv/series/gbv-temporary-worker-situation-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 102584,
+        "sha256": "6ab74bdd7b430010ff854def6e84056c0fd5f013e4be5148495f58a334d531d5"
+      }
+    ]
+  },
+  {
+    "id": "gbv-temporary-worker-support",
+    "story": "gbv-temporary-worker",
+    "scene": 1,
+    "chapter": 3,
+    "alt": "Fictional editorial illustration. The same fictional adult male temporary worker aged 27, close cropped hair, light grey shirt and navy trousers. Speaks privately with an independent male employment support adviser in a modest accessible office, confidential options not guaranteed job protection.",
+    "caption": "Independent advice could help explain support and reporting options without guaranteeing job protection.",
+    "prompt": "Use case: illustration-story. Production educational illustration for VUGA NDAKUMVA. One 4:3 landscape scene, 1440x1080 composition. Mature polished 2D flat editorial artwork, clean shapes, restrained detail, consistent natural anatomy, Black African characters in contemporary Rwanda-relevant settings. Deep purple, lavender, golden yellow, teal, mint, soft blue. Balanced composition and breathing room. Dignified, thoughtful expressions. No photorealism, childish cartoons, text, numbers, logos, watermark, violence, injuries, abusive acts, threatening figures, private material, forced smiles or promised outcomes. All characters are fictional. Scene: Fictional editorial illustration. The same fictional adult male temporary worker aged 27, close cropped hair, light grey shirt and navy trousers. Speaks privately with an independent male employment support adviser in a modest accessible office, confidential options not guaranteed job protection. Educational purpose (do not render as text): Independent advice could help explain support and reporting options without guaranteeing job protection. Preserve the featured person identity, age, hair, clothing, important props and illustration style from the paired reference image. Show a possible supportive conversation, not recovery or a guaranteed outcome.",
+    "original": "artifacts/gbv-complete-refinement/originals/gbv-temporary-worker-support.png",
+    "variants": [
+      {
+        "file": "public/images/learning/gbv/series/gbv-temporary-worker-support-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 42040,
+        "sha256": "645091b6c9fd3a5f7eaf75e56fdcaf8303449f6eb41903cbf4487b1f37df6977"
+      },
+      {
+        "file": "public/images/learning/gbv/series/gbv-temporary-worker-support-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 110298,
+        "sha256": "1c31a974079b7f4ee22f24c6210b404ee99b888a1ba44d9baa7ea456e0224332"
+      }
+    ]
+  },
+  {
+    "id": "gbv-consent-study-group-situation",
+    "story": "gbv-consent-study-group",
+    "scene": 0,
+    "chapter": 4,
+    "alt": "Fictional illustration of a Black African university student aged 21 with a braided bun and mustard blouse, considering a phone turned away from view at a quiet campus study table beside a closed blue notebook.",
+    "caption": "Pressure to share private photos does not create a freely chosen agreement.",
+    "prompt": "Use case: illustration-story. Production educational illustration for VUGA NDAKUMVA. One 4:3 landscape scene, 1440x1080 composition. Mature polished 2D flat editorial artwork, clean shapes, restrained detail, consistent natural anatomy, Black African characters in contemporary Rwanda-relevant settings. Deep purple, lavender, golden yellow, teal, mint, soft blue. Balanced composition and breathing room. Dignified, thoughtful expressions. No photorealism, childish cartoons, text, numbers, logos, watermark, violence, injuries, abusive acts, threatening figures, private material, forced smiles or promised outcomes. All characters are fictional. Scene: Fictional illustration of a Black African university student aged 21 with a braided bun and mustard blouse, considering a phone turned away from view at a quiet campus study table beside a closed blue notebook. Educational purpose (do not render as text): Pressure to share private photos does not create a freely chosen agreement.",
+    "original": "artifacts/gbv-complete-refinement/originals/gbv-consent-study-group-situation.png",
+    "variants": [
+      {
+        "file": "public/images/learning/gbv/series/gbv-consent-study-group-situation-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 52062,
+        "sha256": "b20aa050404d7f5e73b4870995ca6d2b26735ea63a6338402c5ae8c077def9d8"
+      },
+      {
+        "file": "public/images/learning/gbv/series/gbv-consent-study-group-situation-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 117868,
+        "sha256": "3b0ce5ddea88e5497de026c88a11fb4b893ed3d7928b81098fdba804fe69e901"
+      }
+    ]
+  },
+  {
+    "id": "gbv-consent-study-group-support",
+    "story": "gbv-consent-study-group",
+    "scene": 1,
+    "chapter": 4,
+    "alt": "Fictional illustration of the same student in her mustard blouse and braided bun, with the same blue notebook in a quiet campus room, speaking with a woman safeguarding adviser seated at equal level; the phone is face down.",
+    "caption": "A trusted safeguarding contact could discuss options through a channel the student considers safe.",
+    "prompt": "Use case: illustration-story. Production educational illustration for VUGA NDAKUMVA. One 4:3 landscape scene, 1440x1080 composition. Mature polished 2D flat editorial artwork, clean shapes, restrained detail, consistent natural anatomy, Black African characters in contemporary Rwanda-relevant settings. Deep purple, lavender, golden yellow, teal, mint, soft blue. Balanced composition and breathing room. Dignified, thoughtful expressions. No photorealism, childish cartoons, text, numbers, logos, watermark, violence, injuries, abusive acts, threatening figures, private material, forced smiles or promised outcomes. All characters are fictional. Scene: Fictional illustration of the same student in her mustard blouse and braided bun, with the same blue notebook in a quiet campus room, speaking with a woman safeguarding adviser seated at equal level; the phone is face down. Educational purpose (do not render as text): A trusted safeguarding contact could discuss options through a channel the student considers safe. Preserve the featured person identity, age, hair, clothing, important props and illustration style from the paired reference image. Show a possible supportive conversation, not recovery or a guaranteed outcome.",
+    "original": "artifacts/gbv-complete-refinement/originals/gbv-consent-study-group-support.png",
+    "variants": [
+      {
+        "file": "public/images/learning/gbv/series/gbv-consent-study-group-support-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 45032,
+        "sha256": "dcc199adffcdc1910f4a352e8a622fcc5c2d979bb8ceb8771f87ead13c5bd18d"
+      },
+      {
+        "file": "public/images/learning/gbv/series/gbv-consent-study-group-support-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 110782,
+        "sha256": "4b6c72323ea1a5e7f20a8f13182401ffad78d135000d26f62886cc41c9c2cdf1"
+      }
+    ]
+  },
+  {
+    "id": "gbv-household-restrictions-situation",
+    "story": "gbv-household-restrictions",
+    "scene": 0,
+    "chapter": 5,
+    "alt": "Fictional illustration of a Black African woman around 35 with short twists, a teal cardigan and plum skirt, pausing beside a closed earnings notebook and work bag at a modest home table; no abusive person is shown.",
+    "caption": "Threats and confiscated wages can restrict access to work and everyday necessities.",
+    "prompt": "Use case: illustration-story. Production educational illustration for VUGA NDAKUMVA. One 4:3 landscape scene, 1440x1080 composition. Mature polished 2D flat editorial artwork, clean shapes, restrained detail, consistent natural anatomy, Black African characters in contemporary Rwanda-relevant settings. Deep purple, lavender, golden yellow, teal, mint, soft blue. Balanced composition and breathing room. Dignified, thoughtful expressions. No photorealism, childish cartoons, text, numbers, logos, watermark, violence, injuries, abusive acts, threatening figures, private material, forced smiles or promised outcomes. All characters are fictional. Scene: Fictional illustration of a Black African woman around 35 with short twists, a teal cardigan and plum skirt, pausing beside a closed earnings notebook and work bag at a modest home table; no abusive person is shown. Educational purpose (do not render as text): Threats and confiscated wages can restrict access to work and everyday necessities.",
+    "original": "artifacts/gbv-complete-refinement/originals/gbv-household-restrictions-situation.png",
+    "variants": [
+      {
+        "file": "public/images/learning/gbv/series/gbv-household-restrictions-situation-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 47546,
+        "sha256": "199552aac18f912d5e0e2fa2a6edccfe4f7a670d63c325a347afe12704181f08"
+      },
+      {
+        "file": "public/images/learning/gbv/series/gbv-household-restrictions-situation-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 127004,
+        "sha256": "414186ab69f39d92641df1b16f5e9d18520d63106b2f5ae0ff7b2e7bec90c6fe"
+      }
+    ]
+  },
+  {
+    "id": "gbv-household-restrictions-support",
+    "story": "gbv-household-restrictions",
+    "scene": 1,
+    "chapter": 5,
+    "alt": "Fictional illustration of the same woman with short twists, teal cardigan, plum skirt and work bag, considering options with a woman support worker in a quiet advice room, her earnings notebook closed beside her.",
+    "caption": "A private conversation could explore the person's needs and trusted assistance without demanding confrontation.",
+    "prompt": "Use case: illustration-story. Production educational illustration for VUGA NDAKUMVA. One 4:3 landscape scene, 1440x1080 composition. Mature polished 2D flat editorial artwork, clean shapes, restrained detail, consistent natural anatomy, Black African characters in contemporary Rwanda-relevant settings. Deep purple, lavender, golden yellow, teal, mint, soft blue. Balanced composition and breathing room. Dignified, thoughtful expressions. No photorealism, childish cartoons, text, numbers, logos, watermark, violence, injuries, abusive acts, threatening figures, private material, forced smiles or promised outcomes. All characters are fictional. Scene: Fictional illustration of the same woman with short twists, teal cardigan, plum skirt and work bag, considering options with a woman support worker in a quiet advice room, her earnings notebook closed beside her. Educational purpose (do not render as text): A private conversation could explore the person's needs and trusted assistance without demanding confrontation. Preserve the featured person identity, age, hair, clothing, important props and illustration style from the paired reference image. Show a possible supportive conversation, not recovery or a guaranteed outcome.",
+    "original": "artifacts/gbv-complete-refinement/originals/gbv-household-restrictions-support.png",
+    "variants": [
+      {
+        "file": "public/images/learning/gbv/series/gbv-household-restrictions-support-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 51676,
+        "sha256": "81c8f8427b207d5ec01e19678cf1cd7c3e82971f5166bd68c2fe4f97b8a38e77"
+      },
+      {
+        "file": "public/images/learning/gbv/series/gbv-household-restrictions-support-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 141690,
+        "sha256": "8207dc0337ae435e8ae2783f94b3a5de8b2a48d9ee142c6cb14986fd1596b1c6"
+      }
+    ]
+  },
+  {
+    "id": "gbv-placement-support-situation",
+    "story": "gbv-placement-support",
+    "scene": 0,
+    "chapter": 6,
+    "alt": "Fictional illustration of a Black African adult student aged 22 with short natural curls, a pale blue shirt and dark trousers, considering a plain placement folder at a quiet workplace desk; no supervisor or abusive act is depicted.",
+    "caption": "Control over an internship assessment can be misused to pressure a student.",
+    "prompt": "Use case: illustration-story. Production educational illustration for VUGA NDAKUMVA. One 4:3 landscape scene, 1440x1080 composition. Mature polished 2D flat editorial artwork, clean shapes, restrained detail, consistent natural anatomy, Black African characters in contemporary Rwanda-relevant settings. Deep purple, lavender, golden yellow, teal, mint, soft blue. Balanced composition and breathing room. Dignified, thoughtful expressions. No photorealism, childish cartoons, text, numbers, logos, watermark, violence, injuries, abusive acts, threatening figures, private material, forced smiles or promised outcomes. All characters are fictional. Scene: Fictional illustration of a Black African adult student aged 22 with short natural curls, a pale blue shirt and dark trousers, considering a plain placement folder at a quiet workplace desk; no supervisor or abusive act is depicted. Educational purpose (do not render as text): Control over an internship assessment can be misused to pressure a student.",
+    "original": "artifacts/gbv-complete-refinement/originals/gbv-placement-support-situation.png",
+    "variants": [
+      {
+        "file": "public/images/learning/gbv/series/gbv-placement-support-situation-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 38698,
+        "sha256": "3b645e86fd19155c9e11760ca1ed49fc3bd3916b60f19ea5b7d9281f595b0b56"
+      },
+      {
+        "file": "public/images/learning/gbv/series/gbv-placement-support-situation-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 93002,
+        "sha256": "655bf978302b7ef7caf98b4f159d34e55586247a9386e57edc8e8daab7cc8f3b"
+      }
+    ]
+  },
+  {
+    "id": "gbv-placement-support-support",
+    "story": "gbv-placement-support",
+    "scene": 1,
+    "chapter": 6,
+    "alt": "Fictional illustration of the same adult student with short curls, pale blue shirt and placement folder, speaking with an independent woman adviser in a private office, both seated at equal height with space between them.",
+    "caption": "Independent support could explain options and retaliation concerns without expecting the student to negotiate with the supervisor.",
+    "prompt": "Use case: illustration-story. Production educational illustration for VUGA NDAKUMVA. One 4:3 landscape scene, 1440x1080 composition. Mature polished 2D flat editorial artwork, clean shapes, restrained detail, consistent natural anatomy, Black African characters in contemporary Rwanda-relevant settings. Deep purple, lavender, golden yellow, teal, mint, soft blue. Balanced composition and breathing room. Dignified, thoughtful expressions. No photorealism, childish cartoons, text, numbers, logos, watermark, violence, injuries, abusive acts, threatening figures, private material, forced smiles or promised outcomes. All characters are fictional. Scene: Fictional illustration of the same adult student with short curls, pale blue shirt and placement folder, speaking with an independent woman adviser in a private office, both seated at equal height with space between them. Educational purpose (do not render as text): Independent support could explain options and retaliation concerns without expecting the student to negotiate with the supervisor. Preserve the featured person identity, age, hair, clothing, important props and illustration style from the paired reference image. Show a possible supportive conversation, not recovery or a guaranteed outcome.",
+    "original": "artifacts/gbv-complete-refinement/originals/gbv-placement-support-support.png",
+    "variants": [
+      {
+        "file": "public/images/learning/gbv/series/gbv-placement-support-support-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 45812,
+        "sha256": "88fb24f7517f507387ffa59a5a7fd91ce4e0245161c5019c7a56188534cdf01e"
+      },
+      {
+        "file": "public/images/learning/gbv/series/gbv-placement-support-support-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 113364,
+        "sha256": "3f131080403f23c070f1a58b6ee6fff7d1756a8b709ccaebce12583cb70d6c9a"
+      }
+    ]
+  },
+  {
+    "id": "gbv-workplace-humiliation-situation",
+    "story": "gbv-workplace-humiliation",
+    "scene": 0,
+    "chapter": 7,
+    "alt": "Fictional illustration of a Black African woman around 32 with shoulder-length braids and a lavender blouse, sitting thoughtfully at an empty workplace meeting table with a closed notebook; no humiliation is reenacted.",
+    "caption": "Repeated gender-based insults and threats can affect an employee's freedom to raise concerns.",
+    "prompt": "Use case: illustration-story. Production educational illustration for VUGA NDAKUMVA. One 4:3 landscape scene, 1440x1080 composition. Mature polished 2D flat editorial artwork, clean shapes, restrained detail, consistent natural anatomy, Black African characters in contemporary Rwanda-relevant settings. Deep purple, lavender, golden yellow, teal, mint, soft blue. Balanced composition and breathing room. Dignified, thoughtful expressions. No photorealism, childish cartoons, text, numbers, logos, watermark, violence, injuries, abusive acts, threatening figures, private material, forced smiles or promised outcomes. All characters are fictional. Scene: Fictional illustration of a Black African woman around 32 with shoulder-length braids and a lavender blouse, sitting thoughtfully at an empty workplace meeting table with a closed notebook; no humiliation is reenacted. Educational purpose (do not render as text): Repeated gender-based insults and threats can affect an employee's freedom to raise concerns.",
+    "original": "artifacts/gbv-complete-refinement/originals/gbv-workplace-humiliation-situation.png",
+    "variants": [
+      {
+        "file": "public/images/learning/gbv/series/gbv-workplace-humiliation-situation-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 38784,
+        "sha256": "bab0a24a2d6649ef6a1beeff6daf7f2a813eb9432241e1561d1989ffc719386d"
+      },
+      {
+        "file": "public/images/learning/gbv/series/gbv-workplace-humiliation-situation-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 100674,
+        "sha256": "9a30bccb5b8a7ef02562ab779b607bb7436e661e2d6b6f42955334962d32d92c"
+      }
+    ]
+  },
+  {
+    "id": "gbv-workplace-humiliation-support",
+    "story": "gbv-workplace-humiliation",
+    "scene": 1,
+    "chapter": 7,
+    "alt": "Fictional illustration of the same woman with shoulder-length braids, lavender blouse and closed notebook, speaking privately with a woman colleague in the same quiet meeting room; the colleague listens without recording or taking over.",
+    "caption": "A colleague could ask privately whether support is welcome and offer information without promising that reporting is risk-free.",
+    "prompt": "Use case: illustration-story. Production educational illustration for VUGA NDAKUMVA. One 4:3 landscape scene, 1440x1080 composition. Mature polished 2D flat editorial artwork, clean shapes, restrained detail, consistent natural anatomy, Black African characters in contemporary Rwanda-relevant settings. Deep purple, lavender, golden yellow, teal, mint, soft blue. Balanced composition and breathing room. Dignified, thoughtful expressions. No photorealism, childish cartoons, text, numbers, logos, watermark, violence, injuries, abusive acts, threatening figures, private material, forced smiles or promised outcomes. All characters are fictional. Scene: Fictional illustration of the same woman with shoulder-length braids, lavender blouse and closed notebook, speaking privately with a woman colleague in the same quiet meeting room; the colleague listens without recording or taking over. Educational purpose (do not render as text): A colleague could ask privately whether support is welcome and offer information without promising that reporting is risk-free. Preserve the featured person identity, age, hair, clothing, important props and illustration style from the paired reference image. Show a possible supportive conversation, not recovery or a guaranteed outcome.",
+    "original": "artifacts/gbv-complete-refinement/originals/gbv-workplace-humiliation-support.png",
+    "variants": [
+      {
+        "file": "public/images/learning/gbv/series/gbv-workplace-humiliation-support-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 40144,
+        "sha256": "61f274ebc6100ec8806fd61983d215097c4d3db81a75cf4db78e4710c3266c25"
+      },
+      {
+        "file": "public/images/learning/gbv/series/gbv-workplace-humiliation-support-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 98314,
+        "sha256": "d1edce5e99e0aa482b50ca8771961f845ef859ee191326dbc50646e566f31846"
+      }
+    ]
+  },
+  {
+    "id": "gbv-mobile-money-choice-situation",
+    "story": "gbv-mobile-money-choice",
+    "scene": 0,
+    "chapter": 8,
+    "alt": "Fictional illustration of a Black African market trader around 38 with a braided bun and a rust blouse, pausing with her phone screen turned away beside a closed notebook in a quiet room by a produce stall.",
+    "caption": "Taking mobile-money earnings through threats can restrict essential funds and business choices.",
+    "prompt": "Use case: illustration-story. Production educational illustration for VUGA NDAKUMVA. One 4:3 landscape scene, 1440x1080 composition. Mature polished 2D flat editorial artwork, clean shapes, restrained detail, consistent natural anatomy, Black African characters in contemporary Rwanda-relevant settings. Deep purple, lavender, golden yellow, teal, mint, soft blue. Balanced composition and breathing room. Dignified, thoughtful expressions. No photorealism, childish cartoons, text, numbers, logos, watermark, violence, injuries, abusive acts, threatening figures, private material, forced smiles or promised outcomes. All characters are fictional. Scene: Fictional illustration of a Black African market trader around 38 with a braided bun and a rust blouse, pausing with her phone screen turned away beside a closed notebook in a quiet room by a produce stall. Educational purpose (do not render as text): Taking mobile-money earnings through threats can restrict essential funds and business choices.",
+    "original": "artifacts/gbv-complete-refinement/originals/gbv-mobile-money-choice-situation.png",
+    "variants": [
+      {
+        "file": "public/images/learning/gbv/series/gbv-mobile-money-choice-situation-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 49084,
+        "sha256": "50ed43715c7877ec7bc699495c96e87325d2a17786ada53b8bb0b5ae1f21af63"
+      },
+      {
+        "file": "public/images/learning/gbv/series/gbv-mobile-money-choice-situation-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 122504,
+        "sha256": "39c8a8b3989b6b615193983232bf064e7a4bb4ba8dd5766e0527f2d553eed219"
+      }
+    ]
+  },
+  {
+    "id": "gbv-mobile-money-choice-support",
+    "story": "gbv-mobile-money-choice",
+    "scene": 1,
+    "chapter": 8,
+    "alt": "Fictional illustration of the same trader in her rust blouse with braided bun and closed notebook, speaking with a woman practical-support adviser in the same quiet room by the produce stall; the phone remains face down.",
+    "caption": "A supporter could ask about safety and options without instructing the person to change a PIN on a monitored phone.",
+    "prompt": "Use case: illustration-story. Production educational illustration for VUGA NDAKUMVA. One 4:3 landscape scene, 1440x1080 composition. Mature polished 2D flat editorial artwork, clean shapes, restrained detail, consistent natural anatomy, Black African characters in contemporary Rwanda-relevant settings. Deep purple, lavender, golden yellow, teal, mint, soft blue. Balanced composition and breathing room. Dignified, thoughtful expressions. No photorealism, childish cartoons, text, numbers, logos, watermark, violence, injuries, abusive acts, threatening figures, private material, forced smiles or promised outcomes. All characters are fictional. Scene: Fictional illustration of the same trader in her rust blouse with braided bun and closed notebook, speaking with a woman practical-support adviser in the same quiet room by the produce stall; the phone remains face down. Educational purpose (do not render as text): A supporter could ask about safety and options without instructing the person to change a PIN on a monitored phone. Preserve the featured person identity, age, hair, clothing, important props and illustration style from the paired reference image. Show a possible supportive conversation, not recovery or a guaranteed outcome.",
+    "original": "artifacts/gbv-complete-refinement/originals/gbv-mobile-money-choice-support.png",
+    "variants": [
+      {
+        "file": "public/images/learning/gbv/series/gbv-mobile-money-choice-support-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 54454,
+        "sha256": "a17134fd71e63f00f08fd23393f3666dcb0819e280c2fde6c0c1ab331043dda5"
+      },
+      {
+        "file": "public/images/learning/gbv/series/gbv-mobile-money-choice-support-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 147698,
+        "sha256": "700773fb3982d252bfcdedcb1e2ac08d45a5aec3a5a5ec7444f5916a2339dca4"
+      }
+    ]
+  },
+  {
+    "id": "gbv-campus-group-support-situation",
+    "story": "gbv-campus-group-support",
+    "scene": 0,
+    "chapter": 9,
+    "alt": "Fictional illustration of a Black African university student aged 20 with a natural hair puff, sage shirt and navy backpack, sitting thoughtfully on a campus bench with a phone turned away; no messages or private material are shown.",
+    "caption": "Harassment can spread when people repeat harmful material across group chats.",
+    "prompt": "Use case: illustration-story. Production educational illustration for VUGA NDAKUMVA. One 4:3 landscape scene, 1440x1080 composition. Mature polished 2D flat editorial artwork, clean shapes, restrained detail, consistent natural anatomy, Black African characters in contemporary Rwanda-relevant settings. Deep purple, lavender, golden yellow, teal, mint, soft blue. Balanced composition and breathing room. Dignified, thoughtful expressions. No photorealism, childish cartoons, text, numbers, logos, watermark, violence, injuries, abusive acts, threatening figures, private material, forced smiles or promised outcomes. All characters are fictional. Scene: Fictional illustration of a Black African university student aged 20 with a natural hair puff, sage shirt and navy backpack, sitting thoughtfully on a campus bench with a phone turned away; no messages or private material are shown. Educational purpose (do not render as text): Harassment can spread when people repeat harmful material across group chats.",
+    "original": "artifacts/gbv-complete-refinement/originals/gbv-campus-group-support-situation.png",
+    "variants": [
+      {
+        "file": "public/images/learning/gbv/series/gbv-campus-group-support-situation-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 66764,
+        "sha256": "9e5f6a0e8789fb041d54c41e1c20f23f7044bd50aea9aa5b77c27768d376fef5"
+      },
+      {
+        "file": "public/images/learning/gbv/series/gbv-campus-group-support-situation-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 169130,
+        "sha256": "3df1a9c736de5902168445036752ce0ee7fe62a3fdc3c4cbcc100cacd99e5c0c"
+      }
+    ]
+  },
+  {
+    "id": "gbv-campus-group-support-support",
+    "story": "gbv-campus-group-support",
+    "scene": 1,
+    "chapter": 9,
+    "alt": "Fictional illustration of the same student with natural hair puff, sage shirt and navy backpack, speaking with a woman student adviser in a quiet campus room, her phone put away and no screenshots being collected.",
+    "caption": "A trusted adviser could discuss the student's choices and available options without circulating the harmful material.",
+    "prompt": "Use case: illustration-story. Production educational illustration for VUGA NDAKUMVA. One 4:3 landscape scene, 1440x1080 composition. Mature polished 2D flat editorial artwork, clean shapes, restrained detail, consistent natural anatomy, Black African characters in contemporary Rwanda-relevant settings. Deep purple, lavender, golden yellow, teal, mint, soft blue. Balanced composition and breathing room. Dignified, thoughtful expressions. No photorealism, childish cartoons, text, numbers, logos, watermark, violence, injuries, abusive acts, threatening figures, private material, forced smiles or promised outcomes. All characters are fictional. Scene: Fictional illustration of the same student with natural hair puff, sage shirt and navy backpack, speaking with a woman student adviser in a quiet campus room, her phone put away and no screenshots being collected. Educational purpose (do not render as text): A trusted adviser could discuss the student's choices and available options without circulating the harmful material. Preserve the featured person identity, age, hair, clothing, important props and illustration style from the paired reference image. Show a possible supportive conversation, not recovery or a guaranteed outcome.",
+    "original": "artifacts/gbv-complete-refinement/originals/gbv-campus-group-support-support.png",
+    "variants": [
+      {
+        "file": "public/images/learning/gbv/series/gbv-campus-group-support-support-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 47588,
+        "sha256": "8c88f24860613d3cd942f118de974fcc1cbfd394c7dd66411967bf92d9885b37"
+      },
+      {
+        "file": "public/images/learning/gbv/series/gbv-campus-group-support-support-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 122222,
+        "sha256": "167f8e5fc54826ecee236c123514675f74233375839cef2d1168cb8b6d424dea"
+      }
+    ]
+  },
+  {
+    "id": "gbv-secondary-school-support-situation",
+    "story": "gbv-secondary-school-support",
+    "scene": 0,
+    "chapter": 10,
+    "alt": "Fictional non-graphic illustration of a Black African adolescent aged about 16 with short natural hair, a blue school sweater and a closed schoolbook, sitting thoughtfully in a school welfare room with a phone face down; no suspected offender is depicted.",
+    "caption": "Private messages and promised marks can raise concerns about power misuse and grooming.",
+    "prompt": "Use case: illustration-story. Production educational illustration for VUGA NDAKUMVA. One 4:3 landscape scene, 1440x1080 composition. Mature polished 2D flat editorial artwork, clean shapes, restrained detail, consistent natural anatomy, Black African characters in contemporary Rwanda-relevant settings. Deep purple, lavender, golden yellow, teal, mint, soft blue. Balanced composition and breathing room. Dignified, thoughtful expressions. No photorealism, childish cartoons, text, numbers, logos, watermark, violence, injuries, abusive acts, threatening figures, private material, forced smiles or promised outcomes. All characters are fictional. Scene: Fictional non-graphic illustration of a Black African adolescent aged about 16 with short natural hair, a blue school sweater and a closed schoolbook, sitting thoughtfully in a school welfare room with a phone face down; no suspected offender is depicted. Educational purpose (do not render as text): Private messages and promised marks can raise concerns about power misuse and grooming.",
+    "original": "artifacts/gbv-complete-refinement/originals/gbv-secondary-school-support-situation.png",
+    "variants": [
+      {
+        "file": "public/images/learning/gbv/series/gbv-secondary-school-support-situation-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 42268,
+        "sha256": "4aa683d7997aa8d3aa169bad1664eeb857ad8303a184257886c44331826ba871"
+      },
+      {
+        "file": "public/images/learning/gbv/series/gbv-secondary-school-support-situation-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 119504,
+        "sha256": "5182864ef3dd53714ffc2def5aa5f35df6c9d3fef0f8521615e71ea423cd3a3e"
+      }
+    ]
+  },
+  {
+    "id": "gbv-secondary-school-support-support",
+    "story": "gbv-secondary-school-support",
+    "scene": 1,
+    "chapter": 10,
+    "alt": "Fictional non-graphic illustration of the same adolescent with short natural hair, blue school sweater and closed schoolbook, in the same welfare room, speaking with a woman safeguarding contact seated at equal eye level and respectful distance.",
+    "caption": "A trained safeguarding contact could listen without blame and explain appropriate next steps while protecting privacy.",
+    "prompt": "Use case: illustration-story. Production educational illustration for VUGA NDAKUMVA. One 4:3 landscape scene, 1440x1080 composition. Mature polished 2D flat editorial artwork, clean shapes, restrained detail, consistent natural anatomy, Black African characters in contemporary Rwanda-relevant settings. Deep purple, lavender, golden yellow, teal, mint, soft blue. Balanced composition and breathing room. Dignified, thoughtful expressions. No photorealism, childish cartoons, text, numbers, logos, watermark, violence, injuries, abusive acts, threatening figures, private material, forced smiles or promised outcomes. All characters are fictional. Scene: Fictional non-graphic illustration of the same adolescent with short natural hair, blue school sweater and closed schoolbook, in the same welfare room, speaking with a woman safeguarding contact seated at equal eye level and respectful distance. Educational purpose (do not render as text): A trained safeguarding contact could listen without blame and explain appropriate next steps while protecting privacy. Preserve the featured person identity, age, hair, clothing, important props and illustration style from the paired reference image. Show a possible supportive conversation, not recovery or a guaranteed outcome.",
+    "original": "artifacts/gbv-complete-refinement/originals/gbv-secondary-school-support-support.png",
+    "variants": [
+      {
+        "file": "public/images/learning/gbv/series/gbv-secondary-school-support-support-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 43184,
+        "sha256": "0ea5165297dc8c8dee2dacf92f1ba2f49a992b95f14543bf81c53ba64946057b"
+      },
+      {
+        "file": "public/images/learning/gbv/series/gbv-secondary-school-support-support-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 116770,
+        "sha256": "d53bf253bf3c53e0b37891a13ea113328709216e8196acdb684a9d8726c26d91"
+      }
+    ]
+  }
+]

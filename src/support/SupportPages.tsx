@@ -262,7 +262,15 @@ export function TopicPage({
       </section>
       <nav className="support-topic-jumps" aria-label="On this page">
         <span>ON THIS PAGE</span>
-        {chapters && <a href="#gbv-chapters">Chapters</a>}
+        {chapters && (
+          <a
+            href={
+              id === "alcohol-and-drugs" ? "#alcohol-chapters" : "#gbv-chapters"
+            }
+          >
+            Chapters
+          </a>
+        )}
         <a href="#understanding">Understanding</a>
         <a href="#support-options">Support options</a>
         <a href="#official-resources">Official resources</a>
@@ -360,7 +368,7 @@ export function TopicPage({
 
 export function SupportPage() {
   return (
-    <div className="support-page">
+    <div className="support-page support-directory">
       <header className="support-title">
         <span className="support-eyebrow">A CLEARER WAY FORWARD</span>
         <h1>

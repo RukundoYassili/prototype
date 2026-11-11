@@ -293,6 +293,17 @@ function Diagram({ diagram }: { diagram: LearningDiagram }) {
         <span>{diagram.note}</span>
       </p>
       <Explanation content={diagram} title={diagram.title} />
+      {diagram.sources && (
+        <p className="lv-diagram-sources">
+          Source context:{" "}
+          {diagram.sources.map((source, index) => (
+            <span key={source.url}>
+              {index > 0 && " · "}
+              <a href={source.url}>{source.label}</a>
+            </span>
+          ))}
+        </p>
+      )}
     </figure>
   );
 }

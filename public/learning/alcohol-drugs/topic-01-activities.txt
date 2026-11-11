@@ -1,0 +1,14 @@
+What Are Alcohol and Drugs?
+Optional learning activities — educational draft
+Nothing is submitted. You may skip any activity.
+
+Interactive learning: choose and learn
+These are website interaction scripts presented in readable PDF form. Users will tap an option and receive feedback in the eventual application. No answer will be treated as a diagnosis; no personal information is requested.
+
+Activity 1 — Which statement is accurate? Question: Which sentence best explains alcohol? A. Alcohol is harmless if it is sold legally. B. Alcohol contains ethanol, which can affect the brain and cause harm. C. Alcohol can only harm someone after many years. Feedback: B is correct. Alcohol is psychoactive and toxic. Legal availability does not remove risks, and both immediate and long-term harms are possible. [1]
+
+Activity 2 — A friend offers a pill Fictional situation: A friend offers you a medication prescribed to them, saying it will help you relax. What is a safer response? A. Take it because it was prescribed by a doctor. B. Refuse the shared medication and seek healthcare advice if needed. C. Mix it with a drink to make it more effective. Feedback: B is the safer response. A prescription is individualized. Mixing sedatives with alcohol or other substances may be especially dangerous. Do not take another person’s medicine.
+
+Activity 3 — Respond to peer pressure Fictional situation: Friends pressure a student to drink at a gathering. Which response could help? A. Join in to avoid embarrassment. B. State a boundary, suggest another activity, and seek support if needed. C. Stay silent because nobody should ever disagree with friends. Feedback: B supports personal choice without judgment. Leaving an uncomfortable situation or seeking help from a safe person is also reasonable.
+
+Activity 4 — Is it a diagnosis? Question: Can a quiz on this website diagnose a substance use disorder? A. Yes, one answer is enough. B. No. Educational activities help learning; clinical assessment requires qualified care. Feedback: B is correct. This programme teaches health literacy. It does not diagnose, prescribe medication or replace a professional assessment. Design note: feedback should be delivered after each choice. Users can retry, skip, or read the answer. Avoid streaks, scores or badges that reward disclosure of sensitive substance use.

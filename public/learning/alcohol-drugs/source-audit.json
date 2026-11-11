@@ -1,0 +1,664 @@
+{
+  "reviewedOn": "2026-11-11",
+  "clinicalApproval": false,
+  "sources": [
+    {
+      "topic": 1,
+      "pages": 11,
+      "sections": 15,
+      "references": 6,
+      "tables": [
+        {
+          "page": 4,
+          "columns": [
+            65,
+            160,
+            292,
+            530
+          ],
+          "sourceText": "Group Examples Possible effects or concerns Alcohol Beer, wine, spirits Impaired coordination and judgment; poisoning and longer-term disease risk. Stimulants Cocaine; amphetamine-type Increased alertness; possible agitation, cardiovascular stimulants risks and sleep disturbance. Opioids Some pain medicines; Pain relief or sedation; overdose can dangerously slow heroin breathing. Sedatives Some prescribed sleep or Drowsiness, impaired coordination; dangerous anxiety medicines interaction with alcohol or opioids. Cannabis Cannabis products Changes in attention, perception and memory; risks vary with age and context. Nicotine / tobacco Cigarettes and other Dependence and important health risks; delivery nicotine products products differ. Inhalants Misused glues, solvents or Potentially severe toxic effects, including sudden aerosols medical emergencies.",
+          "table": {
+            "type": "table",
+            "headers": [
+              "Group",
+              "Examples",
+              "Possible effects or concerns"
+            ],
+            "rows": [
+              [
+                "Alcohol",
+                "Beer, wine, spirits",
+                "Impaired coordination and judgment; poisoning and longer-term disease risk."
+              ],
+              [
+                "Stimulants",
+                "Cocaine; amphetamine-type stimulants",
+                "Increased alertness; possible agitation, cardiovascular risks and sleep disturbance."
+              ],
+              [
+                "Opioids",
+                "Some pain medicines; heroin",
+                "Pain relief or sedation; overdose can dangerously slow breathing."
+              ],
+              [
+                "Sedatives",
+                "Some prescribed sleep or anxiety medicines",
+                "Drowsiness, impaired coordination; dangerous interaction with alcohol or opioids."
+              ],
+              [
+                "Cannabis",
+                "Cannabis products",
+                "Changes in attention, perception and memory; risks vary with age and context."
+              ],
+              [
+                "Nicotine / tobacco",
+                "Cigarettes and other nicotine products",
+                "Dependence and important health risks; delivery products differ."
+              ],
+              [
+                "Inhalants",
+                "Misused glues, solvents or aerosols",
+                "Potentially severe toxic effects, including sudden medical emergencies."
+              ]
+            ]
+          },
+          "allCharactersPreserved": true
+        },
+        {
+          "page": 5,
+          "columns": [
+            65,
+            200,
+            530
+          ],
+          "sourceText": "Term What it means Substance use A person consumes a substance. This alone does not establish dependence or a medical diagnosis. Harmful or risky use Use that increases the chance of injury or contributes to health, social or other harm. Harm may occur without dependence. Substance use disorder A recognized health condition involving a problematic pattern of use, assessed by qualified professionals using established criteria.",
+          "table": {
+            "type": "table",
+            "headers": [
+              "Term",
+              "What it means"
+            ],
+            "rows": [
+              [
+                "Substance use",
+                "A person consumes a substance. This alone does not establish dependence or a medical diagnosis."
+              ],
+              [
+                "Harmful or risky use",
+                "Use that increases the chance of injury or contributes to health, social or other harm. Harm may occur without dependence."
+              ],
+              [
+                "Substance use disorder",
+                "A recognized health condition involving a problematic pattern of use, assessed by qualified professionals using established criteria."
+              ]
+            ]
+          },
+          "allCharactersPreserved": true
+        },
+        {
+          "page": 6,
+          "columns": [
+            65,
+            255,
+            530
+          ],
+          "sourceText": "Common statement Evidence-informed response “Alcohol is not a drug.” Alcohol is a psychoactive substance that affects the brain and body. [1,2] “Only illegal drugs can be harmful.” Legal substances and prescription medicines can also cause harm when used unsafely. [2,3] “If someone has no addiction, their use is Injuries, poisoning and health risks can occur without harmless.” dependence. [1] “Everyone who tries a substance becomes Not all use leads to a disorder; risk varies and early support can addicted.” matter. [2,4] “A person with a disorder cannot recover.” Evidence-based treatment and recovery support are available. [4]",
+          "table": {
+            "type": "table",
+            "headers": [
+              "Common statement",
+              "Evidence-informed response"
+            ],
+            "rows": [
+              [
+                "“Alcohol is not a drug.”",
+                "Alcohol is a psychoactive substance that affects the brain and body. [1,2]"
+              ],
+              [
+                "“Only illegal drugs can be harmful.”",
+                "Legal substances and prescription medicines can also cause harm when used unsafely. [2,3]"
+              ],
+              [
+                "“If someone has no addiction, their use is harmless.”",
+                "Injuries, poisoning and health risks can occur without dependence. [1]"
+              ],
+              [
+                "“Everyone who tries a substance becomes addicted.”",
+                "Not all use leads to a disorder; risk varies and early support can matter. [2,4]"
+              ],
+              [
+                "“A person with a disorder cannot recover.”",
+                "Evidence-based treatment and recovery support are available. [4]"
+              ]
+            ]
+          },
+          "allCharactersPreserved": true
+        },
+        {
+          "page": 10,
+          "columns": [
+            65,
+            187,
+            530
+          ],
+          "sourceText": "Content element User experience / accessibility requirement Start screen Title, 2-sentence introduction, estimated duration, skip to help. Core lesson Short sections with clear headings; one main idea at a time. Optional visual Simple diagram of “substance → brain/body effects → possible risks”; meaningful alt text. Audio Professional narration plus downloadable transcript; playback not automatic. Scenario choices Large, labeled tap targets; selectable by keyboard; feedback communicated to screen readers. Feedback Explain why an option is safer or more accurate; no shame or scoring of personal disclosure. Supporting evidence Source/date links in a “Learn more” area; visible editorial review date. Low-data mode All essential information accessible as text without downloading video. Privacy Anonymous browsing by default; no personal-use history gathered by lesson activities.",
+          "table": {
+            "type": "table",
+            "headers": [
+              "Content element",
+              "User experience / accessibility requirement"
+            ],
+            "rows": [
+              [
+                "Start screen",
+                "Title, 2-sentence introduction, estimated duration, skip to help."
+              ],
+              [
+                "Core lesson",
+                "Short sections with clear headings; one main idea at a time."
+              ],
+              [
+                "Optional visual",
+                "Simple diagram of “substance → brain/body effects → possible risks”; meaningful alt text."
+              ],
+              [
+                "Audio",
+                "Professional narration plus downloadable transcript; playback not automatic."
+              ],
+              [
+                "Scenario choices",
+                "Large, labeled tap targets; selectable by keyboard; feedback communicated to screen readers."
+              ],
+              [
+                "Feedback",
+                "Explain why an option is safer or more accurate; no shame or scoring of personal disclosure."
+              ],
+              [
+                "Supporting evidence",
+                "Source/date links in a “Learn more” area; visible editorial review date."
+              ],
+              [
+                "Low-data mode",
+                "All essential information accessible as text without downloading video."
+              ],
+              [
+                "Privacy",
+                "Anonymous browsing by default; no personal-use history gathered by lesson activities."
+              ]
+            ]
+          },
+          "allCharactersPreserved": true
+        }
+      ],
+      "orderedSourcePreserved": true,
+      "independentPdfCoverage": true,
+      "sha256": "c3954cba5585a3a80a36c0dc9d39b655863a0abf150ead3728c78231374e2a91",
+      "filename": "Alcohol_Drugs_Category_01_Topic_01_What_Are_Alcohol_and_Drugs.pdf"
+    },
+    {
+      "topic": 2,
+      "pages": 12,
+      "sections": 11,
+      "references": 8,
+      "tables": [
+        {
+          "page": 4,
+          "columns": null,
+          "sourceText": "Brain function Plain-language explanation Judgment and self-control Helps a person consider consequences, resist impulses and plan actions. Memory and learning Helps encode experiences and remember new information. Coordination Helps regulate movement and balance. Reward and motivation Helps us learn which actions are important and worth repeating. Alertness and breathing control Helps regulate wakefulness and essential automatic functions.",
+          "table": {
+            "type": "table",
+            "headers": [
+              "Brain function",
+              "Plain-language explanation"
+            ],
+            "rows": [
+              [
+                "Judgment and self-control",
+                "Helps a person consider consequences, resist impulses and plan actions."
+              ],
+              [
+                "Memory and learning",
+                "Helps encode experiences and remember new information."
+              ],
+              [
+                "Coordination",
+                "Helps regulate movement and balance."
+              ],
+              [
+                "Reward and motivation",
+                "Helps us learn which actions are important and worth repeating."
+              ],
+              [
+                "Alertness and breathing control",
+                "Helps regulate wakefulness and essential automatic functions."
+              ]
+            ]
+          },
+          "allCharactersPreserved": true
+        },
+        {
+          "page": 5,
+          "columns": null,
+          "sourceText": "System Potential effects or health concerns Brain and nerves Impaired attention, memory, motor coordination; long-term heavy use can damage nervous tissue. Liver and digestion Risk of liver disease and digestive or pancreatic conditions. Heart and circulation High blood pressure, irregular heart rhythm and other cardiovascular conditions. Cancer risk Alcohol increases risk for several cancers, including breast, liver and colorectal cancers. Relationships and safety Injury, interpersonal harm, road crashes, school or work difficulties.",
+          "table": {
+            "type": "table",
+            "headers": [
+              "System",
+              "Potential effects or health concerns"
+            ],
+            "rows": [
+              [
+                "Brain and nerves",
+                "Impaired attention, memory, motor coordination; long-term heavy use can damage nervous tissue."
+              ],
+              [
+                "Liver and digestion",
+                "Risk of liver disease and digestive or pancreatic conditions."
+              ],
+              [
+                "Heart and circulation",
+                "High blood pressure, irregular heart rhythm and other cardiovascular conditions."
+              ],
+              [
+                "Cancer risk",
+                "Alcohol increases risk for several cancers, including breast, liver and colorectal cancers."
+              ],
+              [
+                "Relationships and safety",
+                "Injury, interpersonal harm, road crashes, school or work difficulties."
+              ]
+            ]
+          },
+          "allCharactersPreserved": true
+        },
+        {
+          "page": 6,
+          "columns": null,
+          "sourceText": "Group Possible effects Important concerns Opioids Pain relief and sedation Breathing may slow; overdose can be fatal. Stimulants Increased arousal and alertness Possible agitation, temperature and cardiovascular problems. Sedatives Drowsiness and slowed responses Impaired coordination; dangerous with alcohol or opioids. Cannabis Changes in attention and perception Memory, coordination and mental health concerns vary by age and context. Nicotine Stimulation and reinforcement Dependence and significant health risks, especially with tobacco. Inhalants Dizziness, altered awareness Can cause sudden and severe toxic emergencies.",
+          "table": {
+            "type": "table",
+            "headers": [
+              "Group",
+              "Possible effects",
+              "Important concerns"
+            ],
+            "rows": [
+              [
+                "Opioids",
+                "Pain relief and sedation",
+                "Breathing may slow; overdose can be fatal."
+              ],
+              [
+                "Stimulants",
+                "Increased arousal and alertness",
+                "Possible agitation, temperature and cardiovascular problems."
+              ],
+              [
+                "Sedatives",
+                "Drowsiness and slowed responses",
+                "Impaired coordination; dangerous with alcohol or opioids."
+              ],
+              [
+                "Cannabis",
+                "Changes in attention and perception",
+                "Memory, coordination and mental health concerns vary by age and context."
+              ],
+              [
+                "Nicotine",
+                "Stimulation and reinforcement",
+                "Dependence and significant health risks, especially with tobacco."
+              ],
+              [
+                "Inhalants",
+                "Dizziness, altered awareness",
+                "Can cause sudden and severe toxic emergencies."
+              ]
+            ]
+          },
+          "allCharactersPreserved": true
+        },
+        {
+          "page": 11,
+          "columns": null,
+          "sourceText": "Element Website behavior Introduction A short question and learning goals; skip-to-support available. Core concept One plain-language explanation per screen with optional detail. Visual diagram Brain/body systems simplified; text alternative carries the full meaning. Scenario Fictional adult/youth examples, not personal-use prompts. Interactive question Keyboard accessible options, explanation on selection, retry and skip. Media Captioned videos; transcripts and low-data equivalent text. Help access Persistent route to approved professional and emergency information.",
+          "table": {
+            "type": "table",
+            "headers": [
+              "Element",
+              "Website behavior"
+            ],
+            "rows": [
+              [
+                "Introduction",
+                "A short question and learning goals; skip-to-support available."
+              ],
+              [
+                "Core concept",
+                "One plain-language explanation per screen with optional detail."
+              ],
+              [
+                "Visual diagram",
+                "Brain/body systems simplified; text alternative carries the full meaning."
+              ],
+              [
+                "Scenario",
+                "Fictional adult/youth examples, not personal-use prompts."
+              ],
+              [
+                "Interactive question",
+                "Keyboard accessible options, explanation on selection, retry and skip."
+              ],
+              [
+                "Media",
+                "Captioned videos; transcripts and low-data equivalent text."
+              ],
+              [
+                "Help access",
+                "Persistent route to approved professional and emergency information."
+              ]
+            ]
+          },
+          "allCharactersPreserved": true
+        }
+      ],
+      "orderedSourcePreserved": true,
+      "independentPdfCoverage": true,
+      "sha256": "2c2db5f7eb8e36197935d6a090bdaca9f94961b08315e6171e48f03010f4e66b",
+      "filename": "VUGA_Alcohol_Drugs_Topic_02_Brain_and_Body.pdf"
+    },
+    {
+      "topic": 3,
+      "pages": 11,
+      "sections": 20,
+      "references": 10,
+      "tables": [
+        {
+          "page": 2,
+          "columns": null,
+          "sourceText": "Short-term (minutes to days) Long-term (months to years) Impaired decisions, attention and coordination; falls, crashes and injuries. Disease of the liver, heart or other organs; increased risk of certain cancers from alcohol. Poisoning, overdose, dangerous interactions and changes in breathing or consciousness. Changes in memory and functioning; possible substance use disorder and associated health and social consequences. Panic, agitation, confusion, or severe intoxication depending on the substance. Persistent health problems and worsening daily functioning in some people; effects vary considerably by drug.",
+          "table": {
+            "type": "table",
+            "headers": [
+              "Short-term (minutes to days)",
+              "Long-term (months to years)"
+            ],
+            "rows": [
+              [
+                "Impaired decisions, attention and coordination; falls, crashes and injuries.",
+                "Disease of the liver, heart or other organs; increased risk of certain cancers from alcohol."
+              ],
+              [
+                "Poisoning, overdose, dangerous interactions and changes in breathing or consciousness.",
+                "Changes in memory and functioning; possible substance use disorder and associated health and social consequences."
+              ],
+              [
+                "Panic, agitation, confusion, or severe intoxication depending on the substance.",
+                "Persistent health problems and worsening daily functioning in some people; effects vary considerably by drug."
+              ]
+            ]
+          },
+          "allCharactersPreserved": true
+        },
+        {
+          "page": 3,
+          "columns": null,
+          "sourceText": "Substance group Possible immediate problems Possible longer-term concerns Opioids Sleepiness and slowed breathing; overdose can be fatal. Dependence and overdose risk, especially with unregulated products or sedative combinations. Stimulants Agitation, elevated heart rate, overheating, high blood pressure. Cardiovascular, sleep and mental-health difficulties; stimulant use disorder may develop. Sedatives Drowsiness, poor coordination and potentially dangerous interactions. Dependence and hazardous withdrawal with some medicines; requires clinical supervision. Cannabis Impaired attention, memory, coordination; possible anxiety or paranoia. Cannabis use disorder; in some people, cognitive and mental-health concerns, especially with frequent early use. Inhalants Unpredictable toxic effects; fainting, abnormal heartbeat or sudden death. Potential neurological, liver or kidney damage with some exposures.",
+          "table": {
+            "type": "table",
+            "headers": [
+              "Substance group",
+              "Possible immediate problems",
+              "Possible longer-term concerns"
+            ],
+            "rows": [
+              [
+                "Opioids",
+                "Sleepiness and slowed breathing; overdose can be fatal.",
+                "Dependence and overdose risk, especially with unregulated products or sedative combinations."
+              ],
+              [
+                "Stimulants",
+                "Agitation, elevated heart rate, overheating, high blood pressure.",
+                "Cardiovascular, sleep and mental-health difficulties; stimulant use disorder may develop."
+              ],
+              [
+                "Sedatives",
+                "Drowsiness, poor coordination and potentially dangerous interactions.",
+                "Dependence and hazardous withdrawal with some medicines; requires clinical supervision."
+              ],
+              [
+                "Cannabis",
+                "Impaired attention, memory, coordination; possible anxiety or paranoia.",
+                "Cannabis use disorder; in some people, cognitive and mental-health concerns, especially with frequent early use."
+              ],
+              [
+                "Inhalants",
+                "Unpredictable toxic effects; fainting, abnormal heartbeat or sudden death.",
+                "Potential neurological, liver or kidney damage with some exposures."
+              ]
+            ]
+          },
+          "allCharactersPreserved": true
+        },
+        {
+          "page": 5,
+          "columns": null,
+          "sourceText": "Myth Better explanation “Only addicted people are harmed.” A single exposure can cause injury or poisoning without dependence. “Beer is safer because it is common.” Beer contains ethanol; amount consumed matters, and no alcoholic drink is risk-free. “A prescription medicine is safe to share.” Prescriptions are individualized; sharing or combining medicines can be dangerous. “Everyone who uses drugs becomes addicted.” Not everyone develops a disorder, but serious risks may still occur. “A person who looks awake can drive safely.” Appearance and confidence do not reliably indicate unimpaired judgment or reaction time.",
+          "table": {
+            "type": "table",
+            "headers": [
+              "Myth",
+              "Better explanation"
+            ],
+            "rows": [
+              [
+                "“Only addicted people are harmed.”",
+                "A single exposure can cause injury or poisoning without dependence."
+              ],
+              [
+                "“Beer is safer because it is common.”",
+                "Beer contains ethanol; amount consumed matters, and no alcoholic drink is risk-free."
+              ],
+              [
+                "“A prescription medicine is safe to share.”",
+                "Prescriptions are individualized; sharing or combining medicines can be dangerous."
+              ],
+              [
+                "“Everyone who uses drugs becomes addicted.”",
+                "Not everyone develops a disorder, but serious risks may still occur."
+              ],
+              [
+                "“A person who looks awake can drive safely.”",
+                "Appearance and confidence do not reliably indicate unimpaired judgment or reaction time."
+              ]
+            ]
+          },
+          "allCharactersPreserved": true
+        },
+        {
+          "page": 8,
+          "columns": null,
+          "sourceText": "Element Educational and accessibility requirement Prompt One plain-language question with an optional skip link. Options Clearly labeled, keyboard-operable controls with large touch targets. Feedback Immediate, nonjudgmental explanation for each option; allow retry. Privacy Do not request or save disclosure of personal substance use in ordinary lessons. Alternatives Text-equivalent content for images; captions/transcripts for optional media. Help Get Help link remains available without finishing a quiz or video.",
+          "table": {
+            "type": "table",
+            "headers": [
+              "Element",
+              "Educational and accessibility requirement"
+            ],
+            "rows": [
+              [
+                "Prompt",
+                "One plain-language question with an optional skip link."
+              ],
+              [
+                "Options",
+                "Clearly labeled, keyboard-operable controls with large touch targets."
+              ],
+              [
+                "Feedback",
+                "Immediate, nonjudgmental explanation for each option; allow retry."
+              ],
+              [
+                "Privacy",
+                "Do not request or save disclosure of personal substance use in ordinary lessons."
+              ],
+              [
+                "Alternatives",
+                "Text-equivalent content for images; captions/transcripts for optional media."
+              ],
+              [
+                "Help",
+                "Get Help link remains available without finishing a quiz or video."
+              ]
+            ]
+          },
+          "allCharactersPreserved": true
+        },
+        {
+          "page": 10,
+          "columns": null,
+          "sourceText": "Question Model answer Can injury happen without addiction? Yes. Impairment, poisoning or accidents may occur without a substance use disorder. Do all drugs have identical effects? No. Their mechanisms, acute dangers and longer-term risks differ. Does every person who drinks develop liver disease? No. Risks vary; not everyone develops a disease, and serious risk still warrants prevention. Is quitting heavy alcohol use always safe without advice? No. Physically dependent people can experience dangerous withdrawal. What matters most in a possible overdose? Prompt emergency help and attention to breathing and consciousness.",
+          "table": {
+            "type": "table",
+            "headers": [
+              "Question",
+              "Model answer"
+            ],
+            "rows": [
+              [
+                "Can injury happen without addiction?",
+                "Yes. Impairment, poisoning or accidents may occur without a substance use disorder."
+              ],
+              [
+                "Do all drugs have identical effects?",
+                "No. Their mechanisms, acute dangers and longer-term risks differ."
+              ],
+              [
+                "Does every person who drinks develop liver disease?",
+                "No. Risks vary; not everyone develops a disease, and serious risk still warrants prevention."
+              ],
+              [
+                "Is quitting heavy alcohol use always safe without advice?",
+                "No. Physically dependent people can experience dangerous withdrawal."
+              ],
+              [
+                "What matters most in a possible overdose?",
+                "Prompt emergency help and attention to breathing and consciousness."
+              ]
+            ]
+          },
+          "allCharactersPreserved": true
+        }
+      ],
+      "orderedSourcePreserved": true,
+      "independentPdfCoverage": true,
+      "sha256": "fcb515fa46c8e6635060af420431d1244a134aadbcdf5471cb9fb9a51bb0b2a0",
+      "filename": "VUGA_Alcohol_Drugs_Topic_03_Health_Risks.pdf"
+    },
+    {
+      "topic": 4,
+      "pages": 8,
+      "sections": 17,
+      "references": 7,
+      "tables": [
+        {
+          "page": 3,
+          "columns": [
+            64,
+            176,
+            366,
+            543
+          ],
+          "sourceText": "Concept Simple meaning What it does not prove Use A person consumes a substance That the person has a disorder Risky / harmful use Use may increase risk or is causing harm That dependence must be present Tolerance Same amount may produce less effect That compulsive addiction exists Physical dependence Body adapts; withdrawal may follow That medication was misused reduction Substance use disorder Clinically assessed problematic pattern That recovery is impossible",
+          "table": {
+            "type": "table",
+            "headers": [
+              "Concept",
+              "Simple meaning",
+              "What it does not prove"
+            ],
+            "rows": [
+              [
+                "Use",
+                "A person consumes a substance",
+                "That the person has a disorder"
+              ],
+              [
+                "Risky / harmful use",
+                "Use may increase risk or is causing harm",
+                "That dependence must be present"
+              ],
+              [
+                "Tolerance",
+                "Same amount may produce less effect",
+                "That compulsive addiction exists"
+              ],
+              [
+                "Physical dependence",
+                "Body adapts; withdrawal may follow reduction",
+                "That medication was misused"
+              ],
+              [
+                "Substance use disorder",
+                "Clinically assessed problematic pattern",
+                "That recovery is impossible"
+              ]
+            ]
+          },
+          "allCharactersPreserved": true
+        },
+        {
+          "page": 7,
+          "columns": [
+            64,
+            196,
+            543
+          ],
+          "sourceText": "Element User experience requirement Reading Short sections, plain language, visible source links; no forced age gate Scenario Fictional stories; no disclosure of personal substance use Choices Large tap targets and keyboard support; answer feedback explained Video / illustration Optional, captioned, transcript and meaningful alternative text Low-data Full lesson accessible without downloading video Safety Get Help always available without completing lessons or quizzes Privacy Anonymous learning by default; no unnecessary sensitive data",
+          "table": {
+            "type": "table",
+            "headers": [
+              "Element",
+              "User experience requirement"
+            ],
+            "rows": [
+              [
+                "Reading",
+                "Short sections, plain language, visible source links; no forced age gate"
+              ],
+              [
+                "Scenario",
+                "Fictional stories; no disclosure of personal substance use"
+              ],
+              [
+                "Choices",
+                "Large tap targets and keyboard support; answer feedback explained"
+              ],
+              [
+                "Video / illustration",
+                "Optional, captioned, transcript and meaningful alternative text"
+              ],
+              [
+                "Low-data",
+                "Full lesson accessible without downloading video"
+              ],
+              [
+                "Safety",
+                "Get Help always available without completing lessons or quizzes"
+              ],
+              [
+                "Privacy",
+                "Anonymous learning by default; no unnecessary sensitive data"
+              ]
+            ]
+          },
+          "allCharactersPreserved": true
+        }
+      ],
+      "orderedSourcePreserved": true,
+      "independentPdfCoverage": true,
+      "sha256": "1d27ecc50b572a0673d2a6f3669fe48cc138b20201ee8d5e52e4868d672fa1e1",
+      "filename": "VUGA_Alcohol_Drugs_Topic_04_Use_Dependence_Addiction.pdf"
+    }
+  ]
+}

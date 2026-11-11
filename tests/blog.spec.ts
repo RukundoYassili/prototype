@@ -18,7 +18,7 @@ test("blog is reachable from the homepage, header, and footer", async ({
     .getByRole("banner")
     .getByRole("link", { name: "Blog", exact: true })
     .click();
-  await expect(page).toHaveTitle("Blog — BetterHelp");
+  await expect(page).toHaveTitle("Blog — VUGA NDAKUMVA");
   await expect(page.locator(".blog-card--featured")).toHaveCount(1);
   await expect(page.locator(".blog-card--standard")).toHaveCount(5);
   await expect(page.getByRole("status")).toContainText("6 articles to explore");
@@ -94,7 +94,7 @@ test("reading, article anchors, related posts, and return links preserve discove
     "Making a little space in a demanding day.",
   );
   await expect(page).toHaveTitle(
-    "Making a little space in a demanding day. — BetterHelp",
+    "Making a little space in a demanding day. — VUGA NDAKUMVA",
   );
   await expect(page.locator('meta[name="description"]')).toHaveAttribute(
     "content",
@@ -167,7 +167,7 @@ test("all six article routes contain reading content and source links", async ({
 
 test("unknown articles have a clear recovery path", async ({ page }) => {
   await page.goto("/blog/not-an-article");
-  await expect(page).toHaveTitle("Article not found — BetterHelp");
+  await expect(page).toHaveTitle("Article not found — VUGA NDAKUMVA");
   await expect(
     page.getByRole("heading", { name: "That article isn’t here." }),
   ).toBeVisible();

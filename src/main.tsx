@@ -11,6 +11,7 @@ import "./styles.css";
 import "./site.css";
 import "./support/support.css";
 import "./blog/blog.css";
+import "./refinement.css";
 createRoot(document.getElementById("root")!).render(
   <React.StrictMode>
     <Router />

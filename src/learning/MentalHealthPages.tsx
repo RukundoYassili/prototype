@@ -89,12 +89,12 @@ function MentalHealthLibrary() {
       <header className="mh-library-hero">
         <div>
           <span className="support-eyebrow">
-            VUGA NDAKUMVA · LEARNING CENTER
+            WHY MENTAL HEALTH · LEARNING CENTER
           </span>
           <h1>
-            A little understanding.
+            Understand mental health.
             <br />
-            <span>A meaningful step forward.</span>
+            <span>One chapter at a time.</span>
           </h1>
           <p>
             Explore mental health through detailed lessons, visual examples, and
@@ -180,11 +180,7 @@ function MentalHealthLibrary() {
           <span className="support-eyebrow">
             THE MENTAL HEALTH LEARNING SERIES
           </span>
-          <h2 id="mh-library-title">
-            Take your next step
-            <br />
-            in understanding.
-          </h2>
+          <h2 id="mh-library-title">A topic for your next step.</h2>
           <p>
             Read each chapter in full, explore its examples, and return to the
             sections that matter to you. Reflection is optional; you do not need

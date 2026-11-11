@@ -186,8 +186,7 @@ export function AboutPage({ values }: { values: ReactNode }) {
       <aside className="about-site-note" aria-label="About this website">
         <strong>About this website</strong>
         <p>
-          BetterHelp is a temporary name for this independent website and is not
-          affiliated with the official BetterHelp service. This site provides
+          VUGA NDAKUMVA is an independent educational initiative. This site provides
           information, not care or emergency response. The separate booking and
           professional-profile previews use fictional data. Illustrations show
           fictional people, not our staff or clients.

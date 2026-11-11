@@ -1,4 +1,4 @@
-import { ArrowUpRight, Flower2, Smile } from "lucide-react";
+import { ArrowUpRight, Flower2 } from "lucide-react";
 import { Link } from "react-router-dom";
 import HeroSlideshow from "./HeroSlideshow";
 import { SiteHeader, SiteFooter } from "./SiteChrome";
@@ -38,20 +38,22 @@ export default function App() {
               </span>
               <h1>
                 We care about
-                <br /> your
-                <span className="smile-mark">
-                  <Smile />
-                </span>
-                smile.
+                <br /> your smile.
               </h1>
               <p>
                 Clear information, compassionate connection, and pathways to
                 appropriate care. A place to begin, without judgment.
               </p>
-              <Link to="/support" className="support-button">
-                Find support
-                <ArrowUpRight size={20} aria-hidden="true" />
-              </Link>
+              <div className="home-hero-actions">
+                <Link to="/support" className="support-button">
+                  Find support
+                  <ArrowUpRight size={20} aria-hidden="true" />
+                </Link>
+                <Link to="/knowledge-hub" className="support-text-link">
+                  Explore the Knowledge Hub
+                  <ArrowUpRight size={18} aria-hidden="true" />
+                </Link>
+              </div>
             </div>
           </div>
         </section>

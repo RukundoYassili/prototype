@@ -26,4 +26,7 @@ test("homepage community preview uses the public collection and sits above newsl
     .getByRole("link", { name: "Explore our community work" })
     .click();
   await expect(page).toHaveURL(/\/community$/);
+  await expect(page).toHaveTitle("Community — VUGA NDAKUMVA");
+  await page.goto("/about");
+  await expect(page.locator("#community")).toHaveCount(0);
 });

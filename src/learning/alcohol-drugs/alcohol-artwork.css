@@ -1,0 +1,163 @@
+.ad-library,
+.ad-reader {
+  --ad-ink: #164e50;
+  --ad-accent: #c99543;
+  --ad-paper: #f5ebdd;
+}
+.topic-alcohol-and-drugs section[id],
+.ad-reader .lv-visual,
+.ad-reader h3[id] {
+  scroll-margin-top: calc(var(--site-header-height, 160px) + 28px);
+}
+.ad-chapter-2 {
+  --ad-ink: #303d72;
+  --ad-accent: #278d96;
+  --ad-paper: #e6f1f5;
+}
+.ad-chapter-3 {
+  --ad-ink: #23394d;
+  --ad-accent: #ae563e;
+  --ad-paper: #f3e6d2;
+}
+.ad-chapter-4 {
+  --ad-ink: #65435f;
+  --ad-accent: #8da58a;
+  --ad-paper: #f7f0e6;
+}
+.ad-artwork {
+  background: var(--ad-paper, #f5ebdd);
+  border-radius: 20px;
+  overflow: hidden;
+  aspect-ratio: 3 / 2;
+}
+.ad-artwork img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+.ad-artwork > p {
+  padding: 24px;
+  color: var(--ad-ink, #164e50);
+  line-height: 1.7;
+}
+.ad-library .mh-draft-note {
+  margin-bottom: 28px;
+}
+.alcohol-chapter-cover {
+  height: 100%;
+}
+.alcohol-chapter-cover .mh-chapter-card {
+  height: 100%;
+  border-top: 3px solid var(--ad-accent);
+}
+.alcohol-chapter-cover .mh-card-photo {
+  aspect-ratio: 3 / 2;
+  background: var(--ad-paper);
+}
+.alcohol-chapter-cover .mh-card-photo .ad-artwork {
+  border-radius: 0;
+  height: 100%;
+}
+.alcohol-chapter-cover .mh-card-photo img,
+.alcohol-chapter-cover .mh-chapter-card > a:hover img {
+  object-fit: contain;
+  transform: none;
+}
+.alcohol-chapter-cover .mh-chapter-card h3 {
+  color: var(--ad-ink);
+}
+.ad-reader-hero {
+  margin: 28px 0 0;
+  max-width: 760px;
+}
+.ad-reader-hero figcaption,
+.ad-landing-art figcaption {
+  font-size: 12px;
+  line-height: 1.6;
+  color: #52615c;
+  margin-top: 10px;
+}
+.topic-alcohol-and-drugs .support-page-hero .ad-landing-art {
+  margin: 0;
+}
+.topic-alcohol-and-drugs .support-page-hero .ad-artwork img {
+  height: 100%;
+  object-fit: contain;
+  border-radius: 0;
+}
+.ad-reader .lv-story,
+.ad-reader .lv-diagram {
+  background: var(--ad-paper);
+  border-color: color-mix(in srgb, var(--ad-ink) 18%, white);
+}
+.ad-reader .lv-heading h3,
+.ad-reader .lv-step-top,
+.ad-reader .lv-eyebrow,
+.ad-reader .lv-person {
+  color: var(--ad-ink);
+}
+.ad-reader .lv-scene-image {
+  aspect-ratio: 3 / 4;
+  background: var(--ad-paper);
+}
+.ad-reader .lv-scene-image img {
+  object-fit: contain;
+}
+.ad-reader .lv-scene-label {
+  color: var(--ad-ink);
+}
+.ad-reader .lv-scene-number {
+  color: var(--ad-ink);
+  background: var(--ad-paper);
+}
+.ad-reader .lv-diagram-sources {
+  font-size: 12px;
+  line-height: 1.7;
+  margin-top: 18px;
+}
+.ad-reader .lv-diagram-sources a {
+  color: var(--ad-ink);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.ad-reader .lv-person {
+  border-color: var(--ad-accent);
+  background: white;
+}
+.ad-reader .lv-influences .lv-steps {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+@media (max-width: 680px) {
+  .topic-alcohol-and-drugs .support-page-hero {
+    gap: 24px;
+  }
+  .ad-reader-hero {
+    margin-top: 20px;
+  }
+  .ad-reader .lv-scene-image {
+    aspect-ratio: 3 / 4;
+    max-height: 440px;
+  }
+  .ad-reader .lv-influences .lv-steps {
+    grid-template-columns: 1fr;
+  }
+}
+@media print {
+  .ad-reader-hero {
+    max-width: 110mm;
+  }
+  .ad-reader .lv-story-scenes {
+    grid-template-columns: 1fr 1fr;
+  }
+  .ad-reader .lv-scene-image {
+    aspect-ratio: 3 / 4;
+    max-height: 80mm;
+  }
+  .ad-reader .lv-scene-image img {
+    object-fit: contain;
+  }
+  .ad-reader .lv-diagram-sources {
+    display: block;
+  }
+}

@@ -1,0 +1,149 @@
+/* Explicit opt-in: Chapter 01 and global navigation/safety controls keep their existing presentation. */
+.gbv-distinct-chapter.gbv-chapter-02 {
+  --gbv-chapter-color: #303e78;
+  --gbv-chapter-accent: #f2b38f;
+  --gbv-chapter-paper: #fff7e8;
+  --gbv-ink: #303e78;
+  --gbv-lavender: #fff7e8;
+  --gbv-mint: #fff7e8;
+}
+.gbv-distinct-chapter.gbv-chapter-03 {
+  --gbv-chapter-color: #702e43;
+  --gbv-chapter-accent: #c4a15a;
+  --gbv-chapter-paper: #f6f3e9;
+  --gbv-ink: #702e43;
+  --gbv-lavender: #f6f3e9;
+  --gbv-mint: #f6f3e9;
+}
+.gbv-distinct-chapter.gbv-chapter-04 {
+  --gbv-chapter-color: #244db5;
+  --gbv-chapter-accent: #72d6d0;
+  --gbv-chapter-paper: #fffff2;
+  --gbv-ink: #244db5;
+  --gbv-lavender: #fffff2;
+  --gbv-mint: #fffff2;
+}
+.gbv-distinct-chapter.gbv-chapter-05 {
+  --gbv-chapter-color: #245842;
+  --gbv-chapter-accent: #eab79f;
+  --gbv-chapter-paper: #f3e7d5;
+  --gbv-ink: #245842;
+  --gbv-lavender: #f3e7d5;
+  --gbv-mint: #f3e7d5;
+}
+.gbv-distinct-chapter.gbv-chapter-06 {
+  --gbv-chapter-color: #653754;
+  --gbv-chapter-accent: #c996a5;
+  --gbv-chapter-paper: #fff8f4;
+  --gbv-ink: #653754;
+  --gbv-lavender: #fff8f4;
+  --gbv-mint: #fff8f4;
+}
+.gbv-distinct-chapter.gbv-chapter-07 {
+  --gbv-chapter-color: #a44f36;
+  --gbv-chapter-accent: #4e6c83;
+  --gbv-chapter-paper: #f7ebdd;
+  --gbv-ink: #873b28;
+  --gbv-lavender: #f7ebdd;
+  --gbv-mint: #f7ebdd;
+}
+.gbv-distinct-chapter.gbv-chapter-08 {
+  --gbv-chapter-color: #14664d;
+  --gbv-chapter-accent: #e7ae3e;
+  --gbv-chapter-paper: #fffcf2;
+  --gbv-ink: #14664d;
+  --gbv-lavender: #fffcf2;
+  --gbv-mint: #fffcf2;
+}
+.gbv-distinct-chapter.gbv-chapter-09 {
+  --gbv-chapter-color: #172a4d;
+  --gbv-chapter-accent: #36c7e8;
+  --gbv-chapter-paper: #eee8fa;
+  --gbv-ink: #172a4d;
+  --gbv-lavender: #eee8fa;
+  --gbv-mint: #eee8fa;
+}
+.gbv-distinct-chapter.gbv-chapter-10 {
+  --gbv-chapter-color: #71bde2;
+  --gbv-chapter-accent: #f1c64b;
+  --gbv-chapter-paper: #fff7f0;
+  --gbv-ink: #234f70;
+  --gbv-lavender: #fff7f0;
+  --gbv-mint: #fff7f0;
+}
+.gbv-distinct-chapter .mh-reader-header {
+  background: var(--gbv-chapter-paper);
+  border-color: color-mix(in srgb, var(--gbv-chapter-color) 22%, white);
+}
+.gbv-distinct-chapter
+  :is(
+    .mh-reader-chapter-number,
+    .mh-section-number,
+    .lv-eyebrow,
+    .lv-scene-label,
+    .lv-reflection > span,
+    .lv-step-number
+  ) {
+  color: var(--gbv-ink);
+}
+.gbv-distinct-chapter
+  .mh-article
+  :is(.mh-example, .mh-source-activity, .lv-visual) {
+  background: var(--gbv-chapter-paper);
+  border-color: color-mix(in srgb, var(--gbv-chapter-color) 22%, white);
+}
+.gbv-distinct-chapter .mh-example .lv-visual {
+  background: none;
+  border: 0;
+}
+.gbv-distinct-chapter :is(.lv-scene-image, .lv-step-icon) {
+  background: var(--gbv-chapter-paper);
+}
+.gbv-distinct-chapter .lv-step-icon {
+  color: var(--gbv-ink);
+}
+.gbv-distinct-chapter :is(.lv-scene, .lv-steps > li) {
+  border-color: color-mix(in srgb, var(--gbv-chapter-color) 22%, white);
+}
+.gbv-distinct-chapter .lv-pairs dt {
+  background: color-mix(in srgb, var(--gbv-chapter-accent) 18%, white);
+}
+.gbv-distinct-chapter .lv-pairs dd {
+  background: var(--gbv-chapter-paper);
+}
+.gbv-distinct-chapter .mh-contents {
+  background: color-mix(in srgb, var(--gbv-chapter-paper) 65%, white);
+  border-color: color-mix(in srgb, var(--gbv-ink) 18%, white);
+}
+.gbv-distinct-chapter .mh-contents nav > a > span {
+  color: var(--gbv-ink);
+}
+.gbv-distinct-chapter .mh-contents nav > a[aria-current],
+.gbv-distinct-chapter .gbv-contents-drawer nav a[aria-current] {
+  background: color-mix(in srgb, var(--gbv-ink) 9%, white);
+  color: var(--gbv-ink);
+  box-shadow: inset 3px 0 var(--gbv-ink);
+}
+.gbv-distinct-chapter .gbv-mobile-tools {
+  background: var(--gbv-ink);
+  border-color: var(--gbv-ink);
+}
+.gbv-distinct-chapter .gbv-mobile-tools button[aria-expanded="true"],
+.gbv-distinct-chapter .gbv-mobile-tools > :is(button, a):hover {
+  background: #ffffff20;
+}
+.gbv-distinct-chapter .gbv-contents-drawer {
+  background: var(--gbv-chapter-paper);
+  border-color: color-mix(in srgb, var(--gbv-ink) 25%, white);
+}
+.gbv-distinct-chapter .gbv-drawer-heading,
+.gbv-distinct-chapter .gbv-drawer-heading button,
+.gbv-distinct-chapter .gbv-contents-drawer nav a,
+.gbv-distinct-chapter .gbv-contents-drawer nav a span {
+  color: var(--gbv-ink);
+}
+@media print {
+  .gbv-distinct-chapter .mh-reader-header {
+    background: white;
+  }
+}

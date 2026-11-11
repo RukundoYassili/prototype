@@ -25,6 +25,7 @@ import { findBlogPost } from "./blog/posts";
 import { CommunityPage, CommunityDetailPage } from "./community/CommunityPages";
 import { findCommunityEntry } from "./community/repository";
 import { findMentalHealthChapter } from "./learning/catalog";
+import { alcoholCatalog } from "./learning/alcohol-drugs/catalog.generated";
 import { findGbvChapter } from "./learning/gbv/catalog";
 import { KnowledgeHubPage, DonatePage } from "./support/InformationPages";
 import {
@@ -44,6 +45,16 @@ const WhyMentalHealthPage = lazy(() =>
 const MentalHealthChapterPage = lazy(() =>
   import("./learning/MentalHealthPages").then((module) => ({
     default: module.MentalHealthChapterPage,
+  })),
+);
+const AlcoholDrugsPage = lazy(() =>
+  import("./learning/alcohol-drugs/AlcoholPages").then((m) => ({
+    default: m.AlcoholDrugsPage,
+  })),
+);
+const AlcoholChapterPage = lazy(() =>
+  import("./learning/alcohol-drugs/AlcoholPages").then((m) => ({
+    default: m.AlcoholChapterPage,
   })),
 );
 const chapterLoading = (
@@ -87,28 +98,36 @@ function NavigationReset() {
       "/knowledge-hub": "Knowledge Hub",
       "/donate": "Donate",
     };
-    const mentalHealthChapter = pathname.startsWith("/understand-gbv/")
-      ? findGbvChapter(pathname.slice("/understand-gbv/".length))
-      : pathname.startsWith("/why-mental-health/")
-        ? findMentalHealthChapter(pathname.slice("/why-mental-health/".length))
-        : undefined;
+    const mentalHealthChapter = pathname.startsWith("/alcohol-and-drugs/")
+      ? alcoholCatalog.find(
+          (chapter) =>
+            chapter.slug === pathname.slice("/alcohol-and-drugs/".length),
+        )
+      : pathname.startsWith("/understand-gbv/")
+        ? findGbvChapter(pathname.slice("/understand-gbv/".length))
+        : pathname.startsWith("/why-mental-health/")
+          ? findMentalHealthChapter(
+              pathname.slice("/why-mental-health/".length),
+            )
+          : undefined;
     document.title =
       pathname.startsWith("/why-mental-health/") ||
-      pathname.startsWith("/understand-gbv/")
-        ? `${mentalHealthChapter?.title || "Chapter not found"} — BetterHelp`
+      pathname.startsWith("/understand-gbv/") ||
+      pathname.startsWith("/alcohol-and-drugs/")
+        ? `${mentalHealthChapter?.title || "Chapter not found"} — VUGA NDAKUMVA`
         : informationTitles[pathname]
-          ? `${informationTitles[pathname]} — BetterHelp`
+          ? `${informationTitles[pathname]} — VUGA NDAKUMVA`
           : pathname === "/community"
-            ? "Community — BetterHelp"
+            ? "Community — VUGA NDAKUMVA"
             : pathname.startsWith("/community/")
-              ? `${communityEntry?.title || "Community update not found"} — BetterHelp`
+              ? `${communityEntry?.title || "Community update not found"} — VUGA NDAKUMVA`
               : pathname === "/"
-                ? "BetterHelp — Understanding. Connection. Support."
+                ? "VUGA NDAKUMVA — Understanding. Connection. Support."
                 : pathname === "/blog"
-                  ? "Blog — BetterHelp"
+                  ? "Blog — VUGA NDAKUMVA"
                   : pathname.startsWith("/blog/")
-                    ? `${blogPost?.title || "Article not found"} — BetterHelp`
-                    : `${pathname === "/support" ? "Get support" : pathname === "/mental-health" ? "Mental health" : pathname === "/alcohol-and-drugs" ? "Alcohol & drugs" : pathname === "/understand-gbv" ? "Understand GBV" : pathname === "/urgent-help" ? "Urgent help" : pathname.startsWith("/services") ? "Services" : pathname.startsWith("/professionals") ? "Sample professional" : pathname === "/dashboard" ? "My space" : pathname === "/resources" ? "Resources" : pathname === "/admin-preview" ? "Admin preview" : pathname === "/expertise" ? "Expertise" : pathname === "/stories" ? "Illustrative stories" : pathname === "/about" ? "About" : pathname === "/contact" ? "Contact" : pathname === "/privacy" ? "Privacy" : pathname === "/terms" ? "Terms" : "Page not found"} — BetterHelp`;
+                    ? `${blogPost?.title || "Article not found"} — VUGA NDAKUMVA`
+                    : `${pathname === "/support" ? "Get support" : pathname === "/mental-health" ? "Mental health" : pathname === "/alcohol-and-drugs" ? "Alcohol & drugs" : pathname === "/understand-gbv" ? "Understand GBV" : pathname === "/urgent-help" ? "Urgent help" : pathname.startsWith("/services") ? "Services" : pathname.startsWith("/professionals") ? "Sample professional" : pathname === "/dashboard" ? "My space" : pathname === "/resources" ? "Resources" : pathname === "/admin-preview" ? "Admin preview" : pathname === "/expertise" ? "Expertise" : pathname === "/stories" ? "Illustrative stories" : pathname === "/about" ? "About" : pathname === "/contact" ? "Contact" : pathname === "/privacy" ? "Privacy" : pathname === "/terms" ? "Terms" : "Page not found"} — VUGA NDAKUMVA`;
     document
       .querySelector('meta[name="description"]')
       ?.setAttribute(
@@ -125,11 +144,11 @@ function NavigationReset() {
                   ? "Learn about the purpose behind our community work and the current availability of official giving options."
                   : "") ||
           (pathname === "/community"
-            ? "Community news, outreach stories, videos, photo albums, events, and workshops. Explore ways to connect, learn, and grow with the BetterHelp community."
+            ? "Community news, outreach stories, videos, photo albums, events, and workshops. Explore ways to connect, learn, and grow with the VUGA NDAKUMVA community."
             : "") ||
           blogPost?.excerpt ||
           (pathname === "/blog"
-            ? "Thoughtful articles about mental health, alcohol and drugs, understanding GBV, and supporting others. Explore the BetterHelp journal at your own pace."
+            ? "Thoughtful articles about mental health, alcohol and drugs, understanding GBV, and supporting others. Explore the VUGA NDAKUMVA journal at your own pace."
             : "Clear, compassionate information about mental health, gender-based violence, alcohol and drugs, and ways to find appropriate support."),
       );
     if (!hash)
@@ -178,7 +197,19 @@ export default function Router() {
             />
             <Route
               path="/alcohol-and-drugs"
-              element={<TopicPage id="alcohol-and-drugs" />}
+              element={
+                <Suspense fallback={chapterLoading}>
+                  <AlcoholDrugsPage />
+                </Suspense>
+              }
+            />
+            <Route
+              path="/alcohol-and-drugs/:slug"
+              element={
+                <Suspense fallback={chapterLoading}>
+                  <AlcoholChapterPage />
+                </Suspense>
+              }
             />
             <Route
               path="/understand-gbv"

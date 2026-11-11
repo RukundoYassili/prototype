@@ -5,7 +5,7 @@ import {
   FileText,
   ShieldCheck,
 } from "lucide-react";
-import { Link } from "react-router-dom";
+import { Link, useParams } from "react-router-dom";
 import { TopicPage } from "../../support/SupportPages";
 import {
   ChapterCard,
@@ -18,12 +18,14 @@ import {
 } from "../library";
 import { gbvChapters } from "./chapters";
 import { gbvCatalog } from "./catalog";
+import { gbvPresentations } from "./series-presentation";
+import { seriesGbvStories, seriesGbvDiagrams } from "./series-visuals";
 import {
-  gbvChapter01Presentation,
-  illustratedGbvStories,
-  illustratedGbvDiagrams,
-} from "./chapter-01-presentation";
-import { GbvIllustration, gbvCovers, gbvHero } from "./GbvIllustration";
+  GbvIllustration,
+  gbvCovers,
+  gbvHero,
+  gbvSupporterArt,
+} from "./GbvIllustration";
 import "./gbv.css";
 
 const library: LearningLibraryConfiguration = {
@@ -36,8 +38,8 @@ const library: LearningLibraryConfiguration = {
   catalog: gbvCatalog,
   findChapter: (slug) => gbvChapters.find((chapter) => chapter.slug === slug),
   visuals: {
-    stories: illustratedGbvStories,
-    diagrams: illustratedGbvDiagrams,
+    stories: seriesGbvStories,
+    diagrams: seriesGbvDiagrams,
     imageBasePath: "/images/learning/gbv",
   },
   support: { path: "/urgent-help", label: "Urgent help information" },
@@ -105,6 +107,22 @@ function GbvChapters() {
           </p>
         </div>
       </div>
+      <details className="gbv-chapter-index">
+        <summary>
+          <BookOpen size={18} aria-hidden="true" /> Browse chapter titles{" "}
+          <span className="gbv-index-count">{gbvChapters.length} chapters</span>
+          <ArrowDown size={17} aria-hidden="true" />
+        </summary>
+        <nav aria-label="Browse all GBV chapters">
+          {gbvChapters.map((chapter) => (
+            <Link key={chapter.slug} to={`${library.basePath}/${chapter.slug}`}>
+              <span>{String(chapter.number).padStart(2, "0")}</span>
+              {chapter.title}
+              <ArrowUpRight size={16} aria-hidden="true" />
+            </Link>
+          ))}
+        </nav>
+      </details>
       <div className="mh-chapter-grid">
         {gbvChapters.map((chapter) => (
           <ChapterCard
@@ -119,7 +137,7 @@ function GbvChapters() {
         ))}
       </div>
       <p className="support-photo-note">
-        Teaching scenes in Chapters 1–3 are AI-generated fictional
+        Teaching scenes throughout this series are AI-generated fictional
         illustrations. The hero and chapter covers are also AI-generated
         fictional illustrations; they do not identify survivors or service
         users, or promise a particular outcome. Original examples and source
@@ -166,10 +184,7 @@ export function UnderstandGbvPage() {
         }
         supporterVisual={
           <figure className="gbv-supporter-art">
-            <GbvIllustration
-              artwork={gbvCovers["emotional-psychological-and-verbal-abuse"]}
-              compact
-            />
+            <GbvIllustration artwork={gbvSupporterArt} compact />
             <figcaption>
               AI-generated fictional illustration of listening.
             </figcaption>
@@ -180,9 +195,12 @@ export function UnderstandGbvPage() {
   );
 }
 export function GbvChapterPage() {
+  const { slug } = useParams();
   return (
     <LearningLibraryProvider library={library}>
-      <LearningChapterPage presentation={gbvChapter01Presentation} />
+      <LearningChapterPage
+        presentation={slug ? gbvPresentations[slug] : undefined}
+      />
     </LearningLibraryProvider>
   );
 }

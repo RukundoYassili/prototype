@@ -1,0 +1,23 @@
+{
+  "checkedOn": "2026-11-11",
+  "scope": "Supplemental visual diagram labels and relationships only. Original chapter references, publication status and referral records unchanged. Not clinical approval.",
+  "checks": [
+    {
+      "url": "https://www.who.int/news-room/fact-sheets/detail/alcohol",
+      "result": "Read: alcohol risks, dependence and effects. Supports distinction between harms and disorders, not an individual outcome."
+    },
+    {
+      "url": "https://www.niaaa.nih.gov/publications/alcohol-and-brain-overview",
+      "result": "Read: communication pathways, balance, memory, judgment and severe overdose effects. Conceptual diagram is not anatomical localization."
+    },
+    {
+      "url": "https://www.cdc.gov/overdose-prevention/glossary/",
+      "result": "Read: tolerance, dependence and substance use disorder distinctions; opioid-specific examples explicitly identified in link label."
+    },
+    {
+      "url": "https://nida.nih.gov/sites/default/files/2609-misuse-of-prescription-drugs_0.pdf",
+      "result": "Indexed source extract supports distinction. Direct access returned a JavaScript verification page; original supplied citation retained, not marked fully reverified."
+    }
+  ],
+  "clinicalAdditions": "None intended. Visuals summarize the supplied lessons; sources provide verification context."
+}

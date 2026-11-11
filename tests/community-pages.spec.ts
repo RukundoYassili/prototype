@@ -14,7 +14,7 @@ test("public community presents labelled demos and hides unpublished drafts", as
     .locator("#community")
     .getByRole("link", { name: "Explore our community work" })
     .click();
-  await expect(page).toHaveTitle("Community — BetterHelp");
+  await expect(page).toHaveTitle("Community — VUGA NDAKUMVA");
   await expect(
     page.getByRole("complementary", { name: "Demo content" }),
   ).toContainText("A preview of what’s possible");
@@ -43,7 +43,7 @@ test("public community presents labelled demos and hides unpublished drafts", as
     await expect(
       page.getByRole("heading", { name: "This update isn’t here." }),
     ).toBeVisible();
-    await expect(page).toHaveTitle("Community update not found — BetterHelp");
+    await expect(page).toHaveTitle("Community update not found — VUGA NDAKUMVA");
   }
 });
 

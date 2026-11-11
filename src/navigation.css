@@ -47,7 +47,10 @@
   text-decoration-thickness: 1px;
   text-underline-offset: 4px;
 }
-.header-hotlines a:hover strong { text-decoration-color: #fff; text-decoration-thickness: 2px; }
+.header-hotlines a:hover strong {
+  text-decoration-color: #fff;
+  text-decoration-thickness: 2px;
+}
 .header-utility-actions {
   grid-column: 2;
   grid-row: 1;
@@ -68,8 +71,14 @@
   }
 }
 @media (max-width: 1250px) {
-  .site-header.support-header .support-utility-bar { grid-template-columns: minmax(0, 1fr); }
-  .header-hotlines { grid-column: 1; grid-row: 1; column-gap: 28px; }
+  .site-header.support-header .support-utility-bar {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .header-hotlines {
+    grid-column: 1;
+    grid-row: 1;
+    column-gap: 28px;
+  }
   .header-utility-actions {
     grid-column: 1;
     grid-row: 2;
@@ -80,10 +89,21 @@
   }
 }
 @media (max-width: 650px) {
-  .site-header.support-header .support-utility-bar { padding: 4px var(--header-inline-gutter) 6px; margin-top: 0; gap: 4px; }
-  .header-hotlines { column-gap: 20px; }
-  .header-hotlines a { font-size: 12px; gap: 6px; }
-  .header-hotlines strong { font-size: 13px; }
+  .site-header.support-header .support-utility-bar {
+    padding: 4px var(--header-inline-gutter) 6px;
+    margin-top: 0;
+    gap: 4px;
+  }
+  .header-hotlines {
+    column-gap: 20px;
+  }
+  .header-hotlines a {
+    font-size: 12px;
+    gap: 6px;
+  }
+  .header-hotlines strong {
+    font-size: 13px;
+  }
 }
 
 /* Navigation disclosure: normal links, accessible by pointer, touch, and keyboard. */
@@ -305,7 +325,9 @@
   font-size: 11px;
   line-height: 1.2;
   white-space: nowrap;
-  transition: background 150ms ease, border-color 150ms ease;
+  transition:
+    background 150ms ease,
+    border-color 150ms ease;
 }
 .site-header.support-header .support-utility-bar .support-quick-exit:hover {
   background: #ffffff1f;
@@ -315,7 +337,9 @@
   color: #286340;
   background: #fff;
 }
-.site-header.support-header .support-utility-bar :is(a, button, select):focus-visible {
+.site-header.support-header
+  .support-utility-bar
+  :is(a, button, select):focus-visible {
   outline: 3px solid #fff;
   outline-offset: 3px;
 }
@@ -326,7 +350,9 @@
   border-radius: 6px;
 }
 @media (prefers-reduced-motion: reduce) {
-  .site-header.support-header .support-quick-exit { transition: none; }
+  .site-header.support-header .support-quick-exit {
+    transition: none;
+  }
 }
 
 @media (max-width: 1250px) {
@@ -334,5 +360,47 @@
     max-height: max(0px, calc(100dvh - var(--site-header-height) - 32px));
     overscroll-behavior: contain;
     scroll-padding-block: 12px;
+  }
+}
+/* Keep the supplied identity intact, with clear space and natural proportions. */
+.site-brand.vuga-logo {
+  width: 252px;
+  max-width: 100%;
+  min-height: 44px;
+  flex-shrink: 0;
+  padding-block: 3px;
+}
+.site-brand.vuga-logo img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.site-brand.vuga-logo:focus-visible {
+  outline: 3px solid #87aa64;
+  outline-offset: 5px;
+  border-radius: 4px;
+}
+.unified-footer .site-brand.vuga-logo {
+  width: 284px;
+  padding: 14px 16px;
+  background: #fff;
+  border-radius: 12px;
+}
+.header-hotline-region {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  color: #fff;
+}
+.header-hotlines a {
+  min-height: 24px;
+}
+@media (max-width: 680px) {
+  .support-header > .site-brand.vuga-logo {
+    width: clamp(140px, 40vw, 220px);
+  }
+  .header-hotline-region {
+    width: 100%;
+    line-height: 1.2;
   }
 }

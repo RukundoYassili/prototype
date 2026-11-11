@@ -85,7 +85,7 @@ for (const chapter of chapters) {
     const errors: string[] = [];
     page.on("pageerror", (e) => errors.push(e.message));
     await page.goto(chapterPath(chapter.slug));
-    await expect(page).toHaveTitle(`${chapter.title} — BetterHelp`);
+    await expect(page).toHaveTitle(`${chapter.title} — VUGA NDAKUMVA`);
     await expect(page.locator("h1")).toHaveText(chapter.title);
     await expect(page.locator(".mh-reader-version")).toHaveText(
       chapter.editionText!,

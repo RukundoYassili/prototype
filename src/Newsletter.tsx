@@ -23,7 +23,7 @@ export default function Newsletter() {
       <div className="site-newsletter-inner">
         <div className="site-newsletter-copy">
           <span className="site-newsletter-eyebrow">
-            <Mail size={16} aria-hidden="true" /> THE BETTERHELP LETTER
+            <Mail size={16} aria-hidden="true" /> THE VUGA NDAKUMVA LETTER
           </span>
           <h2 id={`${id}-title`}>
             A little calm.

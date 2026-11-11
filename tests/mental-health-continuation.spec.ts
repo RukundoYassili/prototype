@@ -42,7 +42,7 @@ test("ten chapters remain ordered and the original continuation stays linked in 
     ).toHaveCount(1);
   await page.locator(".mh-chapter-card a").nth(2).click();
   for (const chapter of continuationChapters) {
-    await expect(page).toHaveTitle(`${chapter.title} — BetterHelp`);
+    await expect(page).toHaveTitle(`${chapter.title} — VUGA NDAKUMVA`);
     const nav = page.getByRole("navigation", { name: "Chapter navigation" });
     await expect(
       nav.getByRole("link", { name: /PREVIOUS CHAPTER/ }),

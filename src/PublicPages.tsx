@@ -370,7 +370,7 @@ export function PolicyPage({ kind }: { kind: "privacy" | "terms" }) {
     : [
         [
           "A demonstration experience",
-          "This is a local reference recreation, not the official BetterHelp website. Services, professional profiles, prices, availability, and appointments are examples. Profiles are fictional and credentials are unverified.",
+          "This VUGA NDAKUMVA page is an interactive demonstration. Services, professional profiles, prices, availability, and appointments are examples. Profiles are fictional and credentials are unverified.",
         ],
         [
           "No real appointments or payments",

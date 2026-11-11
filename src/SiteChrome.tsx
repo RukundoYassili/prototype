@@ -2,7 +2,6 @@ import { useEffect, useLayoutEffect, useRef, useState } from "react";
 import { Link, NavLink, useLocation } from "react-router-dom";
 import {
   ArrowUpRight,
-  Flower2,
   Menu,
   X,
   LogOut,
@@ -40,11 +39,18 @@ const knowledgeLinks = [
 
 export function Brand() {
   return (
-    <Link to="/" className="site-brand" aria-label="BetterHelp home">
-      <Flower2 aria-hidden="true" size={30} />
-      <span>
-        Better<span>Help</span>
-      </span>
+    <Link
+      to="/"
+      className="site-brand vuga-logo"
+      aria-label="VUGA NDAKUMVA home"
+    >
+      <img
+        src="/images/brand/vugandakumva-logo.webp"
+        alt="Vugandakumva — Speak, I can hear"
+        width={1000}
+        height={237}
+        fetchPriority="high"
+      />
     </Link>
   );
 }
@@ -164,6 +170,7 @@ export function SiteHeader() {
             role="group"
             aria-label="Rwanda emergency numbers"
           >
+            <span className="header-hotline-region">Rwanda</span>
             {[
               ["Urgent help", "112"],
               ["GBV", "3512"],
@@ -354,9 +361,12 @@ export function SiteHeader() {
 }
 
 export function SiteFooter() {
+  const { pathname } = useLocation();
+  const isGbv =
+    pathname === "/understand-gbv" || pathname.startsWith("/understand-gbv/");
   return (
     <>
-      <Newsletter />
+      {!isGbv && <Newsletter />}
       <footer className="site-footer unified-footer" role="contentinfo">
         <div className="site-footer-main">
           <div className="site-footer-intro">
@@ -415,11 +425,8 @@ export function SiteFooter() {
           </div>
         </div>
         <div className="site-footer-bottom">
-          <span>BetterHelp · Understanding. Connection. Support.</span>
-          <span>
-            Temporary branding. Not affiliated with the official BetterHelp
-            service.
-          </span>
+          <span>VUGA NDAKUMVA · Understanding. Connection. Support.</span>
+          <span>Independent educational information and support pathways.</span>
         </div>
       </footer>
     </>

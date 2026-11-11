@@ -129,7 +129,7 @@ for (const chapter of gbvChapters) {
   }) => {
     test.setTimeout(60000);
     await page.goto(path(chapter.slug));
-    await expect(page).toHaveTitle(`${chapter.title} — BetterHelp`);
+    await expect(page).toHaveTitle(`${chapter.title} — VUGA NDAKUMVA`);
     await expect(page.locator('meta[name="description"]')).toHaveAttribute(
       "content",
       chapter.summary,
@@ -251,7 +251,7 @@ test("GBV boundaries, missing routes and browser history stay within the subject
   await page.goBack();
   await expect(page).toHaveURL(new RegExp(`${gbvChapters[1].slug}$`));
   await page.goto("/understand-gbv/chapter-four");
-  await expect(page).toHaveTitle("Chapter not found — BetterHelp");
+  await expect(page).toHaveTitle("Chapter not found — VUGA NDAKUMVA");
   await expect(page.locator("h1")).toHaveText("This chapter isn’t available.");
   await page
     .getByRole("link", { name: "Back to the chapters", exact: true })
@@ -328,9 +328,11 @@ for (const width of [375, 768, 1024, 1440, 1920])
           return bounds!.y >= header!.y + header!.height - 1;
         })
         .toBe(true);
-      if (width <= 1100) await page.locator(".mh-contents-toggle").click();
+      if (width <= 1100) await page.locator(".gbv-mobile-tools button").click();
       const link = page
-        .getByRole("navigation", { name: "Chapter contents" })
+        .getByRole("navigation", {
+          name: width <= 1100 ? "Mobile chapter contents" : "Chapter contents",
+        })
         .locator(`a[href$="#gbv-section-${chapter.number}-3"]`);
       await link.focus();
       await expect(link).toBeFocused();
@@ -338,9 +340,13 @@ for (const width of [375, 768, 1024, 1440, 1920])
       await expect(
         page.locator(`#gbv-section-${chapter.number}-3`),
       ).toBeFocused();
-      const table = page.locator(".mh-table-scroll").first();
-      await table.focus();
-      await page.keyboard.press("ArrowRight");
+      const table = page.locator(".mh-table-scroll:visible").first();
+      if (await table.count()) {
+        await table.focus();
+        await page.keyboard.press("ArrowRight");
+      } else {
+        await expect(page.locator(".gbv-table-pairs").first()).toBeVisible();
+      }
       expect(
         await page.evaluate(
           () => document.documentElement.scrollWidth <= innerWidth + 1,
@@ -348,10 +354,7 @@ for (const width of [375, 768, 1024, 1440, 1920])
       ).toBe(true);
       const image = page.locator(".lv-scene-image").first();
       const bounds = await image.boundingBox();
-      expect(bounds!.width / bounds!.height).toBeCloseTo(
-        width === 375 && chapter.number !== 1 ? 1.5 : 4 / 3,
-        1,
-      );
+      expect(bounds!.width / bounds!.height).toBeCloseTo(4 / 3, 1);
     }
   });
 
@@ -371,8 +374,8 @@ test("desktop tracking scrolls only the contents panel and print restores mixed 
         e.getBoundingClientRect().top +
         scrollY -
         (document.querySelector(".site-header")!.getBoundingClientRect()
-          .height +
-          40);
+          .bottom +
+          24);
       scrollTo({ top, behavior: "instant" });
       return top;
     });

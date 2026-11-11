@@ -1,0 +1,873 @@
+/* Shared presentation polish. Keep topic palettes, artwork and reader layouts intact.
+   Screen-only rules deliberately leave existing document print layouts alone. */
+@media screen {
+  :root {
+    --site-page-width: 1332px;
+    --site-page-gutter: 26px;
+    --site-section-space: 64px;
+  }
+
+  .support-home-content,
+  .support-page,
+  .support-page.topic-understand-gbv {
+    max-width: var(--site-page-width);
+    padding-inline: var(--site-page-gutter);
+  }
+  .support-section {
+    padding-block: var(--site-section-space);
+  }
+  .support-section-heading h2,
+  .support-page h2,
+  .about-page h2 {
+    letter-spacing: -0.035em;
+    text-wrap: pretty;
+  }
+  .support-page .support-title h1,
+  .support-page .blog-intro h1,
+  .support-page .community-hub-intro h1 {
+    font-size: clamp(36px, 4.25vw, 60px);
+    line-height: 1.1;
+    letter-spacing: -0.045em;
+    text-wrap: balance;
+  }
+  .support-page .support-title {
+    padding-block: 48px 40px;
+  }
+  .support-page .support-title > p {
+    max-width: 62ch;
+    font-size: 16px;
+    line-height: 1.75;
+  }
+  .support-eyebrow {
+    font-size: 11px;
+    letter-spacing: 0.12em;
+    line-height: 1.6;
+  }
+  .support-button,
+  .support-text-link {
+    font-size: 14px;
+  }
+  .support-button {
+    min-height: 48px;
+    padding: 13px 22px;
+  }
+  .support-topic-body > p,
+  .support-pathway p,
+  .support-category-list p,
+  .support-values p {
+    font-size: 15px;
+    line-height: 1.75;
+  }
+  .support-topic-body h3 {
+    font-size: clamp(24px, 2.1vw, 30px);
+    line-height: 1.2;
+  }
+  .support-pathway h3,
+  .support-category-list h3 {
+    font-size: 19px;
+    line-height: 1.35;
+  }
+  .support-card-action {
+    font-size: 14px;
+  }
+  .support-photo-note {
+    font-size: 12px;
+    line-height: 1.65;
+  }
+  .support-pathway {
+    padding: 24px 16px;
+    gap: 18px;
+  }
+  .support-path-number {
+    font-size: 12px;
+  }
+
+  /* Give the first screen a defined composition and reveal the next section. */
+  .landing.support-home .hero {
+    width: calc(100% - 48px);
+    max-width: 1392px;
+    height: clamp(540px, 68svh, 680px);
+    min-height: 540px;
+    margin: 24px auto 0;
+    border-radius: 28px;
+    overflow: hidden;
+  }
+  .landing.support-home .hero-bottom {
+    left: clamp(28px, 4vw, 64px);
+    right: clamp(28px, 4vw, 64px);
+    bottom: 44px;
+  }
+  .landing.support-home .hero h1 {
+    font-size: clamp(48px, 5.4vw, 76px);
+    line-height: 1.05;
+    letter-spacing: -0.045em;
+    margin: 18px 0 22px;
+  }
+  .support-home .support-hero-copy > p {
+    font-size: 16px;
+    max-width: 47ch;
+    line-height: 1.75;
+  }
+  .support-home .support-hero-eyebrow {
+    font-size: 11px;
+    letter-spacing: 0.1em;
+  }
+  .support-home .smile-mark {
+    margin-inline: 0.07em;
+    width: 0.74em;
+    height: 0.74em;
+  }
+  .landing.support-home .hero-mental-health .hero-shade {
+    background:
+      linear-gradient(90deg, #102a23b8, #102a2326 80%),
+      linear-gradient(0deg, #102a239e, #102a2300 85%);
+  }
+
+  /* Shared opening rhythm across illustrated and photographic pages. */
+  .support-page.about-page .about-hero,
+  .support-page.mh-library-illustrated .mh-library-hero,
+  .support-page.topic-understand-gbv .support-page-hero {
+    padding: 36px;
+    gap: 36px;
+    border-radius: 24px;
+  }
+  .support-page.about-page .about-hero h1,
+  .support-page.mh-library-illustrated .mh-library-hero h1,
+  .support-page.topic-understand-gbv .support-page-hero h1 {
+    font-size: clamp(36px, 3.8vw, 54px);
+    line-height: 1.12;
+    letter-spacing: -0.04em;
+  }
+  .support-page.mh-library-illustrated .mh-center-overview {
+    padding-block: 12px 20px;
+    margin-bottom: 20px;
+  }
+  .support-page.mh-library-illustrated .mh-library-chapters {
+    padding-top: 40px;
+  }
+  .support-page .community-hub-intro-with-photo {
+    gap: 48px;
+    padding-block: 20px 36px;
+  }
+  .support-page .community-hub-intro-visual > img {
+    border-radius: 24px;
+  }
+  .support-page .blog-intro {
+    padding-block: 48px 36px;
+    gap: 48px;
+  }
+  .support-page .blog-intro-note p {
+    font-size: 15px;
+    line-height: 1.75;
+  }
+  .blog-search input,
+  .blog-filters button {
+    font-size: 14px;
+  }
+
+  /* Clear, separate entry points instead of a wide, sparse list. */
+  .support-directory > .support-pathways {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 16px;
+    border-top: 0;
+  }
+  .support-directory > .support-pathways .support-pathway {
+    border: 1px solid var(--support-line);
+    border-radius: 20px;
+    padding: 24px;
+    background: #f6f9f1;
+    align-items: flex-start;
+  }
+  .support-directory > .support-pathways .support-pathway:hover {
+    background: #eaf6e0;
+  }
+  .support-directory > .support-pathways .support-pathway:last-child {
+    grid-column: 1 / -1;
+  }
+
+  .site-header.support-header .header-knowledge-panel strong {
+    font-size: 14px;
+  }
+  .site-header.support-header .header-knowledge-panel small {
+    font-size: 12px;
+    line-height: 1.5;
+  }
+  .site-header.support-header .header-knowledge-panel > a {
+    padding: 14px;
+  }
+  .unified-footer p,
+  .unified-footer nav a {
+    font-size: 14px;
+    line-height: 1.75;
+  }
+  .unified-footer .site-brand.vuga-logo {
+    width: 248px;
+  }
+
+  :where(main, .unified-footer)
+    :is(a, button, input, select, textarea, summary):focus-visible {
+    outline: 3px solid var(--color-focus);
+    outline-offset: 4px;
+  }
+  :where(main) :is(input, select, textarea) {
+    font-size: 16px;
+  }
+}
+
+@media screen and (min-width: 1251px) {
+  .site-header.support-header .public-navigation > a,
+  .site-header.support-header .header-knowledge-toggle {
+    font-size: 14px;
+  }
+  .support-header > .site-brand.vuga-logo {
+    width: 232px;
+  }
+}
+
+@media screen and (min-width: 681px) and (max-width: 1250px) {
+  .site-header.support-header .support-utility-bar {
+    grid-template-columns: minmax(0, 1fr) auto;
+  }
+  .site-header.support-header .header-hotlines {
+    gap: 0 16px;
+  }
+  .site-header.support-header .header-utility-actions {
+    grid-column: 2;
+    grid-row: 1;
+    border: 0;
+    padding: 0;
+  }
+}
+
+@media screen and (max-width: 680px) {
+  :root {
+    --site-page-gutter: 20px;
+    --site-section-space: 44px;
+  }
+  /* Keep all emergency numbers visible, with the exit beside the region label. */
+  .site-header.support-header .support-utility-bar {
+    position: relative;
+    padding-top: 8px;
+  }
+  .site-header.support-header .header-hotlines {
+    gap: 2px 18px;
+  }
+  .site-header.support-header .header-hotline-region {
+    min-height: 28px;
+    display: flex;
+    align-items: center;
+  }
+  .site-header.support-header .header-utility-actions {
+    position: absolute;
+    grid-area: auto;
+    right: var(--header-inline-gutter);
+    top: 6px;
+    border: 0;
+    padding: 0;
+  }
+  .site-header.support-header .support-utility-bar .support-quick-exit {
+    min-height: 28px;
+    padding: 4px 8px;
+  }
+  .site-header.support-header .header-hotlines a {
+    min-height: 26px;
+  }
+  .site-header.support-header .header-knowledge-panel strong {
+    font-size: 13px;
+  }
+  .site-header.support-header .header-knowledge-panel small {
+    font-size: 12px;
+  }
+  .landing.support-home .hero {
+    width: calc(100% - 24px);
+    height: 620px;
+    min-height: 0;
+    margin-top: 12px;
+    border-radius: 20px;
+  }
+  .landing.support-home .hero-bottom {
+    left: 22px;
+    right: 22px;
+    bottom: 28px;
+  }
+  .landing.support-home .hero h1 {
+    font-size: clamp(36px, 10.5vw, 52px);
+    margin-block: 16px 20px;
+  }
+  .support-home .support-hero-eyebrow {
+    font-size: 9px;
+    letter-spacing: 0.06em;
+  }
+  .support-home .support-hero-copy > p {
+    font-size: 15px;
+    line-height: 1.7;
+  }
+  .landing.support-home .hero-mental-health .hero-shade {
+    background: linear-gradient(0deg, #102a23eb, #102a2366 64%, #102a2300);
+  }
+  .support-page .support-title {
+    padding-block: 32px;
+  }
+  .support-page .support-title h1,
+  .support-page .blog-intro h1,
+  .support-page .community-hub-intro h1 {
+    font-size: 36px;
+  }
+  .support-page.about-page .about-hero,
+  .support-page.mh-library-illustrated .mh-library-hero,
+  .support-page.topic-understand-gbv .support-page-hero {
+    padding: 24px;
+    gap: 24px;
+    border-radius: 22px;
+  }
+  .support-page.about-page .about-hero h1,
+  .support-page.mh-library-illustrated .mh-library-hero h1,
+  .support-page.topic-understand-gbv .support-page-hero h1 {
+    font-size: 32px;
+  }
+  .support-page .community-hub-intro-with-photo {
+    gap: 24px;
+    padding-block: 12px 28px;
+  }
+  .support-page .blog-intro {
+    padding-block: 32px;
+    gap: 24px;
+  }
+  .support-directory > .support-pathways {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+  .support-directory > .support-pathways .support-pathway {
+    padding: 20px;
+    gap: 12px;
+  }
+  .support-pathway h3,
+  .support-category-list h3 {
+    font-size: 18px;
+  }
+  .support-pathway p,
+  .support-category-list p,
+  .support-values p {
+    font-size: 14px;
+  }
+}
+
+/* Editorial composition: clear hierarchy, warm imagery and restrained surfaces. */
+@media screen {
+  :root {
+    --site-page-width: 1252px;
+    --site-section-space: 72px;
+  }
+  .support-section-heading h2,
+  .support-page h2,
+  .about-page h2 {
+    font-weight: 600;
+    letter-spacing: -0.035em;
+  }
+  .support-eyebrow {
+    font-weight: 600;
+  }
+  .support-button {
+    border-radius: 10px;
+    font-weight: 600;
+  }
+  .support-home .support-section-heading {
+    margin-bottom: 32px;
+  }
+  .support-home .support-heading-row {
+    gap: 64px;
+    align-items: end;
+  }
+  .support-home .support-heading-row > p {
+    max-width: 43ch;
+  }
+
+  /* Text and imagery each have their own space; the existing carousel still runs. */
+  .landing.support-home .hero {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 56px;
+    width: calc(100% - 104px);
+    max-width: 1200px;
+    height: auto;
+    min-height: 520px;
+    margin: 48px auto 24px;
+    padding: 0;
+    background: transparent;
+    color: #203e2d;
+    border-radius: 0;
+    overflow: visible;
+  }
+  .landing.support-home .hero-slides {
+    position: relative;
+    inset: auto;
+    grid-column: 2;
+    grid-row: 1;
+    z-index: 0;
+    min-height: 520px;
+    border-radius: 16px;
+  }
+  .landing.support-home .hero-shade {
+    display: none;
+  }
+  .landing.support-home .hero-bottom {
+    position: relative;
+    inset: auto;
+    display: block;
+    grid-column: 1;
+    grid-row: 1;
+    align-self: center;
+    padding-block: 32px;
+  }
+  .landing.support-home .hero h1 {
+    font-size: clamp(46px, 5.1vw, 72px);
+    line-height: 1.05;
+    letter-spacing: -0.05em;
+    font-weight: 600;
+    color: #203e2d;
+    margin: 22px 0 26px;
+    text-wrap: initial;
+  }
+  .support-home .support-hero-eyebrow {
+    color: #42674a;
+    font-size: 11px;
+    letter-spacing: 0.11em;
+  }
+  .support-home .support-hero-copy > p {
+    color: #526152;
+    font-size: 17px;
+    line-height: 1.75;
+    max-width: 43ch;
+    margin-bottom: 28px;
+  }
+  .home-hero-actions {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 12px 24px;
+  }
+  .home-hero-actions .support-button {
+    background: #286340;
+    color: #fff;
+  }
+  .home-hero-actions .support-button:hover {
+    background: #203e2d;
+    color: #fff !important;
+  }
+  .home-hero-actions .support-text-link {
+    gap: 10px;
+  }
+
+  /* Use photographs and titles for distinction, instead of competing card fills. */
+  .support-home .support-topic-card,
+  .support-directory .support-topic-card {
+    background: #fff;
+    color: #203e2d;
+    border: 1px solid #dce3d6;
+    border-radius: 14px;
+    box-shadow: none;
+  }
+  .support-home .support-topic-card:hover,
+  .support-directory .support-topic-card:hover {
+    border-color: #286340;
+    box-shadow: 0 5px 18px #203e2d0a;
+  }
+  .support-home .support-topic-photo,
+  .support-directory .support-topic-photo {
+    margin: 0;
+    border-radius: 0;
+    aspect-ratio: 1.8;
+  }
+  .support-home .support-topic-body,
+  .support-directory .support-topic-body {
+    padding: 24px;
+  }
+  .support-home .support-topic-body h3,
+  .support-directory .support-topic-body h3 {
+    font-size: 27px;
+    font-weight: 600;
+  }
+  .support-home .support-topic-body > p,
+  .support-directory .support-topic-body > p {
+    color: #526152;
+  }
+  .support-home .support-topic-body .support-eyebrow,
+  .support-directory .support-topic-body .support-eyebrow {
+    color: #42674a;
+  }
+  .support-home .support-card-action,
+  .support-directory .support-card-action {
+    color: #286340;
+    border-color: #dce3d6;
+  }
+  .support-home .support-tone-2 .support-topic-link:focus-visible,
+  .support-directory .support-tone-2 .support-topic-link:focus-visible {
+    outline-color: #286340;
+  }
+  .support-card-number {
+    border-radius: 8px;
+    background: #fff;
+  }
+  .support-home .support-pathway {
+    border-radius: 0;
+    padding: 24px 8px;
+  }
+  .support-home .support-heading-flower {
+    display: none;
+  }
+  .support-home .support-resource-grid > a {
+    border-radius: 14px;
+    padding: 28px;
+  }
+  .support-home .support-resource-grid h3 {
+    font-size: 26px;
+  }
+  .support-home .support-programs {
+    border-radius: 18px;
+    padding: 48px;
+  }
+  .support-directory > .support-pathways .support-pathway {
+    border-radius: 14px;
+    background: #fff;
+  }
+  .support-directory > .support-pathways .support-pathway:hover {
+    background: #edf5ec;
+  }
+
+  /* A common opening rhythm, while each topic retains its established accent. */
+  .support-page.about-page .about-hero,
+  .support-page.mh-library-illustrated .mh-library-hero,
+  .support-page.topic-understand-gbv .support-page-hero {
+    background: transparent;
+    padding: 20px 0 36px;
+    border-radius: 0;
+    gap: 56px;
+    border-bottom: 1px solid #dce3d6;
+  }
+  .support-page.about-page .about-hero h1,
+  .support-page.mh-library-illustrated .mh-library-hero h1,
+  .support-page.topic-understand-gbv .support-page-hero h1,
+  .support-page .information-hero h1,
+  .support-page .community-hub-intro h1,
+  .support-page .blog-intro h1,
+  .support-page .support-title h1 {
+    font-size: clamp(38px, 4vw, 56px);
+    font-weight: 600;
+    letter-spacing: -0.04em;
+    line-height: 1.12;
+  }
+  .support-page .information-hero,
+  .support-page .support-page-hero {
+    gap: 56px;
+    padding-block: 40px;
+  }
+  .support-page .information-hero figure:not(.awareness-illustration) > img {
+    height: 350px;
+    border-radius: 16px;
+  }
+  .support-page .information-hero figcaption {
+    font-size: 12px;
+  }
+  .support-page .community-hub-intro-visual > img {
+    border-radius: 16px;
+  }
+  .support-page .community-hub-intro-visual figcaption {
+    left: 16px;
+    bottom: 16px;
+    border-radius: 10px;
+    padding: 10px 14px;
+    font-size: 12px;
+  }
+  .support-page .blog-intro {
+    padding-block: 44px 36px;
+  }
+  .support-page .blog-card,
+  .support-page .community-entry-card,
+  .support-page .information-card,
+  .support-page .about-focus-card {
+    border-radius: 14px;
+  }
+  .support-page .blog-card--featured .blog-card-photo {
+    min-height: 340px;
+  }
+  .support-page .blog-card-photo {
+    border-radius: 10px;
+  }
+  .support-page .blog-card--featured .blog-card-body {
+    padding: 32px;
+  }
+  .support-page .blog-card--featured h2 {
+    font-size: clamp(28px, 2.6vw, 36px);
+  }
+  .support-page.about-page .about-section {
+    padding: 56px 0;
+  }
+  .support-page.about-page .about-section-intro {
+    gap: 48px;
+  }
+
+  /* Smaller covers and a consistent reading hierarchy make catalogs scannable. */
+  .support-page.mh-library-illustrated .mh-center-overview {
+    margin-bottom: 16px;
+    padding-block: 8px 20px;
+  }
+  .support-page.mh-library-illustrated .mh-start-here {
+    padding: 22px 24px;
+    border-radius: 14px;
+  }
+  .support-page.mh-library-illustrated .mh-library-chapters {
+    padding-top: 32px;
+  }
+  .support-page:is(
+      .mh-library-illustrated,
+      .topic-understand-gbv,
+      .topic-alcohol-and-drugs
+    )
+    .mh-chapter-card {
+    border-radius: 14px;
+    box-shadow: none;
+  }
+  .support-page:is(
+      .mh-library-illustrated,
+      .topic-understand-gbv,
+      .topic-alcohol-and-drugs
+    )
+    .mh-card-photo {
+    padding: 12px 12px 0;
+    background: transparent;
+    border-radius: 0;
+  }
+  .support-page:is(
+      .mh-library-illustrated,
+      .topic-understand-gbv,
+      .topic-alcohol-and-drugs
+    )
+    .mh-card-photo
+    img {
+    border-radius: 10px;
+  }
+  .support-page:is(
+      .mh-library-illustrated,
+      .topic-understand-gbv,
+      .topic-alcohol-and-drugs
+    )
+    .mh-card-body {
+    padding: 22px;
+  }
+  .support-page:is(
+      .mh-library-illustrated,
+      .topic-understand-gbv,
+      .topic-alcohol-and-drugs
+    )
+    .mh-card-body
+    h3 {
+    font-size: 23px;
+    line-height: 1.3;
+    margin-block: 14px;
+  }
+  .support-page:is(
+      .mh-library-illustrated,
+      .topic-understand-gbv,
+      .topic-alcohol-and-drugs
+    )
+    .mh-card-body
+    > p {
+    font-size: 14px;
+    line-height: 1.7;
+    margin-bottom: 20px;
+  }
+  .support-page:is(
+      .mh-library-illustrated,
+      .topic-understand-gbv,
+      .topic-alcohol-and-drugs
+    )
+    .mh-card-meta {
+    font-size: 12px;
+    flex-wrap: wrap;
+  }
+  .support-page:is(
+      .mh-library-illustrated,
+      .topic-understand-gbv,
+      .topic-alcohol-and-drugs
+    )
+    .mh-card-time,
+  .support-page:is(
+      .mh-library-illustrated,
+      .topic-understand-gbv,
+      .topic-alcohol-and-drugs
+    )
+    .mh-card-visuals {
+    font-size: 12px;
+  }
+  .support-page:is(
+      .mh-library-illustrated,
+      .topic-understand-gbv,
+      .topic-alcohol-and-drugs
+    )
+    .mh-card-photo
+    > span {
+    background: transparent;
+    padding: 4px 8px;
+    border-radius: 0;
+  }
+
+  /* A quieter closing section does not compete with the page's main action. */
+  .site-newsletter {
+    padding-block: 44px;
+    background: #f4f7ee;
+  }
+  .site-newsletter-inner {
+    max-width: 1200px;
+    gap: 64px;
+  }
+  .site-newsletter h2 {
+    font-size: clamp(32px, 3vw, 42px);
+    letter-spacing: -0.04em;
+  }
+  .site-newsletter-signup {
+    border-radius: 16px;
+  }
+  .unified-footer .site-footer-grid {
+    max-width: 1200px;
+  }
+  .unified-footer h2 {
+    font-size: 34px;
+  }
+}
+@media screen and (min-width: 1180px) {
+  .support-page.mh-library-illustrated .mh-chapter-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 24px;
+  }
+  .support-page.mh-library-illustrated .mh-card-meta > span:last-child {
+    margin-left: 0;
+  }
+}
+@media screen and (min-width: 681px) and (max-width: 1050px) {
+  .landing.support-home .hero {
+    gap: 32px;
+    width: calc(100% - 52px);
+    min-height: 460px;
+  }
+  .landing.support-home .hero-slides {
+    min-height: 460px;
+  }
+  .landing.support-home .hero h1 {
+    font-size: 48px;
+  }
+  .support-home .support-hero-copy > p {
+    font-size: 16px;
+  }
+  .support-page.about-page .about-hero,
+  .support-page.mh-library-illustrated .mh-library-hero,
+  .support-page.topic-understand-gbv .support-page-hero {
+    gap: 32px;
+  }
+}
+@media screen and (max-width: 680px) {
+  :root {
+    --site-section-space: 48px;
+  }
+  .landing.support-home .hero {
+    width: calc(100% - 40px);
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 28px;
+    margin: 28px auto 0;
+    min-height: 0;
+    height: auto;
+    border-radius: 0;
+  }
+  .landing.support-home .hero-bottom {
+    grid-column: 1;
+    grid-row: 1;
+    padding: 0;
+  }
+  .landing.support-home .hero-slides {
+    grid-column: 1;
+    grid-row: 2;
+    height: 280px;
+    min-height: 0;
+    border-radius: 14px;
+  }
+  .landing.support-home .hero h1 {
+    font-size: clamp(40px, 11.2vw, 52px);
+    margin-block: 18px 20px;
+  }
+  .support-home .support-hero-eyebrow {
+    font-size: 10px;
+    letter-spacing: 0.07em;
+  }
+  .support-home .support-hero-copy > p {
+    font-size: 16px;
+    line-height: 1.7;
+    margin-bottom: 22px;
+  }
+  .home-hero-actions {
+    gap: 8px 20px;
+  }
+  .support-home .support-heading-row {
+    gap: 16px;
+    align-items: start;
+  }
+  .support-home .support-topic-grid {
+    gap: 22px;
+  }
+  .support-home .support-topic-body,
+  .support-directory .support-topic-body {
+    padding: 22px;
+  }
+  .support-home .support-programs {
+    padding: 28px 22px;
+  }
+  .support-page.about-page .about-hero,
+  .support-page.mh-library-illustrated .mh-library-hero,
+  .support-page.topic-understand-gbv .support-page-hero {
+    padding: 0 0 28px;
+    gap: 28px;
+  }
+  .support-page.about-page .about-hero h1,
+  .support-page.mh-library-illustrated .mh-library-hero h1,
+  .support-page.topic-understand-gbv .support-page-hero h1,
+  .support-page .information-hero h1,
+  .support-page .community-hub-intro h1,
+  .support-page .blog-intro h1,
+  .support-page .support-title h1 {
+    font-size: 36px;
+  }
+  .support-page .information-hero,
+  .support-page .support-page-hero {
+    gap: 28px;
+    padding-block: 28px;
+  }
+  .support-page .information-hero figure:not(.awareness-illustration) > img {
+    height: 250px;
+  }
+  .support-page.about-page .about-section {
+    padding-block: 40px;
+  }
+  .support-page.about-page .about-section-intro {
+    gap: 18px;
+  }
+  .support-page:is(
+      .mh-library-illustrated,
+      .topic-understand-gbv,
+      .topic-alcohol-and-drugs
+    )
+    .mh-card-body {
+    padding: 22px;
+  }
+  .support-page .blog-card--featured .blog-card-body {
+    padding: 24px;
+  }
+  .support-page .blog-card--featured .blog-card-photo {
+    min-height: 0;
+  }
+  .site-newsletter {
+    padding-block: 36px;
+  }
+  .site-newsletter-inner {
+    gap: 24px;
+  }
+}

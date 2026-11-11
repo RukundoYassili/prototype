@@ -39,7 +39,7 @@ test("audience actions, disclosures, anchors and privacy", async ({ page }) => {
     if (request.method() === "POST") posts.push(request.url());
   });
   await page.goto("/awareness");
-  await expect(page).toHaveTitle("Awareness — BetterHelp");
+  await expect(page).toHaveTitle("Awareness — VUGA NDAKUMVA");
   await expect(page.locator("h1")).toHaveText(
     "Understanding starts with a conversation.",
   );

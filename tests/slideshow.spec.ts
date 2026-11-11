@@ -36,12 +36,13 @@ test("five photos load with a loop duplicate and no slideshow buttons", async ({
   await expect(page.getByRole("heading", { level: 1 })).toBeVisible();
 });
 
-test("next photograph enters from the right while overlays stay fixed", async ({
+test("next photograph enters from the right while the adjacent heading stays fixed", async ({
   page,
 }) => {
   await page.setViewportSize({ width: 1440, height: 900 });
   await ready(page);
   const title = await page.getByRole("heading", { level: 1 }).boundingBox();
+  const frame = await page.locator(".hero-slides").boundingBox();
   await page.clock.fastForward(6500);
   await expect(page.locator(".hero-track")).toHaveAttribute(
     "data-position",
@@ -53,9 +54,9 @@ test("next photograph enters from the right while overlays stay fixed", async ({
     .evaluateAll((images) =>
       images.slice(0, 2).map((image) => image.getBoundingClientRect().left),
     );
-  expect(boxes[0]).toBeLessThan(0);
-  expect(boxes[1]).toBeGreaterThan(0);
-  expect(boxes[1]).toBeLessThan(1440);
+  expect(boxes[0]).toBeLessThan(frame!.x);
+  expect(boxes[1]).toBeGreaterThan(frame!.x);
+  expect(boxes[1]).toBeLessThan(frame!.x + frame!.width);
   expect(await page.getByRole("heading", { level: 1 }).boundingBox()).toEqual(
     title,
   );

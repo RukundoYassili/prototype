@@ -4,7 +4,7 @@ test("shared navigation, profile links, and illustrative story dialogs", async (
   page,
 }) => {
   await page.goto("/expertise");
-  await expect(page).toHaveTitle("Expertise — BetterHelp");
+  await expect(page).toHaveTitle("Expertise — VUGA NDAKUMVA");
   await page
     .getByRole("link", { name: "Explore profile", exact: true })
     .first()
@@ -34,7 +34,7 @@ test("shared navigation, profile links, and illustrative story dialogs", async (
     .getByRole("contentinfo")
     .getByRole("link", { name: "Privacy", exact: true })
     .click();
-  await expect(page).toHaveTitle("Privacy — BetterHelp");
+  await expect(page).toHaveTitle("Privacy — VUGA NDAKUMVA");
 });
 
 test("contact validates locally, clears fields, and sends no request", async ({

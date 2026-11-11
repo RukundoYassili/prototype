@@ -6,6 +6,26 @@ The Why Mental Health and Understand GBV libraries now share a reusable reader. 
 
 This file is project memory for another chat. A new chat must read it and inspect the current repository; it does not receive this conversation automatically. If the next chat uses another workspace, attach this file together with the relevant source documents.
 
+## Alcohol & Drugs editorial illustrations - 11 November 2026
+
+The landing page and all four readers now use topic-specific 2D editorial illustrations, without changing any generated source chapter or download. The inventory remains 15/11/20/17 sections (63 total). The hero headline is unchanged. The landing page Chapters jump now correctly targets `#alcohol-chapters`; other topic routes retain their existing anchors.
+
+`src/learning/alcohol-drugs/AlcoholArtwork.tsx` defines the exact chapter palettes and reusable responsive artwork. `AlcoholPages.tsx` synchronizes all four card covers with reader headers through the existing `ChapterPresentation` hook. `visuals.ts` separately defines one paired fictional teaching story and one editable HTML concept diagram per chapter: Jean's transport choice; the worker's assessment; Mireille's prescription-sharing concern; Chantal's reported concerns. All text remains editable. Source-example IDs determine placement. The scenarios do not diagnose or promise outcomes; disclosures, source qualifications and private reflection remain visible.
+
+Artwork comprises nine generated originals: one hero, four covers and four diptychs split into eight scene panels. `scripts/prepare-alcohol-editorial.mjs` retains the originals and prepares 31 local WebP variants. Full built-in generation prompts, file mappings, dimensions and hashes are in `public/images/learning/alcohol-drugs/provenance.json`; original PNGs and exact input briefs live in `artifacts/alcohol-editorial/`. Scene panels retain the whole composition at every width. No new service details, emergency numbers or source-reference check dates were introduced.
+
+`alcohol-artwork.css` scopes the four palettes and anchor offsets to this topic. Existing `LearningDiagram` accepts optional source links; other libraries render unchanged. Supplemental diagram checks are documented in `artifacts/alcohol-editorial/diagram-source-review.json`: WHO, NIAAA and CDC content were read; the NIDA PDF's indexed excerpt was available but direct access required JavaScript verification. This is not clinical or publication approval.
+
+`tests/alcohol-editorial.spec.ts` covers source hashes, all scene associations, matching covers, images, image failures, keyboard explanations, print expansion/restoration, no intake fields, Quick exit, history, anchor offsets and five responsive widths. Detail captures hide only fixed page chrome so it cannot obscure the element screenshot; hero captures retain the real header. The original `tests/alcohol-learning.spec.ts` reader regression checks remain applicable. Do not replace these illustrations with generic photography or merge supplemental text into source transcription.
+
+## Alcohol & Drugs ? Topics 01?04, 11 November 2026
+
+`/alcohol-and-drugs` now includes four full source-based readers under `/alcohol-and-drugs/:slug`, using `src/learning/alcohol-drugs/AlcoholPages.tsx` and the shared learning provider. Existing support guidance remains. The collection contains 42 source pages, 63 ordered sections, 15 tables and 31 references. The source uses Topic labels; reader navigation uses the established chapter terminology. Publication, clinical and safeguarding approvals remain pending.
+
+Run `scripts/inspect-alcohol-drugs.py` to extract and render all pages, then `scripts/import-alcohol-drugs.py` to regenerate `chapters.generated.ts` and the lightweight catalog. The importer handles each source layout, reconstructs the unruled tables using measured columns, checks ordered source text and independent pypdf character coverage, preserves inline references and editorial notes, and verifies copied PDF hashes. Do not edit the generated collections. Original PDFs, full optional-activity text downloads and `source-audit.json` live in `public/learning/alcohol-drugs/`.
+
+Source activities are fictional and use native, keyboard-accessible feedback disclosures; no answers are collected or scored. Original descriptions of future interactive features remain attributed source content, not claims that those features exist. No new media, clinical claims, emergency numbers, backend or persistence was introduced. Existing local photographs are illustrative. Supplemental visual lessons may be added separately in a later task. `tests/alcohol-learning.spec.ts` covers all four readers, reference targets, downloads, feedback, and five responsive widths.
+
 ## Mental Health library artwork — ten covers, 11 November 2026
 
 The selected scope was the chapter library only. All ten chapter cards now have content-specific, fictional flat 2D illustrations. The accepted Chapters 01–07 covers remain byte-identical; three additional scenes replace the Chapters 08–10 card photographs. The library still derives its ten-chapter/210-section totals from source records. Chapter 07 has 20 sections. Descriptions, reading information, English labels, routes, drafts, internal chapter content, source downloads, and original lesson visuals are unchanged.
@@ -330,6 +350,14 @@ The previous finishing pass passed the affected browser suites, TypeScript, prod
 - Print content complete, readable, and correctly restored afterward.
 - No sensitive intake, new persistence, backend, or unrelated homepage changes.
 - Affected regression suites, TypeScript, production build, and formatting passed; changes and remaining content limitations documented.
+
+## GBV Chapters 02–10 artwork registry — 11 November 2026
+
+The chapter-specific artwork registry is `src/learning/gbv/series-art.ts`. Covers are consumed by both the library and chapter headers. The 17 existing fictional pairs retain their captions, explanations, reflections and placement; `series-visuals.ts` selects new artwork by stable story and section identifiers. New internal assets live in `public/images/learning/gbv/chapter-02/` through `chapter-10/`, with 640/1280px variants. The nine new cover stems live under `public/images/learning/gbv-covers/`, with 480/960/1440px variants. Old assets remain available; the landing-page supporter scene keeps its original independent mapping.
+
+`series-art.css` defines exact chapter palettes behind the explicit `gbv-distinct-chapter gbv-chapter-NN` classes. Chapter 01 never receives these classes. Do not put chapter palette rules on shared navigation or safety controls, and do not replace Chapter 01's existing assets as part of this series refresh. Covers use contained 3:2 frames and internal scenes contained 4:3 frames. Narrative artwork uses the built-in image-generation workflow; exact diagrams stay editable HTML.
+
+Production briefs, exact prompts, original PNGs, responsive variants, provenance, comparison sheets and page captures are under `artifacts/gbv-distinct-series/`. `asset-manifest.json` maps all 43 illustrations to their source sections. `report.html` provides the human-readable inventory and decisions; `verification.json` and `tests.json` record checks. Use `node artifacts/gbv-distinct-series/prepare-assets.mjs` to regenerate optimized variants from the retained originals. The isolated production preview uses port 5193; it must be rebuilt before checking later changes. Keep the saved `before/` baseline intact.
 
 ## Prompt for the next chat
 
