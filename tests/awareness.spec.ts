@@ -1,6 +1,7 @@
 import { test, expect } from "@playwright/test";
 import { loadAwarenessContent } from "../src/awareness/content";
 import type { CommunityEntry } from "../src/community/content";
+import { createCommunityRepository } from "../src/community/repository";
 
 test("only published, approved, confirmed Community entries reach Awareness", () => {
   const activity: CommunityEntry = {
@@ -8,6 +9,13 @@ test("only published, approved, confirmed Community entries reach Awareness", ()
     kind: "workshops",
     title: "Confirmed workshop",
     summary: "A confirmed activity",
+    audience: "Community members",
+    schedule: {
+      startsAt: "2026-12-01T10:00:00+02:00",
+      timeZone: "Africa/Kigali",
+      location: "Community centre",
+      format: "In person",
+    },
     image: "mental-health-group",
     imageAlt: "Group",
     position: "50% 50%",
@@ -27,10 +35,17 @@ test("only published, approved, confirmed Community entries reach Awareness", ()
     { ...activity, slug: "unpublished", publishedAt: undefined },
     { ...activity, slug: "draft", status: "draft" },
     { ...activity, slug: "unapproved", mediaApproved: false },
+    { ...activity, slug: "missing-schedule", schedule: undefined },
+    { ...activity, slug: "missing-audience", audience: undefined },
+    { ...activity, slug: "demo", demo: true },
   ];
   expect(
     loadAwarenessContent(entries).activities.map((entry) => entry.slug),
   ).toEqual(["confirmed-workshop"]);
+  const repository = createCommunityRepository(entries);
+  for (const entry of loadAwarenessContent(entries).activities) {
+    expect(repository.get(entry.slug)).toBeDefined();
+  }
 });
 
 test("audience actions, disclosures, anchors and privacy", async ({ page }) => {
@@ -124,6 +139,13 @@ test("confirmed activities render from the content boundary", async ({
     kind: "workshops",
     title: "Confirmed workshop",
     summary: "Confirmed learning opportunity",
+    audience: "Community members",
+    schedule: {
+      startsAt: "2026-12-01T10:00:00+02:00",
+      timeZone: "Africa/Kigali",
+      location: "Community centre",
+      format: "In person",
+    },
     image: "mental-health-group",
     imageAlt: "Group",
     position: "50% 50%",
