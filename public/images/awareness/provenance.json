@@ -1,0 +1,138 @@
+{
+  "generator": "Built-in image_gen",
+  "disclosure": "AI-generated fictional illustrations, not actual participants or delivered activities.",
+  "styleReference": "New community-reading hero, informed by the existing mental-health and GBV cover palette and editorial style.",
+  "assets": [
+    {
+      "id": "community-reading",
+      "placement": "Awareness hero",
+      "generatedFile": "exec-7b0c4130-8829-4948-bf02-e56ce9e959a7.png",
+      "original": "artifacts/awareness-refresh/originals/community-reading.png",
+      "prompt": "Create ONE finished landscape 3:2 (1536x1024) 2D flat editorial illustration for the Awareness hero of VUGA NDAKUMVA, a Rwanda-focused educational website. Welcoming community learning scene, NOT an actual event. A modest contemporary neighbourhood reading terrace: a young Black African adult woman standing at a low open book shelf selects a book, a Black African man seated at the other end of a wide bench reads an open booklet, and an older Black African woman standing beside the bench makes a small conversational gesture towards the reader. They have comfortable space and equal agency, thoughtful natural expressions. One coherent wide scene, not a collage. Far background simple Kigali hillside rooftops and greenery, understated not tourist landmarks. Different actions and positions, no joined hands, no counselling circle, no classroom facilitator. Polished flat solid shapes, clean edges, consistent natural proportions and restrained facial details, mature editorial style. Palette deep purple #392653, lavender #b8a1df, golden yellow #edbb44, teal #245747, mint #cde7d5, soft blue #b6cee7. Solid pale lavender #f1edf7 background with generous negative space, full composition including heads hands and feet comfortably inside 8% safe margins. Clothes contemporary and everyday. No textures, gradients, photographic effects, text, lettering, numbers, logos, symbols floating above heads, labels, speech bubbles, watermark, diagnostic or cure symbolism. Keep every caption and heading OUT of the artwork.",
+      "review": "Accepted: three distinct learning actions, natural anatomy and expressions, full figures visible, no event or service claim. Slight tonal shading is retained as consistent with existing editorial artwork.",
+      "originalWidth": 1536,
+      "originalHeight": 1024,
+      "originalSha256": "32bf4955672b714e8782b2a10bb6460e64bbb771d108159dfc551152355b123d",
+      "crop": "None. Full composition, object-fit: contain.",
+      "variants": [
+        {
+          "path": "/images/awareness/community-reading-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 21586
+        },
+        {
+          "path": "/images/awareness/community-reading-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 51342
+        },
+        {
+          "path": "/images/awareness/community-reading-1440.webp",
+          "width": 1440,
+          "height": 960,
+          "bytes": 84654
+        }
+      ]
+    },
+    {
+      "id": "one-study-task",
+      "placement": "Mental-health fictional example",
+      "generatedFile": "exec-70ed1fd7-1b00-4806-ad2d-0b888b7164b2.png",
+      "original": "artifacts/awareness-refresh/originals/one-study-task.png",
+      "scenePrompt": "MENTAL HEALTH EXAM PRESSURE EXAMPLE. Pale mint #edf5ec background. Two Black African students, both about 19 years old, in a quiet study corner. View slightly elevated diagonally across a small desk so we see one open planner with blank simple boxes and one pencil. A young woman seated on a stool looks thoughtful and tired, one hand resting near HER planner. Her male friend stands at the adjacent end of desk at a comfortable distance, asking an open question with one relaxed palm rather than pointing or taking control. She chooses one small study task. No triumph, no forced smiles, no suggestion that planning cures distress. Simple open window showing soft green hills. Only relevant study props. Distinct standing/seated arrangement, not a counselling circle. Heads and all hands anatomically clear.",
+      "review": "Accepted: thoughtful student controls her planner and pencil, friend offers attention without taking over, relevant study props, no implied cure.",
+      "prompt": "Create ONE finished landscape 3:2 (1536x1024) flat 2D editorial illustration for VUGA NDAKUMVA Awareness. Reference image is STYLE ONLY, not the scene: match mature publication-quality clean solid shapes, natural proportions, restrained facial details, contemporary Black African people, respectful Rwanda-relevant everyday settings, deep purple #392653, lavender #b8a1df, golden yellow #edbb44, teal #245747, mint #cde7d5 and soft blue #b6cee7. All fictional. No text, numbers, logos, watermarks, symbols floating over heads, speech bubbles, gradients or photorealism. Generous space, all heads hands feet inside 8% safe margins. MENTAL HEALTH EXAM PRESSURE EXAMPLE. Pale mint #edf5ec background. Two Black African students, both about 19 years old, in a quiet study corner. View slightly elevated diagonally across a small desk so we see one open planner with blank simple boxes and one pencil. A young woman seated on a stool looks thoughtful and tired, one hand resting near HER planner. Her male friend stands at the adjacent end of desk at a comfortable distance, asking an open question with one relaxed palm rather than pointing or taking control. She chooses one small study task. No triumph, no forced smiles, no suggestion that planning cures distress. Simple open window showing soft green hills. Only relevant study props. Distinct standing/seated arrangement, not a counselling circle. Heads and all hands anatomically clear.",
+      "originalWidth": 1536,
+      "originalHeight": 1024,
+      "originalSha256": "b2f543188b5b4b699b730322cc8f58e060024f4811602a366a1dd9d5526d22b5",
+      "crop": "None. Full composition, object-fit: contain.",
+      "variants": [
+        {
+          "path": "/images/awareness/one-study-task-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 22468
+        },
+        {
+          "path": "/images/awareness/one-study-task-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 53554
+        },
+        {
+          "path": "/images/awareness/one-study-task-1440.webp",
+          "width": 1440,
+          "height": 960,
+          "bytes": 86454
+        }
+      ]
+    },
+    {
+      "id": "space-and-device-choice",
+      "placement": "Safety and respect fictional example",
+      "generatedFile": "exec-7896fa26-853d-4e56-bf8c-02f79f532e44.png",
+      "original": "artifacts/awareness-refresh/originals/space-and-device-choice.png",
+      "scenePrompt": "SAFETY, RESPECT AND CHOICE EXAMPLE. Solid pale lavender #f1edf7 background. Two adult Black African women in a private-feeling open courtyard with a low wall, leafy planter, and generous empty space. Main woman at right stands with her OWN smartphone held close at her waist, screen facing only her, the other hand loosely resting at her side; she looks thoughtful and concerned, not terrified. A friend at left sits on a low bench at respectful distance, open relaxed hands resting on HER OWN knees, listening with gentle attentive expression. The standing person controls her own device and next steps. No readable screen, messages, partner, confrontation, device sharing, pointing, grabbing, surveillance icons, locks, chains, dramatic distress. Compose a wide scene from slightly side-on, contemporary everyday attire. Essential meaning: listener leaves space and agency.",
+      "review": "Accepted: device remains in its owner's hand, screen faces owner, listener leaves physical space, no readable messages or confrontation.",
+      "prompt": "Create ONE finished landscape 3:2 (1536x1024) flat 2D editorial illustration for VUGA NDAKUMVA Awareness. Reference image is STYLE ONLY, not the scene: match mature publication-quality clean solid shapes, natural proportions, restrained facial details, contemporary Black African people, respectful Rwanda-relevant everyday settings, deep purple #392653, lavender #b8a1df, golden yellow #edbb44, teal #245747, mint #cde7d5 and soft blue #b6cee7. All fictional. No text, numbers, logos, watermarks, symbols floating over heads, speech bubbles, gradients or photorealism. Generous space, all heads hands feet inside 8% safe margins. SAFETY, RESPECT AND CHOICE EXAMPLE. Solid pale lavender #f1edf7 background. Two adult Black African women in a private-feeling open courtyard with a low wall, leafy planter, and generous empty space. Main woman at right stands with her OWN smartphone held close at her waist, screen facing only her, the other hand loosely resting at her side; she looks thoughtful and concerned, not terrified. A friend at left sits on a low bench at respectful distance, open relaxed hands resting on HER OWN knees, listening with gentle attentive expression. The standing person controls her own device and next steps. No readable screen, messages, partner, confrontation, device sharing, pointing, grabbing, surveillance icons, locks, chains, dramatic distress. Compose a wide scene from slightly side-on, contemporary everyday attire. Essential meaning: listener leaves space and agency.",
+      "originalWidth": 1536,
+      "originalHeight": 1024,
+      "originalSha256": "e05c1ed247af76d72cd3cd5c2719d4928be0a573b73d4e1ca14d0b6493481684",
+      "crop": "None. Full composition, object-fit: contain.",
+      "variants": [
+        {
+          "path": "/images/awareness/space-and-device-choice-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 16150
+        },
+        {
+          "path": "/images/awareness/space-and-device-choice-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 36964
+        },
+        {
+          "path": "/images/awareness/space-and-device-choice-1440.webp",
+          "width": 1440,
+          "height": 960,
+          "bytes": 60626
+        }
+      ]
+    },
+    {
+      "id": "a-calm-check-in",
+      "placement": "Alcohol and drugs fictional example; reused as topic-resource thumbnail",
+      "generatedFile": "exec-41941dea-c8fa-492e-a683-4e25f2352c4d.png",
+      "original": "artifacts/awareness-refresh/originals/a-calm-check-in.png",
+      "scenePrompt": "ALCOHOL AND DRUGS AWARENESS EXAMPLE. Solid pale mint #edf5ec background. Two Black African adult relatives standing in a quiet home doorway area opening to a courtyard, at a calm moment. Younger adult man on left in lavender lightly holds a small closed plain appointment notebook down at his own side, not presenting it; he asks his middle-aged female relative how things have been after a missed commitment. She stands on right in teal, listening thoughtfully with one hand lightly resting on the door frame. Both faces natural and serious but warm, equal dignity and space, no accusation, no touching. Wide eye-level composition with one simple empty stool and modest doorway as setting, no other props. NOT two people seated at a table. No bottles, syringes, alcohol containers, substances, intoxication, moralising symbols, uniforms or stigma. The notebook subtly supports the missed-commitment context without medical, diagnostic or recovery claims.",
+      "review": "Accepted: standing relatives in an everyday doorway, relevant notebook, respectful expressions, no substance props or stigmatizing visual shorthand.",
+      "prompt": "Create ONE finished landscape 3:2 (1536x1024) flat 2D editorial illustration for VUGA NDAKUMVA Awareness. Reference image is STYLE ONLY, not the scene: match mature publication-quality clean solid shapes, natural proportions, restrained facial details, contemporary Black African people, respectful Rwanda-relevant everyday settings, deep purple #392653, lavender #b8a1df, golden yellow #edbb44, teal #245747, mint #cde7d5 and soft blue #b6cee7. All fictional. No text, numbers, logos, watermarks, symbols floating over heads, speech bubbles, gradients or photorealism. Generous space, all heads hands feet inside 8% safe margins. ALCOHOL AND DRUGS AWARENESS EXAMPLE. Solid pale mint #edf5ec background. Two Black African adult relatives standing in a quiet home doorway area opening to a courtyard, at a calm moment. Younger adult man on left in lavender lightly holds a small closed plain appointment notebook down at his own side, not presenting it; he asks his middle-aged female relative how things have been after a missed commitment. She stands on right in teal, listening thoughtfully with one hand lightly resting on the door frame. Both faces natural and serious but warm, equal dignity and space, no accusation, no touching. Wide eye-level composition with one simple empty stool and modest doorway as setting, no other props. NOT two people seated at a table. No bottles, syringes, alcohol containers, substances, intoxication, moralising symbols, uniforms or stigma. The notebook subtly supports the missed-commitment context without medical, diagnostic or recovery claims.",
+      "originalWidth": 1536,
+      "originalHeight": 1024,
+      "originalSha256": "9033943a5b30e7b727c8ebb83d94ee955db3c52f8ea9bfb9c44a4149c7d08de9",
+      "crop": "None. Full composition, object-fit: contain.",
+      "variants": [
+        {
+          "path": "/images/awareness/a-calm-check-in-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 15400
+        },
+        {
+          "path": "/images/awareness/a-calm-check-in-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 34826
+        },
+        {
+          "path": "/images/awareness/a-calm-check-in-1440.webp",
+          "width": 1440,
+          "height": 960,
+          "bytes": 55186
+        }
+      ]
+    }
+  ]
+}

@@ -212,7 +212,7 @@ test("knowledge landing pages provide working destinations and Donate collects n
   await expect(page).toHaveURL(/\/understand-gbv$/);
   await page.goto("/awareness");
   await page
-    .getByRole("link", { name: "Visit Community", exact: true })
+    .getByRole("link", { name: "Explore Community", exact: true })
     .click();
   await expect(page).toHaveURL(/\/community$/);
   await page.goto("/donate");

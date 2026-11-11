@@ -1,3 +1,4 @@
+import AwarenessPage from "./awareness/AwarenessPage";
 import {
   ContactPage,
   ExpertisePage,
@@ -22,14 +23,10 @@ import BookingDialog from "./services/BookingDialog";
 import { BlogPage, BlogPostPage } from "./blog/BlogPages";
 import { findBlogPost } from "./blog/posts";
 import { CommunityPage, CommunityDetailPage } from "./community/CommunityPages";
-import { findCommunityEntry } from "./community/content";
+import { findCommunityEntry } from "./community/repository";
 import { findMentalHealthChapter } from "./learning/catalog";
 import { findGbvChapter } from "./learning/gbv/catalog";
-import {
-  AwarenessPage,
-  KnowledgeHubPage,
-  DonatePage,
-} from "./support/InformationPages";
+import { KnowledgeHubPage, DonatePage } from "./support/InformationPages";
 import {
   SupportLayout,
   SupportAboutPage,
@@ -121,14 +118,14 @@ function NavigationReset() {
           (pathname === "/knowledge-hub"
             ? "Explore the Knowledge Hub: mental health, understanding GBV, alcohol and drugs, thoughtful articles, guides, and worksheets."
             : pathname === "/awareness"
-              ? "Awareness, community learning, and clear conversations about mental health, personal safety, and substance use."
+              ? "Learn about mental health, safety and respect, and alcohol and drugs. Explore everyday actions, conversation starters, and community learning."
               : pathname === "/why-mental-health"
                 ? "Explore the VUGA NDAKUMVA Mental Health learning series: full chapters on mental health, wellbeing, recognizing emotions, and responding to them."
                 : pathname === "/donate"
                   ? "Learn about the purpose behind our community work and the current availability of official giving options."
                   : "") ||
           (pathname === "/community"
-            ? "Community news, outreach stories, events, and workshops. Explore ways to connect, learn, and grow with the BetterHelp community."
+            ? "Community news, outreach stories, videos, photo albums, events, and workshops. Explore ways to connect, learn, and grow with the BetterHelp community."
             : "") ||
           blogPost?.excerpt ||
           (pathname === "/blog"

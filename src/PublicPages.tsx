@@ -360,7 +360,7 @@ export function PolicyPage({ kind }: { kind: "privacy" | "terms" }) {
         ],
         [
           "Storage, assets, and external links",
-          "The application does not intentionally persist activity in cookies or browser storage. Photographs and fonts are served locally. Your browser may cache assets. Links to external information open third-party websites with their own privacy practices; hosting and browser infrastructure may process technical connection information.",
+          "The application does not intentionally persist activity in cookies or browser storage. Photographs and fonts are served locally. Your browser may cache assets. Community video players load only after you choose to load them. YouTube players then connect to YouTube, which has its own privacy practices; video hosts may process technical connection information. You can read video transcripts without loading a player. Links to external information open third-party websites with their own privacy practices; hosting and browser infrastructure may process technical connection information.",
         ],
         [
           "Before production use",

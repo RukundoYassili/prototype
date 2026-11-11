@@ -1,0 +1,16 @@
+{
+  "purpose": "Replaceable demo media. Not recordings of this organisation's community activities.",
+  "connection.mp4": {
+    "description": "12-second silent montage of existing illustrative stock photographs, 960x540 H.264, fast-start MP4.",
+    "sources": ["/images/mental-health-group.webp", "/images/mental-health-connection.webp", "/images/mental-health-listening.webp"],
+    "provenance": "/images/mental-health-slide-credits.json",
+    "captions": "/community-demo/connection.en.vtt"
+  },
+  "flowers.webm": {
+    "description": "MDN CC0 sample nature clip. Not an outreach recording.",
+    "source": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.webm",
+    "license": "CC0",
+    "captions": "/community-demo/flowers.en.vtt",
+    "poster": "/community-demo/flowers-poster.webp"
+  }
+}

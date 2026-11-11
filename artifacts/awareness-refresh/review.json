@@ -1,0 +1,36 @@
+{
+  "route": "/awareness",
+  "changedFiles": [
+    "src/awareness/AwarenessPage.tsx",
+    "src/awareness/awareness.css",
+    "src/awareness/content.ts",
+    "src/awareness/AwarenessIllustration.tsx",
+    "src/awareness/illustrations.ts",
+    "scripts/prepare-awareness-illustrations.mjs",
+    "tests/awareness.spec.ts",
+    "README.md",
+    "artifacts/awareness-refresh/illustration-manifest.json",
+    "artifacts/awareness-refresh/originals/*.png",
+    "public/images/awareness/*.webp",
+    "public/images/awareness/provenance.json"
+  ],
+  "illustrationMappings": {
+    "hero": "community-reading",
+    "mental-health fictional example": "one-study-task",
+    "safety and respect fictional example": "space-and-device-choice",
+    "alcohol and drugs fictional example": "a-calm-check-in"
+  },
+  "resourceArtwork": "Four existing chapter covers, the existing About listening illustration, and the new relatives scene reused as a thumbnail.",
+  "assetPreparation": { "variants": 12, "widths": [480, 960, 1440], "totalWebPBytes": 539210, "crop": "None; full compositions retained." },
+  "verification": {
+    "typecheck": "Passed",
+    "productionBuild": "Passed; existing large-chunk warning remains",
+    "awarenessTests": "7 passed; includes all five audience panels, all six FAQ controls and answers, all five section anchors, image loading/aspect ratios, disclosures, citations and checked date, privacy, resource/support journeys, and confirmed/empty activity states.",
+    "regressionTests": "17 shared navigation, public-page, and Community checks passed. The 768px navigation case failed in the live-preview run and passed when rerun against the built preview.",
+    "responsiveWidths": [375, 768, 1440],
+    "visualReview": "Reviewed desktop and mobile captures, full image compositions, all three example scenes, resource artwork, programme status, typography and spacing. Final mobile hero capture was repeated after image painting to replace an incomplete screenshot.",
+    "contrast": "Seven sampled text/control pairs passed 4.5:1; minimum sampled ratio 5.76:1. This is not a complete accessibility certification."
+  },
+  "preserved": "All educational copy, five audience perspectives, six FAQ answers, optional reflections, citations, review requirements, checked date 2026-11-11, primary anchors, destination links, and existing site safety features. No storage, analytics, forms, service availability, or delivered-programme claims added.",
+  "remainingGaps": ["No unfinished illustration assets. Independent clinical, legal and safeguarding review remains pending, as disclosed before this visual refresh."]
+}

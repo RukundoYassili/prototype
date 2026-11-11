@@ -36,6 +36,8 @@ export function useChapterRouteFocus() {
   useEffect(() => {
     // The reading module may arrive after the global route scroll effect.
     const frame = requestAnimationFrame(() => {
+      // A late-loaded reader must not steal focus after someone reopens navigation.
+      if (document.activeElement?.closest(".site-header")) return;
       const target = hash
         ? document.getElementById(hash.slice(1))
         : document.getElementById("service-main");

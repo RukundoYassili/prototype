@@ -1,0 +1,44 @@
+[
+  {
+    "selector": ".awareness-hero h1",
+    "foreground": "rgb(57, 38, 83)",
+    "background": "rgb(255, 255, 255)",
+    "ratio": 13.32
+  },
+  {
+    "selector": ".awareness-hero h1 > span",
+    "foreground": "rgb(117, 90, 148)",
+    "background": "rgb(255, 255, 255)",
+    "ratio": 5.76
+  },
+  {
+    "selector": ".awareness-page p",
+    "foreground": "rgb(93, 86, 101)",
+    "background": "rgb(255, 255, 255)",
+    "ratio": 7.04
+  },
+  {
+    "selector": ".awareness-programmes p",
+    "foreground": "rgb(93, 86, 101)",
+    "background": "rgb(241, 237, 247)",
+    "ratio": 6.1
+  },
+  {
+    "selector": ".awareness-audience-buttons button[aria-pressed=\"true\"]",
+    "foreground": "rgb(255, 255, 255)",
+    "background": "rgb(57, 38, 83)",
+    "ratio": 13.32
+  },
+  {
+    "selector": ".awareness-page .support-button",
+    "foreground": "rgb(255, 255, 255)",
+    "background": "rgb(36, 87, 71)",
+    "ratio": 8.3
+  },
+  {
+    "selector": ".awareness-page .support-eyebrow",
+    "foreground": "rgb(105, 81, 127)",
+    "background": "rgb(255, 255, 255)",
+    "ratio": 6.81
+  }
+]

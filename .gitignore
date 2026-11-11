@@ -27,3 +27,6 @@ playwright-report/
 !/artifacts/reference.webp
 !/artifacts/hero-reference.png
 !/artifacts/hero-restored.png
+
+# Local development tools and logs.
+/.runtime/

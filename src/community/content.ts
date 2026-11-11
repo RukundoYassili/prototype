@@ -1,4 +1,16 @@
-export type CommunityKind = "news" | "events" | "workshops";
+import type { CommunityPhoto } from "./photos";
+import { demoCommunityEntries } from "./demo-content";
+
+export type CommunityKind =
+  "news" | "events" | "workshops" | "videos" | "albums";
+export type CommunityVideo = {
+  source:
+    { provider: "youtube"; id: string } | { provider: "local"; src: string };
+  durationSeconds: number;
+  language: string;
+  captions: { src: string; language: string; label: string }[];
+  transcript: string;
+};
 
 export type CommunitySchedule = {
   startsAt: string; // ISO date with a UTC offset, so the displayed instant is unambiguous.
@@ -6,11 +18,12 @@ export type CommunitySchedule = {
   location: string;
   format: "In person" | "Online" | "Hybrid";
   registrationUrl?: string;
+  endsAt?: string;
+  cancelled?: boolean;
 };
 
-export type CommunityEntry = {
+type CommunityBase = {
   slug: string;
-  kind: CommunityKind;
   title: string;
   summary: string;
   image: string;
@@ -22,7 +35,20 @@ export type CommunityEntry = {
   audience?: string;
   schedule?: CommunitySchedule;
   sections: { title: string; text: string; points?: string[] }[];
+  status: "draft" | "published";
+  mediaApproved: boolean;
+  featured?: boolean;
+  demo?: boolean;
+  topics: string[];
+  relatedSlugs?: string[];
+  resources?: { title: string; href: string }[];
 };
+export type CommunityEntry = CommunityBase &
+  (
+    | { kind: "news" | "events" | "workshops"; video?: never; photos?: never }
+    | { kind: "videos"; video: CommunityVideo; photos?: never }
+    | { kind: "albums"; photos: CommunityPhoto[]; video?: never }
+  );
 
 export const communityKinds: {
   id: CommunityKind;
@@ -32,7 +58,7 @@ export const communityKinds: {
 }[] = [
   {
     id: "news",
-    label: "News",
+    label: "Stories",
     singular: "Community news",
     description: "Stories, reflections, and outreach updates.",
   },
@@ -48,14 +74,29 @@ export const communityKinds: {
     singular: "Workshop",
     description: "Space to listen, learn, and share ideas.",
   },
+  {
+    id: "videos",
+    label: "Videos",
+    singular: "Community video",
+    description: "Conversations and learning, at your pace.",
+  },
+  {
+    id: "albums",
+    label: "Photo albums",
+    singular: "Photo album",
+    description: "Moments from our community.",
+  },
 ];
 
 export const communityKindLabel = (kind: CommunityKind) =>
   communityKinds.find((item) => item.id === kind)!.singular;
 
-// Content templates requested for the community launch. Replace these records
-// with confirmed content, then set template: false. Never invent dates or quotes.
-export const communityEntries: CommunityEntry[] = [
+// Keep legacy templates for explicit development previews. Add approved content
+// to editorialEntries below using the same slug when replacing a template.
+const templateEntries: (Omit<
+  CommunityBase,
+  "status" | "mediaApproved" | "topics"
+> & { kind: "news" | "events" | "workshops" })[] = [
   {
     slug: "community-outreach-update",
     kind: "news",
@@ -228,8 +269,33 @@ export const communityEntries: CommunityEntry[] = [
   },
 ];
 
-export const findCommunityEntry = (slug?: string) =>
-  communityEntries.find((entry) => entry.slug === slug);
+// Local editorial collection; a future CMS adapter will supply this contract.
+// Replace demo records with approved material here when ready.
+const editorialEntries: CommunityEntry[] = [];
+export const SHOW_COMMUNITY_DEMOS = true;
+const activeEntries = [
+  ...editorialEntries,
+  ...(SHOW_COMMUNITY_DEMOS
+    ? demoCommunityEntries.filter(
+        (demo) => !editorialEntries.some((entry) => entry.slug === demo.slug),
+      )
+    : []),
+];
+
+export const communityEntries: CommunityEntry[] = [
+  ...activeEntries,
+  ...templateEntries
+    .filter(
+      (template) =>
+        !activeEntries.some((entry) => entry.slug === template.slug),
+    )
+    .map((entry): CommunityEntry => ({
+      ...entry,
+      status: "draft",
+      mediaApproved: false,
+      topics: [],
+    })),
+];
 
 export function communityDate(value: string, timeZone = "Africa/Kigali") {
   return new Intl.DateTimeFormat("en-GB", {
