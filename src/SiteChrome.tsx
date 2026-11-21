@@ -8,6 +8,8 @@ import {
   ChevronRight,
   ChevronDown,
   Heart,
+  Linkedin,
+  Phone,
 } from "lucide-react";
 import { useDemo } from "./services/DemoContext";
 import type { Region } from "./services/data";
@@ -173,6 +175,7 @@ export function SiteHeader() {
                 href={`tel:${number}`}
                 aria-label={`Rwanda ${label}: ${number}`}
               >
+                <Phone size={12} aria-hidden="true" />
                 <span>{label}</span>
                 <strong>{number}</strong>
               </a>
@@ -350,6 +353,16 @@ export function SiteHeader() {
   );
 }
 
+// Social glyphs are from Simple Icons (CC0) and Lucide.
+const socialLinks = [
+  { name: "X", href: "https://x.com/NdakumvaVuga", icon: "x" },
+  { name: "LinkedIn", href: "https://www.linkedin.com/company/vuga-ndakumva-initiative/" },
+  { name: "Instagram", href: "https://www.instagram.com/vuga_ndakumva_initiative/", icon: "instagram" },
+  { name: "Facebook", href: "https://www.facebook.com/vugandakumvainitiative", icon: "facebook" },
+  { name: "YouTube", href: "https://www.youtube.com/@vugandakumvainitiative", icon: "youtube" },
+  { name: "TikTok", href: "https://www.tiktok.com/@vugandakumvainitiative", icon: "tiktok" },
+];
+
 export function SiteFooter() {
   const { pathname } = useLocation();
   const isGbv =
@@ -361,7 +374,7 @@ export function SiteFooter() {
         <div className="site-footer-main">
           <div className="site-footer-intro">
             <Link to="/" className="site-brand vuga-logo" aria-label="VUGA NDAKUMVA home">
-              <img src="/images/brand/vugandakumva-white.png" alt="Vugandakumva ? Speak, I can hear" width={2172} height={724} />
+              <img src="/images/brand/vugandakumva-white.png" alt="Vugandakumva — Speak, I can hear" width={2172} height={724} />
             </Link>
             <h2>
               A little more room
@@ -373,8 +386,15 @@ export function SiteFooter() {
               appropriate care. Explore your options at your own pace.
             </p>
             <Link to="/support" className="site-cta">
-              Find support <ArrowUpRight size={17} />
+              Find support <ArrowUpRight size={17} aria-hidden="true" />
             </Link>
+            <nav className="site-social-links" aria-label="Social media">
+              {socialLinks.map(({ name, href, icon }) => (
+                <a key={name} href={href} target="_blank" rel="noopener noreferrer" aria-label={`Vuga Ndakumva on ${name} (opens in a new tab)`} title={name}>
+                  {icon ? <img src={`/images/social/${icon}.svg`} alt="" width={19} height={19} /> : <Linkedin size={19} aria-hidden="true" />}
+                </a>
+              ))}
+            </nav>
           </div>
           <div>
             <h3>Explore</h3>
