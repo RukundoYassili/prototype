@@ -21,6 +21,10 @@ test("published fixture layout has ordered sections and unified discovery with p
     .locator(".community-hub > section")
     .evaluateAll((nodes) => nodes.map((node) => node.getAttribute("id")));
   expect(sections).toEqual([
+    "school-outreach",
+    "community-past",
+    "outreach-photos",
+    null,
     null,
     "community-watch",
     "community-upcoming",
@@ -46,10 +50,13 @@ test("published fixture layout has ordered sections and unified discovery with p
     .getByRole("group", { name: "Community content type" })
     .getByRole("button", { name: "Videos", exact: true })
     .click();
+  await expect(page).toHaveURL(/type=videos/);
   await page.getByLabel("Community topic").selectOption("Connection");
+  await expect(page).toHaveURL(/topic=Connection/);
   await page
     .getByRole("searchbox", { name: "Search community" })
     .fill("transcript");
+  await expect(page).toHaveURL(/q=transcript/);
   await expect(page.locator("#community-updates .community-entry")).toHaveCount(
     2,
   );
@@ -266,13 +273,9 @@ for (const width of [375, 768, 1440]) {
     });
     await expect(dialog).toBeVisible();
     await page.keyboard.press("ArrowLeft");
-    await expect(dialog.getByRole("heading", { level: 3 })).toHaveText(
-      "Every conversation matters",
-    );
+    await expect(dialog.locator("figure img")).toHaveAttribute("alt", "Two people having an attentive conversation in a calm, welcoming room");
     await page.keyboard.press("ArrowRight");
-    await expect(dialog.getByRole("heading", { level: 3 })).toHaveText(
-      "Making room for conversation",
-    );
+    await expect(dialog.locator("figure img")).toHaveAttribute("alt", "Three friends reading together");
     await dialog.getByRole("button", { name: "Close dialog" }).focus();
     await page.keyboard.press("Shift+Tab");
     await expect(

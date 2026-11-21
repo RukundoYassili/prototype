@@ -23,6 +23,12 @@ test("sitemap lists real public pages and excludes unfinished sections", async (
   expect(sitemap).toContain("https://vugandakumva.digital/understand-gbv/");
   expect(sitemap).not.toContain("https://vugandakumva.digital/contact");
   expect(sitemap).not.toContain("https://vugandakumva.digital/admin-preview");
+  for (const slug of ["cyanika-technical-secondary-school-outreach", "saint-aloys-rwamagana-outreach", "gs-nyagasambu-outreach"]) {
+    expect(sitemap).toContain(`https://vugandakumva.digital/community/${slug}`);
+    const html = await (await request.get(`/community/${slug}/`)).text();
+    expect(html).toContain(`<link rel="canonical" href="https://vugandakumva.digital/community/${slug}"`);
+    expect(html).toContain('content="index, follow"');
+  }
   expect(robots).toContain("Sitemap: https://vugandakumva.digital/sitemap.xml");
 });
 

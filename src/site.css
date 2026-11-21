@@ -127,6 +127,9 @@
   font-size: 14px;
   margin: 6px 0 6px;
   color: #fff;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 5px;
 }
 .site-footer-main p {
   max-width: 330px;

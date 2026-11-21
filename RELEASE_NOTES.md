@@ -22,3 +22,12 @@ The old database is separate from the static site and its removal is tracked sep
 - Included the local English/Kinyarwanda language selector and corresponding homepage updates.
 - Moved the footer support button to the right and restored the green accent.
 - Removed repeated illustration labels and captions beneath photos, while retaining image alternatives and learning explanations.
+
+## Fourth push — 21 November 2026
+
+- Added Arbertine Uwizeyimana as Lead mental health advisor with her supplied portrait, and underlined the shared footer section headings.
+- Redesigned the Community page around school outreach, including visit stories for GS Nyagasambu, Saint Aloys Rwamagana and Cyanika Technical Secondary School, with confirmed dates and supplied photographs.
+- Improved photo framing, added the Cyanika gallery, and preserved Community search, filters and keyboard-accessible photo viewing.
+- Removed the ten locally hosted Cyanika video files and their video thumbnails from the site; the original recordings remain in the source folder. The video section is marked in development until external links are available.
+- Replaced the unfinished Community contact call to action with a link to the team and made the contact status clear.
+- Verified the About, Community, footer, navigation, language and image presentation checks, then tested the production build and search metadata for the three visit pages.

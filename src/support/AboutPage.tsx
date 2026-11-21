@@ -54,6 +54,11 @@ const team = [
     photo: "sam",
   },
   {
+    name: "Arbertine Uwizeyimana",
+    role: "Lead mental health advisor",
+    photo: "arbertine",
+  },
+  {
     name: "Rukundo Yassili",
     role: "Software Engineer · Digital Platform & Technology Lead",
     photo: "rukundo",

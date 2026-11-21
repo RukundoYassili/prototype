@@ -80,6 +80,9 @@
   display: block;
   object-position: center 25%;
 }
+.about-redesign .about-photo-arbertine img {
+  object-position: center 38%;
+}
 .about-redesign .about-photo-eunice img {
   object-position: center 55%;
 }

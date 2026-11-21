@@ -28,6 +28,8 @@ import "../../src/support/support.css";
 
 const base = {
   ...communityEntries[0],
+  completed: undefined,
+  visitPhotos: undefined,
   demo: false,
   status: "published" as const,
   template: false,

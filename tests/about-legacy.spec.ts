@@ -9,9 +9,13 @@ for (const width of [320, 375, 768, 1440, 1920]) {
     await expect(page.getByText("01 / Our mission")).toBeVisible();
     await expect(page.getByText("02 / Our vision")).toBeVisible();
     const cards = page.locator(".about-team-card");
-    await expect(cards).toHaveCount(8);
+    await expect(cards).toHaveCount(9);
     await expect(cards.first()).toContainText("David Niyomugabo");
     await expect(cards.last()).toContainText("Gloria hycentha UWIMANA");
+    const arbertine = cards.filter({ hasText: "Arbertine Uwizeyimana" });
+    await expect(arbertine).toHaveCount(1);
+    await expect(arbertine).toContainText("Lead mental health advisor");
+    await expect(arbertine.locator("img")).toHaveAttribute("src", "/images/about/team/arbertine.webp");
     const rukundo = cards.filter({ hasText: "Rukundo Yassili" });
     await expect(rukundo).toHaveCount(1);
     await expect(rukundo.locator("img")).toHaveAttribute("src", "/images/about/team/rukundo.jpg");

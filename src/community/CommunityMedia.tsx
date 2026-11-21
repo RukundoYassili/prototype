@@ -141,11 +141,14 @@ export function CommunityVideoPlayer({
 export function CommunityAlbum({
   photos,
   title,
+  initiallyVisible,
 }: {
   photos: CommunityPhoto[];
   title: string;
+  initiallyVisible?: number;
 }) {
   const [active, setActive] = useState<number | null>(null);
+  const [showAll, setShowAll] = useState(false);
   const trigger = useRef<HTMLButtonElement | null>(null);
   const open = active !== null;
   useEffect(() => {
@@ -171,7 +174,7 @@ export function CommunityAlbum({
   return (
     <div className="community-album">
       <div className="community-album-grid">
-        {photos.map((item, index) => (
+        {photos.slice(0, showAll ? undefined : initiallyVisible).map((item, index) => (
           <figure key={item.id}>
             <button
               type="button"
@@ -197,6 +200,11 @@ export function CommunityAlbum({
           </figure>
         ))}
       </div>
+      {initiallyVisible && photos.length > initiallyVisible && (
+        <button type="button" className="community-work-link" onClick={() => setShowAll(!showAll)} aria-expanded={showAll}>
+          {showAll ? "Show fewer photos" : `Show all ${photos.length} photos`}
+        </button>
+      )}
       <div
         className="community-viewer"
         onKeyDown={(event) => {

@@ -9,6 +9,9 @@ import {
   Play,
   Presentation,
   Search,
+  School,
+  MessageCircleHeart,
+  BookOpen,
   X,
 } from "lucide-react";
 import {
@@ -36,6 +39,7 @@ import {
   type CommunityRepository,
 } from "./repository";
 import { CommunityAlbum, CommunityVideoPlayer } from "./CommunityMedia";
+import { schoolOutreachPhotos } from "./schoolOutreach";
 import "./community-page.css";
 import "./community.css";
 import "./community-hub.css";
@@ -142,6 +146,8 @@ export function CommunityCard({
                 {entry.topics[0] || "Community learning"} ·{" "}
                 {entry.video.language}
               </span>
+            ) : isActivity(entry) && entry.completed ? (
+              <span>Past event · {entry.completed.dateLabel} · {entry.completed.location}</span>
             ) : isActivity(entry) && entry.schedule ? (
               <span>
                 {entry.demo ? "Sample date" : activityState(entry)} ·{" "}
@@ -263,7 +269,7 @@ function DiscoveryResults({ entries }: { entries: CommunityEntry[] }) {
         )
         .sort(
           (a, b) =>
-            Date.parse(b.schedule!.startsAt) - Date.parse(a.schedule!.startsAt),
+            (Date.parse(b.schedule?.startsAt || b.completed?.date || "") || 0) - (Date.parse(a.schedule?.startsAt || a.completed?.date || "") || 0),
         ),
     },
     {
@@ -274,7 +280,7 @@ function DiscoveryResults({ entries }: { entries: CommunityEntry[] }) {
     },
     {
       title: "Activity templates · development preview",
-      entries: entries.filter((entry) => isActivity(entry) && !entry.schedule),
+      entries: entries.filter((entry) => isActivity(entry) && !entry.schedule && !entry.completed),
     },
   ];
   return (
@@ -327,7 +333,8 @@ export function CommunityPage({
   const topics = [...new Set(entries.flatMap((entry) => entry.topics))].sort();
   const featured = entries.find((entry) => entry.featured);
   const update = (key: string, value: string) => {
-    const next = new URLSearchParams(params);
+    // Read the latest browser URL when filters change in quick succession.
+    const next = new URLSearchParams(window.location.search);
     if (!value || value === "all") next.delete(key);
     else next.set(key, value);
     navigate(
@@ -347,38 +354,64 @@ export function CommunityPage({
         <span aria-hidden="true">/</span>
         <span aria-current="page">Community</span>
       </nav>
-      <header
-        className={`community-hub-intro${featured ? " community-hub-intro-with-photo" : ""}`}
-      >
+      <header className="community-hub-intro community-hub-intro-with-photo">
         <div className="community-hub-intro-copy">
           <span className="support-eyebrow">
             <HeartHandshake size={17} aria-hidden="true" /> THE VUGA NDAKUMVA
             COMMUNITY
           </span>
           <h1>
-            Connection starts
-            <br />
-            with <span>being together.</span>
+            Together, we can build communities <span>that listen.</span>
           </h1>
           <p>
-            Stories to bring us closer. Conversations to learn from. Space to
-            take part, in your own way.
+            Vuga Ndakumva connects with schools and communities to encourage
+            learning, open conversations, and greater awareness of well-being.
           </p>
-          <a className="community-work-link" href="#community-updates">
-            Explore the community <ArrowDown size={17} aria-hidden="true" />
-          </a>
+          <div className="mt-7 flex flex-wrap items-center gap-5">
+            <a className="support-button" href="#school-outreach">
+              Explore our outreach <ArrowDown size={17} aria-hidden="true" />
+            </a>
+            <Link className="community-work-link" to="/about#our-team">
+              Meet our team <ArrowUpRight size={17} aria-hidden="true" />
+            </Link>
+          </div>
         </div>
-        {featured && (
-          <figure className="community-hub-intro-visual">
-            <img
-              src="/images/africa-hands.webp"
-              alt="Illustrative photograph of a group joining hands in a gesture of connection"
-              width={1200}
-              height={800}
-            />
-          </figure>
-        )}
+        <figure className="community-hub-intro-visual">
+          <img src="/images/community/outreach/school-conversation.webp" alt="A student speaks into a microphone during a school gathering" width={960} height={540} />
+        </figure>
       </header>
+      <section id="school-outreach" className="community-hub-section scroll-mt-32" aria-labelledby="school-outreach-title">
+        <div className="max-w-3xl">
+          <span className="support-eyebrow">OUR SCHOOL OUTREACH</span>
+          <h2 id="school-outreach-title">Bringing conversations into schools.</h2>
+          <p className="text-base leading-8 text-[#526951]">Schools are places where young people learn, build relationships, and grow. We connect with school communities to encourage learning and open conversations about well-being.</p>
+        </div>
+        <div className="mt-8 grid gap-4 md:grid-cols-3">
+          {[
+            { Icon: BookOpen, title: "Learning together", text: "Making space to explore information about well-being and the challenges people may face." },
+            { Icon: MessageCircleHeart, title: "Open conversations", text: "Encouraging respectful conversations where people can listen and share ideas." },
+            { Icon: School, title: "Connecting with schools", text: "Building connections with school communities through outreach and shared learning." },
+          ].map(({ Icon, title, text }) => (
+            <article key={title} className="rounded-[22px] border border-[#dce7d5] bg-[#f5f8f0] p-6 sm:p-7">
+              <span className="inline-flex h-12 w-12 items-center justify-center rounded-2xl bg-white text-[#356b45]"><Icon size={22} aria-hidden="true" /></span>
+              <h3 className="mt-5 text-xl font-semibold text-[#203e2d]">{title}</h3>
+              <p className="mt-3 text-sm leading-7 text-[#526951]">{text}</p>
+            </article>
+          ))}
+        </div>
+      </section>
+      <Collection id="community-past" eyebrow="RECENT SCHOOL VISITS" title="Outreach in our schools." entries={entries.filter((entry) => isActivity(entry) && activityState(entry) === "Past event")} />
+      <section id="outreach-photos" className="community-hub-section" aria-labelledby="outreach-photos-title">
+        <span className="support-eyebrow">MOMENTS FROM OUR COMMUNITY</span>
+        <h2 id="outreach-photos-title">Our school outreach in pictures.</h2>
+        <p className="max-w-2xl text-base leading-8 text-[#526951]">Explore moments of connection, listening, and learning from our school outreach.</p>
+        <CommunityAlbum photos={schoolOutreachPhotos} title="School outreach photos" />
+      </section>
+      <section className="community-hub-section rounded-[24px] border border-[#dce7d5] bg-[#f4f7ed] p-7 sm:p-10" aria-labelledby="outreach-journey-title">
+        <span className="support-eyebrow">OUR OUTREACH JOURNEY</span>
+        <h2 id="outreach-journey-title">More connections ahead.</h2>
+        <p className="max-w-2xl text-base leading-8 text-[#526951]">Upcoming school visits are in development. Confirmed details will be shared when they are ready.</p>
+      </section>
       {entries.some((entry) => entry.demo) && (
         <aside className="community-demo-note" aria-label="Demo content">
           <span className="community-note-dot" aria-hidden="true" />
@@ -402,7 +435,7 @@ export function CommunityPage({
           return (
             <Link
               key={kind.id}
-              to={`?${next}#community-updates`}
+              to={kind.id === "videos" ? "/community#community-watch" : kind.id === "albums" ? "/community#outreach-photos" : `?${next}#community-updates`}
               aria-current={rawKind === kind.id ? "page" : undefined}
             >
               <Icon size={18} aria-hidden="true" />
@@ -427,9 +460,22 @@ export function CommunityPage({
           <Collection
             id="community-watch"
             eyebrow="WATCH & LEARN"
-            title="A different perspective starts here."
+            title="Watch our community in action."
             entries={entries.filter((entry) => entry.kind === "videos")}
           />
+          {!entries.some((entry) => entry.kind === "videos") && (
+            <section id="community-watch" className="community-hub-section" aria-labelledby="community-watch-title">
+              <span className="support-eyebrow">WATCH & LEARN</span>
+              <h2 id="community-watch-title">Watch our community in action.</h2>
+              <div className="flex flex-wrap items-center gap-5 rounded-[22px] border border-[#dce7d5] bg-[#f5f8f0] p-6 sm:p-8">
+                <span className="inline-flex h-14 w-14 items-center justify-center rounded-full bg-white text-[#356b45]"><Play size={24} aria-hidden="true" /></span>
+                <div>
+                  <h3 className="text-xl font-semibold">Videos: In development</h3>
+                  <p className="mt-2 text-sm leading-7 text-[#526951]">Outreach videos will appear here when links are available.</p>
+                </div>
+              </div>
+            </section>
+          )}
           <Collection
             id="community-upcoming"
             eyebrow="COME TOGETHER"
@@ -572,16 +618,16 @@ export function CommunityPage({
       <aside className="community-page-callout">
         <HeartHandshake size={38} strokeWidth={1.25} aria-hidden="true" />
         <div>
-          <span className="support-eyebrow">LEARNING IS A WAY TO CONNECT</span>
-          <h2>There’s more than one way to begin.</h2>
+          <span className="support-eyebrow">CONNECT WITH OUR TEAM</span>
+          <h2>Get to know the people behind our work.</h2>
           <p>
-            Explore mental health, respectful relationships, and practical
-            resources at your own pace.
+            Meet the team and learn about the purpose behind our school outreach.
+            Contact information is in development.
           </p>
         </div>
         <div>
-          <Link className="support-button" to="/why-mental-health">
-            Explore mental health
+          <Link className="support-button" to="/about#our-team">
+            Meet our team
             <ArrowUpRight size={17} />
           </Link>
           <Link className="community-work-link" to="/resources">
@@ -689,12 +735,12 @@ export function CommunityDetailPage({
           photos={entry.photos}
         />
       ) : (
-        <figure className="community-detail-photo">
+        <figure className={`community-detail-photo${entry.completed ? ` community-detail-photo-completed community-detail-photo-${entry.imageOrientation || "landscape"}` : ""}`}>
           <img
             src={communityImage(entry)}
             alt={entry.imageAlt}
-            width={1600}
-            height={1000}
+            width={entry.imageDimensions?.width || 1600}
+            height={entry.imageDimensions?.height || 1000}
             style={{ objectPosition: entry.position }}
             fetchPriority="high"
           />
@@ -724,7 +770,7 @@ export function CommunityDetailPage({
             {isActivity(entry)
               ? entry.demo
                 ? "Sample activity details"
-                : "Plan your visit"
+                : entry.completed ? "Visit details" : "Plan your visit"
               : "About this update"}
           </h2>
           <dl>
@@ -757,9 +803,9 @@ export function CommunityDetailPage({
                   </dd>
                 </div>
                 <div>
-                  <dt>Date & time</dt>
+                  <dt>{entry.completed ? "Visit date" : "Date & time"}</dt>
                   <dd>
-                    {entry.schedule ? (
+                    {entry.completed ? entry.completed.dateLabel : entry.schedule ? (
                       <>
                         {communityDate(
                           entry.schedule.startsAt,
@@ -774,9 +820,9 @@ export function CommunityDetailPage({
                   </dd>
                 </div>
                 <div>
-                  <dt>Location & format</dt>
+                  <dt>{entry.completed ? "School" : "Location & format"}</dt>
                   <dd>
-                    {entry.schedule
+                    {entry.completed ? entry.completed.location : entry.schedule
                       ? `${entry.schedule.location} · ${entry.schedule.format}`
                       : "To be announced"}
                   </dd>
@@ -785,14 +831,14 @@ export function CommunityDetailPage({
                   <dt>Who it’s for</dt>
                   <dd>{entry.audience || "Audience to be confirmed"}</dd>
                 </div>
-                <div>
+                {!entry.completed && <div>
                   <dt>Participation</dt>
                   <dd>
                     {registration
                       ? "See the organiser’s registration details"
                       : "Not open for registration"}
                   </dd>
-                </div>
+                </div>}
               </>
             )}
           </dl>
@@ -832,6 +878,13 @@ export function CommunityDetailPage({
           ))}
         </aside>
       </div>
+      {entry.visitPhotos && entry.visitPhotos.length > 0 && (
+        <section className="community-hub-section" aria-labelledby="visit-photos-title">
+          <span className="support-eyebrow">MOMENTS FROM THE VISIT</span>
+          <h2 id="visit-photos-title">Outreach in pictures.</h2>
+          <CommunityAlbum photos={entry.visitPhotos} title="Cyanika outreach photos" initiallyVisible={6} />
+        </section>
+      )}
       {related.length > 0 && (
         <section
           className="community-related"

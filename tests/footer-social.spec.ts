@@ -34,6 +34,9 @@ for (const width of [375, 768, 1440]) {
       await page.locator(".support-utility-bar").evaluate((element) => getComputedStyle(element).backgroundColor),
     );
     expect(await footer.locator("h3").first().evaluate((element) => getComputedStyle(element).color)).toBe("rgb(255, 255, 255)");
+    for (const heading of await footer.locator(".site-footer-main h3").all()) {
+      expect(await heading.evaluate((element) => getComputedStyle(element).textDecorationLine)).toContain("underline");
+    }
     expect(await footer.evaluate((element) => getComputedStyle(element).minHeight)).toBe("0px");
     await footer.screenshot({ path: `test-results/footer-${width}.png` });
   });

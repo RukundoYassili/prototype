@@ -31,14 +31,14 @@ test("desktop navigation uses the new structure and keeps support and donation a
     banner.getByRole("link", { name: "Donate", exact: true }),
   ).toHaveAttribute("href", "/donate");
   await banner.getByRole("link", { name: "Awareness", exact: true }).click();
-  await expect(page).toHaveTitle("Awareness — VUGA NDAKUMVA");
+  await expect(page).toHaveTitle("Mental Health and GBV Awareness — VUGA NDAKUMVA");
   await expect(
     banner.getByRole("link", { name: "Awareness", exact: true }),
   ).toHaveAttribute("aria-current", "page");
   await banner
     .getByRole("link", { name: "Why Mental Health", exact: true })
     .click();
-  await expect(page).toHaveTitle("Why Mental Health — VUGA NDAKUMVA");
+  await expect(page).toHaveTitle("Mental Health Learning Library — VUGA NDAKUMVA");
   await expect(page.locator(".information-source a")).toHaveAttribute(
     "href",
     "https://www.who.int/news-room/fact-sheets/detail/mental-health-strengthening-our-response",

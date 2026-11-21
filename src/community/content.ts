@@ -1,5 +1,6 @@
 import type { CommunityPhoto } from "./photos";
 import { demoCommunityEntries } from "./demo-content";
+import { cyanikaPhotos } from "./cyanikaOutreach";
 
 export type CommunityKind =
   "news" | "events" | "workshops" | "videos" | "albums";
@@ -28,12 +29,16 @@ type CommunityBase = {
   summary: string;
   image: string;
   imageAlt: string;
+  imageDimensions?: { width: number; height: number };
+  imageOrientation?: "portrait" | "landscape";
   position: string;
   template: boolean;
   illustrative: boolean;
   publishedAt?: string;
   audience?: string;
   schedule?: CommunitySchedule;
+  completed?: { date?: string; dateLabel: string; location: string };
+  visitPhotos?: CommunityPhoto[];
   sections: { title: string; text: string; points?: string[] }[];
   status: "draft" | "published";
   mediaApproved: boolean;
@@ -271,7 +276,81 @@ const templateEntries: (Omit<
 
 // Local editorial collection; a future CMS adapter will supply this contract.
 // Replace demo records with approved material here when ready.
-const editorialEntries: CommunityEntry[] = [];
+const editorialEntries: CommunityEntry[] = [
+  {
+    kind: "events",
+    slug: "cyanika-technical-secondary-school-outreach",
+    title: "School outreach at Cyanika Technical Secondary School",
+    summary: "Our team visited Cyanika Technical Secondary School to share learning and encourage conversation about mental health.",
+    image: "/community-outreach/cyanika/photo-11.jpg",
+    imageAlt: "A speaker addresses students at Cyanika Technical Secondary School",
+    imageDimensions: { width: 1008, height: 756 },
+    imageOrientation: "landscape",
+    position: "50% 50%",
+    template: false,
+    illustrative: false,
+    status: "published",
+    mediaApproved: true,
+    completed: { date: "2026-11-17", dateLabel: "Tuesday, 17 November 2026", location: "Cyanika Technical Secondary School" },
+    audience: "Students",
+    topics: ["School outreach", "Mental health"],
+    sections: [
+      { title: "Bringing the conversation to Cyanika", text: "On Tuesday, 17 November 2026, Vuga Ndakumva visited Cyanika Technical Secondary School, bringing students together for a conversation about mental health and well-being." },
+      { title: "Learning and listening together", text: "During the visit, members of the team spoke with students and used presentations to share information. Students also had opportunities to speak and take part in the conversation." },
+      { title: "Continuing the conversation", text: "The visit was part of our school outreach: creating space to learn, listen and connect. Explore the photographs below to see moments from the visit." },
+    ],
+    resources: [{ title: "Mental health", href: "/mental-health" }, { title: "Guides & worksheets", href: "/resources" }],
+    visitPhotos: cyanikaPhotos,
+  },
+  {
+    kind: "events",
+    slug: "saint-aloys-rwamagana-outreach",
+    title: "School outreach at Saint Aloys Rwamagana",
+    summary: "Students gathered with our team for a conversation about mental health, gender-based violence, alcohol and drugs.",
+    image: "/images/community/outreach/saint-aloys-original.jpg",
+    imageAlt: "A speaker addresses students in blue uniforms at Saint Aloys Rwamagana",
+    imageDimensions: { width: 576, height: 1024 },
+    imageOrientation: "portrait",
+    position: "50% 43%",
+    template: false,
+    illustrative: false,
+    status: "published",
+    mediaApproved: true,
+    completed: { date: "2026-11-11", dateLabel: "Wednesday, 11 November 2026", location: "Saint Aloys Rwamagana" },
+    audience: "Students",
+    topics: ["School outreach", "Mental health", "Gender-based violence", "Alcohol and drugs"],
+    sections: [
+      { title: "A conversation that starts with listening", text: "On Wednesday, 11 November 2026, Vuga Ndakumva visited Saint Aloys Rwamagana to speak with students about issues that can affect their well-being and their communities. Our team shared information and invited students into the conversation." },
+      { title: "Mental health and respectful relationships", text: "The team spoke about mental health and the importance of recognizing when someone may need support. The outreach also addressed gender-based violence, encouraging awareness of safety, respect and the importance of seeking help." },
+      { title: "Understanding alcohol and drugs", text: "Students also learned about alcohol and drugs and the ways substance use can affect health and everyday life. The session encouraged informed conversations and helped point students toward reliable information and support." },
+    ],
+    resources: [{ title: "Mental health", href: "/mental-health" }, { title: "Understanding GBV", href: "/understand-gbv" }, { title: "Alcohol and drugs", href: "/alcohol-and-drugs" }],
+  },
+  {
+    kind: "events",
+    slug: "gs-nyagasambu-outreach",
+    title: "School outreach at GS Nyagasambu",
+    summary: "Our team visited GS Nyagasambu to share information about well-being, safety, alcohol and drugs.",
+    image: "/images/community/outreach/gs-nyagasambu-original.jpg",
+    imageAlt: "A speaker addresses a group gathered in a classroom at GS Nyagasambu",
+    imageDimensions: { width: 1280, height: 720 },
+    imageOrientation: "landscape",
+    position: "50% 50%",
+    template: false,
+    illustrative: false,
+    status: "published",
+    mediaApproved: true,
+    completed: { date: "2026-11-10", dateLabel: "Tuesday, 10 November 2026", location: "GS Nyagasambu" },
+    audience: "Students",
+    topics: ["School outreach", "Mental health", "Gender-based violence", "Alcohol and drugs"],
+    sections: [
+      { title: "Bringing learning into the school community", text: "On Tuesday, 10 November 2026, Vuga Ndakumva visited GS Nyagasambu to share information with students and open a conversation about well-being. Our team spoke about topics that can be difficult to discuss, with an emphasis on listening and understanding." },
+      { title: "Speaking about mental health and GBV", text: "The outreach covered mental health and gender-based violence, highlighting the value of understanding these issues, treating others with respect and knowing that support can be sought when it is needed." },
+      { title: "Making informed choices", text: "The team also discussed alcohol and drugs, sharing information about their effects and encouraging students to seek reliable information and support. The visit was an opportunity to bring these important conversations into the school community." },
+    ],
+    resources: [{ title: "Mental health", href: "/mental-health" }, { title: "Understanding GBV", href: "/understand-gbv" }, { title: "Alcohol and drugs", href: "/alcohol-and-drugs" }],
+  },
+];
 export const SHOW_COMMUNITY_DEMOS = false;
 const activeEntries = [
   ...editorialEntries,

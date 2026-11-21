@@ -38,31 +38,40 @@ export function isPublishable(entry: CommunityEntry): boolean {
     return false;
   if (entry.kind === "events" || entry.kind === "workshops") {
     const schedule = entry.schedule;
-    if (
-      !schedule ||
-      !entry.audience?.trim() ||
-      !schedule.location.trim() ||
-      !/(Z|[+-]\d{2}:\d{2})$/.test(schedule.startsAt) ||
-      !Number.isFinite(Date.parse(schedule.startsAt))
-    )
-      return false;
-    try {
-      new Intl.DateTimeFormat("en", { timeZone: schedule.timeZone }).format();
-    } catch {
-      return false;
+    if (entry.completed) {
+      if (
+        schedule ||
+        (entry.completed.date !== undefined &&
+          (!/^\d{4}-\d{2}-\d{2}$/.test(entry.completed.date) ||
+            !Number.isFinite(Date.parse(entry.completed.date)))) ||
+        !entry.completed.dateLabel.trim() ||
+        !entry.completed.location.trim()
+      ) return false;
+    } else {
+      if (
+        !schedule ||
+        !entry.audience?.trim() ||
+        !schedule.location.trim() ||
+        !/(Z|[+-]\d{2}:\d{2})$/.test(schedule.startsAt) ||
+        !Number.isFinite(Date.parse(schedule.startsAt))
+      ) return false;
+      try {
+        new Intl.DateTimeFormat("en", { timeZone: schedule.timeZone }).format();
+      } catch {
+        return false;
+      }
+      if (
+        schedule.endsAt &&
+        (!Number.isFinite(Date.parse(schedule.endsAt)) ||
+          Date.parse(schedule.endsAt) < Date.parse(schedule.startsAt))
+      ) return false;
+      if (
+        schedule.registrationUrl &&
+        !/^https:\/\//.test(schedule.registrationUrl)
+      ) return false;
     }
-    if (
-      schedule.endsAt &&
-      (!Number.isFinite(Date.parse(schedule.endsAt)) ||
-        Date.parse(schedule.endsAt) < Date.parse(schedule.startsAt))
-    )
-      return false;
-    if (
-      schedule.registrationUrl &&
-      !/^https:\/\//.test(schedule.registrationUrl)
-    )
-      return false;
   }
+  if (entry.visitPhotos?.some((photo) => !mediaPath(photo.src) || !photo.alt.trim() || !photo.title.trim())) return false;
   if (entry.kind === "videos") {
     const video = entry.video;
     if (
@@ -130,8 +139,8 @@ export function createCommunityRepository(
         )
         .sort(
           (a, b) =>
-            (Date.parse(b.publishedAt || "") || 0) -
-              (Date.parse(a.publishedAt || "") || 0) ||
+            (Date.parse(b.publishedAt || b.completed?.date || "") || 0) -
+              (Date.parse(a.publishedAt || a.completed?.date || "") || 0) ||
             a.slug.localeCompare(b.slug),
         );
     },
@@ -151,6 +160,7 @@ export const findCommunityEntry = (slug?: string) =>
 export const isActivity = (entry: CommunityEntry) =>
   entry.kind === "events" || entry.kind === "workshops";
 export function activityState(entry: CommunityEntry, now = Date.now()) {
+  if (entry.completed) return "Past event";
   if (entry.schedule?.cancelled) return "Cancelled";
   if (!entry.schedule) return "Schedule to be announced";
   return Date.parse(entry.schedule.endsAt || entry.schedule.startsAt) < now

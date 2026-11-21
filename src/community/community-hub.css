@@ -396,6 +396,20 @@
   object-fit: cover;
   display: block;
 }
+#outreach-photos .community-album-grid img {
+  object-fit: cover;
+}
+#outreach-photos .community-album-grid button {
+  transition: box-shadow 180ms ease, transform 180ms ease;
+}
+#outreach-photos .community-album-grid button:hover {
+  box-shadow: 0 8px 24px #203e2d1a;
+  transform: translateY(-2px);
+}
+#outreach-photos .community-album-grid button:focus-visible {
+  outline: 3px solid #2e7047;
+  outline-offset: 3px;
+}
 .community-album-grid figcaption {
   padding: 12px 0;
   font-size: 13px;
@@ -479,6 +493,20 @@
 }
 .community-detail .community-detail-header {
   max-width: 820px;
+}
+.community-detail .community-detail-photo-completed {
+  display: flex;
+  justify-content: center;
+}
+.community-detail .community-detail-photo-completed > img {
+  width: auto;
+  height: auto;
+  max-width: min(100%, 1280px);
+  max-height: 700px;
+  object-fit: contain;
+}
+.community-detail .community-detail-photo-portrait > img {
+  max-width: min(100%, 576px);
 }
 .community-detail .community-detail-header h1 {
   font-size: clamp(36px, 4vw, 56px);
@@ -651,8 +679,9 @@
     gap: 20px;
   }
   .community-hub-intro-visual {
-    height: 180px;
-    margin-left: 14px;
+    height: auto;
+    aspect-ratio: 16 / 10;
+    margin-left: 0;
   }
   .community-hub-intro-visual > img {
     border-radius: 70px 18px 70px 18px;
@@ -686,6 +715,10 @@
   .community-album-grid {
     grid-template-columns: 1fr;
   }
+  #outreach-photos .community-album-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 10px;
+  }
   .community-video-stage {
     border-radius: 14px;
   }
@@ -696,6 +729,12 @@
 @media (prefers-reduced-motion: reduce) {
   .community-video-play {
     transition: none;
+  }
+  #outreach-photos .community-album-grid button {
+    transition: none;
+  }
+  #outreach-photos .community-album-grid button:hover {
+    transform: none;
   }
 }
 @media (max-width: 600px) {
