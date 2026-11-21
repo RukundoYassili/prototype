@@ -48,8 +48,7 @@ const icons = {
   albums: Images,
 };
 function useTemplatePreview() {
-  const [params] = useSearchParams();
-  return import.meta.env.DEV && params.get("preview") === "templates";
+  return false;
 }
 
 export function CommunityCard({
@@ -372,7 +371,7 @@ export function CommunityPage({
         {featured && (
           <figure className="community-hub-intro-visual">
             <img
-              src="/images/mental-health-connection.webp"
+              src="/images/africa-hands.webp"
               alt="Illustrative photograph of a group joining hands in a gesture of connection"
               width={1200}
               height={800}
@@ -556,7 +555,7 @@ export function CommunityPage({
             <h3>
               {filtering
                 ? "A different search might help."
-                : "Our next chapter starts together."}
+                : "In development"}
             </h3>
             <p>
               {filtering

@@ -42,8 +42,8 @@ export function ExpertisePage() {
         eyebrow="PEOPLE, PRACTICE & POSSIBILITY"
         title="Support starts with understanding."
         description="Find a way to move, pause, or connect that feels right for you. Explore different approaches and the people behind our example services."
-        image="hero-meditation"
-        alt="A quiet outdoor meditation practice"
+        image="africa-lake-kivu"
+        alt="A view of Lake Kivu in Rwanda"
       />
       <section className="public-section">
         <span className="svc-eyebrow">OUR APPROACH</span>
@@ -89,15 +89,15 @@ export function ExpertisePage() {
           sessions.
         </p>
         <DemoNote>
-          These profiles are fictional. Photography is illustrative, credentials
+          These profiles are fictional. Icons are placeholders, credentials
           are unverified, and no professional care is delivered here.
         </DemoNote>
         <div className="public-grid public-professionals">
           {active.map((p) => (
             <article className="public-card" key={p.id}>
               <img
-                src={`/images/${p.image}.webp`}
-                alt="Illustrative profile photography"
+                src={p.image === "sample-profile" ? "/images/sample-profile.svg" : `/images/${p.image}.webp`}
+                alt=""
                 loading="lazy"
               />
               <div>
@@ -135,7 +135,7 @@ export function ExpertisePage() {
 const stories = [
   {
     title: "Starting small, finding a rhythm.",
-    image: "stretch",
+    image: "africa-movement",
     topic: "Mindful movement",
     intro: "An illustrative story about making room for a gentle routine.",
     paragraphs: [
@@ -146,7 +146,7 @@ const stories = [
   },
   {
     title: "A quiet moment in a busy day.",
-    image: "hero-meditation",
+    image: "africa-lake-kivu",
     topic: "Everyday calm",
     intro: "An example of exploring a pause without pressure to get it right.",
     paragraphs: [
@@ -157,7 +157,7 @@ const stories = [
   },
   {
     title: "Finding a place to connect.",
-    image: "event",
+    image: "africa-group-reading",
     topic: "Shared experiences",
     intro: "A fictional introduction to choosing a group experience.",
     paragraphs: [
@@ -177,8 +177,8 @@ export function StoriesPage() {
         eyebrow="SMALL MOMENTS, DIFFERENT PATHS"
         title="There’s more than one way to begin."
         description="Movement, quiet, connection. Explore illustrative stories about finding a starting point that fits everyday life."
-        image="hero-movement"
-        alt="An illustrative mindful movement practice"
+        image="africa-movement"
+        alt="A woman stretching"
       />
       <DemoNote>
         All stories on this page are fictional scenarios, not testimonials.

@@ -20,13 +20,13 @@ OUT = ROOT / 'src/learning'
 CONFIG = {
     8: ('understanding-sleep-and-mental-wellbeing', 'Understanding Sleep and Mental Wellbeing',
         'Explore sleep rhythms, common sleep difficulties, realistic routines, and when professional assessment matters.',
-        'mental-health-listening', 19, 21, 10, 4, 3, 11),
+        'africa-friends-table', 19, 21, 10, 4, 3, 11),
     9: ('relationships-social-connection-and-mental-wellbeing', 'Relationships, Social Connection, and Mental Wellbeing',
         'Understand connection, loneliness, respectful boundaries, communication, and safe ways to seek support.',
-        'mental-health-connection', 20, 21, 6, 5, 5, 10),
+        'africa-hands', 20, 21, 6, 5, 5, 10),
     10: ('child-and-adolescent-mental-health', 'Child and Adolescent Mental Health',
         'Learn about development, supportive families and schools, bullying, safeguarding, and age-appropriate care.',
-        'mental-health-group', 14, 20, 7, 5, 5, 10),
+        'africa-group-reading', 14, 20, 7, 5, 5, 10),
 }
 UNNUMBERED = {
     'Scientific and institutional references': 'references',

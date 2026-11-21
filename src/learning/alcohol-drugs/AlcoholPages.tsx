@@ -59,7 +59,7 @@ function AlcoholLibrary() {
       <div className="mh-draft-note">
         <FileText size={22} aria-hidden="true" />
         <div>
-          <strong>Educational drafts · November 2026</strong>
+          <strong>educational materials · November 2026</strong>
           <p>
             Clinical, safeguarding, accessibility, language and Rwanda referral
             review remain required before publication. These lessons do not

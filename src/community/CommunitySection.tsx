@@ -54,7 +54,7 @@ export default function CommunitySection({
           </div>
         ) : (
           <div className="community-home-empty">
-            <h3>Our next chapter starts together.</h3>
+            <h3>In development</h3>
             <p>
               Community stories, videos, photo albums, and confirmed activities
               will appear here when they’re ready to share.

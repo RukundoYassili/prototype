@@ -400,7 +400,7 @@ export function ChapterCard({
           <div className="mh-card-meta">
             <BookOpen size={14} aria-hidden="true" />
             <span>{chapter.sections.length} sections</span>
-            <span>English · Educational draft</span>
+            <span>English · educational material</span>
           </div>
           <h3>{chapter.title}</h3>
           <p>{chapter.summary}</p>
@@ -782,7 +782,7 @@ export function LearningChapterPage({
           {chapter.editionText || (
             <>
               Version {chapter.version} · {dateLabel(chapter.date)} ·
-              Educational draft
+              educational material
             </>
           )}
         </p>
@@ -811,7 +811,7 @@ export function LearningChapterPage({
         <div>
           <p>
             {editorialStatus ||
-              "Educational draft. This chapter has not been clinically approved for public release. It provides education, not diagnosis or individual treatment."}
+              "educational material. This chapter has not been clinically approved for public release. It provides education, not diagnosis or individual treatment."}
           </p>
         </div>
       </div>

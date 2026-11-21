@@ -58,17 +58,13 @@ export function Brand() {
 export function SiteHeader() {
   const [open, setOpen] = useState(false);
   const [hubOpen, setHubOpen] = useState(false);
-  const [floating, setFloating] = useState(() => window.scrollY > 24);
   const header = useRef<HTMLElement>(null);
   const toggle = useRef<HTMLButtonElement>(null);
   const hub = useRef<HTMLDivElement>(null);
   const hubToggle = useRef<HTMLButtonElement>(null);
   const pointerSelecting = useRef(false);
   const { pathname, search, hash } = useLocation();
-  const legacy =
-    /^\/(services|professionals|dashboard|admin-preview|expertise|stories)(\/|$)/.test(
-      pathname,
-    );
+  const legacy = false;
   const { region, setRegion } = useDemo();
   const hubActive = [
     "/knowledge-hub",
@@ -86,12 +82,6 @@ export function SiteHeader() {
     const observer = new ResizeObserver(measure);
     observer.observe(element);
     return () => observer.disconnect();
-  }, []);
-  useEffect(() => {
-    const update = () => setFloating(window.scrollY > 24);
-    update();
-    window.addEventListener("scroll", update, { passive: true });
-    return () => window.removeEventListener("scroll", update);
   }, []);
   useEffect(() => {
     setOpen(false);
@@ -123,7 +113,7 @@ export function SiteHeader() {
     <div className="site-header-space">
       <header
         ref={header}
-        className={`site-header unified-header support-header ${legacy ? "has-preview-tools" : ""} ${floating ? "is-floating" : ""}`}
+        className={`site-header unified-header support-header ${legacy ? "has-preview-tools" : ""}`}
         role="banner"
         onPointerDownCapture={() => {
           pointerSelecting.current = true;
@@ -370,7 +360,9 @@ export function SiteFooter() {
       <footer className="site-footer unified-footer" role="contentinfo">
         <div className="site-footer-main">
           <div className="site-footer-intro">
-            <Brand />
+            <Link to="/" className="site-brand vuga-logo" aria-label="VUGA NDAKUMVA home">
+              <img src="/images/brand/vugandakumva-white.png" alt="Vugandakumva ? Speak, I can hear" width={2172} height={724} />
+            </Link>
             <h2>
               A little more room
               <br />
@@ -409,18 +401,7 @@ export function SiteFooter() {
             <h3>The details</h3>
             <Link to="/privacy">Privacy</Link>
             <Link to="/terms">Terms</Link>
-            <details className="support-preview-links">
-              <summary>Interactive previews</summary>
-              <Link to="/services">Service catalog demo</Link>
-              <Link to="/dashboard">My space preview</Link>
-              <Link to="/expertise">Sample professional profiles</Link>
-              <Link to="/stories">Illustrative stories</Link>
-              <Link to="/admin-preview">Admin preview ↗</Link>
-              <p>
-                Fictional profiles and sample bookings. No real care or
-                appointments.
-              </p>
-            </details>
+            <span className="text-sm text-[#d1dccc]">Services: In development</span>
             <p>Quick exit does not erase browsing history.</p>
           </div>
         </div>

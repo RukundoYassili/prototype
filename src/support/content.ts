@@ -144,7 +144,7 @@ export const topics: SupportTopic[] = [
     summary:
       "Understand stress, anxiety, low mood, and the support available to you.",
     action: "Explore mental health",
-    image: "mental-health-counseling",
+    image: "africa-conversation",
     imagePosition: "60% 36%",
     eyebrow: "ROOM TO BE HEARD",
     headline: "You don’t have to figure it out alone.",
@@ -185,7 +185,7 @@ export const topics: SupportTopic[] = [
     summary:
       "Clear, judgment-free information about substance use, safer choices, and recovery support.",
     action: "Explore alcohol & drugs",
-    image: "mental-health-group",
+    image: "africa-group-reading",
     imagePosition: "50% 40%",
     eyebrow: "UNDERSTANDING, WITHOUT JUDGMENT",
     headline: "A different next step is possible.",
@@ -226,7 +226,7 @@ export const topics: SupportTopic[] = [
     summary:
       "Understand abuse, recognize controlling behaviour, and explore specialist support.",
     action: "Explore GBV support",
-    image: "mental-health-connection",
+    image: "africa-hands",
     imagePosition: "50% 44%",
     eyebrow: "YOUR SAFETY. YOUR CHOICES.",
     headline: "You deserve safety and respect.",
@@ -408,7 +408,7 @@ export const supportArticles: Resource[] = [
     category: "supporters",
     topic: "supporters",
     minutes: 3,
-    image: "mental-health-listening",
+    image: "africa-friends-table",
     description:
       "Practical ways to listen, respect choices, and understand your own limits.",
     content: [

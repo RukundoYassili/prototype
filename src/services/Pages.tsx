@@ -50,7 +50,7 @@ import {
   ServiceCard,
 } from "./Shared";
 
-const image = (name: string) => `/images/${name}.webp`;
+const image = (name: string) => name === "sample-profile" ? "/images/sample-profile.svg" : `/images/${name}.webp`;
 export function ServicesPage() {
   const demo = useDemo();
   const { openMatching } = useOutletContext<{ openMatching: () => void }>();
@@ -174,7 +174,7 @@ export function ServicesPage() {
         <div className="svc-discovery-art">
           <img
             className="svc-art-main"
-            src={image("hero-movement")}
+            src={image("africa-movement")}
             alt="Mindful movement in a bright studio"
           />
           <img
@@ -681,7 +681,7 @@ export function ProfessionalPage() {
       <div className="svc-profile-hero">
         <img
           src={image(professional.image)}
-          alt="Illustrative portrait; not a verified provider"
+          alt=""
         />
         <div>
           <span className="svc-eyebrow">MEET A SAMPLE PROFESSIONAL</span>
@@ -888,7 +888,7 @@ export function DashboardPage() {
                   key={b.id}
                   data-starts-at={b.startsAt}
                 >
-                  <img src={image(s?.image || "environment")} alt="" />
+                  <img src={image(s?.image || "africa-reading")} alt="" />
                   <div className="svc-appointment-info">
                     <span className={`svc-status ${b.status.toLowerCase()}`}>
                       {b.status} · demo
@@ -1242,8 +1242,8 @@ export function NotFound() {
           We couldn’t find that page. Explore the services available in this
           preview.
         </p>
-        <Link className="svc-yellow-link" to="/services">
-          Back to services <ArrowRight size={16} />
+        <Link className="svc-yellow-link" to="/knowledge-hub">
+          Explore the Knowledge Hub <ArrowRight size={16} />
         </Link>
       </Empty>
     </div>

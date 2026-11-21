@@ -1,0 +1,44 @@
+{
+  "created": "2026-11-21",
+  "method": "OpenAI image generation",
+  "usage": "Illustrative AI-generated scenes; people depicted are fictional and are not identified as clients, survivors, staff or endorsers.",
+  "artDirection": "Realistic editorial photography, warm natural light, deep greens and cream, people predominantly on the right, no text or logos.",
+  "images": [
+    {
+      "file": "awareness-hero-mental-health.webp",
+      "scene": "A quiet moment of reflection",
+      "original": "artifacts/awareness-hero-originals/mental-health.png",
+      "desktop": "awareness-hero-mental-health-desktop.webp",
+      "mobile": "awareness-hero-mental-health-mobile.webp"
+    },
+    {
+      "file": "awareness-hero-listening.webp",
+      "scene": "A supportive conversation",
+      "original": "artifacts/awareness-hero-originals/listening.png",
+      "desktop": "awareness-hero-listening-desktop.webp",
+      "mobile": "awareness-hero-listening-mobile.webp"
+    },
+    {
+      "file": "awareness-hero-gbv.webp",
+      "scene": "Community discussion about dignity and equality",
+      "original": "artifacts/awareness-hero-originals/gbv.png",
+      "desktop": "awareness-hero-gbv-desktop.webp",
+      "mobile": "awareness-hero-gbv-mobile.webp"
+    },
+    {
+      "file": "awareness-hero-choice.webp",
+      "scene": "A peaceful moment of personal choice",
+      "original": "artifacts/awareness-hero-originals/choice.png",
+      "desktop": "awareness-hero-choice-desktop.webp",
+      "mobile": "awareness-hero-choice-mobile.webp"
+    },
+    {
+      "file": "awareness-hero-connection.webp",
+      "scene": "Community connection",
+      "original": "artifacts/awareness-hero-originals/connection.png",
+      "desktop": "awareness-hero-connection-desktop.webp",
+      "mobile": "awareness-hero-connection-mobile.webp"
+    }
+  ],
+  "exportNote": "Desktop WebP files use quality 95 at original generated resolution; mobile files are 840 pixels wide at quality 86. No extra photographic detail is claimed beyond the retained originals."
+}

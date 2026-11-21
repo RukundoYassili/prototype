@@ -638,7 +638,7 @@
   }
 }
 
-/* Fixed navigation keeps its space in the document and floats after scrolling. */
+/* Fixed navigation keeps its space in the document. */
 :root {
   --site-header-height: 88px;
 }
@@ -656,32 +656,10 @@ html {
   z-index: 70;
   border: 1px solid transparent;
   border-bottom-color: #dce7d8;
-  transition:
-    top 200ms ease,
-    left 200ms ease,
-    right 200ms ease,
-    border-radius 200ms ease,
-    box-shadow 200ms ease;
-}
-.site-header.unified-header.is-floating {
-  top: 12px;
-  left: 16px;
-  right: 16px;
-  border-color: #dce7d8;
-  border-radius: 20px;
-  box-shadow: 0 8px 32px #183c2421;
 }
 @media (max-width: 650px) {
   :root {
     --site-header-height: 80px;
-  }
-  .site-header.unified-header.is-floating {
-    top: 8px;
-    left: 8px;
-    right: 8px;
-    border-radius: 16px;
-    --header-inline-gutter: 14px;
-    padding-inline: var(--header-inline-gutter);
   }
   .landing .hero {
     min-height: 620px;

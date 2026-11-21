@@ -19,13 +19,13 @@ AUDIT = ROOT / 'artifacts/gbv-continuation'
 DEST = ROOT / 'public/learning/gbv'
 OUT = ROOT / 'src/learning/gbv'
 CONFIG = {
- 4: ('understanding-consent-boundaries-and-bodily-autonomy', 'Understanding Consent, Boundaries, and Bodily Autonomy', 'Explore freely given consent, personal boundaries, bodily autonomy and safety when choice is constrained.', 'mental-health-connection', 17, 6, 9, '1.1'),
- 5: ('domestic-violence-and-intimate-partner-violence', 'Domestic Violence and Intimate Partner Violence', 'Recognize coercive control, understand barriers to help, and learn about respectful support and Rwanda referral pathways.', 'mental-health-listening', 17, 7, 9, 'Updated edition'),
- 6: ('sexual-violence-harassment-and-exploitation', 'Sexual Violence, Harassment, and Exploitation', 'Understand consent, abuse of authority, safer first responses, time-sensitive care and safeguarding.', 'mental-health-counseling', 18, 9, 9, '1.1'),
- 7: ('emotional-psychological-and-verbal-abuse', 'Emotional, Psychological and Verbal Abuse', 'Understand harmful patterns, distinguish abuse from disagreement, and explore safety-aware support.', 'mental-health-listening', 23, 7, 14, '1.1'),
- 8: ('economic-violence-and-financial-control', 'Economic Violence and Financial Control', 'Learn how money, work, property and digital access can be used to control, and how support can preserve choice.', 'mental-health-learning', 18, 8, 12, '2.0'),
- 9: ('technology-facilitated-and-online-gender-based-violence', 'Technology-Facilitated and Online Gender-Based Violence', 'Explore digital abuse, consent, privacy, institutional responsibilities and responses that put safety first.', 'mental-health-connection', 20, 8, 10, '1.0'),
- 10: ('gender-based-violence-against-children-and-adolescents', 'Gender-Based Violence Against Children and Adolescents', 'Learn about child protection, safe disclosure, age-appropriate support and pathways to help in Rwanda.', 'mental-health-group', 20, 7, 10, '1.0'),
+ 4: ('understanding-consent-boundaries-and-bodily-autonomy', 'Understanding Consent, Boundaries, and Bodily Autonomy', 'Explore freely given consent, personal boundaries, bodily autonomy and safety when choice is constrained.', 'africa-hands', 17, 6, 9, '1.1'),
+ 5: ('domestic-violence-and-intimate-partner-violence', 'Domestic Violence and Intimate Partner Violence', 'Recognize coercive control, understand barriers to help, and learn about respectful support and Rwanda referral pathways.', 'africa-friends-table', 17, 7, 9, 'Updated edition'),
+ 6: ('sexual-violence-harassment-and-exploitation', 'Sexual Violence, Harassment, and Exploitation', 'Understand consent, abuse of authority, safer first responses, time-sensitive care and safeguarding.', 'africa-conversation', 18, 9, 9, '1.1'),
+ 7: ('emotional-psychological-and-verbal-abuse', 'Emotional, Psychological and Verbal Abuse', 'Understand harmful patterns, distinguish abuse from disagreement, and explore safety-aware support.', 'africa-friends-table', 23, 7, 14, '1.1'),
+ 8: ('economic-violence-and-financial-control', 'Economic Violence and Financial Control', 'Learn how money, work, property and digital access can be used to control, and how support can preserve choice.', 'africa-reading', 18, 8, 12, '2.0'),
+ 9: ('technology-facilitated-and-online-gender-based-violence', 'Technology-Facilitated and Online Gender-Based Violence', 'Explore digital abuse, consent, privacy, institutional responsibilities and responses that put safety first.', 'africa-hands', 20, 8, 10, '1.0'),
+ 10: ('gender-based-violence-against-children-and-adolescents', 'Gender-Based Violence Against Children and Adolescents', 'Learn about child protection, safe disclosure, age-appropriate support and pathways to help in Rwanda.', 'africa-group-reading', 20, 7, 10, '1.0'),
 }
 
 def compact(value): return ' '.join(value.split())

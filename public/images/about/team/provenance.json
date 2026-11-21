@@ -1,0 +1,39 @@
+{
+  "source": "https://vugandakumva.netlify.app/about",
+  "retrieved": "2026-11-21",
+  "note": "Team names, roles and portraits reproduced from the earlier Vugandakumva About page at the site owner?s request.",
+  "images": [
+    {
+      "source": "https://vugandakumva.netlify.app/assets/images/David.jpeg",
+      "file": "david.webp"
+    },
+    {
+      "source": "https://vugandakumva.netlify.app/assets/images/sam.jpeg",
+      "file": "sam.webp"
+    },
+    {
+      "source": "https://vugandakumva.netlify.app/assets/images/manzi.jpeg",
+      "file": "manzi.webp"
+    },
+    {
+      "source": "https://vugandakumva.netlify.app/assets/images/salomon.jpeg",
+      "file": "ghislain.webp"
+    },
+    {
+      "source": "https://vugandakumva.netlify.app/assets/images/ikuzo.jpeg",
+      "file": "rita.webp"
+    },
+    {
+      "source": "https://vugandakumva.netlify.app/assets/images/aristide.jpeg",
+      "file": "aristide.webp"
+    },
+    {
+      "source": "https://vugandakumva.netlify.app/assets/images/Eunice.jpeg",
+      "file": "eunice.webp"
+    },
+    {
+      "source": "https://vugandakumva.netlify.app/assets/images/uwimana.jpeg",
+      "file": "gloria.webp"
+    }
+  ]
+}

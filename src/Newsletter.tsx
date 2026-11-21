@@ -1,6 +1,6 @@
 import { useEffect, useId, useRef, useState } from "react";
 import { Link } from "react-router-dom";
-import { ArrowUpRight, CheckCircle2, Flower2, Mail } from "lucide-react";
+import { ArrowUpRight, CheckCircle2, Mail } from "lucide-react";
 import { Button } from "./system/components";
 
 export default function Newsletter() {
@@ -99,9 +99,6 @@ export default function Newsletter() {
                   </span>
                   <h3>Your next quiet moment.</h3>
                 </div>
-                <span className="site-newsletter-mark" aria-hidden="true">
-                  <Flower2 size={25} strokeWidth={1.3} />
-                </span>
               </div>
               <label htmlFor={`${id}-email`}>Newsletter email address</label>
               <div className="site-newsletter-input-row">

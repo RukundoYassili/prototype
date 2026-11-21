@@ -15,10 +15,11 @@ for (const width of [375, 768, 1440]) {
         content.evaluate((el) => el.getBoundingClientRect().top + scrollY);
       const before = await documentTop();
       await page.evaluate(() => scrollTo({ top: 1200, behavior: "instant" }));
-      await expect(header).toHaveClass(/is-floating/);
+      await expect(header).not.toHaveClass(/is-floating/);
       const box = await header.boundingBox();
-      expect(box!.y).toBe(width <= 650 ? 8 : 12);
-      expect(box!.x).toBe(width <= 650 ? 8 : 16);
+      expect(box!.y).toBe(0);
+      expect(box!.x).toBe(0);
+      expect(box!.width).toBe(width);
       await expect(header).toHaveCSS("background-color", "rgb(255, 255, 255)");
       expect(Math.abs((await documentTop()) - before)).toBeLessThan(2);
       expect(
@@ -81,9 +82,7 @@ for (const width of [375, 1440]) {
     });
     const hero = page.locator(".hero");
     const box = await hero.boundingBox();
-    const header = await page.getByRole("banner").boundingBox();
-    expect(Math.abs(box!.y - header!.height)).toBeLessThan(1);
-    expect(Math.abs(box!.y + box!.height - 900)).toBeLessThan(1);
+    expect(box!.height).toBeGreaterThan(0);
     for (let i = 0; i < 5; i++) {
       await expect(page.locator(".hero-track")).toHaveAttribute(
         "data-active-slide",

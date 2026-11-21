@@ -77,7 +77,7 @@ export const professionals: Professional[] = [
     id: "alex-morgan",
     name: "Alex Morgan",
     role: "Yoga & movement guide",
-    image: "professional",
+    image: "sample-profile",
     bio: "A sample profile illustrating a welcoming introduction to movement and everyday routines.",
     specialties: ["Gentle yoga", "Mindful movement", "Personal routines"],
     languages: ["English", "Kinyarwanda"],
@@ -88,7 +88,7 @@ export const professionals: Professional[] = [
     id: "samira-n",
     name: "Samira N.",
     role: "Meditation & group facilitator",
-    image: "mindfulness",
+    image: "sample-profile",
     bio: "A demonstration facilitator profile for quiet practices, group connection, and inclusive participation.",
     specialties: ["Guided meditation", "Group sessions", "Everyday calm"],
     languages: ["English", "French", "Kinyarwanda"],
@@ -99,7 +99,7 @@ export const professionals: Professional[] = [
     id: "jordan-reed",
     name: "Jordan Reed",
     role: "Counseling professional · sample role",
-    image: "kindness",
+    image: "sample-profile",
     bio: "This fictional profile shows how a counseling provider could present their approach. No professional credentials have been verified and no counseling is delivered here.",
     specialties: [
       "Introductory conversations",
@@ -114,7 +114,7 @@ export const professionals: Professional[] = [
     id: "chris-taylor",
     name: "Chris Taylor",
     role: "Emotional & peer-support facilitator",
-    image: "event",
+    image: "sample-profile",
     bio: "A fictional facilitator profile demonstrating supportive listening and clearly explained group participation.",
     specialties: [
       "Peer connection",
@@ -137,7 +137,7 @@ export const services: Service[] = [
     title: "Yoga, at your own pace",
     category: "wellness",
     kind: "Session",
-    image: "hero-yoga",
+    image: "africa-movement",
     description:
       "Make space to move, stretch, and reconnect in a welcoming guided session.",
     audience:
@@ -160,7 +160,7 @@ export const services: Service[] = [
     title: "A moment of guided calm",
     category: "wellness",
     kind: "Session",
-    image: "hero-meditation",
+    image: "africa-lake-kivu",
     description:
       "A free introduction to pausing, noticing, and making room for the present.",
     audience:
@@ -183,7 +183,7 @@ export const services: Service[] = [
     title: "Your personal wellness plan",
     category: "wellness",
     kind: "Plan",
-    image: "environment",
+    image: "africa-reading",
     description:
       "Shape a simple, realistic routine around your goals, interests, and everyday life.",
     audience:
@@ -206,7 +206,7 @@ export const services: Service[] = [
     title: "Better, together",
     category: "wellness",
     kind: "Group",
-    image: "hero-movement",
+    image: "africa-group-reading",
     description:
       "Join a small-group wellness session with shared movement and conversation.",
     audience: "Adults who enjoy learning and participating with others.",
@@ -228,7 +228,7 @@ export const services: Service[] = [
     title: "A first counseling conversation",
     category: "mental-health",
     kind: "Session",
-    image: "kindness",
+    image: "africa-conversation",
     description:
       "Explore what you are looking for in support and what a counseling relationship might involve.",
     audience:
@@ -251,7 +251,7 @@ export const services: Service[] = [
     title: "Space to be heard",
     category: "mental-health",
     kind: "Session",
-    image: "hero",
+    image: "africa-friends-table",
     description:
       "An introductory support conversation, with room to talk about what matters to you.",
     audience:
@@ -274,7 +274,7 @@ export const services: Service[] = [
     title: "A circle of shared support",
     category: "mental-health",
     kind: "Group",
-    image: "event",
+    image: "africa-group-reading",
     description:
       "A free, facilitated introduction to respectful peer connection and shared experiences.",
     audience:
@@ -297,7 +297,7 @@ export const services: Service[] = [
     title: "Everyday stress, explored",
     category: "mental-health",
     kind: "Group",
-    image: "hero-nature",
+    image: "africa-lake-kivu",
     description:
       "An educational group workshop about everyday pressures, preferences, and supportive routines.",
     audience:
@@ -382,7 +382,7 @@ export const resources: Resource[] = [
     type: "Article",
     category: "mental-health",
     minutes: 4,
-    image: "kindness",
+    image: "africa-conversation",
     description: "Questions to consider before an introductory conversation.",
     content: [
       "Different services offer different kinds of support. Read the service description and ask what the provider can and cannot offer.",
@@ -396,7 +396,7 @@ export const resources: Resource[] = [
     type: "Article",
     category: "wellness",
     minutes: 3,
-    image: "event",
+    image: "africa-group-reading",
     description: "A practical introduction to joining a welcoming group.",
     content: [
       "Check the format, start time, location, and any preparation notes before attending.",
@@ -410,7 +410,7 @@ export const resources: Resource[] = [
     type: "Guided practice",
     category: "wellness",
     minutes: 2,
-    image: "environment",
+    image: "africa-reading",
     description: "A short, optional reflection for an everyday pause.",
     content: [
       "Find a place where you feel comfortable. There is no need to change your breathing or close your eyes.",
@@ -424,7 +424,7 @@ export const resources: Resource[] = [
     type: "Worksheet",
     category: "wellness",
     minutes: 5,
-    image: "hands",
+    image: "africa-hands",
     description: "A printable planning sheet for flexible personal routines.",
     content: [
       "Use the worksheet to note what matters this week, a small intention, and a realistic time to revisit it.",
@@ -438,7 +438,7 @@ export const resources: Resource[] = [
     type: "Worksheet",
     category: "mental-health",
     minutes: 5,
-    image: "mindfulness",
+    image: "africa-reading",
     description: "Optional prompts to prepare questions and preferences.",
     content: [
       "Reflect on the format, language, and practical arrangements that would help you feel comfortable.",
@@ -452,7 +452,7 @@ export const resources: Resource[] = [
     type: "Guided practice",
     category: "mental-health",
     minutes: 3,
-    image: "hero-nature",
+    image: "africa-lake-kivu",
     description: "A short reflection on everyday sources of support.",
     content: [
       "Think of a person, place, or activity that helps you feel connected. You do not need to share their name.",

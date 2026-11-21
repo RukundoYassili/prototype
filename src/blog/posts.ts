@@ -52,7 +52,7 @@ export const blogPosts: BlogPost[] = [
     excerpt:
       "A thoughtful place to begin: what to ask, what to expect, and how to take a first conversation at your own pace.",
     topic: "mental-health",
-    image: "mental-health-listening",
+    image: "africa-friends-table",
     position: "43% 38%",
     thumbnailPosition: "14% 38%",
     introduction:
@@ -106,7 +106,7 @@ export const blogPosts: BlogPost[] = [
     excerpt:
       "Practical ways to offer a little space, respect someone’s choices, and understand your own limits.",
     topic: "supporters",
-    image: "mental-health-counseling",
+    image: "africa-conversation",
     position: "62% 38%",
     introduction:
       "When someone you care about is having a difficult time, it is natural to want to make things better. You do not need to solve every problem to offer a thoughtful response. Start by asking whether they would like to talk, and whether now is a safe time.",
@@ -159,7 +159,7 @@ export const blogPosts: BlogPost[] = [
     excerpt:
       "Understanding concerns, asking useful questions, and finding an appropriate place to begin.",
     topic: "alcohol-and-drugs",
-    image: "mental-health-group",
+    image: "africa-group-reading",
     position: "50% 40%",
     introduction:
       "Questions about alcohol can be personal. You might be thinking about your own drinking, or wondering how to support someone else. You can look for information without deciding on a label first. A respectful conversation can focus on what is happening and what support is available.",
@@ -222,7 +222,7 @@ export const blogPosts: BlogPost[] = [
     excerpt:
       "An introduction to GBV, specialist support, and the questions you can ask before making contact.",
     topic: "understand-gbv",
-    image: "mental-health-connection",
+    image: "africa-hands",
     position: "50% 44%",
     introduction:
       "You do not need to feel certain about a label before looking for information about abuse. Gender-based violence can involve harm, threats, coercion, or restrictions on a person’s freedom. Your experience deserves to be taken seriously, and abuse is not your fault.",
@@ -276,7 +276,7 @@ export const blogPosts: BlogPost[] = [
     excerpt:
       "Everyday reflection without another perfect routine to keep up with. Begin with what is possible today.",
     topic: "mental-health",
-    image: "hero-nature",
+    image: "africa-lake-kivu",
     position: "50% 52%",
     introduction:
       "When life feels crowded, even advice about well-being can begin to sound like another task. A small pause does not have to become a project. It can be a moment to notice what is happening and ask what would make the next part of your day a little more manageable.",
@@ -329,7 +329,7 @@ export const blogPosts: BlogPost[] = [
     excerpt:
       "How to look beyond judgments and promises when exploring information about drugs, care, and recovery.",
     topic: "alcohol-and-drugs",
-    image: "mental-health-learning",
+    image: "africa-reading",
     position: "63% 43%",
     introduction:
       "Information about drugs can be difficult to navigate. Some pages use frightening language; others promise an easy answer. A useful starting point is to look for clear sources, understandable explanations, and an honest account of what a service can and cannot provide.",

@@ -26,9 +26,9 @@ export const demoCommunityEntries: CommunityEntry[] = [
     title: "Small conversations. Stronger connections.",
     summary:
       "Sometimes, belonging begins with a simple question: how are you, really? A glimpse of the conversations we want to make space for.",
-    image: "mental-health-group",
+    image: "africa-group-reading",
     imageAlt:
-      "Illustrative photograph of people listening during a group conversation",
+      "Illustrative photograph of three friends reading together",
     topics: ["Connection", "Mental wellbeing"],
     relatedSlugs: ["moments-of-connection", "community-photo-journal"],
     sections: [
@@ -53,7 +53,7 @@ export const demoCommunityEntries: CommunityEntry[] = [
     title: "A place to listen. A moment to connect.",
     summary:
       "A short, silent photo film about listening, togetherness, and making room for one another.",
-    image: "mental-health-listening",
+    image: "africa-friends-table",
     imageAlt: "Illustrative photograph of an attentive conversation",
     topics: ["Connection"],
     relatedSlugs: ["community-photo-journal", "community-outreach-update"],
@@ -117,7 +117,7 @@ export const demoCommunityEntries: CommunityEntry[] = [
     title: "People. Conversations. Connection.",
     summary:
       "A photo journal of the moments that make a community feel welcoming. Explore three illustrative perspectives.",
-    image: "mental-health-connection",
+    image: "africa-hands",
     imageAlt: "Illustrative photograph of a group joining hands",
     topics: ["Connection"],
     photos: communityPhotos,
@@ -136,7 +136,7 @@ export const demoCommunityEntries: CommunityEntry[] = [
     title: "Being there starts with listening.",
     summary:
       "You do not need to have every answer to make space for someone. A sample reflection on everyday connection.",
-    image: "mental-health-counseling",
+    image: "africa-conversation",
     imageAlt:
       "Illustrative photograph of two people sitting in a welcoming room",
     topics: ["Mental wellbeing", "Connection"],
@@ -159,7 +159,7 @@ export const demoCommunityEntries: CommunityEntry[] = [
     title: "An afternoon of connection.",
     summary:
       "A sample community gathering with room for conversation, shared learning, and time together.",
-    image: "mental-health-connection",
+    image: "africa-hands",
     imageAlt: "Illustrative photograph of people joining hands",
     topics: ["Connection"],
     audience: "Sample audience: community members and friends",
@@ -188,8 +188,8 @@ export const demoCommunityEntries: CommunityEntry[] = [
     title: "Listening with care.",
     summary:
       "A sample workshop exploring thoughtful questions, respectful listening, and making space for others.",
-    image: "mental-health-learning",
-    imageAlt: "Illustrative photograph of a welcoming learning workspace",
+    image: "africa-reading",
+    imageAlt: "Illustrative photograph of a woman reading at a table",
     topics: ["Mental wellbeing"],
     audience: "Sample audience: adults interested in everyday support",
     schedule: {

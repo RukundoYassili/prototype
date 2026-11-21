@@ -40,7 +40,7 @@ export function SupportLayout() {
 }
 
 export function SupportAboutPage() {
-  return <AboutPage values={<Values />} />;
+  return <AboutPage />;
 }
 
 export function TopicCards() {
@@ -477,8 +477,7 @@ export function SupportPage() {
             <p>
               The support links lead to independent public resources. The
               separate <Link to="/services">service catalog</Link> and booking
-              pages remain demonstrations with fictional profiles; no real
-              appointment is arranged.
+              pages are in development; no appointment can be arranged.
             </p>
           </details>
           <details>

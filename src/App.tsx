@@ -23,39 +23,12 @@ export default function App() {
         <section
           className="hero hero-mental-health"
           id="home"
-          aria-label="Wellness stories"
+          aria-label="Awareness and support"
           aria-roledescription="carousel"
           aria-describedby="hero-slideshow-help"
           tabIndex={0}
         >
           <HeroSlideshow />
-          <div className="hero-shade" />
-          <div className="hero-bottom">
-            <div className="support-hero-copy">
-              <span className="support-hero-eyebrow">
-                <span />
-                UNDERSTANDING. CONNECTION. SUPPORT.
-              </span>
-              <h1>
-                We care about
-                <br /> your smile.
-              </h1>
-              <p>
-                Clear information, compassionate connection, and pathways to
-                appropriate care. A place to begin, without judgment.
-              </p>
-              <div className="home-hero-actions">
-                <Link to="/support" className="support-button">
-                  Find support
-                  <ArrowUpRight size={20} aria-hidden="true" />
-                </Link>
-                <Link to="/knowledge-hub" className="support-text-link">
-                  Explore the Knowledge Hub
-                  <ArrowUpRight size={18} aria-hidden="true" />
-                </Link>
-              </div>
-            </div>
-          </div>
         </section>
         <div className="page-content support-home-content">
           <section

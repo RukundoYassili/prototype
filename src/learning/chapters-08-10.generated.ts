@@ -12,7 +12,7 @@ export const laterChapters: LearningChapter[] = [
     referenceHeading: "Scientific and institutional references",
     editorialHeading: "Pre-publication review checklist",
     reflectionSection: "14",
-    image: "mental-health-listening",
+    image: "africa-friends-table",
     position: "50% 40%",
     originalFilename: "Mental_Health_Chapter_08_Sleep_and_Wellbeing.pdf",
     version: "1.0",
@@ -30,7 +30,7 @@ export const laterChapters: LearningChapter[] = [
       "Mental Health Educational Content Library | Expanded Chapter 08",
       "Purpose. To help readers understand sleep physiology, recognize common sleep problems, develop supportive routines, and know when professional medical or psychological care is needed.",
       "Audience. General adult readers, older adolescents with appropriate support, caregivers, educators, and community health educators.",
-      "Publication status. Evidence-informed educational draft. This handbook is not a diagnostic tool or a substitute for individualized professional care. Clinical review, Rwanda-specific referral checks, accessibility review, and human-reviewed translation are required before public release.",
+      "Publication status. Evidence-informed educational material. This handbook is not a diagnostic tool or a substitute for individualized professional care. Clinical review, Rwanda-specific referral checks, accessibility review, and human-reviewed translation are required before public release.",
       "Edition 1.0 | 11 November 2026 | English",
       "Important: If you are extremely sleepy, avoid driving or operating machinery. If you have severe difficulty breathing during sleep, sudden loss of consciousness, or other acute symptoms, seek appropriate medical care.",
       "Learning goals and chapter map",
@@ -60,7 +60,7 @@ export const laterChapters: LearningChapter[] = [
       },
       {
         type: "paragraph",
-        text: "Publication status. Evidence-informed educational draft. This handbook is not a diagnostic tool or a substitute for individualized professional care. Clinical review, Rwanda-specific referral checks, accessibility review, and human-reviewed translation are required before public release.",
+        text: "Publication status. Evidence-informed educational material. This handbook is not a diagnostic tool or a substitute for individualized professional care. Clinical review, Rwanda-specific referral checks, accessibility review, and human-reviewed translation are required before public release.",
       },
       {
         type: "paragraph",
@@ -107,7 +107,7 @@ export const laterChapters: LearningChapter[] = [
     afterGoals: [],
     editionText: "Edition 1.0 | 11 November 2026 | English",
     publicationStatus:
-      "Publication status. Evidence-informed educational draft. This handbook is not a diagnostic tool or a substitute for individualized professional care. Clinical review, Rwanda-specific referral checks, accessibility review, and human-reviewed translation are required before public release.",
+      "Publication status. Evidence-informed educational material. This handbook is not a diagnostic tool or a substitute for individualized professional care. Clinical review, Rwanda-specific referral checks, accessibility review, and human-reviewed translation are required before public release.",
     endMatterPlacement: "inline",
     sections: [
       {
@@ -869,7 +869,7 @@ export const laterChapters: LearningChapter[] = [
     referenceHeading: "References and evidence notes",
     editorialHeading: "Publication review checklist",
     reflectionSection: "16",
-    image: "mental-health-connection",
+    image: "africa-hands",
     position: "50% 40%",
     originalFilename:
       "Mental_Health_Chapter_09_Relationships_and_Social_Wellbeing.pdf",
@@ -889,7 +889,7 @@ export const laterChapters: LearningChapter[] = [
       "Wellbeing",
       "A practical, evidence-informed learning chapter for individuals, families, students, and communities in Rwanda.",
       "Document status",
-      "Version 1.0 | 11 November 2026 | English. This is public-facing educational draft content, not a clinical assessment or personal treatment plan. Professional clinical, safeguarding, accessibility, and Kinyarwanda/French reviews are pending.",
+      "Version 1.0 | 11 November 2026 | English. This is public-facing educational content, not a clinical assessment or personal treatment plan. Professional clinical, safeguarding, accessibility, and Kinyarwanda/French reviews are pending.",
       "Learning outcomes",
       "Describe how relationships and social connection can affect mental wellbeing. Distinguish loneliness, social isolation, solitude, and supportive connection. Recognize respect, reciprocity, healthy boundaries, and concerning interpersonal patterns. Practice communication, conflict resolution, and safe help-seeking skills. Identify when loneliness or relationship stress warrants professional support.",
       "How to use this chapter",
@@ -922,7 +922,7 @@ export const laterChapters: LearningChapter[] = [
       },
       {
         type: "paragraph",
-        text: "Version 1.0 | 11 November 2026 | English. This is public-facing educational draft content, not a clinical assessment or personal treatment plan. Professional clinical, safeguarding, accessibility, and Kinyarwanda/French reviews are pending.",
+        text: "Version 1.0 | 11 November 2026 | English. This is public-facing educational content, not a clinical assessment or personal treatment plan. Professional clinical, safeguarding, accessibility, and Kinyarwanda/French reviews are pending.",
       },
     ],
     introductionBlocks: [],
@@ -953,7 +953,7 @@ export const laterChapters: LearningChapter[] = [
     ],
     editionText: "Version 1.0 | 11 November 2026 | English",
     publicationStatus:
-      "Version 1.0 | 11 November 2026 | English. This is public-facing educational draft content, not a clinical assessment or personal treatment plan. Professional clinical, safeguarding, accessibility, and Kinyarwanda/French reviews are pending.",
+      "Version 1.0 | 11 November 2026 | English. This is public-facing educational content, not a clinical assessment or personal treatment plan. Professional clinical, safeguarding, accessibility, and Kinyarwanda/French reviews are pending.",
     endMatterPlacement: "inline",
     sections: [
       {
@@ -1650,7 +1650,7 @@ export const laterChapters: LearningChapter[] = [
     referenceHeading: "References and evidence register",
     editorialHeading: "Editorial and publication safeguards",
     reflectionSection: "section-10-activities",
-    image: "mental-health-group",
+    image: "africa-group-reading",
     position: "50% 40%",
     originalFilename:
       "Mental_Health_Chapter_10_Child_and_Adolescent_Mental_Health.pdf",
@@ -1669,7 +1669,7 @@ export const laterChapters: LearningChapter[] = [
       "Child and Adolescent",
       "Mental Health",
       "Understanding development, recognizing distress, building supportive families and schools, responding to bullying, and finding appropriate care.",
-      "Educational draft — version 1.0 | 11 November 2026",
+      "educational material — version 1.0 | 11 November 2026",
       "For caregivers, young people, educators, community workers, and readers seeking accurate introductory information. Not a diagnosis or a substitute for clinical assessment.",
       "Safety and safeguarding: If a child is in immediate danger, seriously injured, or at imminent risk of self-harm, seek urgent local emergency help. In Rwanda, the government lists 112 for emergency help, 912 for ambulance, and 116 for the child helpline. Verify current availability and follow local child-protection procedures. [R5]",
       "Learning goals and how to use this chapter",
@@ -1699,7 +1699,7 @@ export const laterChapters: LearningChapter[] = [
       },
       {
         type: "paragraph",
-        text: "Educational draft — version 1.0 | 11 November 2026",
+        text: "educational material — version 1.0 | 11 November 2026",
       },
       {
         type: "paragraph",
@@ -1733,9 +1733,9 @@ export const laterChapters: LearningChapter[] = [
         text: "This chapter uses fictional Rwanda-relevant scenarios. They are illustrations, not reports of real children. Caregivers and educators should adapt activities to a child’s developmental level, disability, language, privacy needs and preferences. Avoid forcing disclosures.",
       },
     ],
-    editionText: "Educational draft — version 1.0 | 11 November 2026",
+    editionText: "educational material — version 1.0 | 11 November 2026",
     publicationStatus:
-      "Educational draft — version 1.0 | 11 November 2026. For caregivers, young people, educators, community workers, and readers seeking accurate introductory information. Not a diagnosis or a substitute for clinical assessment.",
+      "educational material — version 1.0 | 11 November 2026. For caregivers, young people, educators, community workers, and readers seeking accurate introductory information. Not a diagnosis or a substitute for clinical assessment.",
     endMatterPlacement: "inline",
     sections: [
       {

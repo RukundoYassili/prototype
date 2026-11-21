@@ -49,7 +49,7 @@ const library: LearningLibraryConfiguration = {
   support: { path: "/urgent-help", label: "Urgent help information" },
   referenceReview: {
     path: "/learning/mental-health/reference-review-08-10.json",
-    note: "Selected references and published Rwanda contacts for Chapters 8–10 were checked on 11 November 2026. The review record explains the scope and source discrepancies. Published contacts do not confirm current availability, eligibility or confidentiality. This check does not replace clinical, safeguarding, accessibility, translation or publication review; original lessons and draft notices remain unchanged.",
+    note: "Selected references and published Rwanda contacts for Chapters 8–10 were checked on 11 November 2026. The review record explains the scope and source discrepancies. Published contacts do not confirm current availability, eligibility or confidentiality. This check does not replace clinical, safeguarding, accessibility, translation or publication review; original lessons and review notices remain unchanged.",
   },
 };
 export function WhyMentalHealthPage() {
@@ -163,7 +163,7 @@ function MentalHealthLibrary() {
       <div className="mh-draft-note">
         <FileText size={21} strokeWidth={1.5} aria-hidden="true" />
         <div>
-          <strong>Educational drafts · November 2026</strong>
+          <strong>educational materials · November 2026</strong>
           <p>
             The supplied chapters have not been clinically reviewed or approved
             for public release. They provide educational information rather than
@@ -211,7 +211,7 @@ function MentalHealthLibrary() {
           <strong>Illustrative fictional scenes · AI-generated.</strong> The
           covers introduce ideas, not diagnoses or real participants. All
           chapter content is retained from the supplied VUGA NDAKUMVA
-          educational drafts.
+          educational materials.
         </p>
         <div className="mh-chapter-grid">
           {filteredChapters.map((chapter) => (

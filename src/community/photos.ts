@@ -13,8 +13,8 @@ export type CommunityPhoto = {
 export const communityPhotos: CommunityPhoto[] = [
   {
     id: "conversation",
-    src: "/images/mental-health-group.webp",
-    alt: "A small group sitting together and listening during a conversation",
+    src: "/images/africa-group-reading.webp",
+    alt: "Three friends reading together",
     title: "Making room for conversation",
     category: "Listening & understanding",
     position: "50% 42%",
@@ -22,7 +22,7 @@ export const communityPhotos: CommunityPhoto[] = [
   },
   {
     id: "connection",
-    src: "/images/mental-health-connection.webp",
+    src: "/images/africa-hands.webp",
     alt: "A group joining hands in a shared gesture of connection",
     title: "Stronger through connection",
     category: "Togetherness & belonging",
@@ -31,7 +31,7 @@ export const communityPhotos: CommunityPhoto[] = [
   },
   {
     id: "listening",
-    src: "/images/mental-health-listening.webp",
+    src: "/images/africa-friends-table.webp",
     alt: "Two people having an attentive conversation in a calm, welcoming room",
     title: "Every conversation matters",
     category: "Care & compassion",

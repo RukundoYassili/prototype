@@ -12,6 +12,8 @@ import "./site.css";
 import "./support/support.css";
 import "./blog/blog.css";
 import "./refinement.css";
+import "./tailwind.css";
+import "./hero-awareness.css";
 createRoot(document.getElementById("root")!).render(
   <React.StrictMode>
     <Router />

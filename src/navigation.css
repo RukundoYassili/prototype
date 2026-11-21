@@ -382,9 +382,8 @@
 }
 .unified-footer .site-brand.vuga-logo {
   width: 284px;
-  padding: 14px 16px;
-  background: #fff;
-  border-radius: 12px;
+  padding: 0;
+  background: transparent;
 }
 .header-hotline-region {
   font-size: 11px;

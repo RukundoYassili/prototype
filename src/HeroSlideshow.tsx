@@ -1,48 +1,16 @@
 import { useEffect, useRef, useState, type CSSProperties } from "react";
+import { Link } from "react-router-dom";
+import { ArrowUpRight } from "lucide-react";
 
 const slides = [
-  {
-    image: "mental-health-counseling",
-    description:
-      "Illustrative photograph of a one-to-one counseling conversation",
-    position: "62% 34%",
-    mobilePosition: "66% 32%",
-  },
-  {
-    image: "mental-health-listening",
-    description:
-      "Illustrative photograph of a counselor listening during a supportive conversation",
-    position: "50% 42%",
-    mobilePosition: "14% 36%",
-  },
-  {
-    image: "mental-health-group",
-    description:
-      "Illustrative photograph of a facilitated group support conversation",
-    position: "50% 40%",
-    mobilePosition: "43% 35%",
-  },
-  {
-    image: "mental-health-connection",
-    description:
-      "Illustrative photograph of people joining hands in mutual support",
-    position: "50% 44%",
-    mobilePosition: "50% 40%",
-  },
-  {
-    image: "mental-health-learning",
-    description:
-      "Illustrative photograph of mental health learning with a notebook and laptop",
-    position: "62% 42%",
-    mobilePosition: "72% 35%",
-  },
+  { image: "africa-reading", description: "A woman reading at a table", title: "Mental health matters.", copy: "Understanding mental wellbeing is a meaningful place to begin caring for ourselves and one another.", label: "Explore mental health", href: "/why-mental-health" },
+  { image: "africa-conversation", description: "Two friends talking together", title: "Listening makes a difference.", copy: "A little patience and a listening ear can help someone feel seen, heard, and less alone.", label: "Find support", href: "/support" },
+  { image: "africa-hands", description: "Hands joined in a gesture of solidarity", title: "Understand gender-based violence.", copy: "Learning about gender-based violence helps us recognize harm and build a culture of respect.", label: "Understand GBV", href: "/understand-gbv" },
+  { image: "africa-friends-phone", description: "Two friends looking at a phone together", title: "Safety and choice matter.", copy: "Everyone deserves dignity, respect, and the space to make their own decisions about support.", label: "Explore support options", href: "/support" },
+  { image: "africa-friends-table", description: "Two friends talking together at a table", title: "You don't have to begin alone.", copy: "Find information and pathways to support, at your own pace and without judgment.", label: "Explore the Knowledge Hub", href: "/knowledge-hub" },
 ];
-// The final duplicate lets the strip continue left before resetting off-transition.
-const loopedSlides = [...slides, slides[0]];
-
 export default function HeroSlideshow() {
   const [position, setPosition] = useState(0);
-  const [animated, setAnimated] = useState(true);
   const [reduced, setReduced] = useState(
     () => window.matchMedia("(prefers-reduced-motion: reduce)").matches,
   );
@@ -109,21 +77,10 @@ export default function HeroSlideshow() {
   useEffect(() => {
     if (!running) return;
     const timer = window.setInterval(() => {
-      setAnimated(true);
-      setPosition((value) => value + 1);
+      setPosition((value) => (value + 1) % slides.length);
     }, 6500);
     return () => window.clearInterval(timer);
   }, [running]);
-
-  useEffect(() => {
-    if (position !== slides.length) return;
-    // Also settle the loop if the browser cancels a transition while hidden.
-    const timer = window.setTimeout(() => {
-      setAnimated(false);
-      setPosition(0);
-    }, 1000);
-    return () => window.clearTimeout(timer);
-  }, [position]);
 
   return (
     <>
@@ -134,43 +91,55 @@ export default function HeroSlideshow() {
         aria-label={slides[position % slides.length].description}
       >
         <div
-          className={`hero-track ${animated ? "is-animated" : ""}`}
+          className="hero-track"
           data-position={position}
           data-active-slide={(position % slides.length) + 1}
           data-playing={running}
-          style={{ transform: `translate3d(-${position * 100}%, 0, 0)` }}
-          onTransitionEnd={(event) => {
-            if (
-              event.target === event.currentTarget &&
-              event.propertyName === "transform" &&
-              position === slides.length
-            ) {
-              setAnimated(false);
-              setPosition(0);
-            }
-          }}
         >
-          {loopedSlides.map((slide, index) => (
+          {slides.map((slide, index) => (
             <img
               key={`${slide.image}-${index}`}
-              className={`hero-slide ${position === index ? "is-active" : ""}`}
-              data-loop-clone={index === slides.length || undefined}
+              className={`hero-slide motion-safe:transition-opacity motion-safe:duration-[900ms] motion-safe:ease-in-out ${position === index ? "is-active opacity-100" : "opacity-0"}`}
               src={`/images/${slide.image}.webp`}
+              srcSet={`/images/${slide.image}-mobile.webp 840w, /images/${slide.image}.webp 2400w`}
+              sizes="100vw"
               alt=""
               aria-hidden="true"
               fetchPriority={index === 0 ? "high" : "low"}
               style={
                 {
-                  "--slide-position": slide.position,
-                  "--slide-mobile-position": slide.mobilePosition,
+                  "--slide-position": "center",
+                  "--slide-mobile-position": slide.image === "africa-reading" ? "62% center" : "center",
                 } as CSSProperties
               }
             />
           ))}
         </div>
       </div>
+      <div className="hero-shade" />
+      <span className="hero-photo-note">Illustrative stock photography</span>
+      <div className="hero-bottom">
+        <div key={position} className="support-hero-copy motion-safe:animate-[hero-copy-in_600ms_ease-out_both]">
+          <span className="support-hero-eyebrow"><span /> UNDERSTANDING. CONNECTION. SUPPORT.</span>
+          <h1>{slides[position % slides.length].title}</h1>
+          <p>{slides[position % slides.length].copy}</p>
+          <Link to={slides[position % slides.length].href} className="support-button">
+            {slides[position % slides.length].label} <ArrowUpRight size={20} aria-hidden="true" />
+          </Link>
+        </div>
+      </div>
+      <div className="hero-navigation" role="group" aria-label="Choose an awareness slide">
+        {slides.map((slide, index) => (
+          <button key={slide.image} type="button" className="hero-nav-button"
+            aria-label={`Slide ${index + 1}: ${slide.title}`}
+            aria-current={position % slides.length === index ? "true" : undefined}
+            onClick={() => setPosition(index)}>
+            <span aria-hidden="true" />
+          </button>
+        ))}
+      </div>
       <span id="hero-slideshow-help" className="sr-only">
-        Five photographs advance automatically. Focus this hero to pause; press
+        Five awareness slides advance automatically. Use the slide buttons to choose a message. Focus this hero to pause; press
         Space to resume or pause while focused. Automatic movement is disabled
         with reduced motion.
       </span>

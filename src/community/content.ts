@@ -103,9 +103,9 @@ const templateEntries: (Omit<
     title: "Stories from our outreach",
     summary:
       "A home for updates from community visits, shared conversations, and the people who make connection possible.",
-    image: "mental-health-group",
+    image: "africa-group-reading",
     imageAlt:
-      "Illustrative photograph of a small group listening to one another",
+      "Illustrative photograph of three friends reading together",
     position: "50% 42%",
     template: true,
     illustrative: true,
@@ -130,7 +130,7 @@ const templateEntries: (Omit<
     title: "Voices from the community",
     summary:
       "A space for community reflections, shared learning, and stories told with care and permission.",
-    image: "mental-health-listening",
+    image: "africa-friends-table",
     imageAlt:
       "Illustrative photograph of two people in an attentive conversation",
     position: "43% 38%",
@@ -157,7 +157,7 @@ const templateEntries: (Omit<
     title: "Community connection day",
     summary:
       "An event template for an outreach gathering, with room for the date, venue, activities, and ways to take part.",
-    image: "mental-health-connection",
+    image: "africa-hands",
     imageAlt: "Illustrative photograph of people joining hands in a group",
     position: "50% 44%",
     template: true,
@@ -188,9 +188,9 @@ const templateEntries: (Omit<
     title: "Community conversations",
     summary:
       "A gathering template for meaningful conversations about connection, support, and the things that matter locally.",
-    image: "mental-health-group",
+    image: "africa-group-reading",
     imageAlt:
-      "Illustrative photograph of a group conversation in a welcoming room",
+      "Illustrative photograph of three friends reading together",
     position: "50% 42%",
     template: true,
     illustrative: true,
@@ -215,7 +215,7 @@ const templateEntries: (Omit<
     title: "Listening with care",
     summary:
       "A workshop template focused on thoughtful listening, respectful conversations, and supporting others without judgment.",
-    image: "mental-health-listening",
+    image: "africa-friends-table",
     imageAlt:
       "Illustrative photograph of two people listening and talking together",
     position: "43% 38%",
@@ -247,8 +247,8 @@ const templateEntries: (Omit<
     title: "Understanding healthy boundaries",
     summary:
       "A workshop template for exploring respect, personal boundaries, and the choices that support healthier connections.",
-    image: "mental-health-learning",
-    imageAlt: "Illustrative photograph of a mental health learning workspace",
+    image: "africa-reading",
+    imageAlt: "Illustrative photograph of a woman reading at a table",
     position: "63% 43%",
     template: true,
     illustrative: true,
@@ -272,7 +272,7 @@ const templateEntries: (Omit<
 // Local editorial collection; a future CMS adapter will supply this contract.
 // Replace demo records with approved material here when ready.
 const editorialEntries: CommunityEntry[] = [];
-export const SHOW_COMMUNITY_DEMOS = true;
+export const SHOW_COMMUNITY_DEMOS = false;
 const activeEntries = [
   ...editorialEntries,
   ...(SHOW_COMMUNITY_DEMOS

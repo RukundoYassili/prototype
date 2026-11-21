@@ -270,11 +270,11 @@
   background: #f8faf6;
 }
 .mh-library-illustrated .mh-series-continuation {
-  background: var(--mh-library-lavender);
-  border-color: #e3daec;
+  background: #244b39;
+  color: #fff;
 }
 .mh-library-illustrated .mh-series-continuation h2 {
-  color: var(--mh-library-purple);
+  color: #fff;
 }
 @media (max-width: 1050px) {
   .mh-library-illustrated .mh-library-hero {

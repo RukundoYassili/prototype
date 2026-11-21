@@ -12,7 +12,7 @@ export const alcoholChapters: LearningChapter[] = [
     referenceHeading: "Source and evidence register",
     editorialHeading: "Publication review",
     reflectionSection: "09",
-    image: "mental-health-listening",
+    image: "africa-friends-table",
     position: "50% 40%",
     originalFilename:
       "Alcohol_Drugs_Category_01_Topic_01_What_Are_Alcohol_and_Drugs.pdf",
@@ -33,8 +33,8 @@ export const alcoholChapters: LearningChapter[] = [
       "A complete educational lesson with clear science, everyday examples, interactive learning scripts, feedback, safety guidance and a reference register.",
       "FOR YOUNG PEOPLE, ADULTS AND FAMILIES",
       "Designed for accessible mobile learning and offline reading. No user account, age-selection gate, personal disclosure, or screening is needed to learn this topic.",
-      "Status: Evidence-informed educational draft; NOT clinically approved for public publication.",
-      "Prepared: 11 November 2026 | Language: English master draft | Version: 1.0",
+      "Status: Evidence-informed educational material; NOT clinically approved for public publication.",
+      "Prepared: 11 November 2026 | Language: English master | Version: 1.0",
       "Important: The activities inside this PDF are a readable specification of future website interactions, not working website controls or a validated assessment.",
     ],
     coverBlocks: [
@@ -68,11 +68,11 @@ export const alcoholChapters: LearningChapter[] = [
       },
       {
         type: "paragraph",
-        text: "Status: Evidence-informed educational draft; NOT clinically approved for public publication.",
+        text: "Status: Evidence-informed educational material; NOT clinically approved for public publication.",
       },
       {
         type: "paragraph",
-        text: "Prepared: 11 November 2026 | Language: English master draft | Version: 1.0",
+        text: "Prepared: 11 November 2026 | Language: English master | Version: 1.0",
       },
       {
         type: "paragraph",
@@ -96,7 +96,7 @@ export const alcoholChapters: LearningChapter[] = [
     goals: [],
     editionText: "English master · Version 1.0 · 11 November 2026",
     publicationStatus:
-      "Educational draft. Clinical, youth-safeguarding, accessibility, language and Rwanda referral review remain required before public use. See the original publication notices and review requirements in this lesson.",
+      "educational material. Clinical, youth-safeguarding, accessibility, language and Rwanda referral review remain required before public use. See the original publication notices and review requirements in this lesson.",
     endMatterPlacement: "inline",
     sections: [
       {
@@ -632,7 +632,7 @@ export const alcoholChapters: LearningChapter[] = [
           },
           {
             type: "paragraph",
-            text: "The source material below informs this draft, but referencing national policy is not itself a certification or a substitute for required licensing or authorization.",
+            text: "The source material below informs this material, but referencing national policy is not itself a certification or a substitute for required licensing or authorization.",
           },
         ],
       },
@@ -679,11 +679,11 @@ export const alcoholChapters: LearningChapter[] = [
           },
           {
             type: "paragraph",
-            text: "Rwanda-specific context: The national HSSP V identifies alcohol consumption among major noncommunicable-disease risk factors and recognizes gaps in mental health service access. This is a strategic policy reference, not proof that this draft has received national approval. [6]",
+            text: "Rwanda-specific context: The national HSSP V identifies alcohol consumption among major noncommunicable-disease risk factors and recognizes gaps in mental health service access. This is a strategic policy reference, not proof that this material has received national approval. [6]",
           },
           {
             type: "paragraph",
-            text: "Editorial status: Draft for professional review. Suggested next lesson: “How Alcohol and Other Substances Affect the Brain and Body.”",
+            text: "Editorial status: material for professional review. Suggested next lesson: “How Alcohol and Other Substances Affect the Brain and Body.”",
           },
         ],
       },
@@ -741,7 +741,7 @@ export const alcoholChapters: LearningChapter[] = [
     referenceHeading: "Scientific and policy reference register",
     editorialHeading: "Publication review",
     reflectionSection: "08",
-    image: "mental-health-connection",
+    image: "africa-hands",
     position: "50% 40%",
     originalFilename: "VUGA_Alcohol_Drugs_Topic_02_Brain_and_Body.pdf",
     version: "1.0",
@@ -758,7 +758,7 @@ export const alcoholChapters: LearningChapter[] = [
       "How Alcohol and Other Substances Affect the Brain and Body",
       "Category 01: Understanding Alcohol & Drugs · Topic 02",
       "A complete educational learning module for young people, adults, and families. Includes accessible science, practical examples, fictional interactive activities, health-safety guidance, and traceable references.",
-      "ENGLISH MASTER DRAFT · 11 NOVEMBER 2026 · VERSION 1.0",
+      "ENGLISH MASTER · 11 NOVEMBER 2026 · VERSION 1.0",
       "AUDIENCE · YOUTH / ADULTS / CAREGIVERS · NO AGE GATE",
       "PUBLICATION STATUS · REQUIRES CLINICAL, YOUTH-SAFEGUARDING, AND LOCALIZATION REVIEW",
       "A PDF can describe interaction scripts and feedback, but the selectable options will only become functional when the website is implemented. No personal screening or disclosure is required.",
@@ -784,7 +784,7 @@ export const alcoholChapters: LearningChapter[] = [
       },
       {
         type: "paragraph",
-        text: "ENGLISH MASTER DRAFT · 11 NOVEMBER 2026 · VERSION 1.0",
+        text: "ENGLISH MASTER · 11 NOVEMBER 2026 · VERSION 1.0",
       },
       {
         type: "paragraph",
@@ -828,7 +828,7 @@ export const alcoholChapters: LearningChapter[] = [
     goals: [],
     editionText: "English master · Version 1.0 · 11 November 2026",
     publicationStatus:
-      "Educational draft. Clinical, youth-safeguarding, accessibility, language and Rwanda referral review remain required before public use. See the original publication notices and review requirements in this lesson.",
+      "educational material. Clinical, youth-safeguarding, accessibility, language and Rwanda referral review remain required before public use. See the original publication notices and review requirements in this lesson.",
     endMatterPlacement: "inline",
     sections: [
       {
@@ -1475,7 +1475,7 @@ export const alcoholChapters: LearningChapter[] = [
           },
           {
             type: "paragraph",
-            text: "Prepared 11 November 2026. Status: evidence-informed educational draft. Clinical reviewer: pending.",
+            text: "Prepared 11 November 2026. Status: evidence-informed educational material. Clinical reviewer: pending.",
           },
           {
             type: "paragraph",
@@ -1553,7 +1553,7 @@ export const alcoholChapters: LearningChapter[] = [
     referenceHeading: "Source and evidence register",
     editorialHeading: "Publication review",
     reflectionSection: "11",
-    image: "mental-health-group",
+    image: "africa-group-reading",
     position: "50% 40%",
     originalFilename: "VUGA_Alcohol_Drugs_Topic_03_Health_Risks.pdf",
     version: "1.0",
@@ -1569,7 +1569,7 @@ export const alcoholChapters: LearningChapter[] = [
       "VUGA NDAKUMVA / INTERACTIVE HEALTH EDUCATION",
       "Short-Term and Long-Term Health Risks of Alcohol and Drug Use",
       "Category 01: Understanding Alcohol & Drugs | Topic 03 | Version 1.0 | 11 November 2026",
-      "Who is this for? Young people, adults, parents, educators and caregivers. This is educational information, not a diagnosis or personalized treatment plan. Publication status: editorial draft requiring clinical and safeguarding review.",
+      "Who is this for? Young people, adults, parents, educators and caregivers. This is educational information, not a diagnosis or personalized treatment plan. Publication status: material under editorial review requiring clinical and safeguarding review.",
       "What this lesson helps you understand",
       "Differentiate short-term harms, long-term health risks, dependence and withdrawal. Identify how alcohol and major drug groups can affect health, safety and daily life. Understand why risks differ by age, substance, circumstances and combinations. Recognize urgent warning signs and appropriate help-seeking actions. Practice applying reliable information through optional fictional scenarios.",
       "Core reading is designed for roughly 12-15 minutes; optional activities add time. The estimate has not been user-tested. You can skip directly to the safety guidance or key takeaways.",
@@ -1589,7 +1589,7 @@ export const alcoholChapters: LearningChapter[] = [
       },
       {
         type: "paragraph",
-        text: "Who is this for? Young people, adults, parents, educators and caregivers. This is educational information, not a diagnosis or personalized treatment plan. Publication status: editorial draft requiring clinical and safeguarding review.",
+        text: "Who is this for? Young people, adults, parents, educators and caregivers. This is educational information, not a diagnosis or personalized treatment plan. Publication status: material under editorial review requiring clinical and safeguarding review.",
       },
       {
         type: "heading",
@@ -1627,7 +1627,7 @@ export const alcoholChapters: LearningChapter[] = [
     goals: [],
     editionText: "English master · Version 1.0 · 11 November 2026",
     publicationStatus:
-      "Educational draft. Clinical, youth-safeguarding, accessibility, language and Rwanda referral review remain required before public use. See the original publication notices and review requirements in this lesson.",
+      "educational material. Clinical, youth-safeguarding, accessibility, language and Rwanda referral review remain required before public use. See the original publication notices and review requirements in this lesson.",
     endMatterPlacement: "inline",
     sections: [
       {
@@ -2246,7 +2246,7 @@ export const alcoholChapters: LearningChapter[] = [
               "Child safeguarding reviewer: verify age-appropriate scenarios, school guidance and confidentiality boundaries.",
               "Rwanda legal and service reviewer: verify local referral pathways and any legal or policy claims.",
               "Accessibility and language reviewers: test Kinyarwanda/French terminology, screen reader content, plain language and low-data alternatives.",
-              "Content owner: record reviewer, approval date, revision date and sources used. This draft is not yet approved for public clinical use.",
+              "Content owner: record reviewer, approval date, revision date and sources used. this material is not yet approved for public clinical use.",
             ],
           },
         ],
@@ -2404,7 +2404,7 @@ export const alcoholChapters: LearningChapter[] = [
     referenceHeading: "Sources and further reading",
     editorialHeading: "Publication review",
     reflectionSection: "12",
-    image: "mental-health-listening",
+    image: "africa-friends-table",
     position: "50% 40%",
     originalFilename:
       "VUGA_Alcohol_Drugs_Topic_04_Use_Dependence_Addiction.pdf",
@@ -2424,7 +2424,7 @@ export const alcoholChapters: LearningChapter[] = [
       "A learning experience for youth, adults and families",
       "Understand the difference between substance use, risky or harmful use, physical dependence, and substance use disorders. Explore fictional real-life situations, receive educational feedback, and learn when professional care matters.",
       "Prepared: 11 November 2026 | Version: 1.0 | Language: English master",
-      "Publication status: Evidence-informed educational draft. Requires clinical review, youth-safeguarding approval, Rwanda-specific referral verification and multilingual validation before public use.",
+      "Publication status: Evidence-informed educational material. Requires clinical review, youth-safeguarding approval, Rwanda-specific referral verification and multilingual validation before public use.",
       "Format: This PDF contains the educational lesson and scripts for optional web interactions. The PDF itself is not an interactive application, diagnostic questionnaire or clinical treatment guide.",
     ],
     coverBlocks: [
@@ -2454,7 +2454,7 @@ export const alcoholChapters: LearningChapter[] = [
       },
       {
         type: "paragraph",
-        text: "Publication status: Evidence-informed educational draft. Requires clinical review, youth-safeguarding approval, Rwanda-specific referral verification and multilingual validation before public use.",
+        text: "Publication status: Evidence-informed educational material. Requires clinical review, youth-safeguarding approval, Rwanda-specific referral verification and multilingual validation before public use.",
       },
       {
         type: "paragraph",
@@ -2478,7 +2478,7 @@ export const alcoholChapters: LearningChapter[] = [
     goals: [],
     editionText: "English master · Version 1.0 · 11 November 2026",
     publicationStatus:
-      "Educational draft. Clinical, youth-safeguarding, accessibility, language and Rwanda referral review remain required before public use. See the original publication notices and review requirements in this lesson.",
+      "educational material. Clinical, youth-safeguarding, accessibility, language and Rwanda referral review remain required before public use. See the original publication notices and review requirements in this lesson.",
     endMatterPlacement: "inline",
     sections: [
       {
@@ -3091,7 +3091,7 @@ export const alcoholChapters: LearningChapter[] = [
           },
           {
             type: "paragraph",
-            text: "Evidence status: References support a general health education draft. This module is not a diagnosis, prescription, detoxification protocol, or confirmation of government endorsement.",
+            text: "Evidence status: References support a general health educational material. This module is not a diagnosis, prescription, detoxification protocol, or confirmation of government endorsement.",
           },
         ],
       },

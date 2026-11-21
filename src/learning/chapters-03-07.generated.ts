@@ -12,19 +12,19 @@ export const continuationChapters: MentalHealthChapter[] = [
     referenceHeading: "References and source notes",
     editorialHeading: "Publication review",
     reflectionSection: "16",
-    image: "mental-health-learning",
+    image: "africa-reading",
     position: "50% 40%",
     originalFilename:
       "VUGA_NDAKUMVA_Mental_Health_Expanded_Chapter_03_Stress.pdf",
     version: "1.1",
     date: "2026-11-09",
-    language: "English master draft",
+    language: "English master",
     author: "VUGA NDAKUMVA",
     pdfUrl: "/learning/mental-health/chapter-03-stress.pdf",
     worksheetUrl: "/learning/mental-health/chapter-03-reflection.txt",
     sourcePages: 10,
     frontMatter: [
-      "Publication status: Evidence-informed educational draft for a general audience. Not a diagnosis, individualized treatment plan, emergency response service, or substitute for assessment by a qualified health professional. Clinical review, cultural review, accessibility review, and translations are required before publication.",
+      "Publication status: Evidence-informed educational material for a general audience. Not a diagnosis, individualized treatment plan, emergency response service, or substitute for assessment by a qualified health professional. Clinical review, cultural review, accessibility review, and translations are required before publication.",
       "Stress is part of human life, but its effects are not always simple. This chapter explains what stress is, why it happens, how it affects the body and mind, how people can respond to it safely, and when additional support matters. It includes realistic situations, activities readers can try or skip, and knowledge questions with explanations.",
     ],
     goals: [
@@ -40,7 +40,7 @@ export const continuationChapters: MentalHealthChapter[] = [
     introductionBlocks: [
       {
         type: "paragraph",
-        text: "Publication status: Evidence-informed educational draft for a general audience. Not a diagnosis, individualized treatment plan, emergency response service, or substitute for assessment by a qualified health professional. Clinical review, cultural review, accessibility review, and translations are required before publication.",
+        text: "Publication status: Evidence-informed educational material for a general audience. Not a diagnosis, individualized treatment plan, emergency response service, or substitute for assessment by a qualified health professional. Clinical review, cultural review, accessibility review, and translations are required before publication.",
       },
       {
         type: "heading",
@@ -784,7 +784,7 @@ export const continuationChapters: MentalHealthChapter[] = [
     editorialReview: [],
     approval: [],
     publicationStatus:
-      "Publication status: Evidence-informed educational draft for a general audience. Not a diagnosis, individualized treatment plan, emergency response service, or substitute for assessment by a qualified health professional. Clinical review, cultural review, accessibility review, and translations are required before publication.",
+      "Publication status: Evidence-informed educational material for a general audience. Not a diagnosis, individualized treatment plan, emergency response service, or substitute for assessment by a qualified health professional. Clinical review, cultural review, accessibility review, and translations are required before publication.",
   },
   {
     number: 4,
@@ -797,19 +797,19 @@ export const continuationChapters: MentalHealthChapter[] = [
     referenceHeading: "References and source notes",
     editorialHeading: "Publication review",
     reflectionSection: "04.21",
-    image: "mental-health-listening",
+    image: "africa-friends-table",
     position: "50% 40%",
     originalFilename:
       "VUGA_NDAKUMVA_Mental_Health_Expanded_Chapter_04_Anxiety.pdf",
     version: "1.1",
     date: "2026-11-09",
-    language: "English master draft",
+    language: "English master",
     author: "VUGA NDAKUMVA",
     pdfUrl: "/learning/mental-health/chapter-04-anxiety.pdf",
     worksheetUrl: "/learning/mental-health/chapter-04-reflection.txt",
     sourcePages: 11,
     frontMatter: [
-      "Editorial status: Evidence-informed educational draft. Not a diagnosis, a treatment plan, or an emergency service. Requires independent clinical review, accessibility review, and Rwanda-specific referral verification before publication.",
+      "Editorial status: Evidence-informed educational material. Not a diagnosis, a treatment plan, or an emergency service. Requires independent clinical review, accessibility review, and Rwanda-specific referral verification before publication.",
       "This chapter teaches the difference between common worry and anxiety disorders, describes their symptoms and types, explains treatment options, and offers low-risk skills for managing everyday anxiety. It is designed for adult readers; child- and adolescent-specific adaptations must be reviewed separately.",
     ],
     goals: [
@@ -826,7 +826,7 @@ export const continuationChapters: MentalHealthChapter[] = [
     introductionBlocks: [
       {
         type: "paragraph",
-        text: "Editorial status: Evidence-informed educational draft. Not a diagnosis, a treatment plan, or an emergency service. Requires independent clinical review, accessibility review, and Rwanda-specific referral verification before publication.",
+        text: "Editorial status: Evidence-informed educational material. Not a diagnosis, a treatment plan, or an emergency service. Requires independent clinical review, accessibility review, and Rwanda-specific referral verification before publication.",
       },
       {
         type: "paragraph",
@@ -1329,7 +1329,7 @@ export const continuationChapters: MentalHealthChapter[] = [
           },
           {
             type: "paragraph",
-            text: "Before publishing in Rwanda, VUGA NDAKUMVA should insert only referral contacts that have been directly verified, including hours of operation and what services they provide. This draft intentionally does not invent hotline numbers or promise around-the-clock availability.",
+            text: "Before publishing in Rwanda, VUGA NDAKUMVA should insert only referral contacts that have been directly verified, including hours of operation and what services they provide. this material intentionally does not invent hotline numbers or promise around-the-clock availability.",
           },
         ],
       },
@@ -1544,7 +1544,7 @@ export const continuationChapters: MentalHealthChapter[] = [
     editorialReview: [],
     approval: [],
     publicationStatus:
-      "Editorial status: Evidence-informed educational draft. Not a diagnosis, a treatment plan, or an emergency service. Requires independent clinical review, accessibility review, and Rwanda-specific referral verification before publication.",
+      "Editorial status: Evidence-informed educational material. Not a diagnosis, a treatment plan, or an emergency service. Requires independent clinical review, accessibility review, and Rwanda-specific referral verification before publication.",
   },
   {
     number: 5,
@@ -1557,19 +1557,19 @@ export const continuationChapters: MentalHealthChapter[] = [
     referenceHeading: "References and source notes",
     editorialHeading: "Publication review",
     reflectionSection: "20",
-    image: "mental-health-counseling",
+    image: "africa-conversation",
     position: "50% 40%",
     originalFilename:
       "VUGA_NDAKUMVA_Mental_Health_Expanded_Chapter_05_Depression.pdf",
     version: "1.1",
     date: "2026-11-09",
-    language: "English master draft",
+    language: "English master",
     author: "VUGA NDAKUMVA",
     pdfUrl: "/learning/mental-health/chapter-05-depression.pdf",
     worksheetUrl: "/learning/mental-health/chapter-05-reflection.txt",
     sourcePages: 9,
     frontMatter: [
-      "Publication status: Evidence-informed educational draft for professional review. This document provides education, not diagnosis, individual treatment, or emergency response. Rwanda-specific pathways must be verified before public release.",
+      "Publication status: Evidence-informed educational material for professional review. This document provides education, not diagnosis, individual treatment, or emergency response. Rwanda-specific pathways must be verified before public release.",
       "Who this chapter serves: General readers, families, community educators and people wanting to understand depression. Content about minors, pregnancy, complex illness or immediate danger requires more specialized support.",
     ],
     goals: [
@@ -1586,7 +1586,7 @@ export const continuationChapters: MentalHealthChapter[] = [
     introductionBlocks: [
       {
         type: "paragraph",
-        text: "Publication status: Evidence-informed educational draft for professional review. This document provides education, not diagnosis, individual treatment, or emergency response. Rwanda-specific pathways must be verified before public release.",
+        text: "Publication status: Evidence-informed educational material for professional review. This document provides education, not diagnosis, individual treatment, or emergency response. Rwanda-specific pathways must be verified before public release.",
       },
       {
         type: "paragraph",
@@ -2238,7 +2238,7 @@ export const continuationChapters: MentalHealthChapter[] = [
     editorialReview: [],
     approval: [],
     publicationStatus:
-      "Publication status: Evidence-informed educational draft for professional review. This document provides education, not diagnosis, individual treatment, or emergency response. Rwanda-specific pathways must be verified before public release.",
+      "Publication status: Evidence-informed educational material for professional review. This document provides education, not diagnosis, individual treatment, or emergency response. Rwanda-specific pathways must be verified before public release.",
   },
   {
     number: 6,
@@ -2251,13 +2251,13 @@ export const continuationChapters: MentalHealthChapter[] = [
     referenceHeading: "References and source notes",
     editorialHeading: "Publication review",
     reflectionSection: "25",
-    image: "mental-health-connection",
+    image: "africa-hands",
     position: "50% 40%",
     originalFilename:
       "VUGA_NDAKUMVA_Mental_Health_Expanded_Chapter_06_Trauma_PTSD.pdf",
     version: "1.1",
     date: "2026-11-09",
-    language: "English master draft",
+    language: "English master",
     author: "VUGA NDAKUMVA",
     pdfUrl: "/learning/mental-health/chapter-06-trauma-ptsd.pdf",
     worksheetUrl: "/learning/mental-health/chapter-06-reflection.txt",
@@ -2899,7 +2899,7 @@ export const continuationChapters: MentalHealthChapter[] = [
         blocks: [
           {
             type: "paragraph",
-            text: "Status: Evidence-informed editorial draft. Not yet approved for clinical publication. Before release through VUGA NDAKUMVA, a licensed mental health professional should verify clinical wording, a safeguarding specialist should review emergency pathways, Rwanda-based partners should verify local support services, and expert translators should validate Kinyarwanda and French adaptations. Accessibility and user-comprehension checks are also required.",
+            text: "Status: Evidence-informed material under editorial review. Not yet approved for clinical publication. Before release through VUGA NDAKUMVA, a licensed mental health professional should verify clinical wording, a safeguarding specialist should review emergency pathways, Rwanda-based partners should verify local support services, and expert translators should validate Kinyarwanda and French adaptations. Accessibility and user-comprehension checks are also required.",
           },
           {
             type: "paragraph",
@@ -2946,13 +2946,13 @@ export const continuationChapters: MentalHealthChapter[] = [
     referenceHeading: "References and source notes",
     editorialHeading: "Publication review",
     reflectionSection: "Part VI",
-    image: "mental-health-group",
+    image: "africa-group-reading",
     position: "50% 40%",
     originalFilename:
       "VUGA_NDAKUMVA_Mental_Health_Expanded_Chapter_07_Grief_Loss.pdf",
     version: "1.1",
     date: "2026-11-09",
-    language: "English master draft",
+    language: "English master",
     author: "VUGA NDAKUMVA",
     pdfUrl: "/learning/mental-health/chapter-07-grief-loss.pdf",
     worksheetUrl: "/learning/mental-health/chapter-07-reflection.txt",
@@ -3563,7 +3563,7 @@ export const continuationChapters: MentalHealthChapter[] = [
           },
           {
             type: "paragraph",
-            text: "Editorial status: Evidence-informed educational draft; not yet clinically approved or authorized for public release.",
+            text: "Editorial status: Evidence-informed educational material; not yet clinically approved or authorized for public release.",
           },
         ],
       },

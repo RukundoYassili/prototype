@@ -47,9 +47,9 @@ function InformationHero({
         <img
           src={`/images/${image}.webp`}
           alt={
-            image === "mental-health-learning"
-              ? "Illustrative photograph of a mental health learning workspace"
-              : "Illustrative photograph of people connecting and listening together"
+            image === "africa-reading"
+              ? "Illustrative photograph of a woman reading at a table"
+              : "Illustrative photograph of hands joined in solidarity"
           }
           style={{ objectPosition: position }}
           width={2400}
@@ -99,7 +99,7 @@ export function KnowledgeHubPage() {
         title="A little clarity."
         accent="A way forward."
         description="Clear information, thoughtful reading, and practical guides for understanding mental health, personal safety, substance use, and the ways we support one another."
-        image="mental-health-learning"
+        image="africa-reading"
         position="63% 43%"
       >
         <Link className="support-button" to="#knowledge-topics">
@@ -182,7 +182,7 @@ export function DonatePage() {
         title="More understanding."
         accent="Stronger connection."
         description="Thank you for wanting to stand alongside our community. Explore the purpose behind our work and the areas we’re building around care, information, and connection."
-        image="mental-health-connection"
+        image="africa-hands"
         position="50% 44%"
       >
         <Link className="support-button" to="/about">
@@ -235,7 +235,7 @@ export function DonatePage() {
             <Heart size={28} strokeWidth={1.4} aria-hidden="true" />
           </span>
           <span className="support-eyebrow">GIVING WITH CLARITY</span>
-          <h2 id="giving-title">Giving details are coming soon.</h2>
+          <h2 id="giving-title">Giving is in development.</h2>
           <p>
             Online donations aren’t open yet. Our official giving options will
             appear here once they are confirmed.

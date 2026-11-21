@@ -1,25 +1,13 @@
 import AwarenessPage from "./awareness/AwarenessPage";
-import {
-  ContactPage,
-  ExpertisePage,
-  PolicyPage,
-  StoriesPage,
-} from "./PublicPages";
 import { lazy, Suspense, useEffect } from "react";
 import { BrowserRouter, Route, Routes, useLocation } from "react-router-dom";
 import App from "./App";
 import { DemoProvider } from "./services/DemoContext";
 import { ServiceLayout } from "./services/Shared";
 import {
-  DashboardPage,
   NotFound,
-  ProfessionalPage,
   ResourcesPage,
-  ServiceDetail,
-  ServicesPage,
 } from "./services/Pages";
-import AdminPage from "./services/AdminPage";
-import BookingDialog from "./services/BookingDialog";
 import { BlogPage, BlogPostPage } from "./blog/BlogPages";
 import { findBlogPost } from "./blog/posts";
 import { CommunityPage, CommunityDetailPage } from "./community/CommunityPages";
@@ -127,7 +115,7 @@ function NavigationReset() {
                   ? "Blog — VUGA NDAKUMVA"
                   : pathname.startsWith("/blog/")
                     ? `${blogPost?.title || "Article not found"} — VUGA NDAKUMVA`
-                    : `${pathname === "/support" ? "Get support" : pathname === "/mental-health" ? "Mental health" : pathname === "/alcohol-and-drugs" ? "Alcohol & drugs" : pathname === "/understand-gbv" ? "Understand GBV" : pathname === "/urgent-help" ? "Urgent help" : pathname.startsWith("/services") ? "Services" : pathname.startsWith("/professionals") ? "Sample professional" : pathname === "/dashboard" ? "My space" : pathname === "/resources" ? "Resources" : pathname === "/admin-preview" ? "Admin preview" : pathname === "/expertise" ? "Expertise" : pathname === "/stories" ? "Illustrative stories" : pathname === "/about" ? "About" : pathname === "/contact" ? "Contact" : pathname === "/privacy" ? "Privacy" : pathname === "/terms" ? "Terms" : "Page not found"} — VUGA NDAKUMVA`;
+                    : `${pathname === "/support" ? "Get support" : pathname === "/mental-health" ? "Mental health" : pathname === "/alcohol-and-drugs" ? "Alcohol & drugs" : pathname === "/understand-gbv" ? "Understand GBV" : pathname === "/urgent-help" ? "Urgent help" : pathname.startsWith("/services") ? "Services" : pathname.startsWith("/professionals") ? "In development" : pathname === "/dashboard" ? "My space" : pathname === "/resources" ? "Resources" : pathname === "/admin-preview" ? "In development" : pathname === "/expertise" ? "Expertise" : pathname === "/stories" ? "In development" : pathname === "/about" ? "About" : pathname === "/contact" ? "Contact" : pathname === "/privacy" ? "Privacy" : pathname === "/terms" ? "Terms" : "Page not found"} — VUGA NDAKUMVA`;
     document
       .querySelector('meta[name="description"]')
       ?.setAttribute(
@@ -158,6 +146,17 @@ function NavigationReset() {
       )?.focus({ preventScroll: true });
   }, [pathname, hash]);
   return null;
+}
+function InDevelopment() {
+  return (
+    <section className="mx-auto max-w-4xl px-6 py-20 sm:py-28" aria-labelledby="development-title">
+      <div className="rounded-3xl border border-[#dce8d7] bg-[#edf5ec] p-8 sm:p-12">
+        <p className="mb-3 text-sm font-semibold uppercase tracking-wider text-[#286340]">VUGA NDAKUMVA</p>
+        <h1 id="development-title" className="text-4xl font-medium text-[#17351f]">In development</h1>
+        <p className="mt-4 text-base leading-7 text-[#405b46]">This section is in development.</p>
+      </div>
+    </section>
+  );
 }
 export default function Router() {
   return (
@@ -231,21 +230,20 @@ export default function Router() {
             <Route path="/about" element={<SupportAboutPage />} />
           </Route>
           <Route element={<ServiceLayout />}>
-            <Route path="/expertise" element={<ExpertisePage />} />
-            <Route path="/stories" element={<StoriesPage />} />
-            <Route path="/contact" element={<ContactPage />} />
-            <Route path="/privacy" element={<PolicyPage kind="privacy" />} />
-            <Route path="/terms" element={<PolicyPage kind="terms" />} />
-            <Route path="/services" element={<ServicesPage />} />
-            <Route path="/services/:slug" element={<ServiceDetail />} />
-            <Route path="/professionals/:slug" element={<ProfessionalPage />} />
-            <Route path="/dashboard" element={<DashboardPage />} />
+            <Route path="/expertise" element={<InDevelopment />} />
+            <Route path="/stories" element={<InDevelopment />} />
+            <Route path="/contact" element={<InDevelopment />} />
+            <Route path="/privacy" element={<InDevelopment />} />
+            <Route path="/terms" element={<InDevelopment />} />
+            <Route path="/services" element={<InDevelopment />} />
+            <Route path="/services/:slug" element={<InDevelopment />} />
+            <Route path="/professionals/:slug" element={<InDevelopment />} />
+            <Route path="/dashboard" element={<InDevelopment />} />
             <Route path="/resources" element={<ResourcesPage />} />
-            <Route path="/admin-preview" element={<AdminPage />} />
+            <Route path="/admin-preview" element={<InDevelopment />} />
             <Route path="*" element={<NotFound />} />
           </Route>
         </Routes>
-        <BookingDialog />
       </DemoProvider>
     </BrowserRouter>
   );

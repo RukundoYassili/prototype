@@ -12,7 +12,7 @@ export const gbvContinuationChapters: LearningChapter[] = [
     referenceHeading: "References and source notes",
     editorialHeading: "Publication approval checklist",
     reflectionSection: "12",
-    image: "mental-health-connection",
+    image: "africa-hands",
     position: "50% 40%",
     originalFilename:
       "VUGA_NDAKUMVA_GBV_Expanded_Chapter_04_Consent_Boundaries_Bodily_Autonomy.pdf",
@@ -28,7 +28,7 @@ export const gbvContinuationChapters: LearningChapter[] = [
       "VUGA NDAKUMVA INITIATIVE",
       "Chapter 04 Understanding Consent, Boundaries, and Bodily Autonomy",
       "GBV Educational Content Library • Expanded Chapter 04 • Version 1.1 • November 2026",
-      "PUBLICATION STATUS: Evidence-informed educational draft. Requires GBV/safeguarding, legal, clinical and language review before public distribution.",
+      "PUBLICATION STATUS: Evidence-informed educational material. Requires GBV/safeguarding, legal, clinical and language review before public distribution.",
       "Purpose and learning outcomes",
       "Consent and bodily autonomy are essential to healthy relationships and freedom from coercion. This chapter explains how people can recognize meaningful agreement, communicate limits, respect others’ choices, and respond safely when power or fear makes agreement difficult. The goal is education, not investigation, diagnosis or legal adjudication.",
       "After studying this chapter, a reader should be able to explain informed and voluntary consent; identify boundaries across physical, emotional, sexual and digital situations; recognize coercion and power imbalances; discuss why silence or past agreement cannot replace present consent; and identify safe options for seeking help.",
@@ -48,7 +48,7 @@ export const gbvContinuationChapters: LearningChapter[] = [
       },
       {
         type: "paragraph",
-        text: "PUBLICATION STATUS: Evidence-informed educational draft. Requires GBV/safeguarding, legal, clinical and language review before public distribution.",
+        text: "PUBLICATION STATUS: Evidence-informed educational material. Requires GBV/safeguarding, legal, clinical and language review before public distribution.",
       },
     ],
     introductionBlocks: [],
@@ -58,7 +58,7 @@ export const gbvContinuationChapters: LearningChapter[] = [
     editionText:
       "GBV Educational Content Library • Expanded Chapter 04 • Version 1.1 • November 2026",
     publicationStatus:
-      "PUBLICATION STATUS: Evidence-informed educational draft. Requires GBV/safeguarding, legal, clinical and language review before public distribution.",
+      "PUBLICATION STATUS: Evidence-informed educational material. Requires GBV/safeguarding, legal, clinical and language review before public distribution.",
     endMatterPlacement: "inline",
     goals: [],
     goalBlocks: [
@@ -376,7 +376,7 @@ export const gbvContinuationChapters: LearningChapter[] = [
             blocks: [
               {
                 type: "paragraph",
-                text: "Write three harmless fictional situations involving shared space, photographs, and time. For each, draft one respectful request and one respectful refusal. Example: “May I upload this photo?” / “No, please keep it private.” No personal history is required.",
+                text: "Write three harmless fictional situations involving shared space, photographs, and time. For each, write one respectful request and one respectful refusal. Example: “May I upload this photo?” / “No, please keep it private.” No personal history is required.",
               },
             ],
           },
@@ -661,7 +661,7 @@ export const gbvContinuationChapters: LearningChapter[] = [
     referenceHeading: "References and source notes",
     editorialHeading: "Editorial and professional review before publication",
     reflectionSection: "12",
-    image: "mental-health-listening",
+    image: "africa-friends-table",
     position: "50% 40%",
     originalFilename: "chapter 5 updated.pdf",
     version: "Updated edition",
@@ -679,7 +679,7 @@ export const gbvContinuationChapters: LearningChapter[] = [
       "Recognizing abuse, understanding coercive control, supporting survivors safely, and finding appropriate help.",
       "Updated edition - November 2026 Educational resource | English | For adults, students, educators and community supporters",
       "Reader safety note: You do not need to disclose personal experiences to use this chapter. If your device may be monitored, opening GBV information may create additional risk. Consider a safer device or trusted service. For immediate danger, seek emergency assistance when safe.",
-      "Publication status: Evidence-informed educational draft. Requires specialist safeguarding, legal and clinical review before public distribution.",
+      "Publication status: Evidence-informed educational material. Requires specialist safeguarding, legal and clinical review before public distribution.",
       "Learning goals",
       "After studying this chapter, readers should be able to distinguish domestic violence from intimate partner violence; recognize physical, sexual, psychological, economic, and digital abuse; identify coercive control and escalation warning signs; understand why leaving or disclosing abuse may be difficult; offer nonjudgmental first-line support; and locate appropriate help in Rwanda.",
     ],
@@ -712,7 +712,7 @@ export const gbvContinuationChapters: LearningChapter[] = [
     introductionBlocks: [
       {
         type: "paragraph",
-        text: "Publication status: Evidence-informed educational draft. Requires specialist safeguarding, legal and clinical review before public distribution.",
+        text: "Publication status: Evidence-informed educational material. Requires specialist safeguarding, legal and clinical review before public distribution.",
       },
     ],
     safetyNotices: [
@@ -726,7 +726,7 @@ export const gbvContinuationChapters: LearningChapter[] = [
     editionText:
       "Updated edition - November 2026 Educational resource | English | For adults, students, educators and community supporters",
     publicationStatus:
-      "Publication status: Evidence-informed educational draft. Requires specialist safeguarding, legal and clinical review before public distribution.",
+      "Publication status: Evidence-informed educational material. Requires specialist safeguarding, legal and clinical review before public distribution.",
     endMatterPlacement: "inline",
     goals: [],
     goalBlocks: [
@@ -1354,7 +1354,7 @@ export const gbvContinuationChapters: LearningChapter[] = [
         blocks: [
           {
             type: "paragraph",
-            text: "This document is a complete reader-facing educational draft, not an approved intervention protocol. Before public release, obtain review from a qualified GBV/safeguarding professional, a clinician for health content, and an appropriate Rwanda legal or referral specialist. Verify local service operating hours, confidentiality and reporting procedures, terminology, accessibility, and Kinyarwanda and French adaptations. Keep a record of the reviewer, approval date, changes and next review date.",
+            text: "This document is a complete reader-facing educational material, not an approved intervention protocol. Before public release, obtain review from a qualified GBV/safeguarding professional, a clinician for health content, and an appropriate Rwanda legal or referral specialist. Verify local service operating hours, confidentiality and reporting procedures, terminology, accessibility, and Kinyarwanda and French adaptations. Keep a record of the reviewer, approval date, changes and next review date.",
           },
           {
             type: "paragraph",
@@ -1423,7 +1423,7 @@ export const gbvContinuationChapters: LearningChapter[] = [
     referenceHeading: "References and further reading",
     editorialHeading: "Publication and specialist review checklist",
     reflectionSection: "14",
-    image: "mental-health-counseling",
+    image: "africa-conversation",
     position: "50% 40%",
     originalFilename:
       "GBV_Chapter_06_Sexual_Violence_Harassment_Exploitation.pdf",
@@ -1441,7 +1441,7 @@ export const gbvContinuationChapters: LearningChapter[] = [
       "CHAPTER 06",
       "Sexual Violence, Harassment, and Exploitation",
       "A survivor-centred educational chapter for Rwanda | English edition | Version 1.1 | 11 November 2026",
-      "Editorial status: Evidence-informed educational draft; not a clinical, forensic, safeguarding, or legal protocol. GBV specialist, clinical, child-protection, legal and language reviews are required before publication. All scenarios are fictional.",
+      "Editorial status: Evidence-informed educational material; not a clinical, forensic, safeguarding, or legal protocol. GBV specialist, clinical, child-protection, legal and language reviews are required before publication. All scenarios are fictional.",
       "How to use this chapter",
       "This chapter is written for adults, educators, community members, and service navigators. It explains forms of sexual violence and exploitation, what makes consent meaningful, how to respond safely, and where to seek support. Readers may skip examples or activities if they feel uncomfortable. No one needs to share personal experiences to complete the chapter.",
       "Learning outcomes: After reading, a learner should be able to recognize coercion and abuse of authority; explain sexual harassment and exploitation; identify safer first responses; understand time-sensitive healthcare; and describe Rwanda-based support options.",
@@ -1469,7 +1469,7 @@ export const gbvContinuationChapters: LearningChapter[] = [
       },
       {
         type: "paragraph",
-        text: "Editorial status: Evidence-informed educational draft; not a clinical, forensic, safeguarding, or legal protocol. GBV specialist, clinical, child-protection, legal and language reviews are required before publication. All scenarios are fictional.",
+        text: "Editorial status: Evidence-informed educational material; not a clinical, forensic, safeguarding, or legal protocol. GBV specialist, clinical, child-protection, legal and language reviews are required before publication. All scenarios are fictional.",
       },
     ],
     introductionBlocks: [
@@ -1488,7 +1488,7 @@ export const gbvContinuationChapters: LearningChapter[] = [
     editionText:
       "A survivor-centred educational chapter for Rwanda | English edition | Version 1.1 | 11 November 2026",
     publicationStatus:
-      "Editorial status: Evidence-informed educational draft; not a clinical, forensic, safeguarding, or legal protocol. GBV specialist, clinical, child-protection, legal and language reviews are required before publication. All scenarios are fictional.",
+      "Editorial status: Evidence-informed educational material; not a clinical, forensic, safeguarding, or legal protocol. GBV specialist, clinical, child-protection, legal and language reviews are required before publication. All scenarios are fictional.",
     endMatterPlacement: "inline",
     goals: [],
     goalBlocks: [
@@ -2140,7 +2140,7 @@ export const gbvContinuationChapters: LearningChapter[] = [
     referenceHeading: "References and further reading",
     editorialHeading: "Publication and review checklist",
     reflectionSection: "18",
-    image: "mental-health-listening",
+    image: "africa-friends-table",
     position: "50% 40%",
     originalFilename:
       "VUGA_NDAKUMVA_GBV_Chapter_07_Emotional_Psychological_Verbal_Abuse.pdf",
@@ -2212,7 +2212,7 @@ export const gbvContinuationChapters: LearningChapter[] = [
     editionText:
       "Version: 1.1 | Language: English | Prepared: 11 November 2026 | Audience: Adults, community educators, and general readers",
     publicationStatus:
-      "Evidence-informed educational draft only. No claim of professional clinical, legal or safeguarding approval has been made. Review the entire chapter before publishing or adapting it for an AI chatbot or public awareness campaign.",
+      "Evidence-informed educational material only. No claim of professional clinical, legal or safeguarding approval has been made. Review the entire chapter before publishing or adapting it for an AI chatbot or public awareness campaign.",
     endMatterPlacement: "inline",
     goals: [],
     goalBlocks: [
@@ -2859,7 +2859,7 @@ export const gbvContinuationChapters: LearningChapter[] = [
           },
           {
             type: "paragraph",
-            text: "Evidence-informed educational draft only. No claim of professional clinical, legal or safeguarding approval has been made. Review the entire chapter before publishing or adapting it for an AI chatbot or public awareness campaign.",
+            text: "Evidence-informed educational material only. No claim of professional clinical, legal or safeguarding approval has been made. Review the entire chapter before publishing or adapting it for an AI chatbot or public awareness campaign.",
           },
           {
             type: "paragraph",
@@ -2928,7 +2928,7 @@ export const gbvContinuationChapters: LearningChapter[] = [
     referenceHeading: "Scientific and institutional references",
     editorialHeading: "Editorial and professional review checklist",
     reflectionSection: "11",
-    image: "mental-health-learning",
+    image: "africa-reading",
     position: "50% 40%",
     originalFilename: "GBV Chapter 8 Modern.pdf",
     version: "2.0",
@@ -2943,7 +2943,7 @@ export const gbvContinuationChapters: LearningChapter[] = [
       "GBV EDUCATIONAL LIBRARY / CHAPTER 08",
       "Economic Violence and Financial Control",
       "Understanding coercion through money, work, resources, property, and financial access - and how to support survivors safely.",
-      "Educational draft | Version 2.0 | November 2026",
+      "educational material | Version 2.0 | November 2026",
       "Includes: 18 learning sections, 5 case studies, 5 activities, 10 assessment questions, glossary, Rwanda support information, and references.",
       "Prepared for educational and professional review. Not an individualized safety plan or legal advice.",
       "How to use this chapter",
@@ -2971,7 +2971,7 @@ export const gbvContinuationChapters: LearningChapter[] = [
       },
       {
         type: "paragraph",
-        text: "Educational draft | Version 2.0 | November 2026",
+        text: "educational material | Version 2.0 | November 2026",
       },
       {
         type: "paragraph",
@@ -3000,7 +3000,7 @@ export const gbvContinuationChapters: LearningChapter[] = [
     ],
     afterGoals: [],
     goalsHeading: "Learning objectives",
-    editionText: "Educational draft | Version 2.0 | November 2026",
+    editionText: "educational material | Version 2.0 | November 2026",
     publicationStatus:
       "Prepared for educational and professional review. Not an individualized safety plan or legal advice.",
     endMatterPlacement: "inline",
@@ -3615,7 +3615,7 @@ export const gbvContinuationChapters: LearningChapter[] = [
           },
           {
             type: "paragraph",
-            text: "END OF CHAPTER 08 | Education draft | Professional review required",
+            text: "END OF CHAPTER 08 | educational material | Professional review required",
           },
         ],
       },
@@ -3686,7 +3686,7 @@ export const gbvContinuationChapters: LearningChapter[] = [
     referenceHeading: "References and evidence notes",
     editorialHeading: "References and evidence notes",
     reflectionSection: "17",
-    image: "mental-health-connection",
+    image: "africa-hands",
     position: "50% 40%",
     originalFilename: "GBV_Chapter_09_Technology_Facilitated_Online_GBV.pdf",
     version: "1.0",
@@ -3703,7 +3703,7 @@ export const gbvContinuationChapters: LearningChapter[] = [
       "Technology-Facilitated and Online",
       "Gender-Based Violence",
       "Understanding digital abuse, recognizing warning signs, protecting safety, and accessing respectful support",
-      "PUBLICATION STATUS Evidence-informed educational draft | English | Version 1.0 | 11 November 2026. Requires GBV safeguarding, local legal and digital-safety review before use with survivors. This is educational information, not individual legal, cybersecurity, or clinical advice.",
+      "PUBLICATION STATUS Evidence-informed educational material | English | Version 1.0 | 11 November 2026. Requires GBV safeguarding, local legal and digital-safety review before use with survivors. This is educational information, not individual legal, cybersecurity, or clinical advice.",
       "Intended audience: adults, older adolescents with age-appropriate support, educators, community advocates, and first-line service providers.",
       "This chapter does not request private experiences or personal information. All scenarios are fictional and are not reports of actual individuals.",
       "Learning goals and how to use this chapter",
@@ -3734,7 +3734,7 @@ export const gbvContinuationChapters: LearningChapter[] = [
       },
       {
         type: "paragraph",
-        text: "PUBLICATION STATUS Evidence-informed educational draft | English | Version 1.0 | 11 November 2026. Requires GBV safeguarding, local legal and digital-safety review before use with survivors. This is educational information, not individual legal, cybersecurity, or clinical advice.",
+        text: "PUBLICATION STATUS Evidence-informed educational material | English | Version 1.0 | 11 November 2026. Requires GBV safeguarding, local legal and digital-safety review before use with survivors. This is educational information, not individual legal, cybersecurity, or clinical advice.",
       },
       {
         type: "paragraph",
@@ -3760,7 +3760,7 @@ export const gbvContinuationChapters: LearningChapter[] = [
     goalsHeading: "Learning goals and how to use this chapter",
     editionText: "English | Version 1.0 | 11 November 2026",
     publicationStatus:
-      "PUBLICATION STATUS Evidence-informed educational draft | English | Version 1.0 | 11 November 2026. Requires GBV safeguarding, local legal and digital-safety review before use with survivors. This is educational information, not individual legal, cybersecurity, or clinical advice.",
+      "PUBLICATION STATUS Evidence-informed educational material | English | Version 1.0 | 11 November 2026. Requires GBV safeguarding, local legal and digital-safety review before use with survivors. This is educational information, not individual legal, cybersecurity, or clinical advice.",
     endMatterPlacement: "inline",
     goals: [],
     goalBlocks: [
@@ -4512,7 +4512,7 @@ export const gbvContinuationChapters: LearningChapter[] = [
     referenceHeading: "Source notes and references",
     editorialHeading: "Publication and safeguarding review",
     reflectionSection: "17",
-    image: "mental-health-group",
+    image: "africa-group-reading",
     position: "50% 40%",
     originalFilename: "GBV_Chapter_10_Children_and_Adolescents.pdf",
     version: "1.0",
@@ -4527,7 +4527,7 @@ export const gbvContinuationChapters: LearningChapter[] = [
       "GENDER-BASED VIOLENCE EDUCATIONAL CONTENT LIBRARY",
       "CHAPTER 10 Gender-Based Violence Against Children and Adolescents",
       "Child protection, safe disclosure, prevention, survivor-centred responses and pathways to help in Rwanda",
-      "EDUCATIONAL DRAFT | November 2026 | Version 1.0 For general learning and trained community educators. Not a clinical, forensic or legal protocol. Specialist review is required before publication.",
+      "EDUCATIONAL MATERIAL | November 2026 | Version 1.0 For general learning and trained community educators. Not a clinical, forensic or legal protocol. Specialist review is required before publication.",
       "Who this chapter is for: Parents and caregivers, adolescents, educators, community workers, health and social-service personnel, and people designing safe child-protection learning resources.",
       "How to use: Read the lessons in order. Case studies are fictional and non-graphic. Facilitators should never invite children to disclose personal abuse in a public classroom or group exercise.",
       "Immediate concern: If a child may be in danger, prioritize immediate protection and contact appropriate local emergency, child-protection or healthcare services. Do not wait to finish this chapter.",
@@ -4553,7 +4553,7 @@ export const gbvContinuationChapters: LearningChapter[] = [
       },
       {
         type: "paragraph",
-        text: "EDUCATIONAL DRAFT | November 2026 | Version 1.0 For general learning and trained community educators. Not a clinical, forensic or legal protocol. Specialist review is required before publication.",
+        text: "EDUCATIONAL MATERIAL | November 2026 | Version 1.0 For general learning and trained community educators. Not a clinical, forensic or legal protocol. Specialist review is required before publication.",
       },
     ],
     introductionBlocks: [
@@ -4574,9 +4574,9 @@ export const gbvContinuationChapters: LearningChapter[] = [
     ],
     afterGoals: [],
     goalsHeading: "Learning outcomes",
-    editionText: "EDUCATIONAL DRAFT | November 2026 | Version 1.0",
+    editionText: "EDUCATIONAL MATERIAL | November 2026 | Version 1.0",
     publicationStatus:
-      "EDUCATIONAL DRAFT | November 2026 | Version 1.0 For general learning and trained community educators. Not a clinical, forensic or legal protocol. Specialist review is required before publication.",
+      "EDUCATIONAL MATERIAL | November 2026 | Version 1.0 For general learning and trained community educators. Not a clinical, forensic or legal protocol. Specialist review is required before publication.",
     endMatterPlacement: "inline",
     goals: [],
     goalBlocks: [
@@ -5195,7 +5195,7 @@ export const gbvContinuationChapters: LearningChapter[] = [
           },
           {
             type: "paragraph",
-            text: "STATUS: Evidence-informed educational draft. Not approved for direct use as a child-protection service protocol or personalized clinical advice.",
+            text: "STATUS: Evidence-informed educational material. Not approved for direct use as a child-protection service protocol or personalized clinical advice.",
           },
         ],
       },

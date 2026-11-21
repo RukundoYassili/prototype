@@ -98,7 +98,7 @@ function GbvChapters() {
       <div className="mh-draft-note">
         <FileText size={22} aria-hidden="true" />
         <div>
-          <strong>Educational drafts · November 2026</strong>
+          <strong>educational materials · November 2026</strong>
           <p>
             These original VUGA NDAKUMVA drafts are not approved for
             publication. GBV-specialist, safeguarding, legal, clinical,

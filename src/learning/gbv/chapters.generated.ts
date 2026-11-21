@@ -18,7 +18,7 @@ export const gbvChapters: LearningChapter[] = [
     version: "1.1",
     date: "2026-11-09",
     language: "English",
-    author: "VUGA NDAKUMVA Initiative - educational draft",
+    author: "VUGA NDAKUMVA Initiative - educational material",
     pdfUrl: "/learning/gbv/GBV_Chapter_01.pdf",
     worksheetUrl: "",
     sourcePages: 12,
@@ -31,7 +31,7 @@ export const gbvChapters: LearningChapter[] = [
       "Understanding Gender-Based Violence",
       "Expanded educational handbook | English | Version 1.1 | 9 November 2026",
       "For community education, awareness programmes, supportive learning and future reviewed digital content.",
-      "Editorial status: Evidence-informed educational draft. Not yet approved for publication. Requires GBV-specialist, safeguarding, legal, accessibility and Rwanda-localization review.",
+      "Editorial status: Evidence-informed educational material. Not yet approved for publication. Requires GBV-specialist, safeguarding, legal, accessibility and Rwanda-localization review.",
       "Reader safety: This handbook discusses abuse, threats and coercive control without graphic accounts. You may skip any activity. If you are unsafe, prioritize reaching a suitable professional or emergency service; reading a handbook is not a substitute for immediate care.",
       "How to use this chapter",
       "This chapter offers foundational education about gender-based violence (GBV). It can be read individually or used by a trained facilitator. It is not a legal opinion, diagnostic tool, investigation protocol, or substitute for medical or specialist GBV services.",
@@ -70,7 +70,7 @@ export const gbvChapters: LearningChapter[] = [
     editionText:
       "Expanded educational handbook | English | Version 1.1 | 9 November 2026",
     publicationStatus:
-      "Editorial status: Evidence-informed educational draft. Not yet approved for publication. Requires GBV-specialist, safeguarding, legal, accessibility and Rwanda-localization review.",
+      "Editorial status: Evidence-informed educational material. Not yet approved for publication. Requires GBV-specialist, safeguarding, legal, accessibility and Rwanda-localization review.",
     endMatterPlacement: "inline",
     goals: [
       "Define GBV and distinguish it from disagreements that are not necessarily gender-based.",
@@ -861,7 +861,7 @@ export const gbvChapters: LearningChapter[] = [
       },
       {
         type: "paragraph",
-        text: "Editorial status: Evidence-informed educational draft. Not yet approved for publication. Requires GBV-specialist, safeguarding, legal, accessibility and Rwanda-localization review.",
+        text: "Editorial status: Evidence-informed educational material. Not yet approved for publication. Requires GBV-specialist, safeguarding, legal, accessibility and Rwanda-localization review.",
       },
     ],
   },
@@ -883,7 +883,7 @@ export const gbvChapters: LearningChapter[] = [
     version: "1.1",
     date: "2026-11-09",
     language: "English",
-    author: "VUGA NDAKUMVA - Educational draft",
+    author: "VUGA NDAKUMVA - educational material",
     pdfUrl:
       "/learning/gbv/VUGA_NDAKUMVA_GBV_Expanded_Chapter_02_Types_and_Forms.pdf",
     worksheetUrl: "",
@@ -894,7 +894,7 @@ export const gbvChapters: LearningChapter[] = [
       "CHAPTER 02",
       "Types and Forms of Gender-Based Violence",
       "A detailed, survivor-centred educational chapter with definitions, warning signs, practical scenarios, learning activities, and sources.",
-      "EDUCATIONAL DRAFT - NOT YET APPROVED FOR PUBLICATION. Specialist safeguarding, legal, clinical, translation and Rwanda referral verification are required. This chapter is not a diagnostic tool, legal opinion, emergency service, or substitute for professional assistance.",
+      "EDUCATIONAL MATERIAL - NOT YET APPROVED FOR PUBLICATION. Specialist safeguarding, legal, clinical, translation and Rwanda referral verification are required. This chapter is not a diagnostic tool, legal opinion, emergency service, or substitute for professional assistance.",
       "Version: 1.1 | Prepared: 9 November 2026 | Language: English | Series: GBV Chapters 01-18",
       "Chapter learning objectives",
       "After working through this chapter, a reader should be able to identify several forms of gender-based violence (GBV), explain why harmful acts can overlap, recognize patterns of control without diagnosing a situation from a checklist, understand barriers to disclosure, and identify safer routes to information, health care and specialist support.",
@@ -912,7 +912,7 @@ export const gbvChapters: LearningChapter[] = [
     editionText:
       "Version: 1.1 | Prepared: 9 November 2026 | Language: English | Series: GBV Chapters 01-18",
     publicationStatus:
-      "EDUCATIONAL DRAFT - NOT YET APPROVED FOR PUBLICATION. Specialist safeguarding, legal, clinical, translation and Rwanda referral verification are required. This chapter is not a diagnostic tool, legal opinion, emergency service, or substitute for professional assistance.",
+      "EDUCATIONAL MATERIAL - NOT YET APPROVED FOR PUBLICATION. Specialist safeguarding, legal, clinical, translation and Rwanda referral verification are required. This chapter is not a diagnostic tool, legal opinion, emergency service, or substitute for professional assistance.",
     endMatterPlacement: "inline",
     goals: [],
     goalBlocks: [
@@ -1590,7 +1590,7 @@ export const gbvChapters: LearningChapter[] = [
           },
           {
             type: "paragraph",
-            text: "Publication review status: Editorial draft. Requires review by GBV safeguarding specialist; Rwanda legal and reporting process review; clinical review of urgent-care wording; verification of all contacts; accessible English proofing and Kinyarwanda/French translation and back-check. No approval is claimed.",
+            text: "Publication review status: material under editorial review. Requires review by GBV safeguarding specialist; Rwanda legal and reporting process review; clinical review of urgent-care wording; verification of all contacts; accessible English proofing and Kinyarwanda/French translation and back-check. No approval is claimed.",
           },
         ],
       },
@@ -1683,7 +1683,7 @@ export const gbvChapters: LearningChapter[] = [
       },
       {
         type: "paragraph",
-        text: "EDUCATIONAL DRAFT - NOT YET APPROVED FOR PUBLICATION. Specialist safeguarding, legal, clinical, translation and Rwanda referral verification are required. This chapter is not a diagnostic tool, legal opinion, emergency service, or substitute for professional assistance.",
+        text: "EDUCATIONAL MATERIAL - NOT YET APPROVED FOR PUBLICATION. Specialist safeguarding, legal, clinical, translation and Rwanda referral verification are required. This chapter is not a diagnostic tool, legal opinion, emergency service, or substitute for professional assistance.",
       },
       {
         type: "paragraph",
@@ -1709,7 +1709,7 @@ export const gbvChapters: LearningChapter[] = [
     version: "1.1",
     date: "2026-11",
     language: "English",
-    author: "VUGA NDAKUMVA Initiative - educational draft",
+    author: "VUGA NDAKUMVA Initiative - educational material",
     pdfUrl:
       "/learning/gbv/VUGA_NDAKUMVA_GBV_Expanded_Chapter_03_Root_Causes_Risk_Factors_Gender_Inequality.pdf",
     worksheetUrl: "",
@@ -1718,7 +1718,7 @@ export const gbvChapters: LearningChapter[] = [
       "VUGA NDAKUMVA INITIATIVE",
       "CHAPTER 03 Root Causes, Risk Factors, and Gender Inequality",
       "Gender-Based Violence Educational Content Library | Expanded Chapter 03 | Version 1.1 | November 2026",
-      "Educational status: Evidence-informed draft for learning and community awareness. It is not a substitute for individualized legal, medical, psychological, or protection advice. Requires specialist safeguarding, legal and Rwanda localization review before public release.",
+      "Educational status: evidence-informed material for learning and community awareness. It is not a substitute for individualized legal, medical, psychological, or protection advice. Requires specialist safeguarding, legal and Rwanda localization review before public release.",
       "Chapter purpose and learning outcomes",
       "Gender-based violence (GBV) does not emerge from one simple cause. This chapter helps readers understand how unequal power relations and harmful gender norms create conditions that permit violence, how risk factors operate at different levels, and how families, schools, communities, services, and institutions can reduce harm. It also explains why identifying a risk factor never justifies blaming a survivor.",
       "Explain gender inequality, power and coercive control in plain language. Distinguish root causes from risk factors, triggers, protective factors, and individual accountability. Apply the ecological model to illustrative Rwandan settings without stereotyping communities. Recognize prevention strategies with stronger evidence and avoid unsafe interventions. Practice respectful, survivor-centred responses and identify when specialist help is needed.",
@@ -1735,7 +1735,7 @@ export const gbvChapters: LearningChapter[] = [
     editionText:
       "Gender-Based Violence Educational Content Library | Expanded Chapter 03 | Version 1.1 | November 2026",
     publicationStatus:
-      "Educational status: Evidence-informed draft for learning and community awareness. It is not a substitute for individualized legal, medical, psychological, or protection advice. Requires specialist safeguarding, legal and Rwanda localization review before public release.",
+      "Educational status: evidence-informed material for learning and community awareness. It is not a substitute for individualized legal, medical, psychological, or protection advice. Requires specialist safeguarding, legal and Rwanda localization review before public release.",
     endMatterPlacement: "inline",
     goals: [
       "Explain gender inequality, power and coercive control in plain language.",
@@ -2415,7 +2415,7 @@ export const gbvChapters: LearningChapter[] = [
               "[ ] Clinical reviewer has checked mental-health-related safety language.",
               "[ ] English, Kinyarwanda and French versions receive independent human review.",
               "[ ] Accessibility, privacy and safe-device-use checks are completed.",
-              "[ ] Content owner, revision date and next review date are recorded. Next chapter: Chapter 04 - Understanding Consent, Boundaries, and Bodily Autonomy. This chapter should be expanded only as a separate GBV educational publication; Chapter 03 remains in draft until approved.",
+              "[ ] Content owner, revision date and next review date are recorded. Next chapter: Chapter 04 - Understanding Consent, Boundaries, and Bodily Autonomy. This chapter should be expanded only as a separate GBV educational publication; Chapter 03 remains under review until approved.",
             ],
           },
         ],
@@ -2471,7 +2471,7 @@ export const gbvChapters: LearningChapter[] = [
       },
       {
         type: "paragraph",
-        text: "Educational status: Evidence-informed draft for learning and community awareness. It is not a substitute for individualized legal, medical, psychological, or protection advice. Requires specialist safeguarding, legal and Rwanda localization review before public release.",
+        text: "Educational status: evidence-informed material for learning and community awareness. It is not a substitute for individualized legal, medical, psychological, or protection advice. Requires specialist safeguarding, legal and Rwanda localization review before public release.",
       },
     ],
   },

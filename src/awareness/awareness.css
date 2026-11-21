@@ -1,14 +1,14 @@
 .awareness-page {
-  --awareness-ink: #392653;
-  --awareness-muted: #5d5665;
-  --awareness-lavender: #f1edf7;
+  --awareness-ink: #203e2d;
+  --awareness-muted: #526152;
+  --awareness-lavender: #f1f6ef;
   --awareness-mint: #edf5ec;
-  --awareness-line: #ded8e8;
+  --awareness-line: #dce7da;
   --awareness-teal: #245747;
   color: var(--awareness-ink);
 }
 .awareness-page .support-eyebrow {
-  color: #69517f;
+  color: #416a4c;
   font-size: 11px;
   letter-spacing: 0.12em;
 }
@@ -35,7 +35,7 @@
   background: #193f34;
 }
 .awareness-page .support-text-link {
-  color: #51346f;
+  color: #28543b;
 }
 .awareness-page .information-card {
   background: #fffdf9;
@@ -46,7 +46,7 @@
   color: var(--awareness-ink);
 }
 .awareness-page .information-card-action {
-  color: #51346f;
+  color: #28543b;
   border-color: var(--awareness-line);
 }
 .awareness-hero {
@@ -61,7 +61,7 @@
   line-height: 1.12;
 }
 .awareness-hero h1 > span {
-  color: #755a94;
+  color: #426d4d;
 }
 .awareness-hero p {
   color: var(--awareness-muted);
@@ -112,7 +112,7 @@
   color: #fff;
 }
 .awareness-page :is(a, button, summary):focus-visible {
-  outline: 3px solid #7551a1;
+  outline: 3px solid #286340;
   outline-offset: 5px;
 }
 .awareness-lessons {
@@ -140,7 +140,7 @@
   display: flex;
   gap: 12px;
   align-items: center;
-  color: #634581;
+  color: #416a4c;
   font-size: 13px;
   margin-bottom: 28px;
 }
@@ -189,8 +189,8 @@
   margin-bottom: 12px;
 }
 .awareness-example {
-  border-left: 3px solid #b8a1df;
-  background: #f8f5fb;
+  border-left: 3px solid #a9c5a5;
+  background: #f5f8f2;
   border-radius: 0 12px 12px 0;
   padding: 20px;
   margin-block: 24px;
@@ -213,7 +213,7 @@
   display: inline-flex;
   gap: 6px;
   align-items: center;
-  color: #634581;
+  color: #416a4c;
   font-size: 12px;
   line-height: 1.6;
   text-underline-offset: 3px;
@@ -237,7 +237,7 @@
   text-align: left;
   padding: 12px 18px;
   min-height: 44px;
-  border: 1px solid #b9a9cb;
+  border: 1px solid #b9cdb5;
   border-radius: 14px;
   background: transparent;
   color: var(--awareness-ink);
@@ -280,7 +280,7 @@
   margin-bottom: 14px;
 }
 .awareness-audience-content li::marker {
-  color: #755a94;
+  color: #426d4d;
   font-weight: 600;
 }
 .awareness-audience-content li:last-child {
@@ -297,7 +297,7 @@
   font-size: 24px;
 }
 .awareness-conversation-grid > article > svg {
-  color: #755a94;
+  color: #426d4d;
   background: var(--awareness-lavender);
   padding: 10px;
   box-sizing: content-box;
@@ -331,7 +331,7 @@
   margin: 0;
 }
 .awareness-programmes .support-eyebrow {
-  color: #69517f;
+  color: #416a4c;
 }
 .awareness-programmes h2 {
   color: var(--awareness-ink);
@@ -343,7 +343,7 @@
   display: flex;
   gap: 20px;
   padding-block: 22px;
-  border-bottom: 1px solid #d7cce3;
+  border-bottom: 1px solid #dce7da;
 }
 .awareness-programmes article:first-child {
   padding-top: 0;
@@ -353,7 +353,7 @@
   padding-bottom: 0;
 }
 .awareness-programmes article > span {
-  color: #69517f;
+  color: #416a4c;
   font-size: 12px;
   padding-top: 6px;
 }
@@ -375,7 +375,7 @@
   align-items: center;
   gap: 30px;
   padding: 28px;
-  border: 1px dashed #b9a9cb;
+  border: 1px dashed #b9cdb5;
   border-radius: 20px;
 }
 .awareness-empty h3 {
@@ -436,11 +436,11 @@
 }
 .awareness-faq summary svg {
   flex-shrink: 0;
-  color: #755a94;
+  color: #426d4d;
   transition: transform 160ms ease;
 }
 .awareness-faq details[open] summary {
-  color: #51346f;
+  color: #28543b;
   font-weight: 600;
 }
 .awareness-faq details[open] summary svg {
@@ -452,8 +452,8 @@
   padding-right: 32px;
 }
 .awareness-review {
-  background: #f7f5f9;
-  border-left: 3px solid #b8a1df;
+  background: #f5f8f2;
+  border-left: 3px solid #a9c5a5;
   border-radius: 0 16px 16px 0;
   padding: 18px 24px;
   margin-bottom: 32px;
@@ -507,7 +507,7 @@
 }
 .awareness-art-unavailable {
   padding: 32px;
-  border: 1px dashed #b9a9cb;
+  border: 1px dashed #b9cdb5;
   border-radius: 18px;
   font-size: 14px;
   line-height: 1.7;
@@ -536,23 +536,23 @@
   background: var(--awareness-mint);
 }
 .awareness-faq summary::marker {
-  color: #755a94;
+  color: #426d4d;
 }
 @media (hover: hover) {
   .awareness-section-nav a:not([aria-current]):hover,
   .awareness-audience-buttons button[aria-pressed="false"]:hover {
-    background: #e7def1;
+    background: #e5f0e2;
   }
   .awareness-reading-card:hover {
-    border-color: #b8a1df;
-    box-shadow: 0 8px 28px #3926530a;
+    border-color: #a9c5a5;
+    box-shadow: 0 8px 28px #203e2d0a;
   }
   .awareness-reading-card:hover .information-card-action {
     text-decoration: underline;
     text-underline-offset: 4px;
   }
   .awareness-faq summary:hover {
-    color: #51346f;
+    color: #28543b;
   }
 }
 @media (prefers-reduced-motion: reduce) {

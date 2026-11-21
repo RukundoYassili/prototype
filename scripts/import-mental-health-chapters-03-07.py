@@ -17,11 +17,11 @@ ROOT = Path(__file__).resolve().parents[1]
 SOURCE = ROOT / "public/learning/mental-health"
 DOWNLOADS = Path("C:/Users/VUGANDAKUMVA/Downloads")
 CONFIG = [
-    (3, "Stress", "understanding-stress-and-healthy-coping-strategies", "Understanding Stress and Healthy Coping Strategies", "Explore stress, practical pressures, flexible coping, and when additional support matters.", "mental-health-learning", "16"),
-    (4, "Anxiety", "understanding-anxiety-and-anxiety-disorders", "Understanding Anxiety and Anxiety Disorders", "Understand everyday anxiety, anxiety disorders, supportive responses, and professional care.", "mental-health-listening", "04.21"),
-    (5, "Depression", "understanding-depression-and-depressive-disorders", "Understanding Depression and Depressive Disorders", "Learn about depression, compassionate support, treatment, and small steps that respect individual circumstances.", "mental-health-counseling", "20"),
-    (6, "Trauma_PTSD", "understanding-trauma-and-post-traumatic-stress", "Understanding Trauma and Post-Traumatic Stress", "Explore trauma responses, safety, voluntary coping, and pathways to appropriate professional support.", "mental-health-connection", "25"),
-    (7, "Grief_Loss", "understanding-grief-loss-and-emotional-adjustment", "Understanding Grief, Loss, and Emotional Adjustment", "Understand different losses, changing grief experiences, practical support, and when assessment may help.", "mental-health-group", "Part VI"),
+    (3, "Stress", "understanding-stress-and-healthy-coping-strategies", "Understanding Stress and Healthy Coping Strategies", "Explore stress, practical pressures, flexible coping, and when additional support matters.", "africa-reading", "16"),
+    (4, "Anxiety", "understanding-anxiety-and-anxiety-disorders", "Understanding Anxiety and Anxiety Disorders", "Understand everyday anxiety, anxiety disorders, supportive responses, and professional care.", "africa-friends-table", "04.21"),
+    (5, "Depression", "understanding-depression-and-depressive-disorders", "Understanding Depression and Depressive Disorders", "Learn about depression, compassionate support, treatment, and small steps that respect individual circumstances.", "africa-conversation", "20"),
+    (6, "Trauma_PTSD", "understanding-trauma-and-post-traumatic-stress", "Understanding Trauma and Post-Traumatic Stress", "Explore trauma responses, safety, voluntary coping, and pathways to appropriate professional support.", "africa-hands", "25"),
+    (7, "Grief_Loss", "understanding-grief-loss-and-emotional-adjustment", "Understanding Grief, Loss, and Emotional Adjustment", "Understand different losses, changing grief experiences, practical support, and when assessment may help.", "africa-group-reading", "Part VI"),
 ]
 TABLE_HEADERS = {
     "Life area": "Examples of possible stressors",
