@@ -55,10 +55,6 @@ export default function App() {
               </p>
             </div>
             <TopicCards />
-            <p className="support-photo-note">
-              Illustrative photography. The people pictured are not identified
-              as clients, survivors, or people using substances.
-            </p>
           </section>
           <section
             className="support-section support-help-section"

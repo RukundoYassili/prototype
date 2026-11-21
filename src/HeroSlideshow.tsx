@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState, type CSSProperties } from "react";
 import { Link } from "react-router-dom";
 import { ArrowUpRight } from "lucide-react";
+import { currentSiteLanguage } from "./siteTranslation";
 
 const slides = [
   { image: "africa-reading", description: "A woman reading at a table", title: "Mental health matters.", copy: "Understanding mental wellbeing is a meaningful place to begin caring for ourselves and one another.", label: "Explore mental health", href: "/why-mental-health" },
@@ -11,6 +12,9 @@ const slides = [
 ];
 export default function HeroSlideshow() {
   const [position, setPosition] = useState(0);
+  const [language, setLanguage] = useState(currentSiteLanguage);
+  const [translatedSlides, setTranslatedSlides] = useState(() => slides.map(({ title, copy, label }) => ({ title, copy, label })));
+  const translationSource = useRef<HTMLDivElement>(null);
   const [reduced, setReduced] = useState(
     () => window.matchMedia("(prefers-reduced-motion: reduce)").matches,
   );
@@ -25,6 +29,29 @@ export default function HeroSlideshow() {
     visible &&
     inView &&
     (keyboardPlaying || (!hovered && !focused));
+
+  useEffect(() => {
+    const source = translationSource.current;
+    if (!source) return;
+    let frame = 0;
+    const update = () => {
+      cancelAnimationFrame(frame);
+      frame = requestAnimationFrame(() => {
+        const rows = [...source.querySelectorAll<HTMLElement>("[data-translation-slide]")];
+        setTranslatedSlides(rows.map((row, index) => ({
+          title: row.querySelector("[data-title]")?.textContent || slides[index].title,
+          copy: row.querySelector("[data-copy]")?.textContent || slides[index].copy,
+          label: row.querySelector("[data-label]")?.textContent || slides[index].label,
+        })));
+      });
+    };
+    const observer = new MutationObserver(update);
+    observer.observe(source, { subtree: true, childList: true, characterData: true });
+    const onLanguage = (event: Event) => { setLanguage((event as CustomEvent<"en" | "rw">).detail); update(); };
+    window.addEventListener("site-language-change", onLanguage);
+    update();
+    return () => { observer.disconnect(); cancelAnimationFrame(frame); window.removeEventListener("site-language-change", onLanguage); };
+  }, []);
 
   useEffect(() => {
     const hero = container.current?.closest<HTMLElement>(".hero");
@@ -84,6 +111,9 @@ export default function HeroSlideshow() {
 
   return (
     <>
+      <div ref={translationSource} className="hero-translation-source" aria-hidden="true">
+        {slides.map((slide) => <div data-translation-slide key={slide.image}><p data-title>{slide.title}</p><p data-copy>{slide.copy}</p><p data-label>{slide.label}</p></div>)}
+      </div>
       <div
         className="hero-slides"
         ref={container}
@@ -117,21 +147,20 @@ export default function HeroSlideshow() {
         </div>
       </div>
       <div className="hero-shade" />
-      <span className="hero-photo-note">Illustrative stock photography</span>
       <div className="hero-bottom">
-        <div key={position} className="support-hero-copy motion-safe:animate-[hero-copy-in_600ms_ease-out_both]">
+        <div key={position} className="support-hero-copy motion-safe:animate-[hero-copy-in_600ms_ease-out_both]" translate={language === "rw" ? "no" : "yes"}>
           <span className="support-hero-eyebrow"><span /> UNDERSTANDING. CONNECTION. SUPPORT.</span>
-          <h1>{slides[position % slides.length].title}</h1>
-          <p>{slides[position % slides.length].copy}</p>
+          <h1>{language === "rw" ? translatedSlides[position].title : slides[position].title}</h1>
+          <p>{language === "rw" ? translatedSlides[position].copy : slides[position].copy}</p>
           <Link to={slides[position % slides.length].href} className="support-button">
-            {slides[position % slides.length].label} <ArrowUpRight size={20} aria-hidden="true" />
+            {language === "rw" ? translatedSlides[position].label : slides[position].label} <ArrowUpRight size={20} aria-hidden="true" />
           </Link>
         </div>
       </div>
       <div className="hero-navigation" role="group" aria-label="Choose an awareness slide">
         {slides.map((slide, index) => (
           <button key={slide.image} type="button" className="hero-nav-button"
-            aria-label={`Slide ${index + 1}: ${slide.title}`}
+            aria-label={language === "rw" ? `Igice ${index + 1}: ${translatedSlides[index].title}` : `Slide ${index + 1}: ${slide.title}`}
             aria-current={position % slides.length === index ? "true" : undefined}
             onClick={() => setPosition(index)}>
             <span aria-hidden="true" />

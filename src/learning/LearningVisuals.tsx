@@ -106,7 +106,7 @@ function SceneImage({
         {failed ? (
           <p role="status">
             <BookOpen size={24} aria-hidden="true" />
-            Image unavailable. The scene is described below.
+            Image unavailable. {scene.alt}
           </p>
         ) : (
           <img
@@ -125,15 +125,6 @@ function SceneImage({
           0{index + 1}
         </span>
       </div>
-      <figcaption>
-        <span className="lv-scene-label">
-          {index === 0
-            ? "The situation"
-            : story.illustration?.supportLabel || "A possible supportive step"}
-        </span>
-        {failed && <span className="lv-scene-description">{scene.alt}</span>}
-        <p>{scene.caption}</p>
-      </figcaption>
     </figure>
   );
 }
@@ -160,9 +151,6 @@ export function VisualStory({
           SEE THE EXAMPLE
         </span>
         {!sourceHeadingId && <h3 id={headingId}>{story.title}</h3>}
-        <p className="lv-fictional">
-          Illustrative fictional example.
-        </p>
       </div>
       <div className="lv-story-scenes">
         {story.scenes.map((scene, index) => (

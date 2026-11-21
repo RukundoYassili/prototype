@@ -223,9 +223,7 @@ for (const width of [375, 768, 1440]) {
         }),
       ).toBe(true);
     }
-    await expect(
-      page.locator(".awareness-illustration-hero figcaption"),
-    ).toContainText("not a record of an outreach activity");
+    await expect(page.locator(".awareness-illustration figcaption")).toHaveCount(0);
     for (const anchor of [
       "awareness-topics",
       "awareness-actions",

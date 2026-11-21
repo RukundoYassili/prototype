@@ -298,12 +298,7 @@ for (const width of [375, 768, 1024, 1440, 1920]) {
           () => document.documentElement.scrollWidth <= innerWidth + 1,
         ),
       ).toBe(true);
-      expect(
-        await page
-          .locator(".lv-scene figcaption p")
-          .first()
-          .evaluate((node) => parseFloat(getComputedStyle(node).fontSize)),
-      ).toBeGreaterThanOrEqual(14);
+      await expect(page.locator(".lv-scene figcaption")).toHaveCount(0);
       if (width > 680) {
         for (const diagram of await page.locator(".lv-influences").all()) {
           const cells = await diagram

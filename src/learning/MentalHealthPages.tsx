@@ -113,7 +113,6 @@ function MentalHealthLibrary() {
         </div>
         <figure>
           <AboutIllustration name="reading" priority />
-          <figcaption>Make room to learn, at your own pace.</figcaption>
         </figure>
       </header>
       <div
@@ -207,12 +206,6 @@ function MentalHealthLibrary() {
             />
           </label>
         </div>
-        <p className="mh-cover-note" id="mh-cover-note">
-          <strong>Illustrative fictional scenes.</strong> The
-          covers introduce ideas, not diagnoses or real participants. All
-          chapter content is retained from the supplied VUGA NDAKUMVA
-          educational materials.
-        </p>
         <div className="mh-chapter-grid">
           {filteredChapters.map((chapter) => (
             <ChapterCard

@@ -87,8 +87,7 @@ function AlcoholLibrary() {
         ))}
       </div>
       <p className="support-photo-note">
-        Fictional illustrations show teaching examples, not real
-        participants, diagnoses or recovery histories. Original source PDFs and
+        Original source PDFs and
         complete learning activities are available in each chapter. More topics
         will continue this series.
       </p>
@@ -110,10 +109,6 @@ export function AlcoholDrugsPage() {
               priority
               alt="Fictional illustration of an adult reading an information booklet beside a trusted companion on a home veranda; an alcohol bottle and glass are set aside, with water near the reader."
             />
-            <figcaption>
-              Illustrative fictional example. Reflection and
-              support can begin in everyday settings.
-            </figcaption>
           </figure>
         }
         heroActions={
@@ -146,12 +141,6 @@ export function AlcoholChapterPage() {
                       alt={alcoholCoverAlt[chapter.number - 1]}
                       priority
                     />
-                    <figcaption>
-                      Illustrative fictional example.{" "}
-                      {chapter.number === 2
-                        ? "The source case describes reported memory difficulties after drinking; appearance alone cannot identify their cause."
-                        : "Circumstances, choices and care needs vary. No outcome is guaranteed."}
-                    </figcaption>
                   </figure>
                 ),
               }

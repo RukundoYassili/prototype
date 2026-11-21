@@ -105,7 +105,7 @@ for (const chapter of alcoholChapters)
         .toBeTruthy();
       await expect(img).not.toHaveAttribute("alt", "");
     }
-    await expect(story.locator(".lv-fictional")).toContainText("fictional");
+    await expect(story.locator(".lv-scene figcaption, .lv-fictional")).toHaveCount(0);
     await expect(page.locator(".lv-diagram")).toHaveCount(1);
     const explanation = story.locator("summary");
     await explanation.focus();
@@ -130,7 +130,7 @@ for (const chapter of alcoholChapters)
     expect(errors).toEqual([]);
   });
 
-test("image failures retain scene descriptions and learning captions", async ({
+test("image failures retain scene descriptions", async ({
   page,
 }) => {
   await page.route("**/images/learning/alcohol-drugs/**", (route) =>
@@ -138,8 +138,8 @@ test("image failures retain scene descriptions and learning captions", async ({
   );
   await page.goto(`/alcohol-and-drugs/${alcoholChapters[2].slug}`);
   await page.locator(".lv-story").scrollIntoViewIfNeeded();
-  await expect(page.locator(".lv-scene-description")).toHaveCount(2);
-  await expect(page.locator(".lv-scene-description").first()).toContainText(
+  await expect(page.locator(".lv-scene [role=status]")).toHaveCount(2);
+  await expect(page.locator(".lv-scene [role=status]").first()).toContainText(
     "Mireille",
   );
   await expect(page.locator(".ad-reader-hero [role=status]")).toContainText(

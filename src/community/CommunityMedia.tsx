@@ -194,10 +194,6 @@ export function CommunityAlbum({
                 <Expand size={18} />
               </span>
             </button>
-            <figcaption>
-              {item.title}
-              {item.illustrative && " · Illustrative photograph"}
-            </figcaption>
           </figure>
         ))}
       </div>
@@ -221,11 +217,6 @@ export function CommunityAlbum({
                 <span>
                   {(active ?? 0) + 1} / {photos.length}
                 </span>
-                <h3>{photo.title}</h3>
-                <p>
-                  {photo.category}
-                  {photo.illustrative && " · Illustrative photograph"}
-                </p>
               </div>
               {photos.length > 1 && (
                 <div className="community-viewer-controls">

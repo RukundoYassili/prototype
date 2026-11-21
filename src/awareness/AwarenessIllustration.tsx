@@ -41,7 +41,6 @@ export function AwarenessIllustration({
           onError={() => setFailed(true)}
         />
       )}
-      <figcaption>{artwork.caption}</figcaption>
     </figure>
   );
 }

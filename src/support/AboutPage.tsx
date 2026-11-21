@@ -54,9 +54,9 @@ const team = [
     photo: "sam",
   },
   {
-    name: "Aimé Felix Manzi Ngabonziza",
+    name: "Rukundo Yassili",
     role: "Software Engineer · Digital Platform & Technology Lead",
-    photo: "manzi",
+    photo: "rukundo",
   },
   {
     name: "RWAMASIRABO Ghislain",
@@ -304,18 +304,18 @@ export function AboutPage() {
           {team.map((member) => (
             <article
               className="about-team-card overflow-hidden rounded-[20px] border border-[#dce8d7] bg-white"
-              key={member.photo}
+              key={member.name}
             >
               <div
                 className={`about-team-photo about-photo-${member.photo} aspect-[4/3] overflow-hidden bg-[#edf3e9]`}
               >
-                <img
+                {member.photo && <img
                   className="h-full w-full object-cover"
-                  src={`/images/about/team/${member.photo}.webp`}
+                  src={`/images/about/team/${member.photo}.${member.photo === "rukundo" ? "jpg" : "webp"}`}
                   alt={member.name}
                   loading="lazy"
                   decoding="async"
-                />
+                />}
               </div>
               <div className="about-team-info p-5">
                 <h3>{member.name}</h3>

@@ -12,6 +12,9 @@ for (const width of [320, 375, 768, 1440, 1920]) {
     await expect(cards).toHaveCount(8);
     await expect(cards.first()).toContainText("David Niyomugabo");
     await expect(cards.last()).toContainText("Gloria hycentha UWIMANA");
+    const rukundo = cards.filter({ hasText: "Rukundo Yassili" });
+    await expect(rukundo).toHaveCount(1);
+    await expect(rukundo.locator("img")).toHaveAttribute("src", "/images/about/team/rukundo.jpg");
     const portraits = page.locator(".about-team-photo img");
     await portraits.evaluateAll(images => {
       images.forEach(image => { (image as HTMLImageElement).loading = "eager"; });

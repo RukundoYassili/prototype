@@ -15,3 +15,10 @@ This release builds on the first push and includes:
 - Responsive footer, learning-content and SEO checks, plus a production build.
 
 The old database is separate from the static site and its removal is tracked separately from the website release.
+
+## Third push — 21 November 2026
+
+- Combined the latest local About Us update, including Rukundo Yassili’s team entry and portrait.
+- Included the local English/Kinyarwanda language selector and corresponding homepage updates.
+- Moved the footer support button to the right and restored the green accent.
+- Removed repeated illustration labels and captions beneath photos, while retaining image alternatives and learning explanations.

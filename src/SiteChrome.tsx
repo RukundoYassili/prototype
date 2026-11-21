@@ -14,6 +14,8 @@ import {
 import { useDemo } from "./services/DemoContext";
 import type { Region } from "./services/data";
 import Newsletter from "./Newsletter";
+import { LanguageSelector } from "./LanguageSelector";
+import { useSiteTranslation } from "./siteTranslation";
 import "./navigation.css";
 
 const knowledgeLinks = [
@@ -58,6 +60,7 @@ export function Brand() {
 }
 
 export function SiteHeader() {
+  const { language, busy, error, changeLanguage } = useSiteTranslation();
   const [open, setOpen] = useState(false);
   const [hubOpen, setHubOpen] = useState(false);
   const header = useRef<HTMLElement>(null);
@@ -338,6 +341,7 @@ export function SiteHeader() {
             Donate
             <Heart size={16} aria-hidden="true" />
           </NavLink>
+          <LanguageSelector language={language} busy={busy} onChange={changeLanguage} placement="mobile" />
         </nav>
         <div className="site-utilities">
           <NavLink to="/support" className="site-cta">
@@ -347,7 +351,11 @@ export function SiteHeader() {
             Donate
             <Heart size={15} aria-hidden="true" />
           </NavLink>
+          <LanguageSelector language={language} busy={busy} onChange={changeLanguage} placement="desktop" />
         </div>
+        <div id="site-google-translate" className="site-google-translate" aria-hidden="true" />
+        {language === "rw" && <div className="site-translation-notice notranslate" translate="no">Kinyarwanda is automatically translated by Google. Check important health and safety information in English.</div>}
+        {error && <p className="site-translation-error notranslate" role="status" translate="no">{error}</p>}
       </header>
     </div>
   );
@@ -384,9 +392,6 @@ export function SiteFooter() {
               appropriate care. Explore your options at your own pace.
             </p>
             <div className="site-footer-actions">
-              <Link to="/support" className="site-cta">
-                Find support <ArrowUpRight size={17} aria-hidden="true" />
-              </Link>
               <nav className="site-social-links" aria-label="Social media">
               {socialLinks.map(({ name, href, icon }) => (
                 <a key={name} href={href} target="_blank" rel="noopener noreferrer" aria-label={`Vuga Ndakumva on ${name} (opens in a new tab)`} title={name}>
@@ -417,12 +422,15 @@ export function SiteFooter() {
             <Link to="/urgent-help">Urgent help</Link>
             <Link to="/#our-work">Our work</Link>
           </div>
-          <div>
+          <div className="site-footer-details">
             <h3>The details</h3>
             <Link to="/privacy">Privacy</Link>
             <Link to="/terms">Terms</Link>
             <span className="text-sm">Services: In development</span>
             <p>Quick exit does not erase browsing history.</p>
+            <Link to="/support" className="site-cta footer-support">
+              Find support <ArrowUpRight size={17} aria-hidden="true" />
+            </Link>
           </div>
         </div>
         <div className="site-footer-bottom">

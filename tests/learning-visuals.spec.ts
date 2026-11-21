@@ -54,14 +54,13 @@ for (const chapter of mentalHealthChapters) {
       const block = page.locator(
         `#${story.sectionId} [data-visual-id="${story.id}"]`,
       );
-      await expect(block).toContainText("Illustrative fictional example.");
+      await expect(block.locator(".lv-fictional, .lv-scene figcaption")).toHaveCount(0);
       await expect(block.locator(".lv-scene")).toHaveCount(2);
       await expect(block.locator(".lv-explanation")).not.toHaveAttribute(
         "open",
         "",
       );
       for (const scene of story.scenes) {
-        await expect(block).toContainText(scene.caption);
         await expect(
           block.getByRole("img", { name: scene.alt, exact: true }),
         ).toHaveAttribute("loading", "lazy");
@@ -142,7 +141,7 @@ test("explanations are optional keyboard disclosures with no submissions, storag
   ).toEqual({ local: [], session: [] });
 });
 
-test("a failed scene retains its description, teaching caption, and explanation", async ({
+test("a failed scene retains its accessible description and explanation", async ({
   page,
 }) => {
   await page.route(
@@ -155,10 +154,8 @@ test("a failed scene retains its description, teaching caption, and explanation"
     .first();
   await scene.scrollIntoViewIfNeeded();
   await expect(scene.getByRole("status")).toContainText("Image unavailable");
-  await expect(scene.locator(".lv-scene-description")).toHaveText(
-    visualStories[0].scenes[0].alt,
-  );
-  await expect(scene).toContainText(visualStories[0].scenes[0].caption);
+  await expect(scene.getByRole("status")).toContainText(visualStories[0].scenes[0].alt);
+  await expect(scene.locator("figcaption")).toHaveCount(0);
 });
 
 test("printing includes all visual explanations and restores the reader’s selected disclosure state", async ({

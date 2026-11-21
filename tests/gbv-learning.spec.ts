@@ -176,9 +176,7 @@ for (const chapter of gbvChapters) {
         story.sourceExampleId!,
       );
       await expect(visual.locator(".lv-scene")).toHaveCount(2);
-      await expect(visual.locator(".lv-fictional")).toHaveText(
-        "Illustrative fictional example.",
-      );
+      await expect(visual.locator(".lv-fictional, .lv-scene figcaption")).toHaveCount(0);
       expect(
         await visual.evaluate((e) => e.previousElementSibling?.tagName),
       ).toBe("P");
@@ -294,7 +292,7 @@ test("knowledge checks and optional explanations use keyboard disclosure without
   expect(mutations).toEqual([]);
 });
 
-test("missing images preserve alt descriptions, captions and source examples", async ({
+test("missing images preserve alt descriptions and source examples", async ({
   page,
 }) => {
   await page.route("**/images/learning/gbv/**", (route) => route.abort());
@@ -305,7 +303,7 @@ test("missing images preserve alt descriptions, captions and source examples", a
   await expect(scene).toContainText(
     "Fictional illustration of a young woman in a mustard cardigan",
   );
-  await expect(scene).toContainText(gbvStories[0].scenes[0].caption);
+  await expect(scene.locator("figcaption")).toHaveCount(0);
 });
 
 for (const width of [375, 768, 1024, 1440, 1920])

@@ -3831,7 +3831,7 @@ export const gbvContinuationChapters: LearningChapter[] = [
           },
           {
             type: "paragraph",
-            text: "Sharing, threatening to share, or creating intimate images without the person's agreement, including AI-generated or manipulated material. Prior consensual creation or sharing with one person never means consent to redistribution.",
+            text: "Sharing, threatening to share, or creating intimate images without the person's agreement, including synthetic or manipulated material. Prior consensual creation or sharing with one person never means consent to redistribution.",
           },
           {
             type: "heading",

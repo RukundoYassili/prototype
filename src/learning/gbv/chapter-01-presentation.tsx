@@ -105,9 +105,6 @@ export const gbvChapter01Presentation: ChapterPresentation = {
         decoding="async"
         alt="Fictional illustration of two adults exploring learning materials together, with space to choose where to begin."
       />
-      <figcaption>
-        Fictional illustration · Learning with dignity and choice.
-      </figcaption>
     </figure>
   ),
 };

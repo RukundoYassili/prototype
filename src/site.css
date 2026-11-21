@@ -1039,12 +1039,15 @@ html {
   align-items: center;
   gap: 8px 12px;
 }
-.site-footer-actions .site-cta {
-  color: #fff;
-  background: transparent;
-  border: 1px solid #ffffffa6;
+
+.site-footer-details .footer-support {
+  align-self: flex-end;
+  margin-top: auto;
 }
-.site-footer-actions .site-cta:hover {
-  color: #fff !important;
-  background: #ffffff1f;
+@media (max-width: 650px) {
+  .site-footer-details .footer-support {
+    grid-column: 2;
+    justify-self: end;
+    margin-top: 4px;
+  }
 }

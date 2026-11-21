@@ -56,10 +56,6 @@ function InformationHero({
           height={1600}
           fetchPriority="high"
         />
-        <figcaption>
-          Illustrative photography, not a photograph of our outreach
-          participants.
-        </figcaption>
       </figure>
     </header>
   );

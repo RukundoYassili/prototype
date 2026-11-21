@@ -376,12 +376,6 @@ export function CommunityPage({
               width={1200}
               height={800}
             />
-            <figcaption>
-              <HeartHandshake size={18} aria-hidden="true" />
-              <span>
-                Listen. Learn. <strong>Belong.</strong>
-              </span>
-            </figcaption>
           </figure>
         )}
       </header>
@@ -704,11 +698,6 @@ export function CommunityDetailPage({
             style={{ objectPosition: entry.position }}
             fetchPriority="high"
           />
-          <figcaption>
-            {entry.illustrative
-              ? "Illustrative photography. Not a photograph of our outreach participants."
-              : entry.imageAlt}
-          </figcaption>
         </figure>
       )}
       <div className="community-detail-layout">

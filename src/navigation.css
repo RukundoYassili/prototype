@@ -223,10 +223,51 @@
   background: #eaf4df;
   border-color: #779b63;
 }
+
+/* Compact, keyboard-accessible language selector. */
+.language-selector { position: relative; }
+.language-selector--mobile { display: none; }
+.language-selector-trigger {
+  display: inline-flex; align-items: center; justify-content: center; gap: 5px;
+  min-width: 54px; min-height: 44px; padding: 0 9px; border: 1px solid #c9d9c4;
+  border-radius: 999px; background: #fff; color: #286340; font-size: 11px;
+  font-weight: 700; letter-spacing: .02em;
+}
+.language-selector-trigger:hover, .language-selector-trigger[aria-expanded="true"] { background: #eef6e9; border-color: #91b487; }
+.language-selector-trigger:focus-visible, .language-option:focus-visible { outline: 3px solid #286340; outline-offset: 3px; }
+.language-selector-menu {
+  position: absolute; top: calc(100% + 10px); right: 0; z-index: 8;
+  width: 190px; padding: 6px; background: #fff; border: 1px solid #dce8d8;
+  border-radius: 14px; box-shadow: 0 12px 32px #173b2524;
+}
+.language-selector-menu[hidden] { display: none; }
+.language-option { display: flex; width: 100%; align-items: center; justify-content: space-between;
+  min-height: 44px; padding: 10px 12px; border: 0; border-radius: 9px;
+  background: transparent; color: #264a32; text-align: left; font-size: 13px; font-weight: 600; }
+.language-option:hover, .language-option[aria-pressed="true"] { background: #edf6e9; }
+.language-option:disabled { opacity: .6; cursor: wait; }
+.language-selector-note { margin: 6px 8px 4px; color: #596b5d; font-size: 11px; line-height: 1.45; }
+.language-selector-note a { color: #286340; text-decoration: underline; }
+.site-google-translate { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
+.site-translation-error { position: absolute; right: 20px; top: 100%; max-width: min(320px, calc(100vw - 40px)); padding: 12px; border: 1px solid #c8d9c4; border-radius: 10px; background: #fff; color: #264a32; box-shadow: 0 8px 24px #173b2524; font-size: 12px; }
+.site-translation-notice { grid-column: 1 / -1; padding: 4px 12px; background: #f1f6ed; color: #264a32; font-size: 11px; line-height: 1.35; text-align: center; }
+/* Google's translation bar shifts the document down; the fixed header follows. */
+html.translated-ltr .site-header.unified-header { top: 40px; }
+@media (min-width: 1251px) {
+  html.translated-ltr .support-header > .site-brand.vuga-logo { width: 185px; }
+  html.translated-ltr .support-header > .public-navigation { gap: 9px; }
+  html.translated-ltr .site-header.support-header .public-navigation > a,
+  html.translated-ltr .site-header.support-header .header-knowledge-toggle { font-size: 11px; }
+  html.translated-ltr .site-header.support-header { gap: 0 12px; }
+}
 .support-header > .public-navigation > .header-mobile-donate {
   display: none;
 }
 @media (max-width: 1250px) {
+  .language-selector--desktop { display: none; }
+  .language-selector--mobile { display: block; padding: 4px 14px; }
+  .language-selector--mobile .language-selector-trigger { justify-content: flex-start; }
+  .language-selector--mobile .language-selector-menu { position: static; width: 100%; margin-top: 6px; box-shadow: none; }
   .header-knowledge {
     width: 100%;
   }

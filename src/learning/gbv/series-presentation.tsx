@@ -26,9 +26,6 @@ export const gbvPresentations: Record<string, ChapterPresentation> =
           ) : (
             <figure className="gbv-foundations-hero">
               <GbvIllustration artwork={gbvCovers[chapter.slug]} priority />
-              <figcaption>
-                Fictional illustration · Learning with dignity and choice.
-              </figcaption>
             </figure>
           ),
       },

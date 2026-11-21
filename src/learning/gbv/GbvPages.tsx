@@ -137,11 +137,7 @@ function GbvChapters() {
         ))}
       </div>
       <p className="support-photo-note">
-        Teaching scenes throughout this series are fictional
-        illustrations. The hero and chapter covers are also fictional
-        illustrations; they do not identify survivors or service
-        users, or promise a particular outcome. Original examples and source
-        PDFs are retained in full. Chapters 1–10 are available; further chapters
+        Original examples and source PDFs are retained in full. Chapters 1–10 are available; further chapters
         will continue the series.
       </p>
     </section>
@@ -157,11 +153,6 @@ export function UnderstandGbvPage() {
         heroVisual={
           <figure>
             <GbvIllustration artwork={gbvHero} priority />
-            <figcaption>
-              Room for your choices. Space to be heard.
-              <br />
-              Fictional illustration.
-            </figcaption>
           </figure>
         }
         heroActions={
@@ -185,9 +176,6 @@ export function UnderstandGbvPage() {
         supporterVisual={
           <figure className="gbv-supporter-art">
             <GbvIllustration artwork={gbvSupporterArt} compact />
-            <figcaption>
-              Fictional illustration of listening.
-            </figcaption>
           </figure>
         }
       />

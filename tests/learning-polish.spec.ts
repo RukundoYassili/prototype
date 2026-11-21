@@ -31,7 +31,7 @@ test("source example headings label visual groups without duplicated supplementa
         await expect(heading).toContainText(story.sourceExample);
         await expect(visual.locator("h3,h4")).toHaveCount(0);
       } else await expect(heading).toHaveText(story.title);
-      await expect(visual).toContainText("fictional");
+      await expect(visual.locator(".lv-fictional, .lv-scene figcaption")).toHaveCount(0);
       await expect(visual.locator(".lv-scene")).toHaveCount(2);
     }
   }
@@ -108,17 +108,8 @@ for (const width of [375, 768, 1024, 1440, 1920]) {
           1,
         );
       }
-      expect(
-        await page
-          .locator(".lv-scene figcaption p")
-          .first()
-          .evaluate((element) =>
-            parseFloat(getComputedStyle(element).fontSize),
-          ),
-      ).toBeGreaterThanOrEqual(14);
+      await expect(page.locator(".lv-scene figcaption")).toHaveCount(0);
       for (const label of [
-        ".lv-fictional",
-        ".lv-scene-label",
         ".lv-step-number",
         ".lv-eyebrow",
       ]) {

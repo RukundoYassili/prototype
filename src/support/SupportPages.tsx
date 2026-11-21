@@ -253,10 +253,6 @@ export function TopicPage({
               alt="Illustrative photograph of people connecting and offering support"
               style={{ objectPosition: topic.imagePosition }}
             />
-            <figcaption>
-              Illustrative photography; people pictured are not identified as
-              service users.
-            </figcaption>
           </figure>
         )}
       </section>
@@ -388,10 +384,6 @@ export function SupportPage() {
           <h2>Different needs. The same respect.</h2>
         </div>
         <TopicCards />
-        <p className="support-photo-note">
-          Illustrative photography. The people pictured are not identified as
-          clients, survivors, or people using substances.
-        </p>
       </section>
       <section className="support-section support-practical-grid">
         <article id="health-referrals">

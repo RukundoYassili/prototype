@@ -288,8 +288,7 @@ export function BlogPage() {
       </aside>
       <p className="support-photo-note">
         General educational reading, not a diagnosis or personalized medical or
-        legal advice. Photography is illustrative and does not identify service
-        users.
+        legal advice.
       </p>
     </div>
   );
@@ -357,10 +356,6 @@ export function BlogPostPage() {
           alt=""
           fetchPriority="high"
         />
-        <figcaption>
-          Illustrative photography. People pictured are not identified as
-          clients, survivors, or people using substances.
-        </figcaption>
       </figure>
       <div className="blog-reading-layout">
         <aside className="blog-contents">

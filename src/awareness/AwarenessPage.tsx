@@ -310,10 +310,6 @@ export default function AwarenessPage() {
             </Link>
           ))}
         </div>
-        <p className="awareness-resource-disclosure">
-          Resource artwork is illustrative. Existing learning
-          covers are reused where available; none depicts actual participants.
-        </p>
         <Link
           className="support-text-link awareness-hub-link"
           to="/knowledge-hub"

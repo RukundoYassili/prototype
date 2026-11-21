@@ -25,6 +25,10 @@ for (const width of [375, 768, 1440]) {
       await expect(link.locator("svg")).toBeVisible();
       await expect(link.locator("svg + strong")).toHaveText(number);
     }
+    const support = footer.getByRole("link", { name: "Find support" });
+    await expect(support).toHaveAttribute("href", "/support");
+    expect(await support.evaluate((element) => { const box = element.getBoundingClientRect(); const footerBox = element.closest("footer")!.getBoundingClientRect(); return box.left >= footerBox.left + footerBox.width / 2; })).toBeTruthy();
+    expect(await support.evaluate((element) => getComputedStyle(element).backgroundColor)).not.toBe("rgba(0, 0, 0, 0)");
     expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBeTruthy();
     expect(await footer.evaluate((element) => getComputedStyle(element).backgroundColor)).toBe(
       await page.locator(".support-utility-bar").evaluate((element) => getComputedStyle(element).backgroundColor),
