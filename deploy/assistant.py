@@ -66,13 +66,24 @@ def is_kinyarwanda(message):
     words = set(WORDS.findall(message.lower()))
     return bool(words.intersection(KINYA) or words.intersection({'muraho','bite','ese','ndashaka','mbwira','kumbwira','mwaramutse','mwiriwe','iki','biki','ni','ndifuza','ndashimira','murakoze','urakoze','ndababaye','nababara','gupfa','kwipfa','intego','bishatse','bisobanura','mutanga','mukora','mfasha','wanyumva','kwiheba','wihebye','ndihebye','ibimenyetso','abajyanama','ubujyanama','amahugurwa','mwansobanurira'}))
 
-def kinyarwanda_response(message):
-    """Limited, source-based responses; avoid unreliable free-form translation."""
-    text = message.lower()
-    if re.search(r'kwiyahur|niyic|kwiyic|kwipfa|gupfa|kwica|ndicwa|ankubita|arankubita|ndi mu kaga|self.harm|suicid|kill myself|immediate danger', text):
+def needs_urgent_help(message):
+    # This is a conservative keyword check, not a reliable risk assessment.
+    return bool(re.search(r'(?i)\b(?:immediate danger|in danger|urgent help|emergency|unsafe right now|suicid\w*|kill myself|end my life|self[ -]?harm|hurt myself|kwiyahur\w*|kwiyic\w*|kwipfa|gupfa|kwica|niyic\w*|ndicwa|ankubita|arankubita|ndi mu kaga|ubutabazi)\b', message))
+
+def urgent_help_response(kinyarwanda):
+    if kinyarwanda:
         return ('Ihangane. Niba uri mu kaga ubu, jya ahantu hatekanye niba bishoboka, '
                 'uhamagare ubutabazi bw’aho uri cyangwa umuntu wizeye. Mu Rwanda, hamagara 112. '
                 'Andi makuru: https://vugandakumva.digital/urgent-help')
+    return ('If you are in immediate danger, move to a safe place if you can and contact local emergency services or a trusted person. '
+            'In Rwanda, call 112. For more urgent-help information, visit https://vugandakumva.digital/urgent-help. '
+            'This chat is not an emergency service and is not monitored by a person.')
+
+def kinyarwanda_response(message):
+    """Limited, source-based responses; avoid unreliable free-form translation."""
+    text = message.lower()
+    if needs_urgent_help(text):
+        return urgent_help_response(True)
     if re.fullmatch(r'\s*(amakuru|muraho|mwaramutse|mwiriwe|bite|amakuru yawe)[\s!?.,]*', text):
         return 'Muraho! Meze neza, murakoze. Nabafasha iki ku makuru ari ku rubuga rwa Vuga Ndakumva?'
     if re.fullmatch(r'\s*(murakoze|urakoze|murakoze cyane|urakoze cyane)[\s!?.,]*', text):
@@ -181,6 +192,9 @@ class Handler(BaseHTTPRequestHandler):
             return
         try:
             question = message.strip()
+            if needs_urgent_help(question):
+                self.send_json(200, {'reply': urgent_help_response(is_kinyarwanda(question))})
+                return
             if is_kinyarwanda(question):
                 self.send_json(200, {'reply': kinyarwanda_response(question)})
                 return
