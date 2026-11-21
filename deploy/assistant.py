@@ -64,29 +64,53 @@ def search_knowledge(message):
 
 def is_kinyarwanda(message):
     words = set(WORDS.findall(message.lower()))
-    return bool(words.intersection(KINYA) or words.intersection({'muraho','bite','ese','ndashaka','mbwira','mwaramutse','mwiriwe','iki','biki','ni','ndifuza','ndashimira'}))
+    return bool(words.intersection(KINYA) or words.intersection({'muraho','bite','ese','ndashaka','mbwira','kumbwira','mwaramutse','mwiriwe','iki','biki','ni','ndifuza','ndashimira','murakoze','urakoze','ndababaye','nababara','gupfa','kwipfa','intego','bishatse','bisobanura','mutanga','mukora','mfasha','wanyumva','kwiheba','wihebye','ndihebye','ibimenyetso','abajyanama','ubujyanama','amahugurwa','mwansobanurira'}))
 
 def kinyarwanda_response(message):
     """Limited, source-based responses; avoid unreliable free-form translation."""
     text = message.lower()
-    if re.search(r'kwiyahur|niyic|kwica|ndicwa|ankubita|arankubita|self.harm|suicid|kill myself|immediate danger', text):
+    if re.search(r'kwiyahur|niyic|kwiyic|kwipfa|gupfa|kwica|ndicwa|ankubita|arankubita|ndi mu kaga|self.harm|suicid|kill myself|immediate danger', text):
         return ('Ihangane. Niba uri mu kaga ubu, jya ahantu hatekanye niba bishoboka, '
                 'uhamagare ubutabazi bw’aho uri cyangwa umuntu wizeye. Mu Rwanda, hamagara 112. '
                 'Andi makuru: https://vugandakumva.digital/urgent-help')
-    if re.fullmatch(r'\s*(amakuru|muraho|mwaramutse|mwiriwe|bite)[\s!?.,]*', text):
+    if re.fullmatch(r'\s*(amakuru|muraho|mwaramutse|mwiriwe|bite|amakuru yawe)[\s!?.,]*', text):
         return 'Muraho! Meze neza, murakoze. Nabafasha iki ku makuru ari ku rubuga rwa Vuga Ndakumva?'
+    if re.fullmatch(r'\s*(murakoze|urakoze|murakoze cyane|urakoze cyane)[\s!?.,]*', text):
+        return 'Murakoze namwe. Niba hari ikindi mwifuza kumenya kuri Vuga Ndakumva, mushobora kongera kubaza.'
     if re.search(r'washinze|washinzwe|yashinzwe', text):
         return 'Vuga Ndakumva yashinzwe mu 2025 na David Niyomugabo. Soma byinshi: https://vugandakumva.digital/about'
     if re.search(r'urubuga|website|aderesi', text):
         return 'Urubuga rwa Vuga Ndakumva ni https://vugandakumva.digital.'
+    if re.search(r'vuga\s*ndakumva', text) and re.search(r'iki|mukora|ikora|intego|igamije|bisobanura|bishatse', text):
+        return ('Vuga Ndakumva ni gahunda yigenga itanga inyigisho n’amakuru ku buzima bwo mu mutwe, '
+                'ihohoterwa rishingiye ku gitsina, inzoga n’ibiyobyabwenge. '
+                'Igamije kongera ubumenyi no gufasha abantu kubona aho bashakira ubufasha. '
+                'Soma byinshi: https://vugandakumva.digital/about')
+    if re.search(r'igiciro|ibiciro|amafaranga|kwishyura|amasaha|mukingura|mufungura', text):
+        return ('Mbabarira, nta makuru yizewe mfite ku giciro cyangwa amasaha. '
+                'Reba https://vugandakumva.digital/contact cyangwa ubaze aho ushaka serivisi mbere yo kujyayo.')
+    if re.search(r'ndababaye|nababara|ndahangayitse|mfite agahinda|numva ndi jyenyine|ndashaka ubufasha', text):
+        return ('Ihangane ko wumva uremerewe. Niba bishoboka, vugana n’umuntu wizeye cyangwa umuhanga mu buzima. '
+                'Ushobora no kureba https://vugandakumva.digital/support. '
+                'Niba uri mu kaga ubu, reba https://vugandakumva.digital/urgent-help.')
     if re.search(r'ihohoterwa|ryihohoterwa', text):
-        return ('Vuga Ndakumva itanga amakuru ku ihohoterwa rishingiye ku gitsina n’aho umuntu yashakira ubufasha. '
+        return ('Ihohoterwa rishobora kuba irikomeretsa umubiri, irishingiye ku gitsina, '
+                'iryo mu magambo cyangwa irishingiye ku bukungu. Si amakosa y’uwakorewe ihohoterwa. '
                 'Soma byinshi: https://vugandakumva.digital/understand-gbv. '
                 'Niba uri mu kaga, reba https://vugandakumva.digital/urgent-help.')
     if re.search(r'inzoga|ibiyobyabwenge', text):
-        return ('Vuga Ndakumva itanga inyigisho ku nzoga n’ibiyobyabwenge n’uburyo bwo gushaka ubufasha. '
+        return ('Inzoga n’ibiyobyabwenge bishobora kugira ingaruka ku buzima no ku mibereho. '
+                'Umuntu ukeneye ubufasha akwiriye kumvwa nta gucibwa urubanza no kuganira n’umuhanga mu buzima. '
                 'Soma byinshi: https://vugandakumva.digital/alcohol-and-drugs')
-    if re.search(r'ubuzima|mutwe|agahinda|guhangayika|ihungabana|ibitotsi|gusinzira', text):
+    if re.search(r'guhangayika|ihungabana|agahinda|kwiheba|wihebye|ndihebye', text):
+        return ('Kumva uhangayitse cyangwa ufite agahinda bishobora kugira impamvu zitandukanye; si ko buri gihe biba indwara. '
+                'Iyo bikomeje cyangwa bikakubangamira, vugana n’umuntu wizeye cyangwa umuhanga mu buzima. '
+                'Amakuru: https://vugandakumva.digital/why-mental-health')
+    if re.search(r'ibitotsi|gusinzira', text):
+        return ('Gusinzira bihagije ni kimwe mu bifasha ubuzima bwo mu mutwe n’ubw’umubiri. '
+                'Niba ibibazo by’ibitotsi bikomeje cyangwa bikubangamira, vugana n’umuhanga mu buzima. '
+                'Soma byinshi: https://vugandakumva.digital/why-mental-health/understanding-sleep-and-mental-wellbeing')
+    if re.search(r'mutwe', text):
         return ('Ubuzima bwo mu mutwe bureba uko dutekereza, twiyumva n’uko tubana n’abandi. '
                 'Soma inyigisho: https://vugandakumva.digital/why-mental-health. '
                 'Aya makuru ntasimbura inama z’umuganga cyangwa iz’undi muhanga.')
