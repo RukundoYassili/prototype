@@ -21,6 +21,35 @@
   }
   launch.addEventListener("click", () => toggle(panel.hidden));
   close.addEventListener("click", () => toggle(false));
+  function appendReplyText(element, text) {
+    // Create links only for the official HTTPS website; preserve all other text
+    // as text nodes so model output cannot inject markup or unsafe links.
+    const pattern = /https?:\/\/[^\s<>"']+/gi;
+    let last = 0;
+    for (const match of text.matchAll(pattern)) {
+      element.appendChild(document.createTextNode(text.slice(last, match.index)));
+      const raw = match[0];
+      const clean = raw.replace(/[.,!?;:\)\]\}]+$/, "");
+      try {
+        const url = new URL(clean);
+        if (url.protocol === "https:" && url.hostname === "vugandakumva.digital" && !url.port && !url.username && !url.password) {
+          const link = document.createElement("a");
+          link.href = url.href;
+          link.textContent = clean;
+          link.target = "_blank";
+          link.rel = "noopener noreferrer";
+          element.appendChild(link);
+        } else {
+          element.appendChild(document.createTextNode(clean));
+        }
+      } catch (_) {
+        element.appendChild(document.createTextNode(clean));
+      }
+      element.appendChild(document.createTextNode(raw.slice(clean.length)));
+      last = match.index + raw.length;
+    }
+    element.appendChild(document.createTextNode(text.slice(last)));
+  }
   form.addEventListener("submit", async (event) => {
     event.preventDefault();
     const message = input.value.trim();
@@ -43,7 +72,7 @@
       if (!res.ok) throw new Error(data.error || "Please try again.");
       const reply = document.createElement("p");
       reply.className = "msg";
-      reply.textContent = data.reply;
+      appendReplyText(reply, data.reply);
       messages.appendChild(reply);
       status.textContent = "";
     } catch (err) {
