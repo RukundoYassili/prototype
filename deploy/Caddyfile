@@ -3,8 +3,17 @@ www.vugandakumva.digital {
 }
 
 vugandakumva.digital {
-	root * /srv
-	encode zstd gzip
-	try_files {path} {path}/index.html =404
-	file_server
+	handle /api/vuga-chat {
+		reverse_proxy 172.17.0.1:3017 {
+			transport http {
+				response_header_timeout 180s
+			}
+		}
+	}
+	handle {
+		root * /srv
+		encode zstd gzip
+		try_files {path} {path}/index.html =404
+		file_server
+	}
 }

@@ -1,0 +1,18 @@
+[Unit]
+Description=Vuga Ndakumva AI website assistant
+After=network-online.target ollama.service docker.service
+Wants=network-online.target
+
+[Service]
+Type=simple
+DynamicUser=yes
+ExecStart=/usr/bin/python3 /opt/vuga-ai-chat/server.py
+Restart=on-failure
+RestartSec=5
+NoNewPrivileges=yes
+ProtectSystem=strict
+ProtectHome=yes
+PrivateTmp=yes
+
+[Install]
+WantedBy=multi-user.target
