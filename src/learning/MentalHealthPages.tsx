@@ -208,7 +208,7 @@ function MentalHealthLibrary() {
           </label>
         </div>
         <p className="mh-cover-note" id="mh-cover-note">
-          <strong>Illustrative fictional scenes · AI-generated.</strong> The
+          <strong>Illustrative fictional scenes.</strong> The
           covers introduce ideas, not diagnoses or real participants. All
           chapter content is retained from the supplied VUGA NDAKUMVA
           educational materials.

@@ -175,8 +175,8 @@ export function SiteHeader() {
                 href={`tel:${number}`}
                 aria-label={`Rwanda ${label}: ${number}`}
               >
-                <Phone size={12} aria-hidden="true" />
                 <span>{label}</span>
+                <Phone size={12} aria-hidden="true" />
                 <strong>{number}</strong>
               </a>
             ))}
@@ -377,24 +377,24 @@ export function SiteFooter() {
               <img src="/images/brand/vugandakumva-white.png" alt="Vugandakumva — Speak, I can hear" width={2172} height={724} />
             </Link>
             <h2>
-              A little more room
-              <br />
-              for well-being.
+              A little more room for well-being.
             </h2>
             <p>
               Clear information, compassionate connection, and pathways to
               appropriate care. Explore your options at your own pace.
             </p>
-            <Link to="/support" className="site-cta">
-              Find support <ArrowUpRight size={17} aria-hidden="true" />
-            </Link>
-            <nav className="site-social-links" aria-label="Social media">
+            <div className="site-footer-actions">
+              <Link to="/support" className="site-cta">
+                Find support <ArrowUpRight size={17} aria-hidden="true" />
+              </Link>
+              <nav className="site-social-links" aria-label="Social media">
               {socialLinks.map(({ name, href, icon }) => (
                 <a key={name} href={href} target="_blank" rel="noopener noreferrer" aria-label={`Vuga Ndakumva on ${name} (opens in a new tab)`} title={name}>
                   {icon ? <img src={`/images/social/${icon}.svg`} alt="" width={19} height={19} /> : <Linkedin size={19} aria-hidden="true" />}
                 </a>
               ))}
-            </nav>
+              </nav>
+            </div>
           </div>
           <div>
             <h3>Explore</h3>
@@ -421,7 +421,7 @@ export function SiteFooter() {
             <h3>The details</h3>
             <Link to="/privacy">Privacy</Link>
             <Link to="/terms">Terms</Link>
-            <span className="text-sm text-[#d1dccc]">Services: In development</span>
+            <span className="text-sm">Services: In development</span>
             <p>Quick exit does not erase browsing history.</p>
           </div>
         </div>

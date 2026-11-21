@@ -19,7 +19,7 @@ export const gbvPresentations: Record<string, ChapterPresentation> =
             : ` gbv-distinct-chapter gbv-chapter-${String(chapter.number).padStart(2, "0")}`),
         readerTools: true,
         visualDisclosure:
-          "The illustrations are AI-generated fictional teaching scenes, not real participants or case histories. A possible supportive response does not guarantee safety or immediate resolution. ",
+          "The illustrations are fictional teaching scenes, not real participants or case histories. A possible supportive response does not guarantee safety or immediate resolution. ",
         headerVisual:
           chapter.number === 1 ? (
             gbvChapter01Presentation.headerVisual

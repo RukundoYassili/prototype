@@ -915,7 +915,7 @@ export function LearningChapterPage({
                   <p>
                     {hasStories &&
                       (activePresentation?.visualDisclosure ||
-                        "The photo scenes are AI-generated fictional examples, not real participants or case histories. ")}
+                        "The photo scenes are fictional examples, not real participants or case histories. ")}
                     {hasDiagrams &&
                       "Diagrams and captions accompany the original lessons."}
                   </p>

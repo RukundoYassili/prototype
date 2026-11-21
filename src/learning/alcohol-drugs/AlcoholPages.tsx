@@ -87,7 +87,7 @@ function AlcoholLibrary() {
         ))}
       </div>
       <p className="support-photo-note">
-        AI-generated fictional illustrations show teaching examples, not real
+        Fictional illustrations show teaching examples, not real
         participants, diagnoses or recovery histories. Original source PDFs and
         complete learning activities are available in each chapter. More topics
         will continue this series.
@@ -111,7 +111,7 @@ export function AlcoholDrugsPage() {
               alt="Fictional illustration of an adult reading an information booklet beside a trusted companion on a home veranda; an alcohol bottle and glass are set aside, with water near the reader."
             />
             <figcaption>
-              Illustrative fictional example. AI-generated. Reflection and
+              Illustrative fictional example. Reflection and
               support can begin in everyday settings.
             </figcaption>
           </figure>
@@ -138,7 +138,7 @@ export function AlcoholChapterPage() {
                 chapterSlug: chapter.slug,
                 className: `ad-reader ad-chapter-${chapter.number}`,
                 visualDisclosure:
-                  "AI-generated fictional illustrations accompany the source lessons. They do not show real participants, establish diagnoses or promise recovery. Paired scenes show a situation and one possible supportive response. ",
+                  "Fictional illustrations accompany the source lessons. They do not show real participants, establish diagnoses or promise recovery. Paired scenes show a situation and one possible supportive response. ",
                 headerVisual: (
                   <figure className="ad-reader-hero">
                     <AlcoholArtwork
@@ -147,7 +147,7 @@ export function AlcoholChapterPage() {
                       priority
                     />
                     <figcaption>
-                      Illustrative fictional example. AI-generated.{" "}
+                      Illustrative fictional example.{" "}
                       {chapter.number === 2
                         ? "The source case describes reported memory difficulties after drinking; appearance alone cannot identify their cause."
                         : "Circumstances, choices and care needs vary. No outcome is guaranteed."}

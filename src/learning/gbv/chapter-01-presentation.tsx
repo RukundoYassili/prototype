@@ -91,7 +91,7 @@ export const gbvChapter01Presentation: ChapterPresentation = {
   chapterSlug: gbvFoundationsSlug,
   className: "gbv-foundations",
   visualDisclosure:
-    "The illustrations are AI-generated fictional teaching scenes, not real participants or case histories. A possible supportive response does not guarantee safety or immediate resolution. ",
+    "The illustrations are fictional teaching scenes, not real participants or case histories. A possible supportive response does not guarantee safety or immediate resolution. ",
   headerVisual: (
     <figure className="gbv-foundations-hero">
       <img

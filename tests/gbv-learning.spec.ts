@@ -177,7 +177,7 @@ for (const chapter of gbvChapters) {
       );
       await expect(visual.locator(".lv-scene")).toHaveCount(2);
       await expect(visual.locator(".lv-fictional")).toHaveText(
-        "Illustrative fictional example. AI-generated.",
+        "Illustrative fictional example.",
       );
       expect(
         await visual.evaluate((e) => e.previousElementSibling?.tagName),

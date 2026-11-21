@@ -37,7 +37,7 @@ test("ten covers preserve the complete catalog and its existing source metadata"
     );
     await expect(card.locator("img")).toHaveAttribute("loading", "lazy");
   }
-  await expect(page.locator(".mh-cover-note")).toContainText("AI-generated");
+  await expect(page.locator(".mh-cover-note")).toContainText("fictional");
   await expect(page.locator(".mh-cover-note")).not.toContainText("Photography");
   await expect(page.locator(".mh-draft-note")).toContainText(
     "have not been clinically reviewed",

@@ -31,7 +31,7 @@ test("source example headings label visual groups without duplicated supplementa
         await expect(heading).toContainText(story.sourceExample);
         await expect(visual.locator("h3,h4")).toHaveCount(0);
       } else await expect(heading).toHaveText(story.title);
-      await expect(visual).toContainText("AI-generated");
+      await expect(visual).toContainText("fictional");
       await expect(visual.locator(".lv-scene")).toHaveCount(2);
     }
   }

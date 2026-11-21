@@ -137,9 +137,9 @@ function GbvChapters() {
         ))}
       </div>
       <p className="support-photo-note">
-        Teaching scenes throughout this series are AI-generated fictional
-        illustrations. The hero and chapter covers are also AI-generated
-        fictional illustrations; they do not identify survivors or service
+        Teaching scenes throughout this series are fictional
+        illustrations. The hero and chapter covers are also fictional
+        illustrations; they do not identify survivors or service
         users, or promise a particular outcome. Original examples and source
         PDFs are retained in full. Chapters 1–10 are available; further chapters
         will continue the series.
@@ -160,7 +160,7 @@ export function UnderstandGbvPage() {
             <figcaption>
               Room for your choices. Space to be heard.
               <br />
-              AI-generated fictional illustration.
+              Fictional illustration.
             </figcaption>
           </figure>
         }
@@ -186,7 +186,7 @@ export function UnderstandGbvPage() {
           <figure className="gbv-supporter-art">
             <GbvIllustration artwork={gbvSupporterArt} compact />
             <figcaption>
-              AI-generated fictional illustration of listening.
+              Fictional illustration of listening.
             </figcaption>
           </figure>
         }

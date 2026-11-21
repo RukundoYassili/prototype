@@ -105,7 +105,7 @@ for (const chapter of alcoholChapters)
         .toBeTruthy();
       await expect(img).not.toHaveAttribute("alt", "");
     }
-    await expect(story.locator(".lv-fictional")).toContainText("AI-generated");
+    await expect(story.locator(".lv-fictional")).toContainText("fictional");
     await expect(page.locator(".lv-diagram")).toHaveCount(1);
     const explanation = story.locator("summary");
     await explanation.focus();

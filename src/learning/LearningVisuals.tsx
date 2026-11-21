@@ -161,7 +161,7 @@ export function VisualStory({
         </span>
         {!sourceHeadingId && <h3 id={headingId}>{story.title}</h3>}
         <p className="lv-fictional">
-          Illustrative fictional example. AI-generated.
+          Illustrative fictional example.
         </p>
       </div>
       <div className="lv-story-scenes">

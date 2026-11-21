@@ -311,7 +311,7 @@ export default function AwarenessPage() {
           ))}
         </div>
         <p className="awareness-resource-disclosure">
-          Resource artwork is illustrative and AI-generated. Existing learning
+          Resource artwork is illustrative. Existing learning
           covers are reused where available; none depicts actual participants.
         </p>
         <Link

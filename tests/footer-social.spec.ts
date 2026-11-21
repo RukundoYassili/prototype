@@ -23,8 +23,14 @@ for (const width of [375, 768, 1440]) {
     for (const number of ["112", "3512", "3029", "116", "912"]) {
       const link = page.locator(`.header-hotlines a[href="tel:${number}"]`);
       await expect(link.locator("svg")).toBeVisible();
+      await expect(link.locator("svg + strong")).toHaveText(number);
     }
     expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBeTruthy();
+    expect(await footer.evaluate((element) => getComputedStyle(element).backgroundColor)).toBe(
+      await page.locator(".support-utility-bar").evaluate((element) => getComputedStyle(element).backgroundColor),
+    );
+    expect(await footer.locator("h3").first().evaluate((element) => getComputedStyle(element).color)).toBe("rgb(255, 255, 255)");
+    expect(await footer.evaluate((element) => getComputedStyle(element).minHeight)).toBe("0px");
     await footer.screenshot({ path: `test-results/footer-${width}.png` });
   });
 }
