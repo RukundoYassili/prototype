@@ -166,11 +166,18 @@ export const seoPages: SeoPage[] = [
 export function seoForPath(pathname: string): SeoPage {
   const normalized =
     pathname.length > 1 ? pathname.replace(/\/+$/, "") : pathname;
+  const missingKind = ["/why-mental-health/", "/understand-gbv/", "/alcohol-and-drugs/"].some((prefix) => normalized.startsWith(prefix))
+    ? "Chapter"
+    : normalized.startsWith("/blog/")
+      ? "Article"
+      : normalized.startsWith("/community/")
+        ? "Community update"
+        : "Page";
   return (
     seoPages.find((item) => item.path === normalized) ||
     page(
       normalized,
-      `Page not found — ${siteName}`,
+      `${missingKind} not found — ${siteName}`,
       "This page could not be found.",
       false,
     )
