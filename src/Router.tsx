@@ -4,17 +4,9 @@ import { BrowserRouter, Route, Routes, useLocation } from "react-router-dom";
 import App from "./App";
 import { DemoProvider } from "./services/DemoContext";
 import { ServiceLayout } from "./services/Shared";
-import {
-  NotFound,
-  ResourcesPage,
-} from "./services/Pages";
+import { NotFound, ResourcesPage } from "./services/Pages";
 import { BlogPage, BlogPostPage } from "./blog/BlogPages";
-import { findBlogPost } from "./blog/posts";
 import { CommunityPage, CommunityDetailPage } from "./community/CommunityPages";
-import { findCommunityEntry } from "./community/repository";
-import { findMentalHealthChapter } from "./learning/catalog";
-import { alcoholCatalog } from "./learning/alcohol-drugs/catalog.generated";
-import { findGbvChapter } from "./learning/gbv/catalog";
 import { KnowledgeHubPage, DonatePage } from "./support/InformationPages";
 import {
   SupportLayout,
@@ -24,6 +16,7 @@ import {
   UrgentHelpPage,
 } from "./support/SupportPages";
 import "./services/services.css";
+import { updateSeo } from "./seo-head";
 
 const WhyMentalHealthPage = lazy(() =>
   import("./learning/MentalHealthPages").then((module) => ({
@@ -74,71 +67,7 @@ function NavigationReset() {
         }
       });
     } else window.scrollTo({ top: 0, behavior: "instant" });
-    const blogPost = pathname.startsWith("/blog/")
-      ? findBlogPost(pathname.slice(6))
-      : undefined;
-    const communityEntry = pathname.startsWith("/community/")
-      ? findCommunityEntry(pathname.slice(11))
-      : undefined;
-    const informationTitles: Record<string, string> = {
-      "/awareness": "Awareness",
-      "/why-mental-health": "Why Mental Health",
-      "/knowledge-hub": "Knowledge Hub",
-      "/donate": "Donate",
-    };
-    const mentalHealthChapter = pathname.startsWith("/alcohol-and-drugs/")
-      ? alcoholCatalog.find(
-          (chapter) =>
-            chapter.slug === pathname.slice("/alcohol-and-drugs/".length),
-        )
-      : pathname.startsWith("/understand-gbv/")
-        ? findGbvChapter(pathname.slice("/understand-gbv/".length))
-        : pathname.startsWith("/why-mental-health/")
-          ? findMentalHealthChapter(
-              pathname.slice("/why-mental-health/".length),
-            )
-          : undefined;
-    document.title =
-      pathname.startsWith("/why-mental-health/") ||
-      pathname.startsWith("/understand-gbv/") ||
-      pathname.startsWith("/alcohol-and-drugs/")
-        ? `${mentalHealthChapter?.title || "Chapter not found"} — VUGA NDAKUMVA`
-        : informationTitles[pathname]
-          ? `${informationTitles[pathname]} — VUGA NDAKUMVA`
-          : pathname === "/community"
-            ? "Community — VUGA NDAKUMVA"
-            : pathname.startsWith("/community/")
-              ? `${communityEntry?.title || "Community update not found"} — VUGA NDAKUMVA`
-              : pathname === "/"
-                ? "VUGA NDAKUMVA — Understanding. Connection. Support."
-                : pathname === "/blog"
-                  ? "Blog — VUGA NDAKUMVA"
-                  : pathname.startsWith("/blog/")
-                    ? `${blogPost?.title || "Article not found"} — VUGA NDAKUMVA`
-                    : `${pathname === "/support" ? "Get support" : pathname === "/mental-health" ? "Mental health" : pathname === "/alcohol-and-drugs" ? "Alcohol & drugs" : pathname === "/understand-gbv" ? "Understand GBV" : pathname === "/urgent-help" ? "Urgent help" : pathname.startsWith("/services") ? "Services" : pathname.startsWith("/professionals") ? "In development" : pathname === "/dashboard" ? "My space" : pathname === "/resources" ? "Resources" : pathname === "/admin-preview" ? "In development" : pathname === "/expertise" ? "Expertise" : pathname === "/stories" ? "In development" : pathname === "/about" ? "About" : pathname === "/contact" ? "Contact" : pathname === "/privacy" ? "Privacy" : pathname === "/terms" ? "Terms" : "Page not found"} — VUGA NDAKUMVA`;
-    document
-      .querySelector('meta[name="description"]')
-      ?.setAttribute(
-        "content",
-        mentalHealthChapter?.summary ||
-          communityEntry?.summary ||
-          (pathname === "/knowledge-hub"
-            ? "Explore the Knowledge Hub: mental health, understanding GBV, alcohol and drugs, thoughtful articles, guides, and worksheets."
-            : pathname === "/awareness"
-              ? "Learn about mental health, safety and respect, and alcohol and drugs. Explore everyday actions, conversation starters, and community learning."
-              : pathname === "/why-mental-health"
-                ? "Explore the VUGA NDAKUMVA Mental Health learning series: full chapters on mental health, wellbeing, recognizing emotions, and responding to them."
-                : pathname === "/donate"
-                  ? "Learn about the purpose behind our community work and the current availability of official giving options."
-                  : "") ||
-          (pathname === "/community"
-            ? "Community news, outreach stories, videos, photo albums, events, and workshops. Explore ways to connect, learn, and grow with the VUGA NDAKUMVA community."
-            : "") ||
-          blogPost?.excerpt ||
-          (pathname === "/blog"
-            ? "Thoughtful articles about mental health, alcohol and drugs, understanding GBV, and supporting others. Explore the VUGA NDAKUMVA journal at your own pace."
-            : "Clear, compassionate information about mental health, gender-based violence, alcohol and drugs, and ways to find appropriate support."),
-      );
+    updateSeo(pathname);
     if (!hash)
       (
         document.getElementById("service-main") ||
@@ -149,11 +78,23 @@ function NavigationReset() {
 }
 function InDevelopment() {
   return (
-    <section className="mx-auto max-w-4xl px-6 py-20 sm:py-28" aria-labelledby="development-title">
+    <section
+      className="mx-auto max-w-4xl px-6 py-20 sm:py-28"
+      aria-labelledby="development-title"
+    >
       <div className="rounded-3xl border border-[#dce8d7] bg-[#edf5ec] p-8 sm:p-12">
-        <p className="mb-3 text-sm font-semibold uppercase tracking-wider text-[#286340]">VUGA NDAKUMVA</p>
-        <h1 id="development-title" className="text-4xl font-medium text-[#17351f]">In development</h1>
-        <p className="mt-4 text-base leading-7 text-[#405b46]">This section is in development.</p>
+        <p className="mb-3 text-sm font-semibold uppercase tracking-wider text-[#286340]">
+          VUGA NDAKUMVA
+        </p>
+        <h1
+          id="development-title"
+          className="text-4xl font-medium text-[#17351f]"
+        >
+          In development
+        </h1>
+        <p className="mt-4 text-base leading-7 text-[#405b46]">
+          This section is in development.
+        </p>
       </div>
     </section>
   );

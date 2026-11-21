@@ -144,7 +144,7 @@ export function createCommunityRepository(
 }
 export const communityRepository = createCommunityRepository(
   communityEntries,
-  import.meta.env.DEV,
+  import.meta.env?.DEV ?? false,
 );
 export const findCommunityEntry = (slug?: string) =>
   communityRepository.get(slug || "");
