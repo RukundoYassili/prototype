@@ -17,13 +17,18 @@ test("mobile gallery keeps its layout and keyboard-accessible viewer", async ({ 
   await expect(section.getByRole("button", {name:"Show all 37 photos"})).toBeVisible();
   await section.scrollIntoViewIfNeeded();
   await expect.poll(() => section.locator("img").first().evaluate((img: HTMLImageElement) => img.naturalWidth)).toBeGreaterThan(0);
-  await page.screenshot({path:"artifacts/media-gallery-mobile.png"});
   expect(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth)).toBe(true);
   await section.getByRole("button", {name:/^View photo:/}).first().focus();
   await page.keyboard.press("Enter");
   await expect(page.getByRole("dialog")).toBeVisible();
   await page.keyboard.press("Escape");
   await expect(page.getByRole("dialog")).toHaveCount(0);
+});
+
+test("an unavailable media service shows an honest gallery message", async ({ page }) => {
+  await page.route("**/api/media/galleries/cyanika-technical-secondary-school-outreach", route => route.abort());
+  await page.goto("/community/cyanika-technical-secondary-school-outreach");
+  await expect(page.getByText("The photo gallery is temporarily unavailable. Please try again later.")).toBeVisible();
 });
 
 test("staff dashboard authenticates and edits a gallery photo", async ({ page }) => {
@@ -33,7 +38,6 @@ test("staff dashboard authenticates and edits a gallery photo", async ({ page })
   await page.getByRole("button", { name: "Sign in" }).click();
   await expect(page.getByRole("heading", { name: "Outreach gallery" })).toBeVisible();
   await expect(page.locator(".media-photo")).toHaveCount(37);
-  await page.screenshot({path:"artifacts/media-dashboard-desktop.png"});
   const item=page.locator(".media-photo").first();
   await expect(item.getByLabel("Published")).toBeChecked();
   await item.getByLabel("Caption (optional)").fill("A school outreach moment.");
