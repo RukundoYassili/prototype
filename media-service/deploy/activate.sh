@@ -46,6 +46,22 @@ assert counts.get('school-outreach')==8 and counts.get('cyanika-technical-second
 assert db.execute("SELECT count(*) FROM users WHERE role='admin' AND disabled=0").fetchone()[0]>=1
 print('Actual encrypted backup restored and verified:',counts)
 PY
+python3 - <<'PY'
+import getpass,json,urllib.request
+password=getpass.getpass('Enter the media administrator password for the staging check: ')
+base='http://127.0.0.1:13000/api/media'
+headers={'Origin':'https://vugandakumva.digital','Content-Type':'application/json'}
+payload=json.dumps({'username':'admin','password':password}).encode()
+request=urllib.request.Request(base+'/login',data=payload,headers=headers,method='POST')
+with urllib.request.urlopen(request,timeout=10) as response:
+    cookie=response.headers.get('Set-Cookie','').split(';',1)[0]
+    session=json.load(response)
+assert session['user']['role']=='admin' and cookie and session.get('csrf')
+headers.update({'Cookie':cookie,'X-CSRF-Token':session['csrf']})
+request=urllib.request.Request(base+'/logout',data=b'{}',headers=headers,method='POST')
+with urllib.request.urlopen(request,timeout=10) as response: assert response.status==200
+print('Staged administrator login and logout verified.')
+PY
 install -d -m 0755 "$site"
 cp -a "$release/dist" "$site/dist"
 cp "$release/media-service/deploy/Caddyfile" "$site/Caddyfile"
