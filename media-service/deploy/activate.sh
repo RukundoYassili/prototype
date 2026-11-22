@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -Eeuo pipefail
 [[ $EUID -eq 0 ]]
-release=/opt/vuga-media-release-20261122
+release=/opt/vuga-media-release-20261122b
 site=/opt/vuga-site-media-20261122
 old=vuga-site-fourth
 new=vuga-site-media-20261122
@@ -70,6 +70,13 @@ for n in $(seq -w 1 37); do [[ "$n" == 11 ]] || rm -f -- "$site/dist/community-o
 docker run --rm --network vuga-media-net -v "$site/Caddyfile:/etc/caddy/Caddyfile:ro" caddy:2 caddy validate --config /etc/caddy/Caddyfile --adapter caddyfile
 cat > "$site/Caddyfile-probe" <<'EOF'
 :8080 {
+  handle /api/vuga-chat {
+    reverse_proxy 172.17.0.1:3017 {
+      transport http {
+        response_header_timeout 180s
+      }
+    }
+  }
   handle /api/media/* {
     reverse_proxy vuga-media:3000
   }
@@ -82,12 +89,16 @@ cat > "$site/Caddyfile-probe" <<'EOF'
 EOF
 docker run -d --name "$probe" --network vuga-media-net -p 127.0.0.1:18184:8080 -v "$site/dist:/srv:ro" -v "$site/Caddyfile-probe:/etc/caddy/Caddyfile:ro" caddy:2 >/dev/null
 probe_created=1
+docker network connect bridge "$probe"
 for attempt in {1..20}; do
   if curl -fsS http://127.0.0.1:18184/api/media/health > /dev/null; then break; fi
   sleep 1
 done
 curl -fsS http://127.0.0.1:18184/community/cyanika-technical-secondary-school-outreach/ > "$temp/page"
 grep -i 'Cyanika Technical Secondary School' "$temp/page" > /dev/null
+grep -F '/vuga-assistant.js' "$temp/page" > /dev/null
+curl -fsS http://127.0.0.1:18184/vuga-assistant.js > "$temp/assistant.js"
+[[ $(curl -sS -o /dev/null -w '%{http_code}' http://127.0.0.1:18184/api/vuga-chat) == 501 ]]
 curl -fsS http://127.0.0.1:18184/staff/media/ > "$temp/staff"
 grep -i 'noindex' "$temp/staff" > /dev/null
 curl -fsS http://127.0.0.1:18184/api/media/galleries/cyanika-technical-secondary-school-outreach > "$temp/gallery.json"
@@ -101,12 +112,16 @@ echo 'Candidate site and gallery passed local checks.'
 switched=1
 docker stop "$old" >/dev/null
 docker run -d --name "$new" --restart unless-stopped --network vuga-media-net -p 80:80 -p 443:443 -v "$site/dist:/srv:ro" -v "$site/Caddyfile:/etc/caddy/Caddyfile:ro" -v vuga-site-caddy:/data caddy:2 >/dev/null
+docker network connect bridge "$new"
 for attempt in {1..20}; do
   if curl -fsS --noproxy '*' --resolve vugandakumva.digital:443:127.0.0.1 https://vugandakumva.digital/api/media/health > "$temp/health"; then break; fi
   sleep 1
 done
 curl -fsS --noproxy '*' --resolve vugandakumva.digital:443:127.0.0.1 https://vugandakumva.digital/community/cyanika-technical-secondary-school-outreach/ > "$temp/live"
 grep -i 'Cyanika Technical Secondary School' "$temp/live" > /dev/null
+grep -F '/vuga-assistant.js' "$temp/live" > /dev/null
+curl -fsS --noproxy '*' --resolve vugandakumva.digital:443:127.0.0.1 https://vugandakumva.digital/vuga-assistant.js > "$temp/live-assistant.js"
+[[ $(curl -sS --noproxy '*' --resolve vugandakumva.digital:443:127.0.0.1 -o /dev/null -w '%{http_code}' https://vugandakumva.digital/api/vuga-chat) == 501 ]]
 curl -fsS --noproxy '*' --resolve vugandakumva.digital:443:127.0.0.1 https://vugandakumva.digital/api/media/galleries/cyanika-technical-secondary-school-outreach > "$temp/live-gallery.json"
 python3 - "$temp/live-gallery.json" <<'PY'
 import json,sys

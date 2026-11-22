@@ -4,6 +4,13 @@ www.vugandakumva.digital {
 
 vugandakumva.digital {
 	encode zstd gzip
+	handle /api/vuga-chat {
+		reverse_proxy 172.17.0.1:3017 {
+			transport http {
+				response_header_timeout 180s
+			}
+		}
+	}
 	handle /api/media/* {
 		reverse_proxy vuga-media:3000
 	}
