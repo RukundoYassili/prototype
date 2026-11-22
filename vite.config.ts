@@ -96,4 +96,7 @@ function searchMetadata() {
   };
 }
 
-export default defineConfig({ plugins: [tailwindcss(), searchMetadata()] });
+export default defineConfig({
+  plugins: [tailwindcss(), searchMetadata()],
+  server: process.env.MEDIA_PROXY ? { proxy: { "/api/media": process.env.MEDIA_PROXY } } : undefined,
+});

@@ -1,7 +1,9 @@
 export type CommunityPhoto = {
   id: string;
   src: string;
+  thumbnail?: string;
   alt: string;
+  caption?: string;
   title: string;
   category: string;
   position: string;

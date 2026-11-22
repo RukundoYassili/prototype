@@ -186,7 +186,7 @@ export function CommunityAlbum({
               }}
             >
               <img
-                src={item.src}
+                src={item.thumbnail || item.src}
                 alt={item.alt}
                 loading="lazy"
                 width={1200}
@@ -221,6 +221,7 @@ export function CommunityAlbum({
           <figure className="community-viewer-figure">
             <img src={photo.src} alt={photo.alt} width={1600} height={1000} />
             <figcaption>
+              {photo.caption && <p>{photo.caption}</p>}
               <div aria-live="polite" aria-atomic="true">
                 <span>
                   {(active ?? 0) + 1} / {photos.length}

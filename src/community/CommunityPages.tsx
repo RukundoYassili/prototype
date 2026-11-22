@@ -39,6 +39,7 @@ import {
   type CommunityRepository,
 } from "./repository";
 import { CommunityAlbum, CommunityVideoPlayer } from "./CommunityMedia";
+import { ManagedGallery } from "./ManagedGallery";
 import { schoolOutreachPhotos } from "./schoolOutreach";
 import "./community-page.css";
 import "./community.css";
@@ -405,7 +406,7 @@ export function CommunityPage({
         <span className="support-eyebrow">MOMENTS FROM OUR COMMUNITY</span>
         <h2 id="outreach-photos-title">Our school outreach in pictures.</h2>
         <p className="max-w-2xl text-base leading-8 text-[#526951]">Explore moments of connection, listening, and learning from our school outreach.</p>
-        <CommunityAlbum photos={schoolOutreachPhotos} title="School outreach photos" />
+        <ManagedGallery id="school-outreach" fallback={schoolOutreachPhotos} title="School outreach photos" />
       </section>
       <section className="community-hub-section rounded-[24px] border border-[#dce7d5] bg-[#f4f7ed] p-7 sm:p-10" aria-labelledby="outreach-journey-title">
         <span className="support-eyebrow">OUR OUTREACH JOURNEY</span>
@@ -882,7 +883,7 @@ export function CommunityDetailPage({
         <section className="community-hub-section" aria-labelledby="visit-photos-title">
           <span className="support-eyebrow">MOMENTS FROM THE VISIT</span>
           <h2 id="visit-photos-title">Outreach in pictures.</h2>
-          <CommunityAlbum photos={entry.visitPhotos} title="Cyanika outreach photos" initiallyVisible={6} />
+          <ManagedGallery id="cyanika-technical-secondary-school-outreach" fallback={entry.visitPhotos} title="Cyanika outreach photos" initiallyVisible={6} />
         </section>
       )}
       {related.length > 0 && (

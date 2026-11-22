@@ -17,6 +17,8 @@ import {
 } from "./support/SupportPages";
 import "./services/services.css";
 import { updateSeo } from "./seo-head";
+import AiAssistant from "./AiAssistant";
+import MediaDashboard from "./media/MediaDashboard";
 
 const WhyMentalHealthPage = lazy(() =>
   import("./learning/MentalHealthPages").then((module) => ({
@@ -128,6 +130,7 @@ export default function Router() {
             <Route path="/donate" element={<DonatePage />} />
             <Route path="/community" element={<CommunityPage />} />
             <Route path="/community/:slug" element={<CommunityDetailPage />} />
+            <Route path="/staff/media" element={<MediaDashboard />} />
             <Route path="/blog" element={<BlogPage />} />
             <Route path="/blog/:slug" element={<BlogPostPage />} />
             <Route path="/support" element={<SupportPage />} />
@@ -185,6 +188,7 @@ export default function Router() {
             <Route path="*" element={<NotFound />} />
           </Route>
         </Routes>
+        <AiAssistant />
       </DemoProvider>
     </BrowserRouter>
   );

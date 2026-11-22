@@ -32,6 +32,7 @@ const page = (
 });
 
 const staticPages: SeoPage[] = [
+  page("/staff/media", "Staff media library — VUGA NDAKUMVA", "Staff image management.", false),
   page(
     "/",
     "VUGA NDAKUMVA — Speak, I Can Hear",
