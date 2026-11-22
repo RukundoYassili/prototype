@@ -2,10 +2,10 @@
 set -Eeuo pipefail
 [[ $EUID -eq 0 ]]
 release=/opt/vuga-media-release-20261122b
-site=/opt/vuga-site-media-20261122
+site=/opt/vuga-site-media-20261122b
 old=vuga-site-fourth
-new=vuga-site-media-20261122
-probe=vuga-media-site-probe
+new=vuga-site-media-20261122b
+probe=vuga-media-site-probe-b
 [[ -d "$release/dist" && ! -e "$site" ]]
 [[ $(docker inspect -f '{{.State.Running}}' "$old") == true ]]
 [[ $(docker inspect -f '{{range .Mounts}}{{if eq .Destination "/srv"}}{{.Source}}{{end}}{{end}}' "$old") == /opt/vuga-release-20261121d/dist ]]
