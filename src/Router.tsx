@@ -17,7 +17,6 @@ import {
 } from "./support/SupportPages";
 import "./services/services.css";
 import { updateSeo } from "./seo-head";
-import AiAssistant from "./AiAssistant";
 import MediaDashboard from "./media/MediaDashboard";
 
 const WhyMentalHealthPage = lazy(() =>
@@ -188,7 +187,6 @@ export default function Router() {
             <Route path="*" element={<NotFound />} />
           </Route>
         </Routes>
-        <AiAssistant />
       </DemoProvider>
     </BrowserRouter>
   );
