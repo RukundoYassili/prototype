@@ -1,0 +1,13 @@
+# Website AI assistant
+
+The website loads `public/vuga-assistant.js` through `index.html`. The Vite build copies the script and adds its tag to each generated page. `deploy/Caddyfile` routes `/api/vuga-chat` to the assistant service on the Docker bridge. Keep these files together when deploying a new website build.
+
+The current VPS runs `deploy/assistant.py` as `/opt/vuga-ai-chat/server.py`, using `deploy/vuga-ai-chat.service` and the local Ollama model `qwen3:4b-instruct`. To update the service, copy the Python source to that path, reload systemd if the service definition changes, and restart `vuga-ai-chat`. Validate the Caddy configuration before reloading it.
+
+The backend binds only to `172.17.0.1:3017`. The VPS firewall allows TCP access to that port from the `172.17.0.0/16` Docker bridge subnet on `docker0`, so the rule does not depend on a container IP. Other containers on that bridge can also reach this endpoint. If the bridge subnet or interface changes, update the backend binding, proxy target and firewall rule together. Keep Ollama bound to loopback.
+
+The assistant handles one request at a time and answers each message independently. It is not a monitored crisis service. The site displays an urgent-help link and asks visitors to avoid submitting private information. Model responses require ongoing review for accuracy and safety. Requests can take tens of seconds on the current CPU-only VPS.
+
+The backend reads `assistant-knowledge.json` next to `server.py`; deploy both files together and restart the service. The index contains selected paragraphs from the site's mental-health, GBV, and alcohol-and-drug learning chapters, which remain educational drafts with specialist or clinical review pending. It also contains a few website information records. It does not automatically update when the site changes. After editorial changes, run `npx jiti scripts/build-assistant-knowledge.ts` from the repository root, review the resulting index, deploy it beside the backend, and restart the service. Search is keyword-based and may miss relevant passages; it is not a substitute for human verification.
+
+The current model failed Kinyarwanda generation tests. Kinyarwanda responses therefore use a small fixed set of topic and urgent-help responses with a fallback, rather than free-form model answers. The keyword routing can miss or misclassify messages. A test of Helsinki-NLP OPUS-MT English–Kinyarwanda models mistranslated a safety-critical emergency-services instruction, so those models were not enabled. The Kinyarwanda responses should be reviewed by a fluent speaker and a safeguarding specialist. The chatbot must not be treated as a crisis or confidential human support service.
