@@ -18,6 +18,7 @@ import {
 import "./services/services.css";
 import { updateSeo } from "./seo-head";
 import MediaDashboard from "./media/MediaDashboard";
+const ContentStudio = lazy(() => import("./editorial/ContentStudio"));
 
 const WhyMentalHealthPage = lazy(() =>
   import("./learning/MentalHealthPages").then((module) => ({
@@ -107,6 +108,7 @@ export default function Router() {
         <NavigationReset />
         <Routes>
           <Route path="/" element={<App />} />
+          <Route path="/staff/content" element={<Suspense fallback={<p role="status">Opening Content Studio…</p>}><ContentStudio /></Suspense>} />
           <Route element={<SupportLayout />}>
             <Route path="/awareness" element={<AwarenessPage />} />
             <Route

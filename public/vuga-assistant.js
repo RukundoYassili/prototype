@@ -1,5 +1,6 @@
 (() => {
   const host = document.createElement("div");
+  host.id = "vuga-assistant-host";
   document.body.appendChild(host);
   const root = host.attachShadow({ mode: "open" });
   root.innerHTML =
